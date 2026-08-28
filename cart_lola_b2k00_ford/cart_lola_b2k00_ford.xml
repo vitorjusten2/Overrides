@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+
+    <LIVERY_OVERRIDE LIVERY="51" NAME="Newman Haas Racing #6" BASELIVERY="BlackWheels">
+    <PREVIEWIMAGE PATH="Cart2000\previewCart6.dds" />
+    <TEXTURE NAME="BODY" PATH="Cart2000\Cart6.dds" />
+    </LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="51" BASEHELMET="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Cart2000\Helmets\Newman Haas Racing\Helmet Michael Andretti #6.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="Cart2000\Helmets\Newman Haas Racing\Visor_Andretti.dds" />
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="51" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Cart2000\SuitsColor\torso_white.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Cart2000\SuitsColor\arms_black.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Cart2000\SuitsColor\gloves_red.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Cart2000\SuitsColor\legs_black.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Cart2000\SuitsColor\belts_red.dds" />
+    </OUTFIT_OVERRIDE>	
+
+    <LIVERY_OVERRIDE LIVERY="52" NAME="Newman Haas Racing #11" BASELIVERY="BlackWheels">
+    <PREVIEWIMAGE PATH="Cart2000\previewCart11.dds" />
+    <TEXTURE NAME="BODY" PATH="Cart2000\Cart11.dds" />
+    </LIVERY_OVERRIDE>	
+	<HELMET_OVERRIDE LIVERY="52" BASEHELMET="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Cart2000\Helmets\Newman Haas Racing\Helmet Christian Fittipaldi #11.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="Cart2000\Helmets\Newman Haas Racing\Visor_Fittipaldi.dds" />
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="52" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Cart2000\SuitsColor\torso_white.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Cart2000\SuitsColor\arms_black.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Cart2000\SuitsColor\gloves_red.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Cart2000\SuitsColor\legs_black.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Cart2000\SuitsColor\belts_red.dds" />
+    </OUTFIT_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="53" NAME="Dale Coyne Racing #19" BASELIVERY="BlackWheels">
+    <PREVIEWIMAGE PATH="Cart2000\previewCart19.dds" />
+    <TEXTURE NAME="BODY" PATH="Cart2000\Cart19.dds" />
+    </LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="53" BASEHELMET="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Cart2000\Helmets\Dale Coyne Racing\Helmet Alex Barron #19.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="Cart2000\Helmets\Dale Coyne Racing\Visor_Barron.dds" />
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="53" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Cart2000\SuitsColor\torso_white.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Cart2000\SuitsColor\arms_orange.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Cart2000\SuitsColor\gloves_black.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Cart2000\SuitsColor\legs_orange.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Cart2000\SuitsColor\belts_black.dds" />
+    </OUTFIT_OVERRIDE>	
+
+    <LIVERY_OVERRIDE LIVERY="54" NAME="Dale Coyne Racing #29" BASELIVERY="BlackWheels">
+    <PREVIEWIMAGE PATH="Cart2000\previewCart29.dds" />
+    <TEXTURE NAME="BODY" PATH="Cart2000\Cart29.dds" />
+    </LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="54" BASEHELMET="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Cart2000\Helmets\Dale Coyne Racing\Helmet Takuya Kurosawa #29.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="Cart2000\Helmets\Dale Coyne Racing\Visor_Kurosawa.dds" />
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="54" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Cart2000\SuitsColor\torso_blue.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Cart2000\SuitsColor\arms_white.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Cart2000\SuitsColor\gloves_blue.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Cart2000\SuitsColor\legs_blue.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Cart2000\SuitsColor\belts_red.dds" />
+    </OUTFIT_OVERRIDE>	
+
+    <LIVERY_OVERRIDE LIVERY="55" NAME="Dale Coyne Racing #34" BASELIVERY="BlackWheels">
+    <PREVIEWIMAGE PATH="Cart2000\previewCart34.dds" />
+    <TEXTURE NAME="BODY" PATH="Cart2000\Cart34.dds" />
+    </LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="55" BASEHELMET="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Cart2000\Helmets\Dale Coyne Racing\Helmet Gualter Salles #34.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="Cart2000\Helmets\Dale Coyne Racing\Visor_Salles.dds" />
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="55" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Cart2000\SuitsColor\torso_blue.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Cart2000\SuitsColor\arms_white.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Cart2000\SuitsColor\gloves_blue.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Cart2000\SuitsColor\legs_blue.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Cart2000\SuitsColor\belts_red.dds" />
+    </OUTFIT_OVERRIDE>	
+
+</USER_OVERRIDES>

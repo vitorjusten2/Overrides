@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+
+    <LIVERY_OVERRIDE LIVERY="51" NAME="Bettenhausen Motorsports #16" BASELIVERY="BlackWheels">
+    <PREVIEWIMAGE PATH="Cart2000\previewCart16.dds" />
+    <TEXTURE NAME="BODY" PATH="Cart2000\Cart16.dds" />
+    </LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="51" BASEHELMET="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Cart2000\Helmets\Bettenhausen Motorsports\Helmet Michel Jourdain #16.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="Cart2000\Helmets\Bettenhausen Motorsports\Visor_Jourdain.dds" />
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="51" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Cart2000\SuitsColor\torso_white.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Cart2000\SuitsColor\arms_white.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Cart2000\SuitsColor\gloves_green.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Cart2000\SuitsColor\legs_green.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Cart2000\SuitsColor\belts_red.dds" />
+    </OUTFIT_OVERRIDE>	
+
+    <LIVERY_OVERRIDE LIVERY="52" NAME="Forsythe Racing #77" BASELIVERY="SilverWheels">
+    <PREVIEWIMAGE PATH="Cart2000\previewCart77.dds" />
+    <TEXTURE NAME="BODY" PATH="Cart2000\Cart77.dds" />
+    </LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="52" BASEHELMET="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Cart2000\Helmets\Forsythe Racing\Helmet Bryan Herta #77.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="Cart2000\Helmets\Forsythe Racing\Visor_Herta.dds" />
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="52" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Cart2000\SuitsColor\torso_white.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Cart2000\SuitsColor\arms_blue.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Cart2000\SuitsColor\gloves_red.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Cart2000\SuitsColor\legs_blue.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Cart2000\SuitsColor\belts_black.dds" />
+    </OUTFIT_OVERRIDE>	
+
+    <LIVERY_OVERRIDE LIVERY="53" NAME="Autosport Racing Team #84" BASELIVERY="SilverWheels">
+    <PREVIEWIMAGE PATH="Cart2000\previewCart84.dds" />
+    <TEXTURE NAME="BODY" PATH="Cart2000\Cart84.dds" />
+    </LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="53" BASEHELMET="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Cart2000\Helmets\Autosport Racing Team\Helmet Jason Bright #84.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="Cart2000\Helmets\Autosport Racing Team\Visor_Bright.dds" />
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="53" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Cart2000\SuitsColor\torso_lightblue.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Cart2000\SuitsColor\arms_lightblue.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Cart2000\SuitsColor\gloves_orange.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Cart2000\SuitsColor\legs_orange.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Cart2000\SuitsColor\belts_black.dds" />
+    </OUTFIT_OVERRIDE>	
+
+    <LIVERY_OVERRIDE LIVERY="54" NAME="Autosport Racing Team #88" BASELIVERY="SilverWheels">
+    <PREVIEWIMAGE PATH="Cart2000\previewCart88.dds" />
+    <TEXTURE NAME="BODY" PATH="Cart2000\Cart88.dds" />
+    </LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="54" BASEHELMET="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Cart2000\Helmets\Autosport Racing Team\Helmet Bourdais #88.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="Cart2000\Helmets\Autosport Racing Team\Visor_Bourdais.dds" />
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="54" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Cart2000\SuitsColor\torso_yellow.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Cart2000\SuitsColor\arms_yellow.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Cart2000\SuitsColor\gloves_black.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Cart2000\SuitsColor\legs_black.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Cart2000\SuitsColor\belts_red.dds" />
+    </OUTFIT_OVERRIDE>		
+
+</USER_OVERRIDES>
