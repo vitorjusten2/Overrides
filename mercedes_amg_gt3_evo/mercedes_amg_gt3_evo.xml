@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES> 
+
+ <LIVERY_OVERRIDE LIVERY="53" NAME="Verstappen Racing Team ( 2026Nürburgring 24h) #3" BASELIVERY="BlueMetallic">
+	  <PREVIEWIMAGE PATH="Verstappenracing\preview3.dds" />
+	  <TEXTURE NAME="BODY" PATH="Verstappenracing\body3.dds" />
+	  </LIVERY_OVERRIDE> 
+
+          <OUTFIT_OVERRIDE LIVERY="53" BASEOUTFIT="DEFAULT">
+          <TEXTURE NAME="BODY_DIFF" PATH="PLAYER\Red Bull Torso.dds" />
+          <TEXTURE NAME="ARMS_DIFF" PATH="PLAYER\Red Bull Arms.dds" />
+          <TEXTURE NAME="GLOVES_DIFF" PATH="PLAYER\Red Bull Gloves.dds" />
+          <TEXTURE NAME="LEGS_DIFF" PATH="PLAYER\Red Bull Legs.dds" />
+          <TEXTURE NAME="SEATBELTS_DIFF" PATH="PLAYER\Red Bull Seatbelt.dds" />
+          </OUTFIT_OVERRIDE>
+
+          <HELMET_OVERRIDE LIVERY="53" BASEHELMET="DEFAULT">
+          <TEXTURE NAME="BODY_DIFF" PATH="Verstappenracing\Verstappen Helmet.dds" />
+          <TEXTURE NAME="BODY_SPEC" PATH="Verstappenracing\Verstappen Helmet Spec.dds" />
+          <TEXTURE NAME="VISOR_DIFF" PATH="Verstappenracing\Verstappen Visor.dds" />
+          <TEXTURE NAME="VISOR_SPEC" PATH="Verstappenracing\Verstappen Visor Spec.dds" />
+          </HELMET_OVERRIDE>
+
+</USER_OVERRIDES>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--F1 2005 Round 01 (Australia) Renault version XML File-->
+<USER_OVERRIDES>
+
+	<LIVERY_OVERRIDE LIVERY="51" NAME="2005 Renault #5 - F. Alonso" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_2005\preview\5_Renault_NT.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_2005\5_Renault_NT.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_2005\Rims\Renault.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_2005\Rims\Renault_Blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_2005\Rims\low.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_2005\Rims\low_blur.dds" />
+	<TEXTURE NAME="TIREDIFF" PATH="F1_Season_2005\Tires\5_Renault.dds" />
+	<TEXTURE NAME="TIREBLURDIFF" PATH="F1_Season_2005\Tires\5_Renault_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="51" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2005\Helmet\Alonso_NT.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_2005\Helmet\Renault_visor.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_2005\Helmet\helmet_spec.dds" />
+		<TEXTURE NAME="VISOR_SPEC" PATH="F1_Season_2005\Helmet\visor_spec_black.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="51" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2005\Driver\RenaultDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_2005\Driver\RenaultArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_2005\Driver\RenaultGloves.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_2005\Driver\Gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_2005\Driver\RenaultLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_2005\Harness\Renault.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="52" NAME="2005 Renault #6 - G. Fisichella" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_2005\preview\6_Renault_NT.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_2005\6_Renault_NT.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_2005\Rims\Renault.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_2005\Rims\Renault_Blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_2005\Rims\low.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_2005\Rims\low_blur.dds" />
+	<TEXTURE NAME="TIREDIFF" PATH="F1_Season_2005\Tires\6_Renault.dds" />
+	<TEXTURE NAME="TIREBLURDIFF" PATH="F1_Season_2005\Tires\6_Renault_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="52" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2005\Helmet\Fisichella_NT.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_2005\Helmet\Renault_visor.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_2005\Helmet\helmet_spec.dds" />
+		<TEXTURE NAME="VISOR_SPEC" PATH="F1_Season_2005\Helmet\visor_spec_black.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="52" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2005\Driver\RenaultDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_2005\Driver\RenaultArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_2005\Driver\RenaultGloves.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_2005\Driver\Gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_2005\Driver\RenaultLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_2005\Harness\Renault.dds" />
+    </OUTFIT_OVERRIDE>
+
+</USER_OVERRIDES>

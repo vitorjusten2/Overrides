@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+      <LIVERY_OVERRIDE LIVERY="51" NAME="Percision Products Racing #1 Rick Mast" BASELIVERY="Default">
+          <PREVIEWIMAGE PATH="\dale3roy\1\preview.dds" />
+          <TEXTURE NAME="BODY" PATH="\dale3roy\1\body.dds" />
+      </LIVERY_OVERRIDE>
+
+      <LIVERY_OVERRIDE LIVERY="52" NAME="Penske Racing #2 Rusty Wallace" BASELIVERY="Default">
+          <PREVIEWIMAGE PATH="\dale3roy\2\preview.dds" />
+          <TEXTURE NAME="BODY" PATH="\dale3roy\2\body.dds" />
+          <TEXTURE NAME="CAGE" PATH="\dale3roy\misc\stock_usa_paint_black.dds" />
+      </LIVERY_OVERRIDE>
+
+      <LIVERY_OVERRIDE LIVERY="53" NAME="Richard Childress Racing #3 Dale Earnhardt Sr." BASELIVERY="Default">
+          <PREVIEWIMAGE PATH="\dale3roy\3\preview.dds" />
+          <TEXTURE NAME="BODY" PATH="\dale3roy\3\body.dds" />
+      </LIVERY_OVERRIDE>
+
+      <LIVERY_OVERRIDE LIVERY="54" NAME="Morgan–McClure Motorsports #4 Sterling Marlin" BASELIVERY="SilverMetallic">
+          <PREVIEWIMAGE PATH="\dale3roy\4\preview.dds" />
+          <TEXTURE NAME="BODY" PATH="\dale3roy\4\body.dds" />
+          <TEXTURE NAME="CAGE" PATH="\dale3roy\misc\stock_usa_paint_black.dds" />
+      </LIVERY_OVERRIDE>
+
+      <LIVERY_OVERRIDE LIVERY="55" NAME="Hendrick Motorsports #5 Terry Labonte" BASELIVERY="Default">
+          <PREVIEWIMAGE PATH="\dale3roy\5\preview.dds" />
+          <TEXTURE NAME="BODY" PATH="\dale3roy\5\body.dds" />
+          <TEXTURE NAME="CAGE" PATH="\dale3roy\misc\stock_usa_paint_black.dds" />
+      </LIVERY_OVERRIDE>
+
+      <LIVERY_OVERRIDE LIVERY="56" NAME="Roush Racing #6 Mark Martin" BASELIVERY="Default">
+          <PREVIEWIMAGE PATH="\dale3roy\6\preview.dds" />
+          <TEXTURE NAME="BODY" PATH="\dale3roy\6\body.dds" />
+          <TEXTURE NAME="CAGE" PATH="\dale3roy\misc\stock_usa_paint_black.dds" />
+          <TEXTURE NAME="TAPE" PATH="\dale3roy\misc\stock_usa_tape_white_diff.dds" />
+      </LIVERY_OVERRIDE>
+
+      <LIVERY_OVERRIDE LIVERY="57" NAME="Geoff Bodine Racing #7 Geoff Bodine" BASELIVERY="Default">
+          <PREVIEWIMAGE PATH="\dale3roy\7\preview.dds" />
+          <TEXTURE NAME="BODY" PATH="\dale3roy\7\body.dds" />
+          <TEXTURE NAME="CAGE" PATH="\dale3roy\misc\stock_usa_paint_black.dds" />
+      </LIVERY_OVERRIDE>
+
+      <LIVERY_OVERRIDE LIVERY="58" NAME="Stavola Brothers Racing #8 Jeff Burton" BASELIVERY="BlueMetallic">
+          <PREVIEWIMAGE PATH="\dale3roy\8\preview.dds" />
+          <TEXTURE NAME="BODY" PATH="\dale3roy\8\body.dds" />
+          <TEXTURE NAME="CAGE" PATH="\dale3roy\misc\stock_usa_paint_blue.dds" />
+          <TEXTURE NAME="TAPE" PATH="\dale3roy\misc\stock_usa_tape_white_diff.dds" />
+      </LIVERY_OVERRIDE>
+
+      <LIVERY_OVERRIDE LIVERY="59" NAME="Rudd Performance Motorsports #10 Ricky Rudd" BASELIVERY="Default">
+          <PREVIEWIMAGE PATH="\dale3roy\10\preview.dds" />
+          <TEXTURE NAME="BODY" PATH="\dale3roy\10\body.dds" />
+          <TEXTURE NAME="CAGE" PATH="\dale3roy\misc\stock_usa_paint_black.dds" />
+          <TEXTURE NAME="TAPE" PATH="\dale3roy\10\stock_usa_tape_redrudd_diff.dds" />
+      </LIVERY_OVERRIDE>
+
+      <LIVERY_OVERRIDE LIVERY="60" NAME="Junior Johnson and Associates #11 Bill Elliot" BASELIVERY="Default">
+          <PREVIEWIMAGE PATH="\dale3roy\11\preview.dds" />
+          <TEXTURE NAME="BODY" PATH="\dale3roy\11\body.dds" />
+          <TEXTURE NAME="CAGE" PATH="\dale3roy\misc\stock_usa_paint_black.dds" />
+          <TEXTURE NAME="TAPE" PATH="\dale3roy\misc\stock_usa_tape_red2_diff.dds" />
+      </LIVERY_OVERRIDE>
+
+      <LIVERY_OVERRIDE LIVERY="61" NAME="Bobby Allison Motorsports #12 Chuck Bown" BASELIVERY="Default">
+          <PREVIEWIMAGE PATH="\dale3roy\12\preview.dds" />
+          <TEXTURE NAME="BODY" PATH="\dale3roy\12\body.dds" />
+          <TEXTURE NAME="CAGE" PATH="\dale3roy\misc\stock_usa_paint_red.dds" />
+      </LIVERY_OVERRIDE>
+
+      <LIVERY_OVERRIDE LIVERY="71" NAME="Hendrick Motorsports #24 Jeff Gordon" BASELIVERY="BlueMetallic">
+          <PREVIEWIMAGE PATH="\dale3roy\24\preview.dds" />
+          <TEXTURE NAME="BODY" PATH="\dale3roy\24\body.dds" />
+          <TEXTURE NAME="CAGE" PATH="\dale3roy\misc\stock_usa_paint_grey.dds" />
+          <TEXTURE NAME="TAPE" PATH="\dale3roy\misc\stock_usa_tape_red2_diff.dds" />
+      </LIVERY_OVERRIDE>
+
+      <LIVERY_OVERRIDE LIVERY="83" NAME="Joe Gibbs Racing #18 Dale Jarrett" BASELIVERY="GreenMetallic">
+          <PREVIEWIMAGE PATH="\dale3roy\18\preview.dds" />
+          <TEXTURE NAME="BODY" PATH="\dale3roy\18\body.dds" />
+          <TEXTURE NAME="CAGE" PATH="\dale3roy\misc\stock_usa_paint_black.dds" />
+      </LIVERY_OVERRIDE>
+</USER_OVERRIDES>

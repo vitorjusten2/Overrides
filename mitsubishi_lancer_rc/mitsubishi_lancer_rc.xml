@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+
+    <!--
+        Create a copy of this file without the '_dist' part and place it beside this one
+        
+        eg      'mitsubishi_lancer_rc_dist.xml'
+                    should become 
+                'mitsubishi_lancer_rc.xml'
+
+        Define a 'LIVERY_OVERRIDE' section for each default livery you wish to replace.
+
+        A LIVERY_OVERRIDE definition must be based on one of the base liveries provided which will provide
+        variations where required. The LIVERY attribute determines which base game livery is replaced.
+        A NAME attribute must be set
+        
+        Within a LIVERY_OVERRIDE definition each desired texture override 
+        should be defined in a TEXTURE element. Any texture not present will use the texture from 
+        the BASELIVERY.
+
+        Additionally a PREVIEWIMAGE element with a PATH attribute can be used to note a texture for use
+        in the game's UI. (2048 x 600 px )
+
+        Texture PATH attributes are relative to this file's directory. Further sub-directories are 
+        permissable and their structure is left to the users own preference.
+
+		LIVERY IDs can be viewed in the game UI by running the game with -showLiveryIDs switch/launch option
+
+AVAILABLE BASE LIVERIES
+        =======================
+
+		        Default: Default body only skin
+                Available textures: 
+
+
+         -->
+        <LIVERY_OVERRIDE LIVERY="51" NAME="Mitsubishi Motors" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="overrides\preview51.dds" />
+        <TEXTURE NAME="BODY" PATH="overrides\body51.dds" />
+    </LIVERY_OVERRIDE> -->
+        <LIVERY_OVERRIDE LIVERY="52" NAME="Black Rifle Coffee" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="overrides\preview52.dds" />
+        <TEXTURE NAME="BODY" PATH="overrides\body52.dds" />
+    </LIVERY_OVERRIDE> -->
+        <LIVERY_OVERRIDE LIVERY="53" NAME="Marlboro" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="overrides\preview53.dds" />
+        <TEXTURE NAME="BODY" PATH="overrides\body53.dds" />
+    </LIVERY_OVERRIDE> -->
+        <LIVERY_OVERRIDE LIVERY="54" NAME="Shell" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="overrides\preview54.dds" />
+        <TEXTURE NAME="BODY" PATH="overrides\body54.dds" />
+    </LIVERY_OVERRIDE> -->
+
+</USER_OVERRIDES>

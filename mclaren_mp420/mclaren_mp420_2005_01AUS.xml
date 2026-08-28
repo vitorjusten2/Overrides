@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--F1 2005 Round 01 (Australia) McLaren version XML File-->
+<USER_OVERRIDES>
+
+	<LIVERY_OVERRIDE LIVERY="51" NAME="2005 McLaren #9 - K. Räikkönen" BASELIVERY="SilverMetallic">
+	<PREVIEWIMAGE PATH="F1_Season_2005\preview\9_McLaren.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_2005\9_McLaren.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_2005\Rims\McLaren.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_2005\Rims\McLaren_Blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_2005\Rims\low.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_2005\Rims\low_blur.dds" />
+	<TEXTURE NAME="TIREDIFF" PATH="F1_Season_2005\Tires\9_McLaren.dds" />
+	<TEXTURE NAME="TIREBLURDIFF" PATH="F1_Season_2005\Tires\9_McLaren_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="51" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2005\Helmet\Raikkonen_NT.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_2005\Helmet\Raikkonen_visor.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_2005\Helmet\helmet_spec.dds" />
+		<TEXTURE NAME="VISOR_SPEC" PATH="F1_Season_2005\Helmet\visor_spec_blue.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="51" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2005\Driver\McLarenDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_2005\Driver\McLarenArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_2005\Driver\McLarenGloves.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_2005\Driver\Gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_2005\Driver\McLarenLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_2005\Harness\McLaren.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="52" NAME="2005 McLaren #10 - J-P. Montoya" BASELIVERY="SilverMetallic">
+	<PREVIEWIMAGE PATH="F1_Season_2005\preview\10_McLaren.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_2005\10_McLaren.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_2005\Rims\McLaren.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_2005\Rims\McLaren_Blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_2005\Rims\low.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_2005\Rims\low_blur.dds" />
+	<TEXTURE NAME="TIREDIFF" PATH="F1_Season_2005\Tires\10_McLaren.dds" />
+	<TEXTURE NAME="TIREBLURDIFF" PATH="F1_Season_2005\Tires\10_McLaren_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="52" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2005\Helmet\Montoya.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_2005\Helmet\McLaren_visor.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_2005\Helmet\helmet_spec.dds" />
+		<TEXTURE NAME="VISOR_SPEC" PATH="F1_Season_2005\Helmet\visor_spec_black.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="52" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2005\Driver\McLarenDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_2005\Driver\McLarenArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_2005\Driver\McLarenGloves.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_2005\Driver\Gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_2005\Driver\McLarenLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_2005\Harness\McLaren.dds" />
+    </OUTFIT_OVERRIDE>
+
+</USER_OVERRIDES>

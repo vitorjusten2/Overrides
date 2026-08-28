@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+
+    <!--
+        Create a copy of this file without the '_dist' part and place it beside this one
+        
+        eg      'vw_polo_rx_dist.xml'
+                    should become 
+                'vw_polo_rx.xml'
+
+        Define a 'LIVERY_OVERRIDE' section for each default livery you wish to replace.
+
+        A LIVERY_OVERRIDE definition must be based on one of the base liveries provided which will provide
+        variations where required. The LIVERY attribute determines which base game livery is replaced.
+        A NAME attribute must be set
+        
+        Within a LIVERY_OVERRIDE definition each desired texture override 
+        should be defined in a TEXTURE element. Any texture not present will use the texture from 
+        the BASELIVERY.
+
+        Additionally a PREVIEWIMAGE element with a PATH attribute can be used to note a texture for use
+        in the game's UI. (2048 x 600 px )
+
+        Texture PATH attributes are relative to this file's directory. Further sub-directories are 
+        permissable and their structure is left to the users own preference.
+
+		LIVERY IDs can be viewed in the game UI by running the game with -showLiveryIDs switch/launch option
+
+AVAILABLE BASE LIVERIES
+        =======================
+
+		        Default: Default body only skin
+                Available textures: 
+                        BODY        - the main external body/window paint texture
+                                    - 4096 x 4096
+                                    - DXT1 with MIPs
+									- DXT5 with MIPs saved with alpha channel for paint fx 
+									
+			            WINDOW      - rear side window texture
+                                    - 2048 x 2048
+                                    - DXT5 with MIPs
+									                        						
+						SPEC     	- specular map
+                                    - 4096 x 4096
+                                    - DXT5 with MIPs	
+
+						FRESNEL		- fresnel map
+                                    - 4096 x 4096
+                                    - DXT1 with MIPs
+                                
+         -->
+        <LIVERY_OVERRIDE LIVERY="51" NAME="Martini" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="overrides\preview51.dds" />
+        <TEXTURE NAME="BODY" PATH="overrides\body51.dds" />
+</LIVERY_OVERRIDE> -->
+
+</USER_OVERRIDES>

@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+
+    -->
+    <LIVERY_OVERRIDE LIVERY="51" NAME="Richard Childress Racing #3 Wrangler - Earnhardt" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="overrides\preview51.dds" />
+    <TEXTURE NAME="BODY" PATH="overrides\body51.dds" />
+        <TEXTURE NAME="WHEELDIFF" PATH="overrides\wheel_black_diff.dds" />
+        <TEXTURE NAME="WHEELBLURDIFF" PATH="overrides\wheel_black_diff_blur.dds" />
+        <TEXTURE NAME="WHEELSPEC" PATH="overrides\wheel_black_spec.dds" />
+        <TEXTURE NAME="WHEELBLURSPEC" PATH="overrides\wheel_black_blur_spec.dds" />
+
+    </LIVERY_OVERRIDE> -->
+
+    <LIVERY_OVERRIDE LIVERY="52" NAME="Melling Racing #9 Coors - Elliott" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="overrides\preview52.dds" />
+    <TEXTURE NAME="BODY" PATH="overrides\body52.dds" />
+        <TEXTURE NAME="WHEELDIFF" PATH="overrides\wheel_gold_diff.dds" />
+        <TEXTURE NAME="WHEELBLURDIFF" PATH="overrides\wheel_gold_diff_blur.dds" />
+        <TEXTURE NAME="WHEELSPEC" PATH="overrides\wheel_gold_spec.dds" />
+        <TEXTURE NAME="WHEELBLURSPEC" PATH="overrides\wheel_gold_blur_spec.dds" />
+    </LIVERY_OVERRIDE> -->
+
+    <LIVERY_OVERRIDE LIVERY="53" NAME="Junior Johnson and Associates #11 BUD - Labonte" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="overrides\preview53.dds" />
+    <TEXTURE NAME="BODY" PATH="overrides\body53.dds" />
+        <TEXTURE NAME="WHEELDIFF" PATH="overrides\wheel_black_diff.dds" />
+        <TEXTURE NAME="WHEELBLURDIFF" PATH="overrides\wheel_black_diff_blur.dds" />
+        <TEXTURE NAME="WHEELSPEC" PATH="overrides\wheel_black_spec.dds" />
+        <TEXTURE NAME="WHEELBLURSPEC" PATH="overrides\wheel_black_blur_spec.dds" />
+    </LIVERY_OVERRIDE> -->
+
+    <LIVERY_OVERRIDE LIVERY="54" NAME="Hendrick Motorsports #17 Tide - D.Waltrip" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="overrides\preview54.dds" />
+    <TEXTURE NAME="BODY" PATH="overrides\body54.dds" />
+        <TEXTURE NAME="WHEELDIFF" PATH="overrides\wheel_black_diff.dds" />
+        <TEXTURE NAME="WHEELBLURDIFF" PATH="overrides\wheel_black_diff_blur.dds" />
+        <TEXTURE NAME="WHEELSPEC" PATH="overrides\wheel_black_spec.dds" />
+        <TEXTURE NAME="WHEELBLURSPEC" PATH="overrides\wheel_black_blur_spec.dds" />
+    </LIVERY_OVERRIDE> -->
+
+    <LIVERY_OVERRIDE LIVERY="55" NAME="Blue Max Racing #27 KODIAK - Wallace" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="overrides\preview55.dds" />
+    <TEXTURE NAME="BODY" PATH="overrides\body55.dds" />
+    </LIVERY_OVERRIDE> -->
+
+    <LIVERY_OVERRIDE LIVERY="56" NAME="Bud Moore Engineering #15 Motorcraft - Rudd" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="overrides\preview56.dds" />
+    <TEXTURE NAME="BODY" PATH="overrides\body56.dds" />
+    </LIVERY_OVERRIDE> -->
+
+    <LIVERY_OVERRIDE LIVERY="57" NAME="Wood Brothers Racing #21 CITGO - K.Petty" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="overrides\preview57.dds" />
+    <TEXTURE NAME="BODY" PATH="overrides\body57.dds" />
+        <TEXTURE NAME="WHEELDIFF" PATH="overrides\wheel_black_diff.dds" />
+        <TEXTURE NAME="WHEELBLURDIFF" PATH="overrides\wheel_black_diff_blur.dds" />
+        <TEXTURE NAME="WHEELSPEC" PATH="overrides\wheel_black_spec.dds" />
+        <TEXTURE NAME="WHEELBLURSPEC" PATH="overrides\wheel_black_blur_spec.dds" />
+    </LIVERY_OVERRIDE> -->
+
+    <LIVERY_OVERRIDE LIVERY="58" NAME="Petty Enterprises #43 STP - R.Petty" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="overrides\preview58.dds" />
+    <TEXTURE NAME="BODY" PATH="overrides\body58.dds" />
+        <TEXTURE NAME="WHEELDIFF" PATH="overrides\wheel_black_diff.dds" />
+        <TEXTURE NAME="WHEELBLURDIFF" PATH="overrides\wheel_black_diff_blur.dds" />
+        <TEXTURE NAME="WHEELSPEC" PATH="overrides\wheel_black_spec.dds" />
+        <TEXTURE NAME="WHEELBLURSPEC" PATH="overrides\wheel_black_blur_spec.dds" />
+    </LIVERY_OVERRIDE> -->
+
+    <LIVERY_OVERRIDE LIVERY="59" NAME="Stavola Brothers Racing #22 Miller - B.Allison" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="overrides\preview59.dds" />
+    <TEXTURE NAME="BODY" PATH="overrides\body59.dds" />
+    </LIVERY_OVERRIDE> -->
+
+    <LIVERY_OVERRIDE LIVERY="60" NAME="Junie Donlavey's SH Racing #90 Red Baron - Schrader" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="overrides\preview60.dds" />
+    <TEXTURE NAME="BODY" PATH="overrides\body60.dds" />
+    </LIVERY_OVERRIDE> -->
+
+    <LIVERY_OVERRIDE LIVERY="61" NAME="Hagan Racing #44 PIEDMONT - Marlin" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="overrides\preview61.dds" />
+    <TEXTURE NAME="BODY" PATH="overrides\body61.dds" />
+        <TEXTURE NAME="WHEELDIFF" PATH="overrides\wheel_black_diff.dds" />
+        <TEXTURE NAME="WHEELBLURDIFF" PATH="overrides\wheel_black_diff_blur.dds" />
+        <TEXTURE NAME="WHEELSPEC" PATH="overrides\wheel_black_spec.dds" />
+        <TEXTURE NAME="WHEELBLURSPEC" PATH="overrides\wheel_black_blur_spec.dds" />
+    </LIVERY_OVERRIDE> -->
+
+    <LIVERY_OVERRIDE LIVERY="62" NAME="RahMoc Enterprises #75 Valvoline - Bonnett" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="overrides\preview62.dds" />
+    <TEXTURE NAME="BODY" PATH="overrides\body62.dds" />
+        <TEXTURE NAME="WHEELDIFF" PATH="overrides\wheel_black_diff.dds" />
+        <TEXTURE NAME="WHEELBLURDIFF" PATH="overrides\wheel_black_diff_blur.dds" />
+        <TEXTURE NAME="WHEELSPEC" PATH="overrides\wheel_black_spec.dds" />
+        <TEXTURE NAME="WHEELBLURSPEC" PATH="overrides\wheel_black_blur_spec.dds" />
+    </LIVERY_OVERRIDE> -->
+
+    <LIVERY_OVERRIDE LIVERY="63" NAME="Hendrick Motorsports #5 Levi Garrett - G.Bodine" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="overrides\preview63.dds" />
+    <TEXTURE NAME="BODY" PATH="overrides\body63.dds" />
+        <TEXTURE NAME="WHEELDIFF" PATH="overrides\wheel_black_diff.dds" />
+        <TEXTURE NAME="WHEELBLURDIFF" PATH="overrides\wheel_black_diff_blur.dds" />
+        <TEXTURE NAME="WHEELSPEC" PATH="overrides\wheel_black_spec.dds" />
+        <TEXTURE NAME="WHEELBLURSPEC" PATH="overrides\wheel_black_blur_spec.dds" />
+    </LIVERY_OVERRIDE> -->
+
+    <LIVERY_OVERRIDE LIVERY="64" NAME="Jackson Brothers Motorsports #55 SKOAL - P.Parsons" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="overrides\preview64.dds" />
+    <TEXTURE NAME="BODY" PATH="overrides\body64.dds" />
+    </LIVERY_OVERRIDE> -->
+
+    <LIVERY_OVERRIDE LIVERY="65" NAME="AK Racing #7 ZEREX - Kulwicki" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="overrides\preview65.dds" />
+    <TEXTURE NAME="BODY" PATH="overrides\body65.dds" />
+        <TEXTURE NAME="WHEELDIFF" PATH="overrides\wheel_black_diff.dds" />
+        <TEXTURE NAME="WHEELBLURDIFF" PATH="overrides\wheel_black_diff_blur.dds" />
+        <TEXTURE NAME="WHEELSPEC" PATH="overrides\wheel_black_spec.dds" />
+        <TEXTURE NAME="WHEELBLURSPEC" PATH="overrides\wheel_black_blur_spec.dds" />
+    </LIVERY_OVERRIDE> -->
+
+    <LIVERY_OVERRIDE LIVERY="66" NAME="Hendrick Motorsports #35 Folgers - B.Parsons" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="overrides\preview66.dds" />
+    <TEXTURE NAME="BODY" PATH="overrides\body66.dds" />
+        <TEXTURE NAME="WHEELDIFF" PATH="overrides\wheel_black_diff.dds" />
+        <TEXTURE NAME="WHEELBLURDIFF" PATH="overrides\wheel_black_diff_blur.dds" />
+        <TEXTURE NAME="WHEELSPEC" PATH="overrides\wheel_black_spec.dds" />
+        <TEXTURE NAME="WHEELBLURSPEC" PATH="overrides\wheel_black_blur_spec.dds" />
+    </LIVERY_OVERRIDE> -->
+
+    <LIVERY_OVERRIDE LIVERY="67" NAME="King Racing #26 Quaker State - Shepherd" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="overrides\preview67.dds" />
+    <TEXTURE NAME="BODY" PATH="overrides\body67.dds" />
+        <TEXTURE NAME="WHEELDIFF" PATH="overrides\wheel_black_diff.dds" />
+        <TEXTURE NAME="WHEELBLURDIFF" PATH="overrides\wheel_black_diff_blur.dds" />
+        <TEXTURE NAME="WHEELSPEC" PATH="overrides\wheel_black_spec.dds" />
+        <TEXTURE NAME="WHEELBLURSPEC" PATH="overrides\wheel_black_blur_spec.dds" />
+    </LIVERY_OVERRIDE> -->
+
+    <LIVERY_OVERRIDE LIVERY="68" NAME="Marcis Auto Racing #71 Lifebuoy - Marcis" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="overrides\preview68.dds" />
+    <TEXTURE NAME="BODY" PATH="overrides\body68.dds" />
+    </LIVERY_OVERRIDE> -->
+
+    <LIVERY_OVERRIDE LIVERY="69" NAME="Stavola Brothers Racing #8 Miller - Hillin Jr." BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="overrides\preview69.dds" />
+    <TEXTURE NAME="BODY" PATH="overrides\body69.dds" />
+    </LIVERY_OVERRIDE> -->
+
+    <LIVERY_OVERRIDE LIVERY="70" NAME="Bahari Racing #30 ALL PRO - M.Waltrip" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="overrides\preview70.dds" />
+    <TEXTURE NAME="BODY" PATH="overrides\body70.dds" />
+    </LIVERY_OVERRIDE> -->
+
+    <LIVERY_OVERRIDE LIVERY="71" NAME="Ranier-Lundy Racing #28 Havoline - D.Allison" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="overrides\preview71.dds" />
+    <TEXTURE NAME="BODY" PATH="overrides\body71.dds" />
+    </LIVERY_OVERRIDE> -->
+
+    <LIVERY_OVERRIDE LIVERY="72" NAME="Mach 1 Racing #33 Skoal - Gant" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="overrides\preview72.dds" />
+    <TEXTURE NAME="BODY" PATH="overrides\body72.dds" />
+        <TEXTURE NAME="WHEELDIFF" PATH="overrides\wheel_gold_diff.dds" />
+        <TEXTURE NAME="WHEELBLURDIFF" PATH="overrides\wheel_gold_diff_blur.dds" />
+        <TEXTURE NAME="WHEELSPEC" PATH="overrides\wheel_gold_spec.dds" />
+        <TEXTURE NAME="WHEELBLURSPEC" PATH="overrides\wheel_gold_blur_spec.dds" />
+    </LIVERY_OVERRIDE> -->
+
+    <LIVERY_OVERRIDE LIVERY="73" NAME="Jimmy Means Racing #52 Eureka - Means" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="overrides\preview73.dds" />
+    <TEXTURE NAME="BODY" PATH="overrides\body73.dds" />
+    </LIVERY_OVERRIDE> -->
+
+    <LIVERY_OVERRIDE LIVERY="74" NAME="Baker-Schiff Racing #88 Crisco - Baker" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="overrides\preview74.dds" />
+    <TEXTURE NAME="BODY" PATH="overrides\body74.dds" />
+    </LIVERY_OVERRIDE> -->
+
+    <LIVERY_OVERRIDE LIVERY="75" NAME="Arrington Racing #67 Pannill - Arrington" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="overrides\preview75.dds" />
+    <TEXTURE NAME="BODY" PATH="overrides\body75.dds" />
+    </LIVERY_OVERRIDE> -->
+
+    <LIVERY_OVERRIDE LIVERY="76" NAME="Freelander Motorsports #18 Freedlander - Jarrett" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="overrides\preview76.dds" />
+    <TEXTURE NAME="BODY" PATH="overrides\body76.dds" />
+    </LIVERY_OVERRIDE> -->
+
+    <LIVERY_OVERRIDE LIVERY="77" NAME="Winkle Motorsports #62 AC Spark Plug - Christman" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="overrides\preview77.dds" />
+    <TEXTURE NAME="BODY" PATH="overrides\body77.dds" />
+        <TEXTURE NAME="WHEELDIFF" PATH="overrides\wheel_black_diff.dds" />
+        <TEXTURE NAME="WHEELBLURDIFF" PATH="overrides\wheel_black_diff_blur.dds" />
+        <TEXTURE NAME="WHEELSPEC" PATH="overrides\wheel_black_spec.dds" />
+        <TEXTURE NAME="WHEELBLURSPEC" PATH="overrides\wheel_black_blur_spec.dds" />
+    </LIVERY_OVERRIDE> -->
+
+    <LIVERY_OVERRIDE LIVERY="78" NAME="Morgan-McClure Motorsports #4 Kodak - Wilson" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="overrides\preview78.dds" />
+    <TEXTURE NAME="BODY" PATH="overrides\body78.dds" />
+    </LIVERY_OVERRIDE> -->
+
+    <LIVERY_OVERRIDE LIVERY="79" NAME="Cale Yarborough Motorsport #29 Hardee's - Yarborough" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="overrides\preview79.dds" />
+    <TEXTURE NAME="BODY" PATH="overrides\body79.dds" />
+    </LIVERY_OVERRIDE> -->
+
+    <LIVERY_OVERRIDE LIVERY="80" NAME="Winkle Motorsports #70 Rumple - McDuffie" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="overrides\preview80.dds" />
+    <TEXTURE NAME="BODY" PATH="overrides\body80.dds" />
+    </LIVERY_OVERRIDE> -->
+
+    <LIVERY_OVERRIDE LIVERY="81" NAME="Speed Racing #83 Wynn's - Speed" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="overrides\preview81.dds" />
+    <TEXTURE NAME="BODY" PATH="overrides\body81.dds" />
+    </LIVERY_OVERRIDE> -->
+
+    <LIVERY_OVERRIDE LIVERY="82" NAME="Hoss Ellington #1 BULL'S-EYE BBQ - B.Bodine" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="overrides\preview82.dds" />
+    <TEXTURE NAME="BODY" PATH="overrides\body82.dds" />
+    </LIVERY_OVERRIDE> -->
+
+    <LIVERY_OVERRIDE LIVERY="83" NAME="Dingman Brothers Racing #50 Valvoline - Sacks" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="overrides\preview83.dds" />
+    <TEXTURE NAME="BODY" PATH="overrides\body83.dds" />
+    </LIVERY_OVERRIDE> -->
+
+    <LIVERY_OVERRIDE LIVERY="84" NAME="Branch-Ragan Racing #77 ALL PRO - Bierschwale" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="overrides\preview84.dds" />
+    <TEXTURE NAME="BODY" PATH="overrides\body84.dds" />
+    </LIVERY_OVERRIDE> -->
+
+    <LIVERY_OVERRIDE LIVERY="85" NAME="Langley Racing #64 SUNNY KING FORD - Combs" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="overrides\preview85.dds" />
+    <TEXTURE NAME="BODY" PATH="overrides\body85.dds" />
+        <TEXTURE NAME="WHEELDIFF" PATH="overrides\wheel_black_diff.dds" />
+        <TEXTURE NAME="WHEELBLURDIFF" PATH="overrides\wheel_black_diff_blur.dds" />
+        <TEXTURE NAME="WHEELSPEC" PATH="overrides\wheel_black_spec.dds" />
+        <TEXTURE NAME="WHEELBLURSPEC" PATH="overrides\wheel_black_blur_spec.dds" />
+    </LIVERY_OVERRIDE> -->
+
+    <LIVERY_OVERRIDE LIVERY="86" NAME="Hendrick Motorsports #25 Folgers - Richmond" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="overrides\preview86.dds" />
+    <TEXTURE NAME="BODY" PATH="overrides\body86.dds" />
+        <TEXTURE NAME="WHEELDIFF" PATH="overrides\wheel_black_diff.dds" />
+        <TEXTURE NAME="WHEELBLURDIFF" PATH="overrides\wheel_black_diff_blur.dds" />
+        <TEXTURE NAME="WHEELSPEC" PATH="overrides\wheel_black_spec.dds" />
+        <TEXTURE NAME="WHEELBLURSPEC" PATH="overrides\wheel_black_blur_spec.dds" />
+    </LIVERY_OVERRIDE> -->
+
+    <LIVERY_OVERRIDE LIVERY="87" NAME="Stoke Racing #19 STOKE - Cope" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="overrides\preview87.dds" />
+    <TEXTURE NAME="BODY" PATH="overrides\body87.dds" />
+    </LIVERY_OVERRIDE> -->
+
+    <LIVERY_OVERRIDE LIVERY="88" NAME="Stahl Racing #82 AUTO BELL - Stahl" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="overrides\preview88.dds" />
+    <TEXTURE NAME="BODY" PATH="overrides\body88.dds" />
+        <TEXTURE NAME="WHEELDIFF" PATH="overrides\wheel_white_diff.dds" />
+        <TEXTURE NAME="WHEELBLURDIFF" PATH="overrides\wheel_white_diff_blur.dds" />
+        <TEXTURE NAME="WHEELSPEC" PATH="overrides\wheel_white_spec.dds" />
+        <TEXTURE NAME="WHEELBLURSPEC" PATH="overrides\wheel_white_blur_spec.dds" />
+    </LIVERY_OVERRIDE> -->
+
+    <LIVERY_OVERRIDE LIVERY="89" NAME="Wawak Racing #74 SUPERIOR PIPING - Wawak" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="overrides\preview89.dds" />
+    <TEXTURE NAME="BODY" PATH="overrides\body89.dds" />
+    </LIVERY_OVERRIDE> -->
+
+    <LIVERY_OVERRIDE LIVERY="90" NAME="A.J. Foyt Racing #14 Copenhagen - Foyt" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="overrides\preview90.dds" />
+    <TEXTURE NAME="BODY" PATH="overrides\body90.dds" />
+        <TEXTURE NAME="WHEELDIFF" PATH="overrides\wheel_black_diff.dds" />
+        <TEXTURE NAME="WHEELBLURDIFF" PATH="overrides\wheel_black_diff_blur.dds" />
+        <TEXTURE NAME="WHEELSPEC" PATH="overrides\wheel_black_spec.dds" />
+        <TEXTURE NAME="WHEELBLURSPEC" PATH="overrides\wheel_black_blur_spec.dds" />
+    </LIVERY_OVERRIDE> -->
+
+
+</USER_OVERRIDES>

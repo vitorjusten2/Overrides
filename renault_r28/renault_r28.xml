@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+
+<LIVERY_OVERRIDE LIVERY="51" NAME="ING Renault F1 Team #3" BASELIVERY="Chrome">
+	  <PREVIEWIMAGE PATH="F1 2007\preview3.dds" />
+	  <TEXTURE NAME="BODY" PATH="F1 2007\3_Renault.dds" />
+	  <TEXTURE NAME="WCOVERDIFF" PATH="F1 2007\renault_wcover.dds" />
+
+
+    </LIVERY_OVERRIDE>
+
+<HELMET_OVERRIDE LIVERY="51" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1 2007\3_helmet.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="F1 2007\2_visor.dds" />
+</HELMET_OVERRIDE>
+
+<OUTFIT_OVERRIDE LIVERY="51" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1 2007\renault_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1 2007\renault_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1 2007\renault_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1 2007\renault_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1 2007\30_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+
+
+
+<LIVERY_OVERRIDE LIVERY="52" NAME="ING Renault F1 Team #4" BASELIVERY="Chrome">
+	  <PREVIEWIMAGE PATH="F1 2007\preview4.dds" />
+	  <TEXTURE NAME="BODY" PATH="F1 2007\4_Renault.dds" />
+	  <TEXTURE NAME="WCOVERDIFF" PATH="F1 2007\renault_wcover.dds" />
+
+
+    </LIVERY_OVERRIDE>
+
+<HELMET_OVERRIDE LIVERY="52" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1 2007\4_helmet.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="F1 2007\2_visor.dds" />
+</HELMET_OVERRIDE>
+
+<OUTFIT_OVERRIDE LIVERY="52" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1 2007\renault_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1 2007\renault_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1 2007\renault_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1 2007\renault_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1 2007\30_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+
+
+
+</USER_OVERRIDES>
