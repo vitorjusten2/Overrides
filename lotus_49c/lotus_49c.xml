@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+
+	<LIVERY_OVERRIDE LIVERY="51" NAME="Lotus-Ford Cosworth #1 G. Hill" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1969\preview1.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1969\Hill_01.dds" />
+        </LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="51" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1969\Helmets\Hill_01_helmet.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1969\Helmets\Hill_01_helmet_peak.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="51" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1969\Suits\black_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="52" NAME="Lotus-Ford Cosworth #2 J. Rindt" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1969\preview2.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1969\Rindt_02.dds" />
+        </LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="52" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1969\Helmets\Rindt_02_helmet.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1969\Helmets\Rindt_02_helmet_peak.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="52" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1969\Suits\black_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="53" NAME="Lotus-Ford Cosworth #9 M. Andretti" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1969\preview9.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1969\Andretti_09.dds" />
+        </LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="53" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1969\Helmets\Andretti_09_helmet.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1969\Helmets\Andretti_09_helmet_peak.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="53" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1969\Suits\black_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="54" NAME="Lotus-Ford Cosworth #10 J. Siffert" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1969\preview10.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1969\Siffert_10.dds" />
+        </LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="54" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1969\Helmets\Siffert_10_helmet.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1969\Helmets\Siffert_10_helmet_peak.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="54" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1969\Suits\black_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+</USER_OVERRIDES>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+    
+    <LIVERY_OVERRIDE LIVERY="51" NAME="Lotus-Ford Cosworth #5 M. Andretti" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="F1_1978_Season\1978preview5.dds" />
+    <TEXTURE NAME="BODY" PATH="F1_1978_Season\1978body5.dds" />
+    </LIVERY_OVERRIDE>
+    <HELMET_OVERRIDE LIVERY="51" NAME="Lotus-Ford Cosworth #5 M. Andretti" BASEHELMET="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="F1_1978_Season\Helmets\78_Andretti_Helmet.dds" />
+    <TEXTURE NAME="BODY_SPEC" PATH="F1_1978_Season\Helmets\78_helmet_spec.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_1978_Season\Helmets\78_Andretti_visor.dds" />
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="51" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="F1_1978_Season\Suits\78_Andretti_torso.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="F1_1978_Season\Suits\78_Andretti_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="F1_1978_Season\Suits\78_Andretti_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="F1_1978_Season\Suits\78_Andretti_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_1978_Season\Suits\78_Andretti_belts.dds" />
+    </OUTFIT_OVERRIDE> -->
+
+    <LIVERY_OVERRIDE LIVERY="52" NAME="Lotus-Ford Cosworth #6 R. Peterson" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="F1_1978_Season\1978preview6.dds" />
+    <TEXTURE NAME="BODY" PATH="F1_1978_Season\1978body6.dds" />
+    </LIVERY_OVERRIDE>
+    <HELMET_OVERRIDE LIVERY="52" NAME="Lotus-Ford Cosworth #6 R. Peterson" BASEHELMET="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="F1_1978_Season\Helmets\78_Peterson_Helmet.dds" />
+    <TEXTURE NAME="BODY_SPEC" PATH="F1_1978_Season\Helmets\78_helmet_spec.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_1978_Season\Helmets\78_Peterson_visor.dds" />
+    <TEXTURE NAME="VISOR_SPEC" PATH="F1_1978_Season\Helmets\78_Peterson_visor_spec.dds" />
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="52" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="F1_1978_Season\Suits\78_Peterson_torso.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="F1_1978_Season\Suits\78_Peterson_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="F1_1978_Season\Suits\78_Peterson_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="F1_1978_Season\Suits\78_Peterson_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_1978_Season\Suits\78_Peterson_belts.dds" />
+    </OUTFIT_OVERRIDE> -->
+
+    <LIVERY_OVERRIDE LIVERY="53" NAME="Ferrari #11 C. Reutemann" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="F1_1978_Season\1978preview11.dds" />
+    <TEXTURE NAME="BODY" PATH="F1_1978_Season\1978body11.dds" />
+    </LIVERY_OVERRIDE>
+    <HELMET_OVERRIDE LIVERY="53" NAME="Ferrari #11 C. Reutemann" BASEHELMET="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="F1_1978_Season\Helmets\78_Reutemann_Helmet.dds" />
+    <TEXTURE NAME="BODY_SPEC" PATH="F1_1978_Season\Helmets\78_helmet_spec.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_1978_Season\Helmets\78_visor.dds" />
+    <TEXTURE NAME="VISOR_SPEC" PATH="F1_1978_Season\Helmets\78_visor_spec.dds" />
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="53" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="F1_1978_Season\Suits\78_Reutemann_torso.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="F1_1978_Season\Suits\78_Reutemann_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="F1_1978_Season\Suits\78_Reutemann_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="F1_1978_Season\Suits\78_Reutemann_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_1978_Season\Suits\78_Reutemann_belts.dds" />
+    </OUTFIT_OVERRIDE> -->
+
+    <LIVERY_OVERRIDE LIVERY="54" NAME="Ferrari #12 G. Villeneuve" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="F1_1978_Season\1978preview12.dds" />
+    <TEXTURE NAME="BODY" PATH="F1_1978_Season\1978body12.dds" />
+    </LIVERY_OVERRIDE>
+    <HELMET_OVERRIDE LIVERY="54" NAME="Ferrari #12 G. Villeneuve" BASEHELMET="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="F1_1978_Season\Helmets\78_Villeneuve_Helmet.dds" />
+    <TEXTURE NAME="BODY_SPEC" PATH="F1_1978_Season\Helmets\78_helmet_spec.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_1978_Season\Helmets\78_visor.dds" />
+    <TEXTURE NAME="VISOR_SPEC" PATH="F1_1978_Season\Helmets\78_visor_spec.dds" />
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="54" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="F1_1978_Season\Suits\78_Villeneuve_torso.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="F1_1978_Season\Suits\78_Villeneuve_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="F1_1978_Season\Suits\78_Villeneuve_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="F1_1978_Season\Suits\78_Villeneuve_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_1978_Season\Suits\78_Villeneuve_belts.dds" />
+    </OUTFIT_OVERRIDE> -->
+  
+    <LIVERY_OVERRIDE LIVERY="55" NAME="Lotus-Ford Cosworth #25 H. Rebaque" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="F1_1978_Season\1978preview25.dds" />
+    <TEXTURE NAME="BODY" PATH="F1_1978_Season\1978body25.dds" />
+    </LIVERY_OVERRIDE>
+    <HELMET_OVERRIDE LIVERY="55" NAME="Lotus-Ford Cosworth #25 H. Rebaque" BASEHELMET="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="F1_1978_Season\Helmets\78_Rebaque_Helmet.dds" />
+    <TEXTURE NAME="BODY_SPEC" PATH="F1_1978_Season\Helmets\78_helmet_spec.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_1978_Season\Helmets\78_visor.dds" />
+    <TEXTURE NAME="VISOR_SPEC" PATH="F1_1978_Season\Helmets\78_visor_spec.dds" />
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="55" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="F1_1978_Season\Suits\78_Rebaque_torso.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="F1_1978_Season\Suits\78_Rebaque_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="F1_1978_Season\Suits\78_Rebaque_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="F1_1978_Season\Suits\78_Rebaque_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_1978_Season\Suits\78_Rebaque_belts.dds" />
+    </OUTFIT_OVERRIDE> -->
+
+    <LIVERY_OVERRIDE LIVERY="56" NAME="Ligier-Matra #26 J. Laffite" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="F1_1978_Season\1978preview26.dds" />
+    <TEXTURE NAME="BODY" PATH="F1_1978_Season\1978body26.dds" />
+    </LIVERY_OVERRIDE>
+    <HELMET_OVERRIDE LIVERY="56" NAME="Ligier-Matra #26 J. Laffite" BASEHELMET="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="F1_1978_Season\Helmets\78_Laffite_Helmet.dds" />
+    <TEXTURE NAME="BODY_SPEC" PATH="F1_1978_Season\Helmets\78_helmet_spec.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_1978_Season\Helmets\78_visor.dds" />
+    <TEXTURE NAME="VISOR_SPEC" PATH="F1_1978_Season\Helmets\78_visor_spec.dds" />
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="56" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="F1_1978_Season\Suits\78_Laffite_torso.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="F1_1978_Season\Suits\78_Laffite_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="F1_1978_Season\Suits\78_Laffite_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="F1_1978_Season\Suits\78_Laffite_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_1978_Season\Suits\78_Laffite_belts.dds" />
+    </OUTFIT_OVERRIDE> -->
+
+</USER_OVERRIDES>

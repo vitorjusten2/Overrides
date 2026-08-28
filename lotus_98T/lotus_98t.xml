@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+   
+	<LIVERY_OVERRIDE LIVERY="51" NAME="Lotus-Renault - J. Dumfries #11" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_1986\preview11.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_1986\body11.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="51" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1986\Helmets\86_Dumfries_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1986\Helmets\86_helmet_spec.dds" />
+    	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1986\Helmets\86_Lotus_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="51" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1986\Suits\86_Dumfries_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1986\Suits\86_Lotus_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1986\Suits\86_Dumfries_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1986\Suits\86_Lotus_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1986\Suits\black_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="52" NAME="Lotus-Renault - A. Senna #12" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_1986\preview12.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_1986\body12.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="52" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1986\Helmets\86_Senna_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1986\Helmets\86_helmet_spec.dds" />
+    	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1986\Helmets\86_Lotus_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="52" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1986\Suits\86_Senna_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1986\Suits\86_Lotus_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1986\Suits\86_Senna_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1986\Suits\86_Lotus_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1986\Suits\black_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+  
+</USER_OVERRIDES>
