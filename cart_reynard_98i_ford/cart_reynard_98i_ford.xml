@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+
+    <LIVERY_OVERRIDE LIVERY="54" NAME="Payton Coyne Racing #19" BASELIVERY="SilverWheels">
+    <PREVIEWIMAGE PATH="Cart1998\previewCart19.dds" />
+    <TEXTURE NAME="BODY" PATH="Cart1998\Cart19.dds" />	
+    </LIVERY_OVERRIDE>
+    <HELMET_OVERRIDE LIVERY="54" BASEHELMET="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Cart1998\Helmets\Payton Coyne Racing\Helmet Jourdain #19.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="Cart1998\Helmets\Payton Coyne Racing\Visor_Jourdain.dds" />
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="54" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Cart1998\SuitsColor\torso_white.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Cart1998\SuitsColor\arms_green.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Cart1998\SuitsColor\gloves_white.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Cart1998\SuitsColor\legs_green.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Cart1998\SuitsColor\belts_red.dds" />
+    </OUTFIT_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="55" NAME="Patrick Racing #20" BASELIVERY="BlackWheelsChromePaint">
+    <PREVIEWIMAGE PATH="Cart1998\previewCart20.dds" />
+    <TEXTURE NAME="BODY" PATH="Cart1998\Cart20.dds" />
+	<TEXTURE NAME="SPEC" PATH="Cart1998\Cart20_spec.dds" />
+    <TEXTURE NAME="FRESNEL" PATH="Cart1998\Cart20_fresnel.dds" />		
+    </LIVERY_OVERRIDE>
+    <HELMET_OVERRIDE LIVERY="55" BASEHELMET="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Cart1998\Helmets\Patrick Racing\Helmet Pruett #20.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="Cart1998\Helmets\Patrick Racing\Visor_Pruett.dds" />
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="55" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Cart1998\SuitsColor\torso_white.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Cart1998\SuitsColor\arms_white.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Cart1998\SuitsColor\gloves_blue.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Cart1998\SuitsColor\legs_black.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Cart1998\SuitsColor\belts_blue.dds" />
+    </OUTFIT_OVERRIDE>	
+
+    <LIVERY_OVERRIDE LIVERY="56" NAME="Patrick Racing #40" BASELIVERY="BlackWheels">
+    <PREVIEWIMAGE PATH="Cart1998\previewCart40.dds" />
+    <TEXTURE NAME="BODY" PATH="Cart1998\Cart40.dds" />
+    </LIVERY_OVERRIDE>
+    <HELMET_OVERRIDE LIVERY="56" BASEHELMET="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Cart1998\Helmets\Patrick Racing\Helmet Fernandez #40.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="Cart1998\Helmets\Patrick Racing\Visor_Fernandez.dds" />
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="56" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Cart1998\SuitsColor\torso_red.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Cart1998\SuitsColor\arms_red.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Cart1998\SuitsColor\gloves_blue.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Cart1998\SuitsColor\legs_black.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Cart1998\SuitsColor\belts_blue.dds" />
+    </OUTFIT_OVERRIDE>
+	
+    <LIVERY_OVERRIDE LIVERY="53" NAME="Team Rahal #8" BASELIVERY="BlackWheels">
+    <PREVIEWIMAGE PATH="Cart1998\previewCart8.dds" />
+    <TEXTURE NAME="BODY" PATH="Cart1998\Cart8.dds" />
+    </LIVERY_OVERRIDE>
+    <HELMET_OVERRIDE LIVERY="53" BASEHELMET="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Cart1998\Helmets\Team Rahal\Helmet Herta #8.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="Cart1998\Helmets\Team Rahal\Visor_Herta.dds" />
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="53" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Cart1998\SuitsColor\torso_white.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Cart1998\SuitsColor\arms_black.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Cart1998\SuitsColor\gloves_red.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Cart1998\SuitsColor\legs_black.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Cart1998\SuitsColor\belts_blue.dds" />
+    </OUTFIT_OVERRIDE>	
+
+    <LIVERY_OVERRIDE LIVERY="52" NAME="Team Rahal #7" BASELIVERY="BlackWheels">
+    <PREVIEWIMAGE PATH="Cart1998\previewCart7.dds" />
+    <TEXTURE NAME="BODY" PATH="Cart1998\Cart7.dds" />
+    </LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="52" BASEHELMET="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Cart1998\Helmets\Team Rahal\Helmet Rahal #7.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="Cart1998\Helmets\Team Rahal\Visor_Rahal.dds" />
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="52" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Cart1998\SuitsColor\torso_white.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Cart1998\SuitsColor\arms_blue.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Cart1998\SuitsColor\gloves_blue.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Cart1998\SuitsColor\legs_blue.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Cart1998\SuitsColor\belts_blue.dds" />
+    </OUTFIT_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="51" NAME="Walker Racing #5" BASELIVERY="SilverWheels">
+    <PREVIEWIMAGE PATH="Cart1998\previewCart5.dds" />
+    <TEXTURE NAME="BODY" PATH="Cart1998\Cart5.dds" />
+    </LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="51" BASEHELMET="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Cart1998\Helmets\Walker Racing\Helmet Ferran #5.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="Cart1998\Helmets\Walker Racing\Visor_Ferran.dds" />
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="51" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Cart1998\SuitsColor\torso_blue.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Cart1998\SuitsColor\arms_blue.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Cart1998\SuitsColor\gloves_blue.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Cart1998\SuitsColor\legs_blue.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Cart1998\SuitsColor\belts_blue.dds" />
+    </OUTFIT_OVERRIDE>
+
+</USER_OVERRIDES>

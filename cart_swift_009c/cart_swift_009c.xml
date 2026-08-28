@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+
+    <LIVERY_OVERRIDE LIVERY="51" NAME="Newman Haas Racing #6" BASELIVERY="BlackWheels">
+    <PREVIEWIMAGE PATH="Cart1998\previewCart6.dds" />
+    <TEXTURE NAME="BODY" PATH="Cart1998\Cart6.dds" />
+    </LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="51" BASEHELMET="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Cart1998\Helmets\Newman Haas Racing\Helmet Andretti #6.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="Cart1998\Helmets\Newman Haas Racing\Visor_Andretti.dds" />
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="51" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Cart1998\SuitsColor\torso_white.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Cart1998\SuitsColor\arms_white.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Cart1998\SuitsColor\gloves_black.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Cart1998\SuitsColor\legs_black.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Cart1998\SuitsColor\belts_black.dds" />
+    </OUTFIT_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="53" NAME="Newman Haas Racing #11" BASELIVERY="BlackWheels">
+    <PREVIEWIMAGE PATH="Cart1998\previewCart11.dds" />
+    <TEXTURE NAME="BODY" PATH="Cart1998\Cart11.dds" />
+    </LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="53" BASEHELMET="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Cart1998\Helmets\Newman Haas Racing\Helmet Fittipaldi #11.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="Cart1998\Helmets\Newman Haas Racing\Visor_Fittipaldi.dds" />
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="53" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Cart1998\SuitsColor\torso_white.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Cart1998\SuitsColor\arms_white.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Cart1998\SuitsColor\gloves_black.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Cart1998\SuitsColor\legs_black.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Cart1998\SuitsColor\belts_black.dds" />
+    </OUTFIT_OVERRIDE>	
+
+    <LIVERY_OVERRIDE LIVERY="52" NAME="Della Penna Motorsports #10" BASELIVERY="BlackWheels">
+    <PREVIEWIMAGE PATH="Cart1998\previewCart10.dds" />
+    <TEXTURE NAME="BODY" PATH="Cart1998\Cart10.dds" />
+    </LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="52" BASEHELMET="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Cart1998\Helmets\Della Penna Motorsports\Helmet Hearn #10.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="Cart1998\Helmets\Della Penna Motorsports\Visor_Hearn.dds" />
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="52" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Cart1998\SuitsColor\torso_red.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Cart1998\SuitsColor\arms_red.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Cart1998\SuitsColor\gloves_red.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Cart1998\SuitsColor\legs_red.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Cart1998\SuitsColor\belts_black.dds" />
+    </OUTFIT_OVERRIDE>	
+
+    <LIVERY_OVERRIDE LIVERY="54" NAME="Tasman Motorsports Group #21" BASELIVERY="BlackWheels">
+    <PREVIEWIMAGE PATH="Cart1998\previewCart21.dds" />
+    <TEXTURE NAME="BODY" PATH="Cart1998\Cart21.dds" />
+    </LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="54" BASEHELMET="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Cart1998\Helmets\Tasman Motorsports Group\Helmet Kanaan #55.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="Cart1998\Helmets\Tasman Motorsports Group\Visor_Kanaan.dds" />
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="54" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Cart1998\SuitsColor\torso_red.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Cart1998\SuitsColor\arms_blue.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Cart1998\SuitsColor\gloves_red.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Cart1998\SuitsColor\legs_yellow.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Cart1998\SuitsColor\belts_black.dds" />
+    </OUTFIT_OVERRIDE>	
+
+    <LIVERY_OVERRIDE LIVERY="55" NAME="Della Penna Motorsports #43" BASELIVERY="BlackWheels">
+    <PREVIEWIMAGE PATH="Cart1998\previewCart43.dds" />
+    <TEXTURE NAME="BODY" PATH="Cart1998\Cart43.dds" />
+    </LIVERY_OVERRIDE>
+
+</USER_OVERRIDES>

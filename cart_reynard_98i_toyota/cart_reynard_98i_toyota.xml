@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+
+    <LIVERY_OVERRIDE LIVERY="53" NAME="All American Racers #36" BASELIVERY="BlackWheels">
+    <PREVIEWIMAGE PATH="Cart1998\previewCart36.dds" />
+    <TEXTURE NAME="BODY" PATH="Cart1998\Cart36.dds" />
+    </LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="53" BASEHELMET="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Cart1998\Helmets\All American Racers\Helmet Barron #36.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="Cart1998\Helmets\All American Racers\Visor_Barron.dds" />
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="53" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Cart1998\SuitsColor\torso_white.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Cart1998\SuitsColor\arms_green.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Cart1998\SuitsColor\gloves_black.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Cart1998\SuitsColor\legs_black.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Cart1998\SuitsColor\belts_blue.dds" />
+    </OUTFIT_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="51" NAME="Arciero Wells Racing #24" BASELIVERY="SilverWheels">
+    <PREVIEWIMAGE PATH="Cart1998\previewCart24.dds" />
+    <TEXTURE NAME="BODY" PATH="Cart1998\Cart24.dds" />
+    </LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="51" BASEHELMET="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Cart1998\Helmets\Arciero Wells Racing\Helmet Matsushita #24.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="Cart1998\Helmets\Arciero Wells Racing\Visor_Matsushita.dds" />
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="51" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Cart1998\SuitsColor\torso_white.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Cart1998\SuitsColor\arms_blue.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Cart1998\SuitsColor\gloves_blue.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Cart1998\SuitsColor\legs_blue.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Cart1998\SuitsColor\belts_black.dds" />
+    </OUTFIT_OVERRIDE>	
+
+    <LIVERY_OVERRIDE LIVERY="52" NAME="Arciero Wells Racing #25" BASELIVERY="SilverWheels">
+    <PREVIEWIMAGE PATH="Cart1998\previewCart25.dds" />
+    <TEXTURE NAME="BODY" PATH="Cart1998\Cart25.dds" />
+    </LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="52" BASEHELMET="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Cart1998\Helmets\Arciero Wells Racing\Helmet Papis #25.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="Cart1998\Helmets\Arciero Wells Racing\Visor_Papis.dds" />
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="52" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Cart1998\SuitsColor\torso_white.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Cart1998\SuitsColor\arms_blue.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Cart1998\SuitsColor\gloves_blue.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Cart1998\SuitsColor\legs_blue.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Cart1998\SuitsColor\belts_black.dds" />
+    </OUTFIT_OVERRIDE>	
+
+    <LIVERY_OVERRIDE LIVERY="54" NAME="All American Racers #98" BASELIVERY="BlackWheels">
+    <PREVIEWIMAGE PATH="Cart1998\previewCart98.dds" />
+    <TEXTURE NAME="BODY" PATH="Cart1998\Cart98.dds" />
+    </LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="54" BASEHELMET="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Cart1998\Helmets\All American Racers\Helmet Jones #98.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="Cart1998\Helmets\All American Racers\Visor_Jones.dds" />
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="54" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Cart1998\SuitsColor\torso_white.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Cart1998\SuitsColor\arms_green.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Cart1998\SuitsColor\gloves_black.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Cart1998\SuitsColor\legs_black.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Cart1998\SuitsColor\belts_blue.dds" />
+    </OUTFIT_OVERRIDE>	
+
+</USER_OVERRIDES>

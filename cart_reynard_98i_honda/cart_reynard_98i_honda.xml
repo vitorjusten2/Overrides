@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+
+    <LIVERY_OVERRIDE LIVERY="51" NAME="Target Chip Ganassi #1" BASELIVERY="SilverWheels">
+    <PREVIEWIMAGE PATH="Cart1998\previewCart1.dds" />
+    <TEXTURE NAME="BODY" PATH="Cart1998\Cart1.dds" />
+    </LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="51" BASEHELMET="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Cart1998\Helmets\Target Chip Ganassi\Helmet Zanardi #1.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="Cart1998\Helmets\Target Chip Ganassi\Visor_Zanardi.dds" />
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="51" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Cart1998\SuitsColor\torso_red.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Cart1998\SuitsColor\arms_red.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Cart1998\SuitsColor\gloves_red.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Cart1998\SuitsColor\legs_red.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Cart1998\SuitsColor\belts_yellow.dds" />
+    </OUTFIT_OVERRIDE>	
+
+    <LIVERY_OVERRIDE LIVERY="52" NAME="Target Chip Ganassi #12" BASELIVERY="SilverWheels">
+    <PREVIEWIMAGE PATH="Cart1998\previewCart12.dds" />
+    <TEXTURE NAME="BODY" PATH="Cart1998\Cart12.dds" />
+    </LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="52" BASEHELMET="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Cart1998\Helmets\Target Chip Ganassi\Helmet Vasser #12.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="Cart1998\Helmets\Target Chip Ganassi\Visor_Vasser.dds" />
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="52" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Cart1998\SuitsColor\torso_red.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Cart1998\SuitsColor\arms_red.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Cart1998\SuitsColor\gloves_red.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Cart1998\SuitsColor\legs_red.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Cart1998\SuitsColor\belts_yellow.dds" />
+    </OUTFIT_OVERRIDE>	
+
+    <LIVERY_OVERRIDE LIVERY="53" NAME="Team KOOL Green #26" BASELIVERY="GoldWheels">
+    <PREVIEWIMAGE PATH="Cart1998\previewCart26.dds" />
+    <TEXTURE NAME="BODY" PATH="Cart1998\Cart26.dds" />
+    </LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="53" BASEHELMET="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Cart1998\Helmets\Team KOOL Green\HelmetTracy #26.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="Cart1998\Helmets\Team KOOL Green\Visor_Tracy.dds" />
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="53" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Cart1998\SuitsColor\torso_green.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Cart1998\SuitsColor\arms_white.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Cart1998\SuitsColor\gloves_green.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Cart1998\SuitsColor\legs_green.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Cart1998\SuitsColor\belts_blue.dds" />
+    </OUTFIT_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="54" NAME="Team KOOL Green #27" BASELIVERY="GoldWheels">
+    <PREVIEWIMAGE PATH="Cart1998\previewCart27.dds" />
+    <TEXTURE NAME="BODY" PATH="Cart1998\Cart27.dds" />
+    </LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="54" BASEHELMET="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Cart1998\Helmets\Team KOOL Green\Helmet Franchitti #27.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="Cart1998\Helmets\Team KOOL Green\Visor_Franchitti.dds" />
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="54" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Cart1998\SuitsColor\torso_green.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Cart1998\SuitsColor\arms_white.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Cart1998\SuitsColor\gloves_green.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Cart1998\SuitsColor\legs_green.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Cart1998\SuitsColor\belts_blue.dds" />
+    </OUTFIT_OVERRIDE>	
+
+</USER_OVERRIDES>
