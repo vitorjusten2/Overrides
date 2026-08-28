@@ -1,0 +1,30 @@
+This Skinpack was made by members of TAMS2SP - The AMS2 Skinning Project.
+
+It includes 24 liveries and drivers helmets plus a coresponding AI-file to replicate the 1983 season:
+
+Williams #1 Rosberg & #2 Laffite (by JoL)
+Tyrrell #3 Alboreto & #4 Sullivan (by JoL)
+Brabham #5 Piquet & #6 Patrese (by JoL)
+McLaren #7 Watson & #8 Lauda (by Wolf)
+ATS #9 Winkelhock (by JoL)
+Lotus #11 de Angelis & #12 Mansell (by Wolf)
+Renault #15 Prost & #16 Cheever (by JoL)
+Alfa Romeo #22 de Cesaris & #23 Baldi (by ianez)
+Ligier #25 Jarier & #26 Boesel (by Alain Fry)
+Ferrari #27 Tambay & #28 Arnoux (by JoL)
+Arrows #29 Surer & #30 Boutsen (by Alain Fry)
+Theodore #34 Cecotto (by JoL)
+Toleman #35 Warwick (by Alain Fry)
+Spirit #40 Johansson (by AnnoyingSensei)
+
+Due to the limitation of 24 skins in the game, we could not include the second Theodore (#33 Guerrero) and the second Toleman (#36 Giacomelli). You will find the skins in a subfolder, and if you know how to handle the AMS2 XML-files, you can exchange them for any driver as you like.
+
+Humpty (aka mungopark) made an AI-file according to the 1983 results and balance of power. It was very tricky to balance the Brabham, McLaren, G3-Turbo and G3-V8 cars to get realistic results. To achieve that, he had to lower the AI-skills of the Non-Turbo cars. This leads to a relatively low average skill level in the pack. To compensate that, you can increase the general opponents skill level with the slider in the game.
+
+Thanks to all the guys who contributed to the pack, especially Alain for making all the preview pics and encouraging me to start this.
+
+Enjoy your trip back to the 80ies!
+
+Find out more about TAMS2SP, our current projects and previews on our discord:
+https://discord.gg/VCGngvN
+

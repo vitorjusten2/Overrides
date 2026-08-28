@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+
+    <LIVERY_OVERRIDE LIVERY="51" NAME="ATS-BMW #9 Winkelhock" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="TAMS2SP\1983preview9.dds" />
+        <TEXTURE NAME="BODY" PATH="TAMS2SP\1983body9.dds" />
+    </LIVERY_OVERRIDE>        
+	<HELMET_OVERRIDE LIVERY="51" NAME="ATS-BMW #9 Winkelhock" BASEHELMET="DEFAULT">
+    	<TEXTURE NAME="BODY_DIFF" PATH="TAMS2SP\83_Winkelhock_Helmet.dds" />
+    	<TEXTURE NAME="VISOR_DIFF" PATH="TAMS2SP\83_Winkelhock_visor.dds" />
+		<TEXTURE NAME="VISOR_SPEC" PATH="TAMS2SP\83_Winkelhock_visor_spec.dds" />
+    </HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="51" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="TAMS2SP\Suits\ats_torso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="TAMS2SP\Suits\ats_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="TAMS2SP\Suits\ats_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="TAMS2SP\Suits\ats_legs.dds" />
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="TAMS2SP\Suits\black_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="52" NAME="Lotus-Renault #11 de Angelis" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="TAMS2SP\1983preview11.dds" />
+        <TEXTURE NAME="BODY" PATH="TAMS2SP\1983body11.dds" />
+    </LIVERY_OVERRIDE>        
+	<HELMET_OVERRIDE LIVERY="52" NAME="Lotus-Renault #11 de Angelis" BASEHELMET="DEFAULT">
+    	<TEXTURE NAME="BODY_DIFF" PATH="TAMS2SP\83_DeAngelis_Helmet.dds" />
+    	<TEXTURE NAME="VISOR_DIFF" PATH="TAMS2SP\83_DeAngelis_visor.dds" />
+		<TEXTURE NAME="VISOR_SPEC" PATH="TAMS2SP\83_DeAngelis_visor_spec.dds" />
+    </HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="52" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="TAMS2SP\Suits\lotus_torso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="TAMS2SP\Suits\lotus_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="TAMS2SP\Suits\lotus_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="TAMS2SP\Suits\lotus_legs.dds" />
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="TAMS2SP\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>	
+
+    <LIVERY_OVERRIDE LIVERY="53" NAME="Renault #15 Prost" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="TAMS2SP\1983preview15.dds" />
+        <TEXTURE NAME="BODY" PATH="TAMS2SP\1983body15.dds" />
+    </LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="53" NAME="Renault #15 Prost" BASEHELMET="DEFAULT">
+    	<TEXTURE NAME="BODY_DIFF" PATH="TAMS2SP\83_Prost_Helmet.dds" />
+    	<TEXTURE NAME="VISOR_DIFF" PATH="TAMS2SP\83_Prost_visor.dds" />
+		<TEXTURE NAME="VISOR_SPEC" PATH="TAMS2SP\83_Prost_visor_spec.dds" />
+    </HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="53" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="TAMS2SP\Suits\renault_prost_torso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="TAMS2SP\Suits\renault_prost_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="TAMS2SP\Suits\renault_prost_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="TAMS2SP\Suits\renault_prost_legs.dds" />
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="TAMS2SP\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="54" NAME="Renault #16 Cheever" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="TAMS2SP\1983preview16.dds" />
+        <TEXTURE NAME="BODY" PATH="TAMS2SP\1983body16.dds" />
+    </LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="54" NAME="Renault #16 Cheever" BASEHELMET="DEFAULT">
+    	<TEXTURE NAME="BODY_DIFF" PATH="TAMS2SP\83_Cheever_Helmet.dds" />
+    	<TEXTURE NAME="VISOR_DIFF" PATH="TAMS2SP\83_Cheever_visor.dds" />
+		<TEXTURE NAME="VISOR_SPEC" PATH="TAMS2SP\83_Cheever_visor_spec.dds" />
+    </HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="54" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="TAMS2SP\Suits\renault_cheever_torso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="TAMS2SP\Suits\renault_cheever_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="TAMS2SP\Suits\renault_cheever_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="TAMS2SP\Suits\renault_cheever_legs.dds" />
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="TAMS2SP\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="55" NAME="Alfa Romeo #22 de Cesaris" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="TAMS2SP\1983preview22.dds" />
+        <TEXTURE NAME="BODY" PATH="TAMS2SP\1983body22.dds" />
+    </LIVERY_OVERRIDE>        
+	<HELMET_OVERRIDE LIVERY="55" NAME="Alfa Romeo #22 de Cesaris" BASEHELMET="DEFAULT">
+    	<TEXTURE NAME="BODY_DIFF" PATH="TAMS2SP\83_DeCesaris_Helmet.dds" />
+    	<TEXTURE NAME="VISOR_DIFF" PATH="TAMS2SP\83_DeCesaris_visor.dds" />
+		<TEXTURE NAME="VISOR_SPEC" PATH="TAMS2SP\83_DeCesaris_visor_spec.dds" />
+    </HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="55" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="TAMS2SP\Suits\alfa_decesaris_torso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="TAMS2SP\Suits\alfa_decesaris_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="TAMS2SP\Suits\alfa_decesaris_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="TAMS2SP\Suits\alfa_legs.dds" />
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="TAMS2SP\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="56" NAME="Alfa Romeo #23 Baldi" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="TAMS2SP\1983preview23.dds" />
+        <TEXTURE NAME="BODY" PATH="TAMS2SP\1983body23.dds" />
+    </LIVERY_OVERRIDE>        
+	<HELMET_OVERRIDE LIVERY="56" NAME="Alfa Romeo #23 Baldi" BASEHELMET="DEFAULT">
+    	<TEXTURE NAME="BODY_DIFF" PATH="TAMS2SP\83_Baldi_Helmet.dds" />
+    	<TEXTURE NAME="VISOR_DIFF" PATH="TAMS2SP\83_Baldi_visor.dds" />
+		<TEXTURE NAME="VISOR_SPEC" PATH="TAMS2SP\83_Baldi_visor_spec.dds" />
+    </HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="56" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="TAMS2SP\Suits\alfa_baldi_torso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="TAMS2SP\Suits\alfa_baldi_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="TAMS2SP\Suits\alfa_baldi_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="TAMS2SP\Suits\alfa_legs.dds" />
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="TAMS2SP\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>	
+
+	<LIVERY_OVERRIDE LIVERY="57" NAME="Ferrari #27 Tambay" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="TAMS2SP\1983preview27.dds" />
+        <TEXTURE NAME="BODY" PATH="TAMS2SP\1983body27.dds" />
+    </LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="57" NAME="Ferrari #27 Tambay" BASEHELMET="DEFAULT">
+    	<TEXTURE NAME="BODY_DIFF" PATH="TAMS2SP\83_Tambay_Helmet.dds" />
+    	<TEXTURE NAME="VISOR_DIFF" PATH="TAMS2SP\83_Tambay_visor.dds" />
+		<TEXTURE NAME="VISOR_SPEC" PATH="TAMS2SP\83_Tambay_visor_spec.dds" />
+    </HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="57" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="TAMS2SP\Suits\ferrari_torso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="TAMS2SP\Suits\ferrari_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="TAMS2SP\Suits\ferrari_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="TAMS2SP\Suits\ferrari_tambay_legs.dds" />
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="TAMS2SP\Suits\blue_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="58" NAME="Ferrari #28 Arnoux" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="TAMS2SP\1983preview28.dds" />
+        <TEXTURE NAME="BODY" PATH="TAMS2SP\1983body28.dds" />
+    </LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="58" NAME="Ferrari #28 Arnoux" BASEHELMET="DEFAULT">
+    	<TEXTURE NAME="BODY_DIFF" PATH="TAMS2SP\83_Arnoux_Helmet.dds" />
+    	<TEXTURE NAME="VISOR_DIFF" PATH="TAMS2SP\83_Arnoux_visor.dds" />
+		<TEXTURE NAME="VISOR_SPEC" PATH="TAMS2SP\83_Arnoux_visor_spec.dds" />
+    </HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="58" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="TAMS2SP\Suits\ferrari_torso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="TAMS2SP\Suits\ferrari_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="TAMS2SP\Suits\ferrari_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="TAMS2SP\Suits\ferrari_arnoux_legs.dds" />
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="TAMS2SP\Suits\blue_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="59" NAME="Toleman-Hart #35 Warwick" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="TAMS2SP\1983preview35.dds" />
+        <TEXTURE NAME="BODY" PATH="TAMS2SP\1983body35.dds" />
+    </LIVERY_OVERRIDE>        
+	<HELMET_OVERRIDE LIVERY="59" NAME="Toleman-Hart #35 Warwick" BASEHELMET="DEFAULT">
+    	<TEXTURE NAME="BODY_DIFF" PATH="TAMS2SP\83_Warwick_Helmet.dds" />
+    	<TEXTURE NAME="VISOR_DIFF" PATH="TAMS2SP\83_Warwick_visor.dds" />
+		<TEXTURE NAME="VISOR_SPEC" PATH="TAMS2SP\83_Warwick_visor_spec.dds" />
+    </HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="59" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="TAMS2SP\Suits\toleman_warwick_torso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="TAMS2SP\Suits\toleman_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="TAMS2SP\Suits\toleman_warwick_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="TAMS2SP\Suits\toleman_legs.dds" />
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="TAMS2SP\Suits\blue_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+<!--	
+	<LIVERY_OVERRIDE LIVERY="60" NAME="Toleman-Hart #36 Giacomelli" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="TAMS2SP\1983preview36.dds" />
+        <TEXTURE NAME="BODY" PATH="TAMS2SP\1983body36.dds" />
+    </LIVERY_OVERRIDE>        
+	<HELMET_OVERRIDE LIVERY="60" NAME="Toleman-Hart #36 Giacomelli" BASEHELMET="DEFAULT">
+    	<TEXTURE NAME="BODY_DIFF" PATH="TAMS2SP\83_giacomelli_Helmet.dds" />
+    	<TEXTURE NAME="VISOR_DIFF" PATH="TAMS2SP\83_giacomelli_visor.dds" />
+		<TEXTURE NAME="VISOR_SPEC" PATH="TAMS2SP\83_giacomelli_visor_spec.dds" />
+    </HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="60" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="TAMS2SP\Suits\toleman_giacomelli_torso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="TAMS2SP\Suits\toleman_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="TAMS2SP\Suits\toleman_giacomelli_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="TAMS2SP\Suits\toleman_legs.dds" />
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="TAMS2SP\Suits\blue_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>	-->	
+	
+	<LIVERY_OVERRIDE LIVERY="60" NAME="Spirit-Honda #40 Johansson" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="TAMS2SP\1983preview40.dds" />
+        <TEXTURE NAME="BODY" PATH="TAMS2SP\1983body40.dds" />
+    </LIVERY_OVERRIDE>        
+	<HELMET_OVERRIDE LIVERY="60" NAME="Spirit-Honda #40 Johansson" BASEHELMET="DEFAULT">
+    	<TEXTURE NAME="BODY_DIFF" PATH="TAMS2SP\83_Johansson_Helmet.dds" />
+    	<TEXTURE NAME="VISOR_DIFF" PATH="TAMS2SP\83_Johansson_visor.dds" />
+		<TEXTURE NAME="VISOR_SPEC" PATH="TAMS2SP\83_Johansson_visor_spec.dds" />
+    </HELMET_OVERRIDE> 
+	<OUTFIT_OVERRIDE LIVERY="60" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="TAMS2SP\Suits\spirit_torso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="TAMS2SP\Suits\spirit_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="TAMS2SP\Suits\spirit_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="TAMS2SP\Suits\spirit_legs.dds" />
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="TAMS2SP\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>  -->
+		        
+</USER_OVERRIDES>

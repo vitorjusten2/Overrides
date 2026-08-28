@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+
+
+	
+	<LIVERY_OVERRIDE LIVERY="51" NAME="Fernando Alonso #1" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1 2006 Skinpack\Renault Canada\Preview Alonso.dds" />
+        <TEXTURE NAME="BODY" PATH="F1 2006 Skinpack\Renault Canada\Livery Alonso.dds" />
+	</LIVERY_OVERRIDE>
+
+	<OUTFIT_OVERRIDE LIVERY="51" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1 2006 Skinpack\Suits\Renault Torso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1 2006 Skinpack\Suits\Renault Arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1 2006 Skinpack\Suits\Renault Gloves.dds" />
+		<TEXTURE NAME="GLOVES_SPEC" PATH="F1 2006 Skinpack\Suits\Suit spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1 2006 Skinpack\Suits\Renault Legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1 2006 Skinpack\Suits\Renault Seatbelt.dds" />
+        <TEXTURE NAME="SEATBELTS_SPEC" PATH="F1 2006 Skinpack\Suits\Suit spec.dds" />
+    </OUTFIT_OVERRIDE> -->
+	
+    <HELMET_OVERRIDE LIVERY="51" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1 2006 Skinpack\Helmets\Alonso NT Helmet.dds" />
+        <TEXTURE NAME="BODY_SPEC" PATH="F1 2006 Skinpack\Helmets\Alonso Helmet Spec.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="F1 2006 Skinpack\Helmets\Alonso Visor.dds" />
+        <TEXTURE NAME="VISOR_SPEC" PATH="F1 2006 Skinpack\Helmets\Visor Spec.dds" />
+    </HELMET_OVERRIDE> -->
+
+		<LIVERY_OVERRIDE LIVERY="52" NAME="Giancarlo Fisichella #2" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1 2006 Skinpack\Renault Canada\Preview Fisichella.dds" />
+        <TEXTURE NAME="BODY" PATH="F1 2006 Skinpack\Renault Canada\Livery Fisichella.dds" />
+	</LIVERY_OVERRIDE>
+
+	<OUTFIT_OVERRIDE LIVERY="52" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1 2006 Skinpack\Suits\Renault Torso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1 2006 Skinpack\Suits\Renault Arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1 2006 Skinpack\Suits\Renault Gloves.dds" />
+		<TEXTURE NAME="GLOVES_SPEC" PATH="F1 2006 Skinpack\Suits\Suit spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1 2006 Skinpack\Suits\Renault Legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1 2006 Skinpack\Suits\Renault Seatbelt.dds" />
+        <TEXTURE NAME="SEATBELTS_SPEC" PATH="F1 2006 Skinpack\Suits\Suit spec.dds" />
+    </OUTFIT_OVERRIDE> -->
+	
+    <HELMET_OVERRIDE LIVERY="52" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1 2006 Skinpack\Helmets\Fisichella NT Helmet.dds" />
+        <TEXTURE NAME="BODY_SPEC" PATH="F1 2006 Skinpack\Helmets\Fisichella Helmet Spec.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="F1 2006 Skinpack\Helmets\Fisichella Visor.dds" />
+        <TEXTURE NAME="VISOR_SPEC" PATH="F1 2006 Skinpack\Helmets\Visor Spec.dds" />
+    </HELMET_OVERRIDE> -->
+
+
+</USER_OVERRIDES>
