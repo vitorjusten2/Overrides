@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+
+	<LIVERY_OVERRIDE LIVERY="51" NAME="1995 Simtek #11 - D. Schiattarella" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1995\Previews\preview11.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1995\Simtek11.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_1995\Rims\95_Simtek_rims.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_1995\Rims\95_Simtek_rims_blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_1995\Rims\95_rims_lowspec.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_1995\Rims\95_rims_lowspec_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="51" BASEHELMET="DEFAULT">
+ 	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1995\Helmets\95_Schiattarella_helmet.dds" />
+ 	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1995\Helmets\95_helmet_spec.dds" />
+    	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="51" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1995\Suits\95_simtek_body_Schiattarella.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1995\Suits\95_simtek_arms_Schiattarella.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1995\Suits\95_simtek_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1995\Suits\95_simtek_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1995\Harness\blue_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="52" NAME="1995 Simtek #12 - J. Verstappen" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1995\Previews\preview12.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1995\Simtek12.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_1995\Rims\95_Simtek_rims.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_1995\Rims\95_Simtek_rims_blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_1995\Rims\95_rims_lowspec.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_1995\Rims\95_rims_lowspec_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="52" BASEHELMET="DEFAULT">
+ 	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1995\Helmets\95_Verstappen_helmet.dds" />
+ 	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1995\Helmets\95_helmet_spec.dds" />
+    	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="52" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1995\Suits\95_simtek_body_Verstappen.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1995\Suits\95_simtek_arms_Verstappen.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1995\Suits\95_simtek_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1995\Suits\95_simtek_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1995\Harness\blue_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="53" NAME="1995 Ferrari #27 - J. Alesi" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1995\Previews\preview27_NT.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1995\Ferrari27_NT.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_1995\Rims\95_Ferrari_rims.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_1995\Rims\95_Ferrari_rims_blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_1995\Rims\95_rims_goldspec.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_1995\Rims\95_rims_goldspec_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="53" BASEHELMET="DEFAULT">
+ 	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1995\Helmets\95_Alesi_helmet.dds" />
+ 	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1995\Helmets\95_helmet_spec.dds" />
+    	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="53" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1995\Suits\95_ferrari_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1995\Suits\95_ferrari_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1995\Suits\95_ferrari_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1995\Suits\95_ferrari_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1995\Harness\red_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="54" NAME="1995 Ferrari #28 - G. Berger" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1995\Previews\preview28_NT.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1995\Ferrari28_NT.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_1995\Rims\95_Ferrari_rims.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_1995\Rims\95_Ferrari_rims_blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_1995\Rims\95_rims_goldspec.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_1995\Rims\95_rims_goldspec_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="54" BASEHELMET="DEFAULT">
+ 	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1995\Helmets\95_Berger_helmet.dds" />
+ 	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1995\Helmets\95_helmet_spec.dds" />
+    	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="54" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1995\Suits\95_ferrari_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1995\Suits\95_ferrari_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1995\Suits\95_ferrari_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1995\Suits\95_ferrari_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1995\Harness\red_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+</USER_OVERRIDES>        

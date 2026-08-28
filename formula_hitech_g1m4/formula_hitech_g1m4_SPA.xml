@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+   
+	<LIVERY_OVERRIDE LIVERY="51" NAME="Footwork-Mugen #9 M. Alboreto" BASELIVERY="Default">
+		<PREVIEWIMAGE PATH="F1_Season_1992\9_Footwork_pre.dds"/>
+		<TEXTURE NAME="BODY" PATH="F1_Season_1992\9_Footwork.dds"/>
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="51" BASEHELMET="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1992\Helmets\92_Alboreto_helmet.dds"/>
+		<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1992\Helmets\92_helmet_spec.dds"/>
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="51" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1992\Suits\92_Footwork_body.dds"/>
+		<TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1992\Suits\92_Footwork_arms.dds"/>
+		<TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1992\Suits\92_Footwork_gloves.dds"/>
+		<TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1992\Suits\92_Footwork_legs.dds"/>
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1992\Suits\red_safety_harness.dds"/>
+	</OUTFIT_OVERRIDE>
+ 	 
+	<LIVERY_OVERRIDE LIVERY="52" NAME="Footwork-Mugen #10 A. Suzuki" BASELIVERY="Default">
+		<PREVIEWIMAGE PATH="F1_Season_1992\10_Footwork_pre.dds"/>
+		<TEXTURE NAME="BODY" PATH="F1_Season_1992\10_Footwork.dds"/>
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="52" BASEHELMET="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1992\Helmets\92_Suzuki_helmet.dds"/>
+		<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1992\Helmets\92_helmet_spec.dds"/>
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="52" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1992\Suits\92_Footwork_body.dds"/>
+		<TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1992\Suits\92_Footwork_arms.dds"/>
+		<TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1992\Suits\92_Footwork_gloves.dds"/>
+		<TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1992\Suits\92_Footwork_legs.dds"/>
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1992\Suits\red_safety_harness.dds"/>
+	</OUTFIT_OVERRIDE>
+     
+	<LIVERY_OVERRIDE LIVERY="53" NAME="Lotus-Ford #11 M. Häkkinen" BASELIVERY="Default">
+		<PREVIEWIMAGE PATH="F1_Season_1992\11_Lotus_spa_pre.dds"/>
+		<TEXTURE NAME="BODY" PATH="F1_Season_1992\11_Lotus_spa.dds"/>
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="53" BASEHELMET="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1992\Helmets\92_Hakkinen_helmet.dds"/>
+		<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1992\Helmets\92_helmet_spec.dds"/>
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="53" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1992\Suits\92_Lotus_body.dds"/>
+		<TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1992\Suits\92_Lotus_arms.dds"/>
+		<TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1992\Suits\92_Lotus_gloves.dds"/>
+		<TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1992\Suits\92_Lotus_legs.dds"/>
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1992\Suits\red_safety_harness.dds"/>
+	</OUTFIT_OVERRIDE>
+ 	 
+	<LIVERY_OVERRIDE LIVERY="54" NAME="Lotus-Ford #12 J. Herbert" BASELIVERY="Default">
+		<PREVIEWIMAGE PATH="F1_Season_1992\12_Lotus_spa_pre.dds"/>
+		<TEXTURE NAME="BODY" PATH="F1_Season_1992\12_Lotus_spa.dds"/>
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="54" BASEHELMET="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1992\Helmets\92_Herbert_helmet.dds"/>
+		<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1992\Helmets\92_helmet_spec.dds"/>
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="54" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1992\Suits\92_Lotus_body.dds"/>
+		<TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1992\Suits\92_Lotus_arms.dds"/>
+		<TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1992\Suits\92_Lotus_gloves.dds"/>
+		<TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1992\Suits\92_Lotus_legs.dds"/>
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1992\Suits\red_safety_harness.dds"/>
+	</OUTFIT_OVERRIDE>
+    
+	<LIVERY_OVERRIDE LIVERY="55" NAME="March-Ilmor #16 K. Wendlinger" BASELIVERY="Default">
+		<PREVIEWIMAGE PATH="F1_Season_1992\16_March_spa_pre.dds"/>
+		<TEXTURE NAME="BODY" PATH="F1_Season_1992\16_March_spa.dds"/>
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="55" BASEHELMET="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1992\Helmets\92_Wendingler_helmet.dds"/>
+		<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1992\Helmets\92_helmet_spec.dds"/>
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="55" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1992\Suits\92_March_body.dds"/>
+		<TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1992\Suits\92_March_arms.dds"/>
+		<TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1992\Suits\92_March_gloves.dds"/>
+		<TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1992\Suits\92_March_legs.dds"/>
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1992\Suits\red_safety_harness.dds"/>
+	</OUTFIT_OVERRIDE>
+   
+	<LIVERY_OVERRIDE LIVERY="56" NAME="March-Ilmor #17 E. Naspetti" BASELIVERY="Default">
+		<PREVIEWIMAGE PATH="F1_Season_1992\17_March_spa_pre.dds"/>
+		<TEXTURE NAME="BODY" PATH="F1_Season_1992\17_March_spa.dds"/>
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="56" BASEHELMET="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1992\Helmets\92_Naspetti_helmet.dds"/>
+		<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1992\Helmets\92_helmet_spec.dds"/>
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="56" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1992\Suits\92_March_body.dds"/>
+		<TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1992\Suits\92_March_arms.dds"/>
+		<TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1992\Suits\92_March_gloves.dds"/>
+		<TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1992\Suits\92_March_legs.dds"/>
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1992\Suits\red_safety_harness.dds"/>
+	</OUTFIT_OVERRIDE>
+    
+	<LIVERY_OVERRIDE LIVERY="57" NAME="Ligier-Renault #25 T. Boutsen" BASELIVERY="Default">
+		<PREVIEWIMAGE PATH="F1_Season_1992\25_Ligier_pre.dds"/>
+		<TEXTURE NAME="BODY" PATH="F1_Season_1992\25_Ligier.dds"/>
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="57" BASEHELMET="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1992\Helmets\92_Boutsen_helmet.dds"/>
+		<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1992\Helmets\92_helmet_spec.dds"/>
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="57" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1992\Suits\92_Ligier_body.dds"/>
+		<TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1992\Suits\92_Ligier_arms.dds"/>
+		<TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1992\Suits\92_Ligier_gloves.dds"/>
+		<TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1992\Suits\92_Ligier_legs.dds"/>
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1992\Suits\red_safety_harness.dds"/>
+	</OUTFIT_OVERRIDE>
+   
+	<LIVERY_OVERRIDE LIVERY="58" NAME="Ligier-Renault #26 E. Comas" BASELIVERY="Default">
+		<PREVIEWIMAGE PATH="F1_Season_1992\26_Ligier_pre.dds"/>
+		<TEXTURE NAME="BODY" PATH="F1_Season_1992\26_Ligier.dds"/>
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="58" BASEHELMET="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1992\Helmets\92_Comas_helmet.dds"/>
+		<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1992\Helmets\92_helmet_spec.dds"/>
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="58" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1992\Suits\92_Ligier_body.dds"/>
+		<TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1992\Suits\92_Ligier_arms.dds"/>
+		<TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1992\Suits\92_Ligier_gloves.dds"/>
+		<TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1992\Suits\92_Ligier_legs.dds"/>
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1992\Suits\red_safety_harness.dds"/>
+	</OUTFIT_OVERRIDE>
+		
+</USER_OVERRIDES>

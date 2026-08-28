@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+
+	<LIVERY_OVERRIDE LIVERY="51" NAME="1995 Footwork #9 - G. Morbidelli" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1995\Previews\preview9.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1995\Footwork9.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_1995\Rims\95_Footwork_rims.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_1995\Rims\95_Footwork_rims_blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_1995\Rims\95_rims_lowspec.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_1995\Rims\95_rims_lowspec_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="51" BASEHELMET="DEFAULT">
+ 	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1995\Helmets\95_Morbidelli_helmet.dds" />
+ 	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1995\Helmets\95_helmet_spec.dds" />
+    	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="51" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1995\Suits\95_footwork_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1995\Suits\95_footwork_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1995\Suits\95_footwork_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1995\Suits\95_footwork_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1995\Harness\red_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="52" NAME="1995 Footwork #10 - T. Inoue" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1995\Previews\preview10.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1995\Footwork10.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_1995\Rims\95_Footwork_rims.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_1995\Rims\95_Footwork_rims_blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_1995\Rims\95_rims_lowspec.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_1995\Rims\95_rims_lowspec_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="52" BASEHELMET="DEFAULT">
+ 	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1995\Helmets\95_Inoue_helmet.dds" />
+ 	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1995\Helmets\95_helmet_spec.dds" />
+    	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="52" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1995\Suits\95_footwork_body_Inoue.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1995\Suits\95_footwork_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1995\Suits\95_footwork_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1995\Suits\95_footwork_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1995\Harness\red_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="53" NAME="1995 Pacific #16 - B. Gachot" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1995\Previews\preview16_Gachot.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1995\Pacific16_Gachot.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_1995\Rims\95_Pacific_rims.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_1995\Rims\95_Pacific_rims_blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_1995\Rims\95_rims_lowspec.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_1995\Rims\95_rims_lowspec_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="53" BASEHELMET="DEFAULT">
+ 	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1995\Helmets\95_Gachot_helmet.dds" />
+ 	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1995\Helmets\95_helmet_spec.dds" />
+    	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="53" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1995\Suits\95_pacific_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1995\Suits\95_pacific_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1995\Suits\95_pacific_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1995\Suits\95_pacific_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1995\Harness\red_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="54" NAME="1995 Pacific #17 - A. Montermini" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1995\Previews\preview17.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1995\Pacific17.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_1995\Rims\95_Pacific_rims.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_1995\Rims\95_Pacific_rims_blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_1995\Rims\95_rims_lowspec.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_1995\Rims\95_rims_lowspec_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="54" BASEHELMET="DEFAULT">
+ 	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1995\Helmets\95_Montermini_helmet.dds" />
+ 	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1995\Helmets\95_helmet_spec.dds" />
+    	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="54" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1995\Suits\95_pacific_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1995\Suits\95_pacific_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1995\Suits\95_pacific_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1995\Suits\95_pacific_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1995\Harness\red_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="55" NAME="1995 Forti #21 - P. Diniz" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1995\Previews\preview21_early.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1995\Forti21_early.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_1995\Rims\95_Forti_rims.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_1995\Rims\95_Forti_rims_blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_1995\Rims\95_rims_lowspec.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_1995\Rims\95_rims_lowspec_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="55" BASEHELMET="DEFAULT">
+ 	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1995\Helmets\95_Diniz_helmet.dds" />
+ 	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1995\Helmets\95_helmet_spec.dds" />
+    	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="55" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1995\Suits\95_forti_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1995\Suits\95_forti_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1995\Suits\95_forti_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1995\Suits\95_forti_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1995\Harness\yellow_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="56" NAME="1995 Forti #22 - R. Moreno" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1995\Previews\preview22_early.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1995\Forti22_early.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_1995\Rims\95_Forti_rims.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_1995\Rims\95_Forti_rims_blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_1995\Rims\95_rims_lowspec.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_1995\Rims\95_rims_lowspec_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="56" BASEHELMET="DEFAULT">
+ 	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1995\Helmets\95_Moreno_helmet.dds" />
+ 	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1995\Helmets\95_helmet_spec.dds" />
+    	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="56" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1995\Suits\95_forti_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1995\Suits\95_forti_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1995\Suits\95_forti_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1995\Suits\95_forti_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1995\Harness\yellow_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="57" NAME="1995 Minardi #23 - P. Martini" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1995\Previews\preview23.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1995\Minardi23.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_1995\Rims\95_Minardi_rims.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_1995\Rims\95_Minardi_rims_blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_1995\Rims\95_rims_lowspec.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_1995\Rims\95_rims_lowspec_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="57" BASEHELMET="DEFAULT">
+ 	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1995\Helmets\95_Martini_helmet.dds" />
+ 	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1995\Helmets\95_helmet_spec.dds" />
+    	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="57" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1995\Suits\95_minardi_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1995\Suits\95_minardi_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1995\Suits\95_minardi_gloves_Badoer.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1995\Suits\95_minardi_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1995\Harness\blue_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="58" NAME="1995 Minardi #24 - L. Badoer" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1995\Previews\preview24.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1995\Minardi24.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_1995\Rims\95_Minardi_rims.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_1995\Rims\95_Minardi_rims_blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_1995\Rims\95_rims_lowspec.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_1995\Rims\95_rims_lowspec_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="58" BASEHELMET="DEFAULT">
+ 	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1995\Helmets\95_Badoer_helmet.dds" />
+ 	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1995\Helmets\95_helmet_spec.dds" />
+    	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="58" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1995\Suits\95_minardi_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1995\Suits\95_minardi_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1995\Suits\95_minardi_gloves_Badoer.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1995\Suits\95_minardi_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1995\Harness\blue_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="59" NAME="1995 Sauber #29 - K. Wendlinger" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1995\Previews\preview29_Interlagos.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1995\Sauber29_Interlagos.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_1995\Rims\95_Sauber_rims.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_1995\Rims\95_Sauber_rims_blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_1995\Rims\95_rims_lowspec.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_1995\Rims\95_rims_lowspec_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="59" BASEHELMET="DEFAULT">
+ 	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1995\Helmets\95_Wendlinger_helmet.dds" />
+ 	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1995\Helmets\95_helmet_spec.dds" />
+    	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="59" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1995\Suits\95_sauber_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1995\Suits\95_sauber_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1995\Suits\95_sauber_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1995\Suits\95_sauber_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1995\Harness\black_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="60" NAME="1995 Sauber #30 - H-H. Frentzen" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1995\Previews\preview30_Interlagos.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1995\Sauber30_Interlagos.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_1995\Rims\95_Sauber_rims.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_1995\Rims\95_Sauber_rims_blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_1995\Rims\95_rims_lowspec.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_1995\Rims\95_rims_lowspec_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="60" BASEHELMET="DEFAULT">
+ 	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1995\Helmets\95_Frentzen_helmet.dds" />
+ 	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1995\Helmets\95_helmet_spec.dds" />
+    	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="60" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1995\Suits\95_sauber_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1995\Suits\95_sauber_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1995\Suits\95_sauber_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1995\Suits\95_sauber_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1995\Harness\black_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+</USER_OVERRIDES>        

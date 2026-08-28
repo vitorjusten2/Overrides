@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+  	 
+	<LIVERY_OVERRIDE LIVERY="51" NAME="Tyrrell-Ilmor #3 O. Grouillard" BASELIVERY="Default">
+    	<PREVIEWIMAGE PATH="F1_Season_1992\3_Tyrrell_Pre.dds" />
+    	<TEXTURE NAME="BODY" PATH="F1_Season_1992\3_Tyrrell.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="51" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1992\Helmets\92_Grouillard_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1992\Helmets\92_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="51" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1992\Suits\92_Tyrrell_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1992\Suits\92_Tyrrell_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1992\Suits\92_Tyrrell_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1992\Suits\92_Tyrrell_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1992\Suits\red_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>	
+      
+	<LIVERY_OVERRIDE LIVERY="52" NAME="Tyrrell-Ilmor #4 A. de Cesaris" BASELIVERY="Default">
+    	<PREVIEWIMAGE PATH="F1_Season_1992\4_Tyrrell_Pre.dds" />
+    	<TEXTURE NAME="BODY" PATH="F1_Season_1992\4_Tyrrell.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="52" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1992\Helmets\92_DeCesaris_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1992\Helmets\92_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="52" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1992\Suits\92_Tyrrell_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1992\Suits\92_Tyrrell_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1992\Suits\92_Tyrrell_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1992\Suits\92_Tyrrell_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1992\Suits\red_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>	
+      
+	<LIVERY_OVERRIDE LIVERY="53" NAME="Brabham-Judd #7 E. van de Poele" BASELIVERY="Default">
+    	<PREVIEWIMAGE PATH="F1_Season_1992\7_Brabham_IMO_Pre.dds" />
+    	<TEXTURE NAME="BODY" PATH="F1_Season_1992\7_Brabham_IMO.dds" />
+	</LIVERY_OVERRIDE>
+ 	<HELMET_OVERRIDE LIVERY="53" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1992\Helmets\92_Poele_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1992\Helmets\92_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="53" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1992\Suits\92_Brabham_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1992\Suits\92_Brabham_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1992\Suits\92_Brabham_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1992\Suits\92_Brabham_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1992\Suits\red_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="54" NAME="Brabham-Judd #8 D. Hill" BASELIVERY="Default">
+    	<PREVIEWIMAGE PATH="F1_Season_1992\8_Brabham_IMO_Pre.dds" />
+    	<TEXTURE NAME="BODY" PATH="F1_Season_1992\8_Brabham_IMO.dds" />
+	</LIVERY_OVERRIDE>
+ 	<HELMET_OVERRIDE LIVERY="54" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1992\Helmets\92_Hill_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1992\Helmets\92_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="54" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1992\Suits\92_Brabham_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1992\Suits\92_Brabham_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1992\Suits\92_Brabham_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1992\Suits\92_Brabham_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1992\Suits\red_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="55" NAME="Benetton-Ford #19 M. Schumacher" BASELIVERY="Default">
+    	<PREVIEWIMAGE PATH="F1_Season_1992\19_Benetton_Pre.dds" />
+   	<TEXTURE NAME="BODY" PATH="F1_Season_1992\19_Benetton.dds" />
+	</LIVERY_OVERRIDE>
+ 	<HELMET_OVERRIDE LIVERY="55" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1992\Helmets\92_Schumacher_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1992\Helmets\92_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="55" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1992\Suits\92_Benetton_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1992\Suits\92_Benetton_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1992\Suits\92_Benetton_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1992\Suits\92_Benetton_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1992\Suits\red_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+     
+	<LIVERY_OVERRIDE LIVERY="56" NAME="Benetton-Ford #20 M. Brundle" BASELIVERY="Default">
+    	<PREVIEWIMAGE PATH="F1_Season_1992\20_Benetton_Pre.dds" />
+    	<TEXTURE NAME="BODY" PATH="F1_Season_1992\20_Benetton.dds" />
+	</LIVERY_OVERRIDE>
+ 	<HELMET_OVERRIDE LIVERY="56" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1992\Helmets\92_Brundle_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1992\Helmets\92_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="56" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1992\Suits\92_Benetton_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1992\Suits\92_Benetton_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1992\Suits\92_Benetton_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1992\Suits\92_Benetton_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1992\Suits\red_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+	
+</USER_OVERRIDES>

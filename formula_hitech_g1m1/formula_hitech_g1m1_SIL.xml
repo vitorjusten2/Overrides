@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+   
+	<LIVERY_OVERRIDE LIVERY="51" NAME="Scuderia Ferrari #27 J. Alesi" BASELIVERY="Default">
+		<PREVIEWIMAGE PATH="F1_Season_1992\27_Ferrari_pre.dds" />
+		<TEXTURE NAME="BODY" PATH="F1_Season_1992\27_Ferrari.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="51" BASEHELMET="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1992\Helmets\92_Alesi_helmet.dds" />
+		<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1992\Helmets\92_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="51" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1992\Suits\92_ferrari_body.dds" />
+		<TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1992\Suits\92_ferrari_arms.dds" />
+		<TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1992\Suits\92_ferrari_gloves.dds" />
+		<TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1992\Suits\92_ferrari_legs.dds" />
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1992\Suits\red_safety_harness.dds" />
+	</OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="52" NAME="Scuderia Ferrari #28 I. Capelli" BASELIVERY="Default">
+		<PREVIEWIMAGE PATH="F1_Season_1992\28_Ferrari_pre.dds" />
+		<TEXTURE NAME="BODY" PATH="F1_Season_1992\28_Ferrari.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="52" BASEHELMET="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1992\Helmets\92_Capelli_helmet.dds" />
+		<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1992\Helmets\92_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="52" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1992\Suits\92_ferrari_body.dds" />
+		<TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1992\Suits\92_ferrari_arms.dds" />
+		<TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1992\Suits\92_ferrari_gloves.dds" />
+		<TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1992\Suits\92_ferrari_legs.dds" />
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1992\Suits\red_safety_harness.dds" />
+	</OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="53" NAME="Dallara-Ferrari #21 J.J. Lehto" BASELIVERY="Default">
+		<PREVIEWIMAGE PATH="F1_Season_1992\21_Dallara_pre.dds" />
+		<TEXTURE NAME="BODY" PATH="F1_Season_1992\21_Dallara.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="53" BASEHELMET="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1992\Helmets\92_Lehto_helmet.dds" />
+		<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1992\Helmets\92_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="53" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1992\Suits\92_dallara_body.dds" />
+		<TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1992\Suits\92_dallara_arms.dds" />
+		<TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1992\Suits\92_dallara_gloves.dds" />
+		<TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1992\Suits\92_dallara_legs.dds" />
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1992\Suits\red_safety_harness.dds" />
+	</OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="54" NAME="Dallara-Ferrari #22 P. Martini" BASELIVERY="Default">
+		<PREVIEWIMAGE PATH="F1_Season_1992\22_Dallara_pre.dds" />
+		<TEXTURE NAME="BODY" PATH="F1_Season_1992\22_Dallara.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="54" BASEHELMET="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1992\Helmets\92_Martini_helmet.dds" />
+		<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1992\Helmets\92_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="54" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1992\Suits\92_dallara_body.dds" />
+		<TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1992\Suits\92_dallara_arms.dds" />
+		<TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1992\Suits\92_dallara_gloves.dds" />
+		<TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1992\Suits\92_dallara_legs.dds" />
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1992\Suits\red_safety_harness.dds" />
+	</OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="55" NAME="Minardi-Lamborghini #23 A. Zanardi" BASELIVERY="Default">
+		<PREVIEWIMAGE PATH="F1_Season_1992\23_Minardi_SIL_pre.dds" />
+		<TEXTURE NAME="BODY" PATH="F1_Season_1992\23_Minardi_SIL.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="55" BASEHELMET="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1992\Helmets\92_Zanardi_helmet.dds" />
+		<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1992\Helmets\92_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="55" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1992\Suits\92_Minardi_body.dds" />
+		<TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1992\Suits\92_Minardi_arms.dds" />
+		<TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1992\Suits\92_Minardi_gloves.dds" />
+		<TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1992\Suits\92_Minardi_legs.dds" />
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1992\Suits\red_safety_harness.dds" />
+	</OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="56" NAME="Minardi-Lamborghini #24 G. Morbidelli" BASELIVERY="Default">
+		<PREVIEWIMAGE PATH="F1_Season_1992\24_Minardi_SIL_pre.dds" />
+		<TEXTURE NAME="BODY" PATH="F1_Season_1992\24_Minardi_SIL.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="56" BASEHELMET="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1992\Helmets\92_Morbidelli_helmet.dds" />
+		<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1992\Helmets\92_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="56" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1992\Suits\92_Minardi_body.dds" />
+		<TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1992\Suits\92_Minardi_arms.dds" />
+		<TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1992\Suits\92_Minardi_gloves.dds" />
+		<TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1992\Suits\92_Minardi_legs.dds" />
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1992\Suits\red_safety_harness.dds" />
+	</OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="57" NAME="Jordan-Yamaha #32 S.Modena" BASELIVERY="Default">
+		<PREVIEWIMAGE PATH="F1_Season_1992\32_Jordan_pre.dds" />
+		<TEXTURE NAME="BODY" PATH="F1_Season_1992\32_Jordan.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="57" BASEHELMET="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1992\Helmets\92_Modena_helmet.dds" />
+		<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1992\Helmets\92_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="57" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1992\Suits\92_Jordan_body.dds" />
+		<TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1992\Suits\92_Jordan_arms.dds" />
+		<TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1992\Suits\92_Jordan_gloves.dds" />
+		<TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1992\Suits\92_Jordan_legs.dds" />
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1992\Suits\red_safety_harness.dds" />
+	</OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="58" NAME="Jordan-Yamaha #33 M. Gugelmin" BASELIVERY="Default">
+		<PREVIEWIMAGE PATH="F1_Season_1992\33_Jordan_pre.dds" />
+		<TEXTURE NAME="BODY" PATH="F1_Season_1992\33_Jordan.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="58" BASEHELMET="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1992\Helmets\92_Gugelmin_helmet.dds" />
+		<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1992\Helmets\92_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="58" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1992\Suits\92_Jordan_body.dds" />
+		<TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1992\Suits\92_Jordan_arms.dds" />
+		<TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1992\Suits\92_Jordan_gloves.dds" />
+		<TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1992\Suits\92_Jordan_legs.dds" />
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1992\Suits\red_safety_harness.dds" />
+	</OUTFIT_OVERRIDE>
+
+</USER_OVERRIDES>
