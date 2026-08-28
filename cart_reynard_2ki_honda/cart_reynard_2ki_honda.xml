@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+
+    <LIVERY_OVERRIDE LIVERY="51" NAME="Team Penske #2" BASELIVERY="SilverWheels">
+    <PREVIEWIMAGE PATH="Cart2000\previewCart2.dds" />
+    <TEXTURE NAME="BODY" PATH="Cart2000\Cart2.dds" />
+    </LIVERY_OVERRIDE>
+    <HELMET_OVERRIDE LIVERY="51" BASEHELMET="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Cart2000\Helmets\Team Penske\Helmet Ferran #2.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="Cart2000\Helmets\Team Penske\Visor_Penske.dds" />
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="51" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Cart2000\SuitsColor\torso_red.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Cart2000\SuitsColor\arms_red.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Cart2000\SuitsColor\gloves_red.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Cart2000\SuitsColor\legs_red.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Cart2000\SuitsColor\belts_black.dds" />
+    </OUTFIT_OVERRIDE>	
+
+    <LIVERY_OVERRIDE LIVERY="52" NAME="Team Penske #3" BASELIVERY="SilverWheels">
+    <PREVIEWIMAGE PATH="Cart2000\previewCart3.dds" />
+    <TEXTURE NAME="BODY" PATH="Cart2000\Cart3.dds" />
+    </LIVERY_OVERRIDE>
+    <HELMET_OVERRIDE LIVERY="52" BASEHELMET="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Cart2000\Helmets\Team Penske\Helmet Helio Castroneves #3.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="Cart2000\Helmets\Team Penske\Visor_Penske.dds" />
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="52" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Cart2000\SuitsColor\torso_red.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Cart2000\SuitsColor\arms_red.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Cart2000\SuitsColor\gloves_red.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Cart2000\SuitsColor\legs_red.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Cart2000\SuitsColor\belts_black.dds" />
+    </OUTFIT_OVERRIDE>	
+
+    <LIVERY_OVERRIDE LIVERY="53" NAME="Walker Motorsports #5" BASELIVERY="BlackWheels">
+    <PREVIEWIMAGE PATH="Cart2000\previewCart5.dds" />
+    <TEXTURE NAME="BODY" PATH="Cart2000\Cart5.dds" />
+    </LIVERY_OVERRIDE>
+    <HELMET_OVERRIDE LIVERY="53" BASEHELMET="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Cart2000\Helmets\Walker Motorsports\Helmet Shinji Nakano #5.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="Cart2000\Helmets\Walker Motorsports\Visor_Nakano.dds" />
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="53" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Cart2000\SuitsColor\torso_white.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Cart2000\SuitsColor\arms_blue.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Cart2000\SuitsColor\gloves_blue.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Cart2000\SuitsColor\legs_white.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Cart2000\SuitsColor\belts_blue.dds" />
+    </OUTFIT_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="54" NAME="Team Green #26" BASELIVERY="GoldWheels">
+    <PREVIEWIMAGE PATH="Cart2000\previewCart26.dds" />
+    <TEXTURE NAME="BODY" PATH="Cart2000\Cart26.dds" />
+    </LIVERY_OVERRIDE>
+    <HELMET_OVERRIDE LIVERY="54" BASEHELMET="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Cart2000\Helmets\Team Green\Helmet Paul Tracy #26.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="Cart2000\Helmets\Team Green\Visor_Tracy.dds" />
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="54" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Cart2000\SuitsColor\torso_white.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Cart2000\SuitsColor\arms_green.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Cart2000\SuitsColor\gloves_green.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Cart2000\SuitsColor\legs_green.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Cart2000\SuitsColor\belts_black.dds" />
+    </OUTFIT_OVERRIDE>
+	
+    <LIVERY_OVERRIDE LIVERY="55" NAME="Team Green #27" BASELIVERY="GoldWheels">
+    <PREVIEWIMAGE PATH="Cart2000\previewCart27.dds" />
+    <TEXTURE NAME="BODY" PATH="Cart2000\Cart27.dds" />
+    </LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="55" BASEHELMET="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Cart2000\Helmets\Team Green\Helmet Dario Franchitti #27.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="Cart2000\Helmets\Team Green\Visor_Franchitti.dds" />
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="55" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Cart2000\SuitsColor\torso_white.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Cart2000\SuitsColor\arms_green.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Cart2000\SuitsColor\gloves_green.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Cart2000\SuitsColor\legs_green.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Cart2000\SuitsColor\belts_black.dds" />
+    </OUTFIT_OVERRIDE>
+
+</USER_OVERRIDES>

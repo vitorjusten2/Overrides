@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- Track-specific historic lineups by IMMERSION Modding Group -->
+
+<USER_OVERRIDES>
+	<LIVERY_OVERRIDE LIVERY="51" NAME="Marlboro Team Penske #1" BASELIVERY="SilverWheels">
+		<PREVIEWIMAGE PATH="CART 1995\1_UnserJr_4_preview.dds"/>
+		<TEXTURE NAME="BODY" PATH="CART 1995\1_UnserJr_1.dds"/>
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="51" BASEHELMET="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="CART 1995\1_UnserJr_helmet.dds"/>
+		<TEXTURE NAME="VISOR_DIFF" PATH="CART 1995\1_UnserJr_visor.dds"/>
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="51" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="..\IMG_common\suits\Red_body.dds"/>
+		<TEXTURE NAME="ARMS_DIFF" PATH="..\IMG_common\suits\Red_arms.dds"/>
+		<TEXTURE NAME="LEGS_DIFF" PATH="..\IMG_common\suits\Red_legs.dds"/>
+		<TEXTURE NAME="GLOVES_DIFF" PATH="..\IMG_common\suits\Red_gloves.dds"/>
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="..\IMG_common\suits\Black_belts.dds"/>
+	</OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="52" NAME="Marlboro Team Penske #2" BASELIVERY="SilverWheels">
+		<PREVIEWIMAGE PATH="CART 1995\2_Fittipaldi_1_preview.dds"/>
+		<TEXTURE NAME="BODY" PATH="CART 1995\2_Fittipaldi_1.dds"/>
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="52" BASEHELMET="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="CART 1995\2_Fittipaldi_helmet.dds"/>
+		<TEXTURE NAME="VISOR_DIFF" PATH="CART 1995\2_Fittipaldi_visor.dds"/>
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="52" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="..\IMG_common\suits\Red_body.dds"/>
+		<TEXTURE NAME="ARMS_DIFF" PATH="..\IMG_common\suits\Red_arms.dds"/>
+		<TEXTURE NAME="LEGS_DIFF" PATH="..\IMG_common\suits\Red_legs.dds"/>
+		<TEXTURE NAME="GLOVES_DIFF" PATH="..\IMG_common\suits\Red_gloves.dds"/>
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="..\IMG_common\suits\Black_belts.dds"/>
+	</OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="53" NAME="Hall Racing #8" BASELIVERY="BlackWheels">
+		<PREVIEWIMAGE PATH="CART 1995\8_deFerran_8_preview.dds"/>
+		<TEXTURE NAME="BODY" PATH="CART 1995\8_deFerran_8.dds"/>
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="53" BASEHELMET="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="CART 1995\8_deFerran_helmet.dds"/>
+		<TEXTURE NAME="VISOR_DIFF" PATH="CART 1995\8_deFerran_visor.dds"/>
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="53" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="..\IMG_common\suits\Yellow_body.dds"/>
+		<TEXTURE NAME="ARMS_DIFF" PATH="..\IMG_common\suits\Yellow_arms.dds"/>
+		<TEXTURE NAME="LEGS_DIFF" PATH="..\IMG_common\suits\Black_legs.dds"/>
+		<TEXTURE NAME="GLOVES_DIFF" PATH="..\IMG_common\suits\Red_gloves.dds"/>
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="..\IMG_common\suits\Red_belts.dds"/>
+	</OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="54" NAME="Bettenhausen Motorsports #16" BASELIVERY="BlackWheels">
+		<PREVIEWIMAGE PATH="CART 1995\16_Johansson_1_preview.dds"/>
+		<TEXTURE NAME="BODY" PATH="CART 1995\16_Johansson_1.dds"/>
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="54" BASEHELMET="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="CART 1995\16_Johansson_helmet.dds"/>
+		<TEXTURE NAME="VISOR_DIFF" PATH="CART 1995\16_Johansson_visor.dds"/>
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="54" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="..\IMG_common\suits\White_body.dds"/>
+		<TEXTURE NAME="ARMS_DIFF" PATH="..\IMG_common\suits\White_arms.dds"/>
+		<TEXTURE NAME="LEGS_DIFF" PATH="..\IMG_common\suits\White_legs.dds"/>
+		<TEXTURE NAME="GLOVES_DIFF" PATH="..\IMG_common\suits\Red_gloves.dds"/>
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="..\IMG_common\suits\Black_belts.dds"/>
+	</OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="55" NAME="Project Indy #64" BASELIVERY="BlackWheels">
+		<PREVIEWIMAGE PATH="CART 1995\64_Danner_8_preview.dds"/>
+		<TEXTURE NAME="BODY" PATH="CART 1995\64_Danner_8.dds"/>
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="55" BASEHELMET="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="CART 1995\64_Danner_helmet.dds"/>
+		<TEXTURE NAME="VISOR_DIFF" PATH="CART 1995\64_Danner_visor.dds"/>
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="55" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="..\IMG_common\suits\Red_body.dds"/>
+		<TEXTURE NAME="ARMS_DIFF" PATH="..\IMG_common\suits\Red_arms.dds"/>
+		<TEXTURE NAME="LEGS_DIFF" PATH="..\IMG_common\suits\Red_legs.dds"/>
+		<TEXTURE NAME="GLOVES_DIFF" PATH="..\IMG_common\suits\Red_gloves.dds"/>
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="..\IMG_common\suits\Black_belts.dds"/>
+	</OUTFIT_OVERRIDE>
+		
+</USER_OVERRIDES>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- Track-specific historic lineups by IMMERSION Modding Group -->
+
+<USER_OVERRIDES>
+	<LIVERY_OVERRIDE LIVERY="51" NAME="Target Chip Ganassi Racing #4" BASELIVERY="SilverWheels">
+		<PREVIEWIMAGE PATH="CART 1995\4_Herta_1_preview.dds"/>
+		<TEXTURE NAME="BODY" PATH="CART 1995\4_Herta_1.dds"/>
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="51" BASEHELMET="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="CART 1995\4_Herta_helmet.dds"/>
+		<TEXTURE NAME="VISOR_DIFF" PATH="CART 1995\4_Herta_visor.dds"/>
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="51" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="..\IMG_common\suits\Red_body.dds"/>
+		<TEXTURE NAME="ARMS_DIFF" PATH="..\IMG_common\suits\Red_arms.dds"/>
+		<TEXTURE NAME="LEGS_DIFF" PATH="..\IMG_common\suits\Black_legs.dds"/>
+		<TEXTURE NAME="GLOVES_DIFF" PATH="..\IMG_common\suits\Black_gloves.dds"/>
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="..\IMG_common\suits\Black_belts.dds"/>
+	</OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="52" NAME="Target Chip Ganassi Racing #12" BASELIVERY="SilverWheels">
+		<PREVIEWIMAGE PATH="CART 1995\12_Vasser_1_preview.dds"/>
+		<TEXTURE NAME="BODY" PATH="CART 1995\12_Vasser_1.dds"/>
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="52" BASEHELMET="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="CART 1995\12_Vasser_helmet.dds"/>
+		<TEXTURE NAME="VISOR_DIFF" PATH="CART 1995\12_Vasser_visor.dds"/>
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="52" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="..\IMG_common\suits\Red_body.dds"/>
+		<TEXTURE NAME="ARMS_DIFF" PATH="..\IMG_common\suits\Red_arms.dds"/>
+		<TEXTURE NAME="LEGS_DIFF" PATH="..\IMG_common\suits\Black_legs.dds"/>
+		<TEXTURE NAME="GLOVES_DIFF" PATH="..\IMG_common\suits\Black_gloves.dds"/>
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="..\IMG_common\suits\Black_belts.dds"/>
+	</OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="53" NAME="Walker Racing #5" BASELIVERY="BlackWheels">
+		<PREVIEWIMAGE PATH="CART 1995\5_Gordon_1_preview.dds"/>
+		<TEXTURE NAME="BODY" PATH="CART 1995\5_Gordon_1.dds"/>
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="53" BASEHELMET="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="CART 1995\5_Gordon_Helmet.dds"/>
+		<TEXTURE NAME="VISOR_DIFF" PATH="CART 1995\5_Gordon_visor.dds"/>
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="53" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="..\IMG_common\suits\Blue_D_body.dds"/>
+		<TEXTURE NAME="ARMS_DIFF" PATH="..\IMG_common\suits\Red_arms.dds"/>
+		<TEXTURE NAME="LEGS_DIFF" PATH="..\IMG_common\suits\Blue_D_legs.dds"/>
+		<TEXTURE NAME="GLOVES_DIFF" PATH="..\IMG_common\suits\Red_gloves.dds"/>
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="..\IMG_common\suits\Black_belts.dds"/>
+	</OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="54" NAME="Walker Racing #15" BASELIVERY="BlackWheels">
+		<PREVIEWIMAGE PATH="CART 1995\15_Fittipaldi_1_preview.dds"/>
+		<TEXTURE NAME="BODY" PATH="CART 1995\15_Fittipaldi_1.dds"/>
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="54" BASEHELMET="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="CART 1995\15_Fittipaldi_helmet.dds"/>
+		<TEXTURE NAME="VISOR_DIFF" PATH="CART 1995\15_Fittipaldi_visor.dds"/>
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="54" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="..\IMG_common\suits\Yellow_body.dds"/>
+		<TEXTURE NAME="ARMS_DIFF" PATH="..\IMG_common\suits\Yellow_arms.dds"/>
+		<TEXTURE NAME="LEGS_DIFF" PATH="..\IMG_common\suits\Yellow_legs.dds"/>
+		<TEXTURE NAME="GLOVES_DIFF" PATH="..\IMG_common\suits\Green_D_gloves.dds"/>
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="..\IMG_common\suits\Black_belts.dds"/>
+	</OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="55" NAME="PacWest Racing #17" BASELIVERY="BlackWheels">
+		<PREVIEWIMAGE PATH="CART 1995\17_Sullivan_1_preview.dds"/>
+		<TEXTURE NAME="BODY" PATH="CART 1995\17_Sullivan_1.dds"/>
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="55" BASEHELMET="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="CART 1995\17_Sullivan_helmet.dds"/>
+		<TEXTURE NAME="VISOR_DIFF" PATH="CART 1995\17_Sullivan_visor.dds"/>
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="55" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="..\IMG_common\suits\White_body.dds"/>
+		<TEXTURE NAME="ARMS_DIFF" PATH="..\IMG_common\suits\Red_arms.dds"/>
+		<TEXTURE NAME="LEGS_DIFF" PATH="..\IMG_common\suits\Blue_D_legs.dds"/>
+		<TEXTURE NAME="GLOVES_DIFF" PATH="..\IMG_common\suits\Red_gloves.dds"/>
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="..\IMG_common\suits\Black_belts.dds"/>
+	</OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="56" NAME="PacWest Racing #18" BASELIVERY="BlackWheels">
+		<PREVIEWIMAGE PATH="CART 1995\18_Gugelmin_1_preview.dds"/>
+		<TEXTURE NAME="BODY" PATH="CART 1995\18_Gugelmin_1.dds"/>
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="56" BASEHELMET="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="CART 1995\18_Gugelmin_helmet.dds"/>
+		<TEXTURE NAME="VISOR_DIFF" PATH="CART 1995\18_Gugelmin_visor.dds"/>
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="56" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="..\IMG_common\suits\Red_body.dds"/>
+		<TEXTURE NAME="ARMS_DIFF" PATH="..\IMG_common\suits\White_arms.dds"/>
+		<TEXTURE NAME="LEGS_DIFF" PATH="..\IMG_common\suits\Blue_D_legs.dds"/>
+		<TEXTURE NAME="GLOVES_DIFF" PATH="..\IMG_common\suits\Red_gloves.dds"/>
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="..\IMG_common\suits\Black_belts.dds"/>
+	</OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="57" NAME="Arciero Racing #25" BASELIVERY="SilverWheels">
+		<PREVIEWIMAGE PATH="CART 1995\25_Matsushita_1_preview.dds"/>
+		<TEXTURE NAME="BODY" PATH="CART 1995\25_Matsushita_1.dds"/>
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="57" BASEHELMET="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="CART 1995\25_Matsushita_helmet.dds"/>
+		<TEXTURE NAME="VISOR_DIFF" PATH="CART 1995\25_Matsushita_visor.dds"/>
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="57" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="..\IMG_common\suits\White_body.dds"/>
+		<TEXTURE NAME="ARMS_DIFF" PATH="..\IMG_common\suits\Blue_D_arms.dds"/>
+		<TEXTURE NAME="LEGS_DIFF" PATH="..\IMG_common\suits\Yellow_legs.dds"/>
+		<TEXTURE NAME="GLOVES_DIFF" PATH="..\IMG_common\suits\Red_gloves.dds"/>
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="..\IMG_common\suits\Black_belts.dds"/>
+	</OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="58" NAME="Team Green #27" BASELIVERY="GoldWheels">
+		<PREVIEWIMAGE PATH="CART 1995\27_Villeneuve_1_preview.dds"/>
+		<TEXTURE NAME="BODY" PATH="CART 1995\27_Villeneuve_1.dds"/>
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="58" BASEHELMET="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="CART 1995\27_Villeneuve_helmet.dds"/>
+		<TEXTURE NAME="VISOR_DIFF" PATH="CART 1995\27_Villeneuve_visor.dds"/>
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="58" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="..\IMG_common\suits\White_body.dds"/>
+		<TEXTURE NAME="ARMS_DIFF" PATH="..\IMG_common\suits\Blue_L_arms.dds"/>
+		<TEXTURE NAME="LEGS_DIFF" PATH="..\IMG_common\suits\Blue_D_legs.dds"/>
+		<TEXTURE NAME="GLOVES_DIFF" PATH="..\IMG_common\suits\Blue_D_gloves.dds"/>
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="..\IMG_common\suits\Black_belts.dds"/>
+	</OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="59" NAME="Forsythe Racing #33" BASELIVERY="SilverWheels">
+		<PREVIEWIMAGE PATH="CART 1995\33_Fabi_1_preview.dds"/>
+		<TEXTURE NAME="BODY" PATH="CART 1995\33_Fabi_1.dds"/>
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="59" BASEHELMET="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="CART 1995\33_Fabi_helmet.dds"/>
+		<TEXTURE NAME="VISOR_DIFF" PATH="CART 1995\33_Fabi_visor.dds"/>
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="59" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="..\IMG_common\suits\White_body.dds"/>
+		<TEXTURE NAME="ARMS_DIFF" PATH="..\IMG_common\suits\Red_arms.dds"/>
+		<TEXTURE NAME="LEGS_DIFF" PATH="..\IMG_common\suits\Red_legs.dds"/>
+		<TEXTURE NAME="GLOVES_DIFF" PATH="..\IMG_common\suits\Red_gloves.dds"/>
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="..\IMG_common\suits\Black_belts.dds"/>
+	</OUTFIT_OVERRIDE>
+
+</USER_OVERRIDES>

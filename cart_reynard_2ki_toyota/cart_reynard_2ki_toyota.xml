@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+
+    <LIVERY_OVERRIDE LIVERY="51" NAME="Della Penna Motorsports #10" BASELIVERY="BlackWheels">
+    <PREVIEWIMAGE PATH="Cart2000\previewCart10.dds" />
+    <TEXTURE NAME="BODY" PATH="Cart2000\Cart10.dds" />
+    </LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="51" BASEHELMET="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Cart2000\Helmets\Della Penna Motorsports\Helmet Memo Gidley #10.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="Cart2000\Helmets\Della Penna Motorsports\Visor_Gidley.dds" />
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="51" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Cart2000\SuitsColor\torso_red.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Cart2000\SuitsColor\arms_red.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Cart2000\SuitsColor\gloves_red.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Cart2000\SuitsColor\legs_red.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Cart2000\SuitsColor\belts_blue.dds" />
+    </OUTFIT_OVERRIDE>	
+
+    <LIVERY_OVERRIDE LIVERY="52" NAME="PPI Motorsports #96" BASELIVERY="SilverWheels">
+    <PREVIEWIMAGE PATH="Cart2000\previewCart96.dds" />
+    <TEXTURE NAME="BODY" PATH="Cart2000\Cart96.dds" />
+    </LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="52" BASEHELMET="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Cart2000\Helmets\PPI Motorsports\Helmet96.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="Cart2000\Helmets\PPI Motorsports\Visor_Servia.dds" />
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="52" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Cart2000\SuitsColor\torso_blue.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Cart2000\SuitsColor\arms_blue.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Cart2000\SuitsColor\gloves_black.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Cart2000\SuitsColor\legs_blue.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Cart2000\SuitsColor\belts_red.dds" />
+    </OUTFIT_OVERRIDE>	
+
+    <LIVERY_OVERRIDE LIVERY="53" NAME="PPI Motorsports #97" BASELIVERY="SilverWheels">
+    <PREVIEWIMAGE PATH="Cart2000\previewCart97.dds" />
+    <TEXTURE NAME="BODY" PATH="Cart2000\Cart97.dds" />
+    </LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="53" BASEHELMET="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Cart2000\Helmets\PPI Motorsports\Helmet97.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="Cart2000\Helmets\PPI Motorsports\Visor_da Matta.dds" />
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="53" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Cart2000\SuitsColor\torso_white.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Cart2000\SuitsColor\arms_red.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Cart2000\SuitsColor\gloves_black.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Cart2000\SuitsColor\legs_black.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Cart2000\SuitsColor\belts_black.dds" />
+    </OUTFIT_OVERRIDE>
+
+</USER_OVERRIDES>

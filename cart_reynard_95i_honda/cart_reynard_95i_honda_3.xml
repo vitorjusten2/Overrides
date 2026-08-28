@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- Track-specific historic lineups by IMMERSION Modding Group -->
+
+<USER_OVERRIDES>
+	<LIVERY_OVERRIDE LIVERY="51" NAME="Tasman Motorsports #31" BASELIVERY="BlackWheels">
+		<PREVIEWIMAGE PATH="CART 1995\31_Ribeiro_3_preview.dds"/>
+		<TEXTURE NAME="BODY" PATH="CART 1995\31_Ribeiro_3.dds"/>
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="51" BASEHELMET="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="CART 1995\31_Ribeiro_helmet.dds"/>
+		<TEXTURE NAME="VISOR_DIFF" PATH="CART 1995\31_Ribeiro_visor.dds"/>
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="51" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="..\IMG_common\suits\Red_body.dds"/>
+		<TEXTURE NAME="ARMS_DIFF" PATH="..\IMG_common\suits\Red_arms.dds"/>
+		<TEXTURE NAME="LEGS_DIFF" PATH="..\IMG_common\suits\Red_legs.dds"/>
+		<TEXTURE NAME="GLOVES_DIFF" PATH="..\IMG_common\suits\Red_gloves.dds"/>
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="..\IMG_common\suits\Blue_D_belts.dds"/>
+	</OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="52" NAME="Tasman Motorsports #24" BASELIVERY="BlackWheels">
+		<PREVIEWIMAGE PATH="CART 1995\24_Goodyear_3_preview.dds"/>
+		<TEXTURE NAME="BODY" PATH="CART 1995\24_Goodyear_3.dds"/>
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="52" BASEHELMET="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="CART 1995\24_Goodyear_helmet.dds"/>
+		<TEXTURE NAME="VISOR_DIFF" PATH="CART 1995\24_Goodyear_visor.dds"/>
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="52" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="..\IMG_common\suits\Red_body.dds"/>
+		<TEXTURE NAME="ARMS_DIFF" PATH="..\IMG_common\suits\Red_arms.dds"/>
+		<TEXTURE NAME="LEGS_DIFF" PATH="..\IMG_common\suits\Red_legs.dds"/>
+		<TEXTURE NAME="GLOVES_DIFF" PATH="..\IMG_common\suits\Black_gloves.dds"/>
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="..\IMG_common\suits\Black_belts.dds"/>
+	</OUTFIT_OVERRIDE>
+
+</USER_OVERRIDES>

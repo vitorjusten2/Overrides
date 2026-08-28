@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+
+    <!--
+        Create a copy of this file without the '_dist' part and place it beside this one
+
+        eg      'cart_reynard_2ki_honda_dist.xml'
+                    should become
+                'cart_reynard_2ki_honda.xml'
+
+        Define a 'LIVERY_OVERRIDE' section for each default livery you wish to replace.
+
+        A LIVERY_OVERRIDE definition must be based on one of the base liveries provided which will provide
+        variations where required. The LIVERY attribute determines which base game livery is replaced.
+        A NAME attribute must be set
+
+        Within a LIVERY_OVERRIDE definition each desired texture override
+        should be defined in a TEXTURE element. Any texture not present will use the texture from
+        the BASELIVERY.
+
+        Additionally a PREVIEWIMAGE element with a PATH attribute can be used to note a texture for use
+        in the game's UI. (2048 x 600 px )
+
+        Texture PATH attributes are relative to this file's directory. Further sub-directories are
+        permissable and their structure is left to the users own preference.
+
+		LIVERY IDs can be viewed in the game UI by running the game with -showLiveryIDs switch/launch option
+
+AVAILABLE BASE LIVERIES
+        =======================
+
+				SilverWheels: silver wheeled variant
+                Available textures:
+                        BODY        - the main external body/window paint texture
+                                    - 4096 x 4096
+                                    - DXT1 with MIPs
+									- DXT5 with MIPs saved with alpha channel for paint fx
+
+						SPEC     	- specular map
+                                    - 4096 x 4096
+                                    - DXT5 with MIPs
+
+						FRESNEL		- fresnel map
+                                    - 4096 x 4096
+                                    - DXT1 with MIPs
+
+				BlackWheels: black wheeled variant
+                Available textures:
+                        BODY        - the main external body/window paint texture
+                                    - 4096 x 4096
+                                    - DXT5 with MIPs saved with alpha channel for paint fx
+
+						SPEC     	- specular map
+                                    - 4096 x 4096
+                                    - DXT5 with MIPs
+
+						FRESNEL		- fresnel map
+                                    - 4096 x 4096
+                                    - DXT1 with MIPs
+
+				GoldWheels: gold wheeled variant
+                Available textures:
+                        BODY        - the main external body/window paint texture
+                                    - 4096 x 4096
+                                    - DXT1 with MIPs
+									- DXT5 with MIPs saved with alpha channel for paint fx
+
+						SPEC     	- specular map for reflection effects
+                                    - 4096 x 4096
+                                    - DXT5 with MIPs
+
+						FRESNEL		- fresnel map which controls the strength the chrome effects
+                                    - 4096 x 4096
+                                    - DXT1 with MIPs
+
+				SilverWheelsMattePaint: silver wheeled variant with matte paint
+                Available textures:
+                        BODY        - the main external body/window paint texture
+                                    - 4096 x 4096
+                                    - DXT1 with MIPs
+									- DXT5 with MIPs saved with alpha channel for paint fx
+
+						SPEC     	- specular map
+                                    - 4096 x 4096
+                                    - DXT5 with MIPs
+
+						FRESNEL		- fresnel map
+                                    - 4096 x 4096
+                                    - DXT1 with MIPs
+
+				BlackWheelsMattePaint: black wheeled variant with matte paint
+                Available textures:
+                        BODY        - the main external body/window paint texture
+                                    - 4096 x 4096
+                                    - DXT5 with MIPs saved with alpha channel for paint fx
+
+						SPEC     	- specular map
+                                    - 4096 x 4096
+                                    - DXT5 with MIPs
+
+						FRESNEL		- fresnel map
+                                    - 4096 x 4096
+                                    - DXT1 with MIPs
+
+				GoldWheelsMattePaint: gold wheeled variant with matte paint
+                Available textures:
+                        BODY        - the main external body/window paint texture
+                                    - 4096 x 4096
+                                    - DXT1 with MIPs
+									- DXT5 with MIPs saved with alpha channel for paint fx
+
+						SPEC     	- specular map for reflection effects
+                                    - 4096 x 4096
+                                    - DXT5 with MIPs
+
+						FRESNEL		- fresnel map which controls the strength the chrome effects
+                                    - 4096 x 4096
+                                    - DXT1 with MIPs
+
+				SilverWheelsChromePaint: silver wheeled variant with chrome paint
+                Available textures:
+                        BODY        - the main external body/window paint texture
+                                    - 4096 x 4096
+                                    - DXT1 with MIPs
+									- DXT5 with MIPs saved with alpha channel for paint fx
+
+						SPEC     	- specular map
+                                    - 4096 x 4096
+                                    - DXT5 with MIPs
+
+						FRESNEL		- fresnel map
+                                    - 4096 x 4096
+                                    - DXT1 with MIPs
+
+				BlackWheelsChromePaint: black wheeled variant with chrome paint
+                Available textures:
+                        BODY        - the main external body/window paint texture
+                                    - 4096 x 4096
+                                    - DXT5 with MIPs saved with alpha channel for paint fx
+
+						SPEC     	- specular map
+                                    - 4096 x 4096
+                                    - DXT5 with MIPs
+
+						FRESNEL		- fresnel map
+                                    - 4096 x 4096
+                                    - DXT1 with MIPs
+
+				GoldWheelsChromePaint: gold wheeled variant with chrome paint
+                Available textures:
+                        BODY        - the main external body/window paint texture
+                                    - 4096 x 4096
+                                    - DXT1 with MIPs
+									- DXT5 with MIPs saved with alpha channel for paint fx
+
+						SPEC     	- specular map for reflection effects
+                                    - 4096 x 4096
+                                    - DXT5 with MIPs
+
+						FRESNEL		- fresnel map which controls the strength the chrome effects
+                                    - 4096 x 4096
+                                    - DXT1 with MIPs
+
+
+        HELMETS
+        =======================
+
+        For each overriden livery a helmet override can be defined. The work similarly to liveries
+        in that they override a named base helmet with user defined textures. To assigne a helmet
+        to a livery use the same 'LIVERY' id as in the livery override
+
+        AVAILABLE BASE HELMETS
+        =======================
+
+        DEFAULT: default helmet used by all vehicles of the class
+            Available textures:
+                BODY_DIFF       - the main exterior surface of the helmet
+                                - 2048 x 2048
+                                - DXT1 with MIPs
+
+                BODY_SPEC       - specular map
+                                - 1024 x 1024
+                                - DXT1 with MIPs
+
+                VISOR_DIFF      - main visor texture
+                                - 1024 x 512
+                                - DXT5 with MIPs
+
+                VISOR_SPEC      - specular map
+                                - 1024 x 512
+                                - DXT5 with MIPs
+
+        OUTFITS
+        =======================
+
+        For each overriden livery an outfit override can be defined. The work similarly to liveries
+        in that they override a named base outfit with user defined textures. To assign an outfit
+        to a livery use the same 'LIVERY' id as in the livery override
+
+        AVAILABLE BASE OUTFITS
+        =======================
+
+        DEFAULT: default outfit used by all vehicles of the class
+            Available textures:
+                BODY_DIFF       - the main exterior surface of the body
+                                - 2048 x 2048
+                                - DXT1 with MIPs
+
+                BODY_SPEC       - specular map
+                                - 2048 x 2048
+                                - DXT5 with MIPs
+
+                ARMS_DIFF       - the main exterior surface of the arms
+                                - 2048 x 2048
+                                - DXT1 with MIPs
+
+                ARMS_SPEC       - specular map
+                                - 1024 x 1024
+                                - DXT5 with MIPs
+
+                LEGS_DIFF       - the main exterior surface of the legs
+                                - 2048 x 2048
+                                - DXT1 with MIPs
+
+                LEGS_SPEC       - specular map
+                                - 2048 x 2048
+                                - DXT5 with MIPs
+
+                GLOVES_DIFF     - the main exterior surface of the gloves
+                                - 2048 x 2048
+                                - DXT1 with MIPs
+
+                GLOVES_SPEC     - specular map
+                                - 1024 x 1024
+                                - DXT5 with MIPs
+
+                SEATBELTS_DIFF  - the main exterior surface of the seatbelts
+                                - 1024 x 1024
+                                - DXT1 with MIPs
+
+                SEATBELTS_SPEC  - specular map
+                                - 1024 x 1024
+                                - DXT5 with MIPs
+
+                
+
+        EXAMPLES
+        ================================= -->
+
+    <!--    <OUTFIT_OVERRIDE LIVERY="51" BASEOUTFIT="DEFAULT">
+            <TEXTURE NAME="BODY_DIFF" PATH="suit_body.dds" />
+            <TEXTURE NAME="ARMS_DIFF" PATH="suit_arms.dds" />
+            <TEXTURE NAME="LEGS_DIFF" PATH="suit_legs.dds" />
+            <TEXTURE NAME="GLOVES_DIFF" PATH="suit_gloves.dds" />
+            <TEXTURE NAME="SEATBELTS_DIFF" PATH="seatbelts.dds" />
+        </OUTFIT_OVERRIDE> -->
+
+    <!--    <OUTFIT_OVERRIDE LIVERY="51" BASEOUTFIT="DEFAULT">
+            <TEXTURE NAME="BODY_DIFF" PATH="suit_body.dds" />
+            <TEXTURE NAME="ARMS_DIFF" PATH="suit_arms.dds" />
+            <TEXTURE NAME="LEGS_DIFF" PATH="suit_legs.dds" />
+            <TEXTURE NAME="GLOVES_DIFF" PATH="suit_gloves.dds" />
+            <TEXTURE NAME="SEATBELTS_DIFF" PATH="seatbelts.dds" />
+        </OUTFIT_OVERRIDE> -->
+
+    <!-- <HELMET_OVERRIDE LIVERY="59" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="helmet_diff.dds" />
+        <TEXTURE NAME="BODY_SPEC" PATH="helmet_spec.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="visor_diff.dds" />
+        <TEXTURE NAME="VISOR_SPEC" PATH="visor_spec.dds" />
+    </HELMET_OVERRIDE> -->
+
+    <!-- <LIVERY_OVERRIDE LIVERY="60" NAME="My Racing Team #86" BASELIVERY="BlackWheelsMattePaint">
+        <PREVIEWIMAGE PATH="myracingteam\preview86.dds" />
+        <TEXTURE NAME="BODY" PATH="myracingteam\body86.dds" />
+        <TEXTURE NAME="SPEC" PATH="MyTeam\body86_spec.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="MyTeam\body86_fresnel.dds" />
+    </LIVERY_OVERRIDE> -->
+
+    <!-- <LIVERY_OVERRIDE LIVERY="61" NAME="My Racing Team #37" BASELIVERY="GoldWheelsMattePaint">
+        <PREVIEWIMAGE PATH="myracingteam\preview86.dds" />
+        <TEXTURE NAME="BODY" PATH="myracingteam\body86.dds" />
+    </LIVERY_OVERRIDE> -->
+
+    <!-- <LIVERY_OVERRIDE LIVERY="62" NAME="My Racing Team #38" BASELIVERY="GoldWheelsChromePaint">
+        <PREVIEWIMAGE PATH="myracingteam\preview38.dds" />
+        <TEXTURE NAME="BODY" PATH="myracingteam\body38.dds" />
+        <TEXTURE NAME="SPEC" PATH="MyTeam\body38_spec.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="MyTeam\body38_fresnel.dds" />
+    </LIVERY_OVERRIDE> -->
+</USER_OVERRIDES>

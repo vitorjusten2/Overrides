@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- Track-specific historic lineups by IMMERSION Modding Group -->
+
+<USER_OVERRIDES>
+	<LIVERY_OVERRIDE LIVERY="51" NAME="Rahal-Hogan Racing #9" BASELIVERY="BlackWheels">
+		<PREVIEWIMAGE PATH="CART 1995\9_Rahal_3_preview.dds"/>
+		<TEXTURE NAME="BODY" PATH="CART 1995\9_Rahal_3.dds"/>
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="51" BASEHELMET="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="CART 1995\9_Rahal_helmet.dds"/>
+		<TEXTURE NAME="VISOR_DIFF" PATH="CART 1995\9_Rahal_visor.dds"/>
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="51" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="..\IMG_common\suits\White_body.dds"/>
+		<TEXTURE NAME="ARMS_DIFF" PATH="..\IMG_common\suits\White_arms.dds"/>
+		<TEXTURE NAME="LEGS_DIFF" PATH="..\IMG_common\suits\Black_legs.dds"/>
+		<TEXTURE NAME="GLOVES_DIFF" PATH="..\IMG_common\suits\Red_gloves.dds"/>
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="..\IMG_common\suits\Black_belts.dds"/>
+	</OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="52" NAME="Rahal-Hogan Racing #11" BASELIVERY="BlackWheels">
+		<PREVIEWIMAGE PATH="CART 1995\11_Boesel_3_preview.dds"/>
+		<TEXTURE NAME="BODY" PATH="CART 1995\11_Boesel_3.dds"/>
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="52" BASEHELMET="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="CART 1995\11_Boesel_helmet.dds"/>
+		<TEXTURE NAME="VISOR_DIFF" PATH="CART 1995\11_Boesel_visor.dds"/>
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="52" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="..\IMG_common\suits\White_body.dds"/>
+		<TEXTURE NAME="ARMS_DIFF" PATH="..\IMG_common\suits\White_arms.dds"/>
+		<TEXTURE NAME="LEGS_DIFF" PATH="..\IMG_common\suits\Black_legs.dds"/>
+		<TEXTURE NAME="GLOVES_DIFF" PATH="..\IMG_common\suits\Black_gloves.dds"/>
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="..\IMG_common\suits\Black_belts.dds"/>
+	</OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="53" NAME="Galles Racing #10" BASELIVERY="SilverWheels">
+		<PREVIEWIMAGE PATH="CART 1995\10_Fernandez_3_preview.dds"/>
+		<TEXTURE NAME="BODY" PATH="CART 1995\10_Fernandez_3.dds"/>
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="53" BASEHELMET="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="CART 1995\10_Fernandez_helmet.dds"/>
+		<TEXTURE NAME="VISOR_DIFF" PATH="CART 1995\10_Fernandez_visor.dds"/>
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="53" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="..\IMG_common\suits\Red_body.dds"/>
+		<TEXTURE NAME="ARMS_DIFF" PATH="..\IMG_common\suits\Teal_arms.dds"/>
+		<TEXTURE NAME="LEGS_DIFF" PATH="..\IMG_common\suits\Black_legs.dds"/>
+		<TEXTURE NAME="GLOVES_DIFF" PATH="..\IMG_common\suits\Red_gloves.dds"/>
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="..\IMG_common\suits\Black_belts.dds"/>
+	</OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="54" NAME="Galles Racing #55" BASELIVERY="SilverWheels">
+		<PREVIEWIMAGE PATH="CART 1995\55_Greco_3_preview.dds" />
+		<TEXTURE NAME="BODY" PATH="CART 1995\55_Greco_3.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="54" BASEHELMET="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="CART 1995\55_Greco_helmet.dds" />
+		<TEXTURE NAME="VISOR_DIFF" PATH="CART 1995\55_Greco_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="54" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="..\IMG_common\suits\Red_body.dds"/>
+		<TEXTURE NAME="ARMS_DIFF" PATH="..\IMG_common\suits\Green_D_arms.dds"/>
+		<TEXTURE NAME="LEGS_DIFF" PATH="..\IMG_common\suits\Red_legs.dds"/>
+		<TEXTURE NAME="GLOVES_DIFF" PATH="..\IMG_common\suits\Red_gloves.dds"/>
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="..\IMG_common\suits\Black_belts.dds"/>
+	</OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="55" NAME="A. J. Foyt Enterprises #14" BASELIVERY="SilverWheels">
+		<PREVIEWIMAGE PATH="CART 1995\14_Cheever_3_preview.dds"/>
+		<TEXTURE NAME="BODY" PATH="CART 1995\14_Cheever_3.dds"/>
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="55" BASEHELMET="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="CART 1995\14_Cheever_helmet.dds"/>
+		<TEXTURE NAME="VISOR_DIFF" PATH="CART 1995\14_Cheever_visor.dds"/>
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="55" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="..\IMG_common\suits\Black_body.dds"/>
+		<TEXTURE NAME="ARMS_DIFF" PATH="..\IMG_common\suits\Black_arms.dds"/>
+		<TEXTURE NAME="LEGS_DIFF" PATH="..\IMG_common\suits\Black_legs.dds"/>
+		<TEXTURE NAME="GLOVES_DIFF" PATH="..\IMG_common\suits\Red_gloves.dds"/>
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="..\IMG_common\suits\Black_belts.dds"/>
+	</OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="56" NAME="Payton-Coyne Racing #19" BASELIVERY="BlackWheels">
+		<PREVIEWIMAGE PATH="CART 1995\19_Lazier_7_preview.dds"/>
+		<TEXTURE NAME="BODY" PATH="CART 1995\19_Lazier_7.dds"/>
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="56" BASEHELMET="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="CART 1995\19_Lazier_helmet.dds"/>
+		<TEXTURE NAME="VISOR_DIFF" PATH="CART 1995\19_Lazier_visor.dds"/>
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="56" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="..\IMG_common\suits\White_body.dds"/>
+		<TEXTURE NAME="ARMS_DIFF" PATH="..\IMG_common\suits\Green_D_arms.dds"/>
+		<TEXTURE NAME="LEGS_DIFF" PATH="..\IMG_common\suits\Red_legs.dds"/>
+		<TEXTURE NAME="GLOVES_DIFF" PATH="..\IMG_common\suits\Red_gloves.dds"/>
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="..\IMG_common\suits\Black_belts.dds"/>
+	</OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="57" NAME="Payton-Coyne Racing #34" BASELIVERY="BlackWheels">
+		<PREVIEWIMAGE PATH="CART 1995\34_Zampedri_7_preview.dds"/>
+		<TEXTURE NAME="BODY" PATH="CART 1995\34_Zampedri_7.dds"/>
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="57" BASEHELMET="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="CART 1995\34_Zampedri_helmet.dds"/>
+		<TEXTURE NAME="VISOR_DIFF" PATH="CART 1995\34_Zampedri_visor.dds"/>
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="57" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="..\IMG_common\suits\Red_body.dds"/>
+		<TEXTURE NAME="ARMS_DIFF" PATH="..\IMG_common\suits\Yellow_arms.dds"/>
+		<TEXTURE NAME="LEGS_DIFF" PATH="..\IMG_common\suits\Red_legs.dds"/>
+		<TEXTURE NAME="GLOVES_DIFF" PATH="..\IMG_common\suits\Red_gloves.dds"/>
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="..\IMG_common\suits\Black_belts.dds"/>
+	</OUTFIT_OVERRIDE>
+
+</USER_OVERRIDES>
