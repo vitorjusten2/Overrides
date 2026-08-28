@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+   	
+	<LIVERY_OVERRIDE LIVERY="51" NAME="1999 McLaren 1# M. Häkkinen" BASELIVERY="SilverMetallic">
+	<PREVIEWIMAGE PATH="F1_Season_1999\Previews\previewMcLaren01_Mika.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_1999\McLaren01_Mika.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_1999\Rims\1999_McLaren_rims.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_1999\Rims\1999_McLaren_rims_blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_1999\Rims\1999_rims_lowspec.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_1999\Rims\1999_rims_lowspec_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="51" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1999\Helmets\99_Hakkinen_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1999\Helmets\helmet_spec.dds" />
+    	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1999\Helmets\99_McLaren_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="51" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1999\Suits\99_mclaren_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1999\Suits\99_mclaren_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1999\Suits\99_mclaren_hakkinen_gloves.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_1999\Suits\99_gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1999\Suits\99_mclaren_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1999\Harness\Black_BOSS_harness.dds" />
+        </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="52" NAME="1999 McLaren 2# D. Coulthard" BASELIVERY="SilverMetallic">
+	<PREVIEWIMAGE PATH="F1_Season_1999\Previews\previewMcLaren02_David.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_1999\McLaren02_David.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_1999\Rims\1999_McLaren_rims.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_1999\Rims\1999_McLaren_rims_blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_1999\Rims\1999_rims_lowspec.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_1999\Rims\1999_rims_lowspec_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="52" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1999\Helmets\99_Coulthard_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1999\Helmets\helmet_spec.dds" />
+    	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1999\Helmets\99_McLaren_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="52" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1999\Suits\99_mclaren_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1999\Suits\99_mclaren_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1999\Suits\99_mclaren_coulthard_gloves.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_1999\Suits\99_gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1999\Suits\99_mclaren_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1999\Harness\Black_BOSS_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="53" NAME="1999 Ferrari 3# M. Salo" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_1999\Previews\previewFerrari03_Salo_NT.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_1999\Ferrari03_Salo_NT.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_1999\Rims\1999_Ferrari_rims.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_1999\Rims\1999_Ferrari_rims_blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_1999\Rims\1999_rims_lowspec.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_1999\Rims\1999_rims_lowspec_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="53" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1999\Helmets\99_Salo_Ferrari_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1999\Helmets\helmet_spec.dds" />
+    	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1999\Helmets\99_Salo_Ferrari_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="53" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1999\Suits\99_ferrari_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1999\Suits\99_ferrari_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1999\Suits\99_ferrari_gloves.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_1999\Suits\99_gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1999\Suits\99_ferrari_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1999\Harness\red_Sabelt_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="54" NAME="1999 Ferrari 4# E. Irvine" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_1999\Previews\previewFerrari04_NT.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_1999\Ferrari04_NT.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_1999\Rims\1999_Ferrari_rims.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_1999\Rims\1999_Ferrari_rims_blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_1999\Rims\1999_rims_lowspec.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_1999\Rims\1999_rims_lowspec_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="54" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1999\Helmets\99_Irvine_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1999\Helmets\helmet_spec.dds" />
+    	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1999\Helmets\99_Irvine_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="54" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1999\Suits\99_ferrari_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1999\Suits\99_ferrari_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1999\Suits\99_ferrari_gloves.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_1999\Suits\99_gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1999\Suits\99_ferrari_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1999\Harness\red_Sabelt_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="55" NAME="1999 Williams 5# A. Zanardi" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_1999\Previews\previewWilliams05_NT.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_1999\Williams05_NT.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_1999\Rims\1999_Williams_rims.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_1999\Rims\1999_Williams_rims_blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_1999\Rims\1999_rims_lowspec.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_1999\Rims\1999_rims_lowspec_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="55" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1999\Helmets\99_Zanardi_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1999\Helmets\helmet_spec.dds" />
+    	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1999\Helmets\99_Williams_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="55" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1999\Suits\99_williams_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1999\Suits\99_williams_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1999\Suits\99_williams_gloves.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_1999\Suits\99_gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1999\Suits\99_williams_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1999\Harness\red_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="56" NAME="1999 Williams 6# R. Schumacher" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_1999\Previews\previewWilliams06_NT.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_1999\Williams06_NT.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_1999\Rims\1999_Williams_rims.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_1999\Rims\1999_Williams_rims_blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_1999\Rims\1999_rims_lowspec.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_1999\Rims\1999_rims_lowspec_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="56" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1999\Helmets\99_RSchumacher_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1999\Helmets\helmet_spec.dds" />
+    	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1999\Helmets\99_Williams_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="56" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1999\Suits\99_williams_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1999\Suits\99_williams_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1999\Suits\99_williams_gloves.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_1999\Suits\99_gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1999\Suits\99_williams_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1999\Harness\red_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="57" NAME="1999 Jordan 7# D. Hill" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_1999\Previews\previewJordan07_Buzzin.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_1999\Jordan07_Buzzin.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_1999\Rims\1999_Jordan_rims.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_1999\Rims\1999_Jordan_rims_blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_1999\Rims\1999_rims_lowspec.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_1999\Rims\1999_rims_lowspec_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="57" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1999\Helmets\99_Hill_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1999\Helmets\helmet_spec.dds" />
+    	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1999\Helmets\99_Jordan_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="57" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1999\Suits\99_jordan_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1999\Suits\99_jordan_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1999\Suits\99_jordan_hill_gloves.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_1999\Suits\99_gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1999\Suits\99_jordan_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1999\Harness\Black_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="58" NAME="1999 Jordan 8# H-H. Frentzen" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_1999\Previews\previewJordan08_Buzzin.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_1999\Jordan08_Buzzin.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_1999\Rims\1999_Jordan_rims.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_1999\Rims\1999_Jordan_rims_blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_1999\Rims\1999_rims_lowspec.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_1999\Rims\1999_rims_lowspec_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="58" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1999\Helmets\99_Frentzen_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1999\Helmets\helmet_spec.dds" />
+    	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1999\Helmets\99_Jordan_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="58" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1999\Suits\99_jordan_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1999\Suits\99_jordan_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1999\Suits\99_jordan_gloves.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_1999\Suits\99_gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1999\Suits\99_jordan_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1999\Harness\Black_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="59" NAME="1999 Benetton 9# G. Fisichella" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_1999\Previews\previewBenetton09_NT.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_1999\Benetton09_NT.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_1999\Rims\1999_Benetton_rims.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_1999\Rims\1999_Benetton_rims_blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_1999\Rims\1999_rims_lowspec.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_1999\Rims\1999_rims_lowspec_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="59" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1999\Helmets\99_Fisichella_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1999\Helmets\helmet_spec.dds" />
+    	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1999\Helmets\99_Fisichella_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="59" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1999\Suits\99_Benetton_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1999\Suits\99_Benetton_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1999\Suits\99_Benetton_gloves.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_1999\Suits\99_gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1999\Suits\99_Benetton_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1999\Harness\Blue_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="60" NAME="1999 Benetton 10# A. Wurz" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_1999\Previews\previewBenetton10_NT.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_1999\Benetton10_NT.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_1999\Rims\1999_Benetton_rims.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_1999\Rims\1999_Benetton_rims_blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_1999\Rims\1999_rims_lowspec.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_1999\Rims\1999_rims_lowspec_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="60" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1999\Helmets\99_Wurz_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1999\Helmets\helmet_spec.dds" />
+    	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1999\Helmets\99_Wurz_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="60" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1999\Suits\99_Benetton_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1999\Suits\99_Benetton_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1999\Suits\99_Benetton_gloves.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_1999\Suits\99_gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1999\Suits\99_Benetton_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1999\Harness\Blue_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="61" NAME="1999 Sauber 11# J. Alesi" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_1999\Previews\previewSauber11.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_1999\Sauber11.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_1999\Rims\1999_Sauber_rims.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_1999\Rims\1999_Sauber_rims_blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_1999\Rims\1999_rims_lowspec.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_1999\Rims\1999_rims_lowspec_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="61" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1999\Helmets\99_Alesi_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1999\Helmets\99_Alesi_spec.dds" />
+    	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1999\Helmets\99_Sauber_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="61" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1999\Suits\99_Sauber_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1999\Suits\99_Sauber_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1999\Suits\99_Sauber_gloves.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_1999\Suits\99_gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1999\Suits\99_Sauber_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1999\Harness\Blue_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="62" NAME="1999 Sauber 12# P. Diniz" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_1999\Previews\previewSauber12.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_1999\Sauber12.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_1999\Rims\1999_Sauber_rims.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_1999\Rims\1999_Sauber_rims_blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_1999\Rims\1999_rims_lowspec.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_1999\Rims\1999_rims_lowspec_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="62" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1999\Helmets\99_Diniz_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1999\Helmets\helmet_spec.dds" />
+    	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1999\Helmets\99_Sauber_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="62" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1999\Suits\99_Sauber_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1999\Suits\99_Sauber_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1999\Suits\99_Sauber_gloves.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_1999\Suits\99_gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1999\Suits\99_Sauber_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1999\Harness\Blue_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="63" NAME="1999 Arrows 14# P. de la Rosa" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_1999\Previews\previewArrows14.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_1999\Arrows14.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_1999\Rims\1999_Arrows_rims.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_1999\Rims\1999_Arrows_rims_blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_1999\Rims\1999_rims_lowspec.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_1999\Rims\1999_rims_lowspec_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="63" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1999\Helmets\99_delaRosa_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1999\Helmets\helmet_spec.dds" />
+    	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1999\Helmets\99_Arrows_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="63" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1999\Suits\99_Arrows_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1999\Suits\99_Arrows_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1999\Suits\99_Arrows_gloves.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_1999\Suits\99_gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1999\Suits\99_Arrows_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1999\Harness\Black_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="64" NAME="1999 Arrows 15# T. Takagi" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_1999\Previews\previewArrows15.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_1999\Arrows15.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_1999\Rims\1999_Arrows_rims.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_1999\Rims\1999_Arrows_rims_blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_1999\Rims\1999_rims_lowspec.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_1999\Rims\1999_rims_lowspec_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="64" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1999\Helmets\99_Takagi_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1999\Helmets\helmet_spec.dds" />
+    	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1999\Helmets\99_Arrows_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="64" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1999\Suits\99_Arrows_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1999\Suits\99_Arrows_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1999\Suits\99_Arrows_gloves.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_1999\Suits\99_gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1999\Suits\99_Arrows_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1999\Harness\Black_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="65" NAME="1999 Stewart 16# R. Barrichello" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_1999\Previews\previewStewart16.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_1999\Stewart16.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_1999\Rims\1999_Stewart_rims.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_1999\Rims\1999_Stewart_rims_blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_1999\Rims\1999_rims_lowspec.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_1999\Rims\1999_rims_lowspec_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="65" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1999\Helmets\99_Barrichello_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1999\Helmets\helmet_spec.dds" />
+    	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1999\Helmets\99_Stewart_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="65" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1999\Suits\99_Stewart_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1999\Suits\99_Stewart_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1999\Suits\99_Stewart_gloves.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_1999\Suits\99_gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1999\Suits\99_Stewart_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1999\Harness\Blue_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="66" NAME="1999 Stewart 17# J. Herbert" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_1999\Previews\previewStewart17.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_1999\Stewart17.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_1999\Rims\1999_Stewart_rims.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_1999\Rims\1999_Stewart_rims_blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_1999\Rims\1999_rims_lowspec.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_1999\Rims\1999_rims_lowspec_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="66" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1999\Helmets\99_Herbert_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1999\Helmets\helmet_spec.dds" />
+    	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1999\Helmets\99_Stewart_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="66" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1999\Suits\99_Stewart_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1999\Suits\99_Stewart_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1999\Suits\99_Stewart_gloves.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_1999\Suits\99_gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1999\Suits\99_Stewart_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1999\Harness\Blue_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+		
+	<LIVERY_OVERRIDE LIVERY="67" NAME="1999 Prost 18# O. Panis" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_1999\Previews\previewProst18_NT.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_1999\Prost18_NT.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_1999\Rims\1999_Prost_rims.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_1999\Rims\1999_Prost_rims_blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_1999\Rims\1999_rims_lowspec.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_1999\Rims\1999_rims_lowspec_blur.dds" />
+    	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="67" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1999\Helmets\99_Panis_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1999\Helmets\helmet_spec.dds" />
+    	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1999\Helmets\99_Prost_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="67" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1999\Suits\99_Prost_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1999\Suits\99_Prost_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1999\Suits\99_Prost_gloves.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_1999\Suits\99_gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1999\Suits\99_Prost_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1999\Harness\red_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="68" NAME="1999 Prost 19# J. Trulli" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_1999\Previews\previewProst19_NT.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_1999\Prost19_NT.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_1999\Rims\1999_Prost_rims.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_1999\Rims\1999_Prost_rims_blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_1999\Rims\1999_rims_lowspec.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_1999\Rims\1999_rims_lowspec_blur.dds" />
+    	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="68" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1999\Helmets\99_Trulli_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1999\Helmets\helmet_spec.dds" />
+    	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1999\Helmets\99_Prost_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="68" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1999\Suits\99_Prost_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1999\Suits\99_Prost_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1999\Suits\99_Prost_gloves.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_1999\Suits\99_gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1999\Suits\99_Prost_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1999\Harness\red_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+			
+	<LIVERY_OVERRIDE LIVERY="69" NAME="1999 Minardi 20# L. Badoer" BASELIVERY="SilverMetallic">
+	<PREVIEWIMAGE PATH="F1_Season_1999\Previews\previewMinardi20.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_1999\Minardi20.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_1999\Rims\1999_Minardi_rims.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_1999\Rims\1999_Minardi_rims_blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_1999\Rims\1999_rims_lowspec.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_1999\Rims\1999_rims_lowspec_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="69" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1999\Helmets\99_Badoer_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1999\Helmets\helmet_spec.dds" />
+    	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1999\Helmets\99_Badoer_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="69" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1999\Suits\99_Minardi_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1999\Suits\99_Minardi_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1999\Suits\99_Minardi_gloves.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_1999\Suits\99_gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1999\Suits\99_Minardi_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1999\Harness\red_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+			
+	<LIVERY_OVERRIDE LIVERY="70" NAME="1999 Minardi 21# M. Gené" BASELIVERY="SilverMetallic">
+	<PREVIEWIMAGE PATH="F1_Season_1999\Previews\previewMinardi21.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_1999\Minardi21.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_1999\Rims\1999_Minardi_rims.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_1999\Rims\1999_Minardi_rims_blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_1999\Rims\1999_rims_lowspec.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_1999\Rims\1999_rims_lowspec_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="70" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1999\Helmets\99_Gene_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1999\Helmets\helmet_spec.dds" />
+    	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1999\Helmets\99_Gene_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="70" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1999\Suits\99_Minardi_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1999\Suits\99_Minardi_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1999\Suits\99_Minardi_gloves.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_1999\Suits\99_gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1999\Suits\99_Minardi_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1999\Harness\red_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+			
+	<LIVERY_OVERRIDE LIVERY="71" NAME="1999 BAR 22# J. Villeneuve" BASELIVERY="SilverMetallic">
+	<PREVIEWIMAGE PATH="F1_Season_1999\Previews\previewBAR22_NT.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_1999\BAR22_NT.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_1999\Rims\1999_Villeneuve_rims.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_1999\Rims\1999_Villeneuve_rims_blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_1999\Rims\1999_rims_lowspec.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_1999\Rims\1999_rims_lowspec_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="71" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1999\Helmets\99_Villeneuve_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1999\Helmets\helmet_spec.dds" />
+    	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1999\Helmets\99_Villeneuve_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="71" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1999\Suits\99_Villeneuve_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1999\Suits\99_Villeneuve_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1999\Suits\99_Villeneuve_gloves.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_1999\Suits\99_gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1999\Suits\99_Villeneuve_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1999\Harness\Black_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+			
+	<LIVERY_OVERRIDE LIVERY="72" NAME="1999 BAR 23# R. Zonta" BASELIVERY="SilverMetallic">
+	<PREVIEWIMAGE PATH="F1_Season_1999\Previews\previewBAR23_NT.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_1999\BAR23_NT.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_1999\Rims\1999_Zonta_rims.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_1999\Rims\1999_Zonta_rims_blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_1999\Rims\1999_rims_lowspec.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_1999\Rims\1999_rims_lowspec_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="72" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1999\Helmets\99_Zonta_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1999\Helmets\helmet_spec.dds" />
+    	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1999\Helmets\99_Zonta_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="72" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1999\Suits\99_Zonta_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1999\Suits\99_Zonta_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1999\Suits\99_Zonta_gloves.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_1999\Suits\99_gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1999\Suits\99_Zonta_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1999\Harness\Black_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="73" NAME="1999 Minardi # F. Alonso" BASELIVERY="SilverMetallic">
+	<PREVIEWIMAGE PATH="F1_Season_1999\Previews\previewMinardi_Alonso.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_1999\Minardi_Alonso.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_1999\Rims\1999_Minardi_rims.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_1999\Rims\1999_Minardi_rims_blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_1999\Rims\1999_rims_lowspec.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_1999\Rims\1999_rims_lowspec_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="73" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1999\Helmets\99_Alonso_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1999\Helmets\helmet_spec.dds" />
+    	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1999\Helmets\99_Gene_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="73" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1999\Suits\99_Minardi_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1999\Suits\99_Minardi_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1999\Suits\99_Minardi_gloves.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_1999\Suits\99_gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1999\Suits\99_Minardi_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1999\Harness\red_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="74" NAME="1999 Honda # J. Verstappen" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_1999\Previews\previewHonda_RA099.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_1999\Honda_RA099.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="74" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1999\Helmets\99_Verstappen_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1999\Helmets\helmet_spec.dds" />
+    	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1999\Helmets\99_Honda_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="74" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1999\Suits\99_Honda_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1999\Suits\99_Honda_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1999\Suits\99_Arrows_gloves.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_1999\Suits\99_gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1999\Suits\99_Honda_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1999\Harness\Black_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+	
+</USER_OVERRIDES>

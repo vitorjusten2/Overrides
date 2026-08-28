@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--F1 2005 Round 14 (Turkey) Bridgestone version XML File-->
+<USER_OVERRIDES>
+
+	<LIVERY_OVERRIDE LIVERY="51" NAME="2005 Ferrari #1 - M. Schumacher" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_2005\preview\1_Ferrari_NT.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_2005\1_Ferrari_NT.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_2005\Rims\Ferrari.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_2005\Rims\Ferrari_Blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_2005\Rims\low.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_2005\Rims\low_blur.dds" />
+	<TEXTURE NAME="TIREDIFF" PATH="F1_Season_2005\Tires\1_Ferrari.dds" />
+	<TEXTURE NAME="TIREBLURDIFF" PATH="F1_Season_2005\Tires\1_Ferrari_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="51" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2005\Helmet\MSchumacher_NT.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_2005\Helmet\MSchumacher_NT_visor.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_2005\Helmet\helmet_spec.dds" />
+		<TEXTURE NAME="VISOR_SPEC" PATH="F1_Season_2005\Helmet\MSchumacher_visor_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="51" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2005\Driver\FerrariDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_2005\Driver\FerrariArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_2005\Driver\FerrariGloves.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_2005\Driver\Gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_2005\Driver\FerrariLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_2005\Harness\Ferrari.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="52" NAME="2005 Ferrari #2 - R. Barrichello" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_2005\preview\2_Ferrari_NT.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_2005\2_Ferrari_NT.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_2005\Rims\Ferrari.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_2005\Rims\Ferrari_Blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_2005\Rims\low.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_2005\Rims\low_blur.dds" />
+	<TEXTURE NAME="TIREDIFF" PATH="F1_Season_2005\Tires\1_Ferrari.dds" />
+	<TEXTURE NAME="TIREBLURDIFF" PATH="F1_Season_2005\Tires\1_Ferrari_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="52" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2005\Helmet\Barrichello_NT.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_2005\Helmet\Barrichello_NT_visor.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_2005\Helmet\helmet_spec.dds" />
+		<TEXTURE NAME="VISOR_SPEC" PATH="F1_Season_2005\Helmet\Barrichello_visor_Spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="52" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2005\Driver\FerrariDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_2005\Driver\FerrariArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_2005\Driver\FerrariGloves.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_2005\Driver\Gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_2005\Driver\FerrariLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_2005\Harness\Ferrari.dds" />
+    </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="53" NAME="2005 Jordan #18 - T. Monteiro" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_2005\preview\18_Jordan_NT.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_2005\18_Jordan_NT.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_2005\Rims\Jordan.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_2005\Rims\Jordan_Blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_2005\Rims\low.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_2005\Rims\low_blur.dds" />
+	<TEXTURE NAME="TIREDIFF" PATH="F1_Season_2005\Tires\18_Jordan.dds" />
+	<TEXTURE NAME="TIREBLURDIFF" PATH="F1_Season_2005\Tires\18_Jordan_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="53" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2005\Helmet\Monteiro.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_2005\Helmet\Jordan_visor.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_2005\Helmet\helmet_spec.dds" />
+		<TEXTURE NAME="VISOR_SPEC" PATH="F1_Season_2005\Helmet\visor_spec_black.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="53" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2005\Driver\JordanDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_2005\Driver\JordanArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_2005\Driver\JordanGloves.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_2005\Driver\Gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_2005\Driver\JordanLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_2005\Harness\Jordan.dds" />
+    </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="54" NAME="2005 Jordan #19 - N. Karthikeyan" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_2005\preview\19_Jordan_NT.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_2005\19_Jordan_NT.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_2005\Rims\Jordan.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_2005\Rims\Jordan_Blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_2005\Rims\low.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_2005\Rims\low_blur.dds" />
+	<TEXTURE NAME="TIREDIFF" PATH="F1_Season_2005\Tires\18_Jordan.dds" />
+	<TEXTURE NAME="TIREBLURDIFF" PATH="F1_Season_2005\Tires\18_Jordan_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="54" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2005\Helmet\Karthikeyan.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_2005\Helmet\Jordan_visor.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_2005\Helmet\helmet_spec.dds" />
+		<TEXTURE NAME="VISOR_SPEC" PATH="F1_Season_2005\Helmet\visor_spec_black.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="54" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2005\Driver\JordanDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_2005\Driver\JordanArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_2005\Driver\JordanGloves.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_2005\Driver\Gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_2005\Driver\JordanLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_2005\Harness\Jordan.dds" />
+    </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="55" NAME="2005 Minardi #20 - R. Doornbos" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_2005\preview\20_Minardi_Doornbos.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_2005\20_Minardi_Doornbos.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_2005\Rims\Minardi.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_2005\Rims\Minardi_Blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_2005\Rims\low.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_2005\Rims\low_blur.dds" />
+	<TEXTURE NAME="TIREDIFF" PATH="F1_Season_2005\Tires\20_Minardi_Doornbos.dds" />
+	<TEXTURE NAME="TIREBLURDIFF" PATH="F1_Season_2005\Tires\20_Minardi_Doornbos_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="55" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2005\Helmet\Doornbos.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_2005\Helmet\Doornbos_visor.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_2005\Helmet\helmet_spec.dds" />
+		<TEXTURE NAME="VISOR_SPEC" PATH="F1_Season_2005\Helmet\visor_spec_blue.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="55" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2005\Driver\MinardiDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_2005\Driver\MinardiArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_2005\Driver\MinardiGloves.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_2005\Driver\Gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_2005\Driver\MinardiLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_2005\Harness\Minardi.dds" />
+    </OUTFIT_OVERRIDE>	
+
+	<LIVERY_OVERRIDE LIVERY="56" NAME="2005 Minardi #21 - C. Albers" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_2005\preview\21_Minardi.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_2005\21_Minardi.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_2005\Rims\Minardi.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_2005\Rims\Minardi_Blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_2005\Rims\low.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_2005\Rims\low_blur.dds" />
+	<TEXTURE NAME="TIREDIFF" PATH="F1_Season_2005\Tires\21_Minardi.dds" />
+	<TEXTURE NAME="TIREBLURDIFF" PATH="F1_Season_2005\Tires\21_Minardi_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="56" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2005\Helmet\Albers.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_2005\Helmet\Albers_visor.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_2005\Helmet\helmet_spec.dds" />
+		<TEXTURE NAME="VISOR_SPEC" PATH="F1_Season_2005\Helmet\Albers_visor_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="56" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2005\Driver\MinardiDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_2005\Driver\MinardiArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_2005\Driver\MinardiGloves.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_2005\Driver\Gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_2005\Driver\MinardiLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_2005\Harness\Minardi.dds" />
+    </OUTFIT_OVERRIDE>
+
+</USER_OVERRIDES>

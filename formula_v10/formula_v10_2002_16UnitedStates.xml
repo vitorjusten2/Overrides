@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--F1 2002 Round 9 (Europe)-->
+<USER_OVERRIDES>
+
+	<LIVERY_OVERRIDE LIVERY="51" NAME="2002 Ferrari #1 - M. Schumacher" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_2002\preview\1_Ferrari_NT.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_2002\1_Ferrari_NT.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_2002\Rims\Ferrari.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_2002\Rims\Ferrari_Blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_2002\Rims\low.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_2002\Rims\low_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="51" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2002\Helmet\MSchumacher_NT.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_2002\Helmet\MSchumacher_NT_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="51" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2002\Driver\FerrariDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_2002\Driver\FerrariArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_2002\Driver\FerrariGloves.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_2002\Driver\Gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_2002\Driver\FerrariLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_2002\Harness\red.dds" />
+    </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="52" NAME="2002 Ferrari #2 - R. Barrichello" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_2002\preview\2_Ferrari_NT.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_2002\2_Ferrari_NT.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_2002\Rims\Ferrari.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_2002\Rims\Ferrari_Blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_2002\Rims\low.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_2002\Rims\low_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="52" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2002\Helmet\Barrichello_NT.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_2002\Helmet\Barrichello_NT_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="52" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2002\Driver\FerrariDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_2002\Driver\FerrariArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_2002\Driver\FerrariGloves.dds" />
+		<TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_2002\Driver\Gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_2002\Driver\FerrariLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_2002\Harness\red.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="53" NAME="2002 McLaren #3 - D. Coulthard" BASELIVERY="SilverMetallic">
+	<PREVIEWIMAGE PATH="F1_Season_2002\preview\3_McLaren.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_2002\3_McLaren.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_2002\Rims\McLaren.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_2002\Rims\McLaren_Blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_2002\Rims\low.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_2002\Rims\low_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="53" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2002\Helmet\Coulthard.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_2002\Helmet\Coulthard_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="53" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2002\Driver\McLarenDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_2002\Driver\McLarenArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_2002\Driver\McLarenGloves_Coulthard.dds" />
+		<TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_2002\Driver\Gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_2002\Driver\McLarenLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_2002\Harness\black.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="54" NAME="2002 McLaren #4 - K. Räikkönen" BASELIVERY="SilverMetallic">
+	<PREVIEWIMAGE PATH="F1_Season_2002\preview\4_McLaren.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_2002\4_McLaren.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_2002\Rims\McLaren.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_2002\Rims\McLaren_Blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_2002\Rims\low.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_2002\Rims\low_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="54" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2002\Helmet\Raikkonen.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_2002\Helmet\Raikkonen_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="54" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2002\Driver\McLarenDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_2002\Driver\McLarenArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_2002\Driver\McLarenGloves_Raikkonen.dds" />
+		<TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_2002\Driver\Gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_2002\Driver\McLarenLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_2002\Harness\black.dds" />
+    </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="55" NAME="2002 Williams #5 - R. Schumacher" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_2002\preview\5_Williams_HP.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_2002\5_Williams_HP.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_2002\Rims\Williams.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_2002\Rims\Williams_Blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_2002\Rims\low.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_2002\Rims\low_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="55" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2002\Helmet\RSchumacher_HP.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_2002\Helmet\Williams_HP_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="55" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2002\Driver\Williams_HPDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_2002\Driver\WilliamsArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_2002\Driver\WilliamsGloves_Schumacher.dds" />
+		<TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_2002\Driver\Gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_2002\Driver\WilliamsLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_2002\Harness\blue.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="56" NAME="2002 Williams #6 - J-P. Montoya" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_2002\preview\6_Williams_HP.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_2002\6_Williams_HP.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_2002\Rims\Williams.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_2002\Rims\Williams_Blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_2002\Rims\low.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_2002\Rims\low_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="56" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2002\Helmet\Montoya_HP.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_2002\Helmet\Williams_HP_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="56" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2002\Driver\Williams_HPDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_2002\Driver\WilliamsArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_2002\Driver\WilliamsGloves_Montoya.dds" />
+		<TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_2002\Driver\Gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_2002\Driver\WilliamsLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_2002\Harness\blue.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="57" NAME="2002 Sauber #7 - N. Heidfeld" BASELIVERY="BlueMetallic">
+	<PREVIEWIMAGE PATH="F1_Season_2002\preview\7_Sauber_Late.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_2002\7_Sauber_Late.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_2002\Rims\Sauber.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_2002\Rims\Sauber_Blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_2002\Rims\low.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_2002\Rims\low_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="57" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2002\Helmet\Heidfeld.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_2002\Helmet\Sauber_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="57" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2002\Driver\SauberDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_2002\Driver\SauberArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_2002\Driver\SauberGloves.dds" />
+		<TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_2002\Driver\Gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_2002\Driver\SauberLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_2002\Harness\blue.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="58" NAME="2002 Sauber #8 - H-H. Frentzen" BASELIVERY="BlueMetallic">
+	<PREVIEWIMAGE PATH="F1_Season_2002\preview\8_Sauber_Frentzen.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_2002\8_Sauber_Late.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_2002\Rims\Sauber.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_2002\Rims\Sauber_Blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_2002\Rims\low.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_2002\Rims\low_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="58" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2002\Helmet\Frentzen_Sauber.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_2002\Helmet\Sauber_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="58" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2002\Driver\SauberDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_2002\Driver\SauberArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_2002\Driver\SauberGloves.dds" />
+		<TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_2002\Driver\Gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_2002\Driver\SauberLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_2002\Harness\blue.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="59" NAME="2002 Jordan #9 - G. Fisichella" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_2002\preview\9_Jordan_NT.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_2002\9_Jordan_NT.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_2002\Rims\Jordan.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_2002\Rims\Jordan_Blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_2002\Rims\low.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_2002\Rims\low_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="59" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2002\Helmet\Fisichella.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_2002\Helmet\Fisichella_NT_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="59" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2002\Driver\JordanDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_2002\Driver\JordanArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_2002\Driver\JordanGloves.dds" />
+		<TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_2002\Driver\Gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_2002\Driver\JordanLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_2002\Harness\black.dds" />
+    </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="60" NAME="2002 Jordan #10 - T. Sato" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_2002\preview\10_Jordan_NT.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_2002\10_Jordan_NT.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_2002\Rims\Jordan.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_2002\Rims\Jordan_Blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_2002\Rims\low.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_2002\Rims\low_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="60" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2002\Helmet\Sato.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_2002\Helmet\Sato_NT_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="60" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2002\Driver\JordanDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_2002\Driver\JordanArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_2002\Driver\JordanGloves.dds" />
+		<TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_2002\Driver\Gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_2002\Driver\JordanLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_2002\Harness\black.dds" />
+    </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="61" NAME="2002 BAR #11 - J. Villeneuve" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_2002\preview\11_BAR_NT.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_2002\11_BAR_NT.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_2002\Rims\BAR.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_2002\Rims\BAR_Blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_2002\Rims\low.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_2002\Rims\low_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="61" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2002\Helmet\Villeneuve.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_2002\Helmet\Villeneuve_NT_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="61" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2002\Driver\BARDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_2002\Driver\BARArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_2002\Driver\BARgloves_Villeneuve.dds" />
+		<TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_2002\Driver\Gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_2002\Driver\BARLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_2002\Harness\black.dds" />
+    </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="62" NAME="2002 BAR #12 - O. Panis" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_2002\preview\12_BAR_NT.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_2002\12_BAR_NT.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_2002\Rims\BAR.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_2002\Rims\BAR_Blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_2002\Rims\low.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_2002\Rims\low_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="62" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2002\Helmet\Panis.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_2002\Helmet\Panis_NT_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="62" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2002\Driver\BARDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_2002\Driver\BARArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_2002\Driver\BARGloves_Panis.dds" />
+		<TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_2002\Driver\Gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_2002\Driver\BARLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_2002\Harness\black.dds" />
+    </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="63" NAME="2002 Renault #14 - J. Trulli" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_2002\preview\14_Renault_NT.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_2002\14_Renault_NT.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_2002\Rims\Renault.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_2002\Rims\Renault_Blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_2002\Rims\low.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_2002\Rims\low_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="63" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2002\Helmet\Trulli_NT.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_2002\Helmet\Trulli_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="63" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2002\Driver\RenaultDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_2002\Driver\RenaultArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_2002\Driver\RenaultGloves.dds" />
+		<TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_2002\Driver\Gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_2002\Driver\RenaultLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_2002\Harness\black.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="64" NAME="2002 Renault #15 - J. Button" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_2002\preview\15_Renault_NT.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_2002\15_Renault_NT.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_2002\Rims\Renault.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_2002\Rims\Renault_Blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_2002\Rims\low.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_2002\Rims\low_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="64" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2002\Helmet\Button_NT.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_2002\Helmet\Button_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="64" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2002\Driver\RenaultDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_2002\Driver\RenaultArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_2002\Driver\RenaultGloves.dds" />
+		<TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_2002\Driver\Gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_2002\Driver\RenaultLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_2002\Harness\black.dds" />
+    </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="65" NAME="2002 Jaguar #16 - E. Irvine" BASELIVERY="GreenMetallic">
+	<PREVIEWIMAGE PATH="F1_Season_2002\preview\16_Jaguar.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_2002\16_Jaguar.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_2002\Rims\Jaguar.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_2002\Rims\Jaguar_Blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_2002\Rims\low.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_2002\Rims\low_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="65" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2002\Helmet\Irvine.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_2002\Helmet\Jaguar_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="65" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2002\Driver\JaguarDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_2002\Driver\JaguarArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_2002\Driver\JaguarGloves.dds" />
+		<TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_2002\Driver\Gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_2002\Driver\JaguarLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_2002\Harness\black.dds" />
+    </OUTFIT_OVERRIDE>	
+
+	<LIVERY_OVERRIDE LIVERY="66" NAME="2002 Jaguar #17 - P. de la Rosa" BASELIVERY="GreenMetallic">
+	<PREVIEWIMAGE PATH="F1_Season_2002\preview\17_Jaguar.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_2002\17_Jaguar.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_2002\Rims\Jaguar.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_2002\Rims\Jaguar_Blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_2002\Rims\low.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_2002\Rims\low_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="66" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2002\Helmet\delaRosa.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_2002\Helmet\Jaguar_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="66" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2002\Driver\JaguarDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_2002\Driver\JaguarArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_2002\Driver\JaguarGloves.dds" />
+		<TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_2002\Driver\Gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_2002\Driver\JaguarLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_2002\Harness\black.dds" />
+    </OUTFIT_OVERRIDE>	
+
+	<LIVERY_OVERRIDE LIVERY="67" NAME="2002 Arrows #20 - H-H. Frentzen" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_2002\preview\20_Arrows.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_2002\20_Arrows.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_2002\Rims\Arrows.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_2002\Rims\Arrows_Blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_2002\Rims\low.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_2002\Rims\low_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="67" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2002\Helmet\Frentzen.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_2002\Helmet\Frentzen_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="67" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2002\Driver\ArrowsDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_2002\Driver\ArrowsArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_2002\Driver\ArrowsGloves.dds" />
+		<TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_2002\Driver\Gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_2002\Driver\ArrowsLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_2002\Harness\black.dds" />
+    </OUTFIT_OVERRIDE>	
+	
+	<LIVERY_OVERRIDE LIVERY="68" NAME="2002 Arrows #21 - E. Bernoldi" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_2002\preview\21_Arrows.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_2002\21_Arrows.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_2002\Rims\Arrows.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_2002\Rims\Arrows_Blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_2002\Rims\low.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_2002\Rims\low_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="68" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2002\Helmet\Bernoldi.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_2002\Helmet\Bernoldi_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="68" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2002\Driver\ArrowsDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_2002\Driver\ArrowsArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_2002\Driver\ArrowsGloves.dds" />
+		<TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_2002\Driver\Gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_2002\Driver\ArrowsLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_2002\Harness\black.dds" />
+    </OUTFIT_OVERRIDE>	
+
+	<LIVERY_OVERRIDE LIVERY="69" NAME="2002 Minardi #22 - A. Yoong" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_2002\preview\22_Minardi_Late.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_2002\22_Minardi_Late.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_2002\Rims\Minardi.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_2002\Rims\Minardi_Blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_2002\Rims\low.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_2002\Rims\low_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="69" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2002\Helmet\Yoong.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_2002\Helmet\Yoong_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="69" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2002\Driver\MinardiDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_2002\Driver\MinardiArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_2002\Driver\MinardiGloves.dds" />
+		<TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_2002\Driver\Gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_2002\Driver\MinardiLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_2002\Harness\red.dds" />
+    </OUTFIT_OVERRIDE>		
+
+	<LIVERY_OVERRIDE LIVERY="70" NAME="2002 Minardi #23 - M. Webber" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_2002\preview\23_Minardi_Late.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_2002\23_Minardi_Late.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_2002\Rims\Minardi.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_2002\Rims\Minardi_Blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_2002\Rims\low.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_2002\Rims\low_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="70" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2002\Helmet\Webber.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_2002\Helmet\Minardi_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="70" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2002\Driver\MinardiDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_2002\Driver\MinardiArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_2002\Driver\MinardiGloves.dds" />
+		<TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_2002\Driver\Gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_2002\Driver\MinardiLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_2002\Harness\red.dds" />
+    </OUTFIT_OVERRIDE>	
+
+	<LIVERY_OVERRIDE LIVERY="71" NAME="2002 Toyota #24 - M. Salo" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_2002\preview\24_Toyota.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_2002\24_Toyota.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_2002\Rims\Toyota.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_2002\Rims\Toyota_Blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_2002\Rims\low.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_2002\Rims\low_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="71" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2002\Helmet\Salo.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_2002\Helmet\Toyota_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="71" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2002\Driver\ToyotaDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_2002\Driver\ToyotaArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_2002\Driver\ToyotaGloves.dds" />
+		<TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_2002\Driver\Gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_2002\Driver\ToyotaLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_2002\Harness\red.dds" />
+    </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="72" NAME="2002 Toyota #25 - A. McNish" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_2002\preview\25_Toyota.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_2002\25_Toyota.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_2002\Rims\Toyota.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_2002\Rims\Toyota_Blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_2002\Rims\low.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_2002\Rims\low_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="72" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2002\Helmet\McNish.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_2002\Helmet\Toyota_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="72" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2002\Driver\ToyotaDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_2002\Driver\ToyotaArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_2002\Driver\ToyotaGloves.dds" />
+		<TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_2002\Driver\Gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_2002\Driver\ToyotaLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_2002\Harness\red.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="73" NAME="2002 Prost #18 - L. Badoer" BASELIVERY="BlueMetallic+Chrome">
+	<PREVIEWIMAGE PATH="F1_Season_2002\preview\18_Prost.dds"/>
+	<TEXTURE NAME="BODY" PATH="F1_Season_2002\18_Prost.dds"/>
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_2002\Rims\Prost.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_2002\Rims\Prost_Blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_2002\Rims\low.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_2002\Rims\low_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="73" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2002\Helmet\Badoer.dds"/>
+	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_2002\Helmet\Prost_visor.dds"/>
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="73" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2002\Driver\ProstDriver.dds"/>
+		<TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_2002\Driver\ProstArms.dds"/>
+		<TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_2002\Driver\ProstGloves.dds"/>
+		<TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_2002\Driver\Gloves_spec.dds" />
+		<TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_2002\Driver\ProstLegs.dds"/>
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_2002\Harness\red.dds"/>
+	</OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="74" NAME="2002 Prost #19 - S. Bourdais" BASELIVERY="BlueMetallic+Chrome">
+	<PREVIEWIMAGE PATH="F1_Season_2002\preview\19_Prost.dds"/>
+	<TEXTURE NAME="BODY" PATH="F1_Season_2002\19_Prost.dds"/>
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_2002\Rims\Prost.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_2002\Rims\Prost_Blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_2002\Rims\low.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_2002\Rims\low_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="74" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2002\Helmet\Bourdais.dds"/>
+	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_2002\Helmet\Prost_visor.dds"/>
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="74" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2002\Driver\ProstDriver.dds"/>
+		<TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_2002\Driver\ProstArms.dds"/>
+		<TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_2002\Driver\ProstGloves.dds"/>
+		<TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_2002\Driver\Gloves_spec.dds" />
+		<TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_2002\Driver\ProstLegs.dds"/>
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_2002\Harness\red.dds"/>
+    </OUTFIT_OVERRIDE>
+
+</USER_OVERRIDES>
