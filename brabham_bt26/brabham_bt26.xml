@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+
+	<LIVERY_OVERRIDE LIVERY="51" NAME="Brabham-Ford Cosworth #3 J. Brabham" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1969\preview3.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1969\Brabham_03.dds" />
+        </LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="51" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1969\Helmets\Brabham_03_helmet.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1969\Helmets\Brabham_03_helmet_peak.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="51" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1969\Suits\black_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="52" NAME="Brabham-Ford Cosworth #4 J. Ickx" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1969\preview4.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1969\Ickx_04.dds" />
+        </LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="52" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1969\Helmets\Ickx_04_helmet.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1969\Helmets\Ickx_04_helmet_peak.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="52" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1969\Suits\black_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="53" NAME="Brabham-Ford Cosworth #32 P. Courage" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1969\preview32.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1969\Courage_32.dds" />
+        </LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="53" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1969\Helmets\Courage_32_helmet.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1969\Helmets\Courage_32_helmet_peak.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="53" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1969\Suits\black_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="54" NAME="Brabham-Ford Cosworth #29 R. Attwood" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1969\preview29.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1969\Attwood_29.dds" />
+        </LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="54" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1969\Helmets\Attwood_29_helmet.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1969\Helmets\Attwood_29_helmet_peak.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="54" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1969\Suits\black_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+</USER_OVERRIDES>

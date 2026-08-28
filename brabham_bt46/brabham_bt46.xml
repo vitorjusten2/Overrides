@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+ 
+    <LIVERY_OVERRIDE LIVERY="51" NAME="Brabham-Alfa Romeo #1 N. Lauda" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="F1_1978_Season\1978preview1.dds" />
+    <TEXTURE NAME="BODY" PATH="F1_1978_Season\1978body1.dds" />
+    <TEXTURE NAME="WINDOW" PATH="F1_1978_Season\1978screen1.dds" />
+    </LIVERY_OVERRIDE>
+    <HELMET_OVERRIDE LIVERY="51" NAME="Brabham-Alfa Romeo #1 N. Lauda" BASEHELMET="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="F1_1978_Season\Helmets\78_Lauda_Helmet.dds" />
+    <TEXTURE NAME="BODY_SPEC" PATH="F1_1978_Season\Helmets\78_helmet_spec.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_1978_Season\Helmets\78_visor.dds" />
+    <TEXTURE NAME="VISOR_SPEC" PATH="F1_1978_Season\Helmets\78_visor_spec.dds" />
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="51" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="F1_1978_Season\Suits\78_Lauda_torso.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="F1_1978_Season\Suits\78_Lauda_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="F1_1978_Season\Suits\78_Lauda_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="F1_1978_Season\Suits\78_Lauda_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_1978_Season\Suits\78_Lauda_belts.dds" />
+    </OUTFIT_OVERRIDE> -->
+
+    <LIVERY_OVERRIDE LIVERY="52" NAME="Brabham-Alfa Romeo #2 J. Watson" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="F1_1978_Season\1978preview2.dds" />
+    <TEXTURE NAME="BODY" PATH="F1_1978_Season\1978body2.dds" />
+    <TEXTURE NAME="WINDOW" PATH="F1_1978_Season\1978screen2.dds" />
+    </LIVERY_OVERRIDE>
+    <HELMET_OVERRIDE LIVERY="52" NAME="Brabham-Alfa Romeo #2 J. Watson" BASEHELMET="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="F1_1978_Season\Helmets\78_Watson_Helmet.dds" />
+    <TEXTURE NAME="BODY_SPEC" PATH="F1_1978_Season\Helmets\78_helmet_spec.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_1978_Season\Helmets\78_visor.dds" />
+    <TEXTURE NAME="VISOR_SPEC" PATH="F1_1978_Season\Helmets\78_visor_spec.dds" />
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="52" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="F1_1978_Season\Suits\78_Watson_torso.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="F1_1978_Season\Suits\78_Watson_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="F1_1978_Season\Suits\78_Watson_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="F1_1978_Season\Suits\78_Watson_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_1978_Season\Suits\78_Watson_belts.dds" />
+    </OUTFIT_OVERRIDE> -->
+   
+</USER_OVERRIDES>

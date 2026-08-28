@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+ 
+    <LIVERY_OVERRIDE LIVERY="51" NAME="ATS-Ford Cosworth #9 J. Mass" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="F1_1978_Season\1978preview9.dds" />
+    <TEXTURE NAME="BODY" PATH="F1_1978_Season\1978body9.dds" />
+    <TEXTURE NAME="STICKER" PATH="F1_1978_Season\1978screen9.dds" />
+    </LIVERY_OVERRIDE>
+    <HELMET_OVERRIDE LIVERY="51" NAME="ATS-Ford Cosworth #9 J. Mass" BASEHELMET="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="F1_1978_Season\Helmets\78_Mass_Helmet.dds" />
+    <TEXTURE NAME="BODY_SPEC" PATH="F1_1978_Season\Helmets\78_helmet_spec.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_1978_Season\Helmets\78_visor.dds" />
+    <TEXTURE NAME="VISOR_SPEC" PATH="F1_1978_Season\Helmets\78_visor_spec.dds" />
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="51" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="F1_1978_Season\Suits\78_Mass_torso.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="F1_1978_Season\Suits\78_Mass_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="F1_1978_Season\Suits\78_Mass_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="F1_1978_Season\Suits\78_Mass_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_1978_Season\Suits\78_Mass_belts.dds" />
+    </OUTFIT_OVERRIDE> -->
+
+    <LIVERY_OVERRIDE LIVERY="52" NAME="ATS-Ford Cosworth #10 K. Rosberg" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="F1_1978_Season\1978preview10.dds" />
+    <TEXTURE NAME="BODY" PATH="F1_1978_Season\1978body10.dds" />
+    <TEXTURE NAME="STICKER" PATH="F1_1978_Season\1978screen10.dds" />
+    </LIVERY_OVERRIDE>
+    <HELMET_OVERRIDE LIVERY="52" NAME="ATS-Ford Cosworth #10 K. Rosberg" BASEHELMET="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="F1_1978_Season\Helmets\78_Rosberg_Helmet.dds" />
+    <TEXTURE NAME="BODY_SPEC" PATH="F1_1978_Season\Helmets\78_helmet_spec.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_1978_Season\Helmets\78_visor.dds" />
+    <TEXTURE NAME="VISOR_SPEC" PATH="F1_1978_Season\Helmets\78_visor_spec.dds" />
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="52" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="F1_1978_Season\Suits\78_Rosberg_torso.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="F1_1978_Season\Suits\78_Rosberg_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="F1_1978_Season\Suits\78_Rosberg_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="F1_1978_Season\Suits\78_Rosberg_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_1978_Season\Suits\78_Rosberg_belts.dds" />
+    </OUTFIT_OVERRIDE> -->
+   
+</USER_OVERRIDES>
