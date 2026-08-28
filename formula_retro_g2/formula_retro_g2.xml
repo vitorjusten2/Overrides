@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+ 
+    <LIVERY_OVERRIDE LIVERY="51" NAME="Tyrrell-Ford Cosworth #3 D. Pironi" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="F1_1978_Season\1978preview3.dds" />
+    <TEXTURE NAME="BODY" PATH="F1_1978_Season\1978body3.dds" />
+    </LIVERY_OVERRIDE>
+    <HELMET_OVERRIDE LIVERY="51" NAME="Tyrrell-Ford Cosworth #3 D. Pironi" BASEHELMET="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="F1_1978_Season\Helmets\78_Pironi_Helmet.dds" />
+    <TEXTURE NAME="BODY_SPEC" PATH="F1_1978_Season\Helmets\78_helmet_spec.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_1978_Season\Helmets\78_visor.dds" />
+    <TEXTURE NAME="VISOR_SPEC" PATH="F1_1978_Season\Helmets\78_visor_spec.dds" />
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="51" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="F1_1978_Season\Suits\78_Pironi_torso.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="F1_1978_Season\Suits\78_Pironi_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="F1_1978_Season\Suits\78_Pironi_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="F1_1978_Season\Suits\78_Pironi_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_1978_Season\Suits\78_Pironi_belts.dds" />
+    </OUTFIT_OVERRIDE> -->
+
+    <LIVERY_OVERRIDE LIVERY="52" NAME="Tyrrell-Ford Cosworth #4 P. Depailler" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="F1_1978_Season\1978preview4.dds" />
+    <TEXTURE NAME="BODY" PATH="F1_1978_Season\1978body4.dds" />
+    </LIVERY_OVERRIDE>
+    <HELMET_OVERRIDE LIVERY="52" NAME="Tyrrell-Ford Cosworth #4 P. Depailler" BASEHELMET="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="F1_1978_Season\Helmets\78_Depailler_Helmet.dds" />
+    <TEXTURE NAME="BODY_SPEC" PATH="F1_1978_Season\Helmets\78_helmet_spec.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_1978_Season\Helmets\78_visor.dds" />
+    <TEXTURE NAME="VISOR_SPEC" PATH="F1_1978_Season\Helmets\78_visor_spec.dds" />
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="52" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="F1_1978_Season\Suits\78_Depailler_torso.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="F1_1978_Season\Suits\78_Depailler_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="F1_1978_Season\Suits\78_Depailler_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="F1_1978_Season\Suits\78_Depailler_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_1978_Season\Suits\78_Depailler_belts.dds" />
+    </OUTFIT_OVERRIDE> -->
+
+    <LIVERY_OVERRIDE LIVERY="53" NAME="McLaren-Ford Cosworth #7 J. Hunt" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="F1_1978_Season\1978preview7.dds" />
+    <TEXTURE NAME="BODY" PATH="F1_1978_Season\1978body7.dds" />
+    </LIVERY_OVERRIDE>
+    <HELMET_OVERRIDE LIVERY="53" NAME="McLaren-Ford Cosworth #7 J. Hunt" BASEHELMET="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="F1_1978_Season\Helmets\78_Hunt_Helmet.dds" />
+    <TEXTURE NAME="BODY_SPEC" PATH="F1_1978_Season\Helmets\78_helmet_spec.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_1978_Season\Helmets\78_visor.dds" />
+    <TEXTURE NAME="VISOR_SPEC" PATH="F1_1978_Season\Helmets\78_visor_spec.dds" />
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="53" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="F1_1978_Season\Suits\78_Hunt_torso.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="F1_1978_Season\Suits\78_Hunt_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="F1_1978_Season\Suits\78_Hunt_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="F1_1978_Season\Suits\78_Hunt_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_1978_Season\Suits\78_Hunt_belts.dds" />
+    </OUTFIT_OVERRIDE> -->
+
+    <LIVERY_OVERRIDE LIVERY="54" NAME="McLaren-Ford Cosworth #8 P. Tambay" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="F1_1978_Season\1978preview8.dds" />
+    <TEXTURE NAME="BODY" PATH="F1_1978_Season\1978body8.dds" />
+    </LIVERY_OVERRIDE>
+    <HELMET_OVERRIDE LIVERY="54" NAME="McLaren-Ford Cosworth #8 P. Tambay" BASEHELMET="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="F1_1978_Season\Helmets\78_Tambay_Helmet.dds" />
+    <TEXTURE NAME="BODY_SPEC" PATH="F1_1978_Season\Helmets\78_helmet_spec.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_1978_Season\Helmets\78_visor.dds" />
+    <TEXTURE NAME="VISOR_SPEC" PATH="F1_1978_Season\Helmets\78_visor_spec.dds" />
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="54" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="F1_1978_Season\Suits\78_Tambay_torso.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="F1_1978_Season\Suits\78_Tambay_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="F1_1978_Season\Suits\78_Tambay_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="F1_1978_Season\Suits\78_Tambay_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_1978_Season\Suits\78_Tambay_belts.dds" />
+    </OUTFIT_OVERRIDE> -->
+
+    <LIVERY_OVERRIDE LIVERY="55" NAME="Copersucar-Ford Cosworth #14 E. Fittipaldi" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="F1_1978_Season\1978preview14.dds" />
+    <TEXTURE NAME="BODY" PATH="F1_1978_Season\1978body14.dds" />
+    </LIVERY_OVERRIDE>
+    <HELMET_OVERRIDE LIVERY="55" NAME="Copersucar-Ford Cosworth #14 E. Fittipaldi" BASEHELMET="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="F1_1978_Season\Helmets\78_Fittipaldi_Helmet.dds" />
+    <TEXTURE NAME="BODY_SPEC" PATH="F1_1978_Season\Helmets\78_helmet_spec.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_1978_Season\Helmets\78_visor.dds" />
+    <TEXTURE NAME="VISOR_SPEC" PATH="F1_1978_Season\Helmets\78_visor_spec.dds" />
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="55" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="F1_1978_Season\Suits\78_Fittipaldi_torso.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="F1_1978_Season\Suits\78_Fittipaldi_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="F1_1978_Season\Suits\78_Fittipaldi_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="F1_1978_Season\Suits\78_Fittipaldi_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_1978_Season\Suits\78_Fittipaldi_belts.dds" />
+    </OUTFIT_OVERRIDE> -->
+
+    <LIVERY_OVERRIDE LIVERY="56" NAME="Renault #15 J-P. Jabouille" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="F1_1978_Season\1978preview15.dds" />
+    <TEXTURE NAME="BODY" PATH="F1_1978_Season\1978body15.dds" />
+    </LIVERY_OVERRIDE>
+    <HELMET_OVERRIDE LIVERY="56" NAME="Renault #15 J-P. Jabouille" BASEHELMET="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="F1_1978_Season\Helmets\78_Jabouille_Helmet.dds" />
+    <TEXTURE NAME="BODY_SPEC" PATH="F1_1978_Season\Helmets\78_helmet_spec.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_1978_Season\Helmets\78_visor.dds" />
+    <TEXTURE NAME="VISOR_SPEC" PATH="F1_1978_Season\Helmets\78_visor_spec.dds" />
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="56" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="F1_1978_Season\Suits\78_Jabouille_torso.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="F1_1978_Season\Suits\78_Jabouille_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="F1_1978_Season\Suits\78_Jabouille_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="F1_1978_Season\Suits\78_Jabouille_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_1978_Season\Suits\78_Jabouille_belts.dds" />
+    </OUTFIT_OVERRIDE> -->
+
+    <LIVERY_OVERRIDE LIVERY="57" NAME="Shadow-Ford Cosworth #16 H-J. Stuck" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="F1_1978_Season\1978preview16.dds" />
+    <TEXTURE NAME="BODY" PATH="F1_1978_Season\1978body16.dds" />
+    </LIVERY_OVERRIDE>
+    <HELMET_OVERRIDE LIVERY="57" NAME="Shadow-Ford Cosworth #16 H-J. Stuck" BASEHELMET="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="F1_1978_Season\Helmets\78_Stuck_Helmet.dds" />
+    <TEXTURE NAME="BODY_SPEC" PATH="F1_1978_Season\Helmets\78_helmet_spec.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_1978_Season\Helmets\78_visor.dds" />
+    <TEXTURE NAME="VISOR_SPEC" PATH="F1_1978_Season\Helmets\78_visor_spec.dds" />
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="57" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="F1_1978_Season\Suits\78_Stuck_torso.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="F1_1978_Season\Suits\78_Stuck_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="F1_1978_Season\Suits\78_Stuck_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="F1_1978_Season\Suits\78_Stuck_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_1978_Season\Suits\78_Stuck_belts.dds" />
+    </OUTFIT_OVERRIDE> -->
+
+    <LIVERY_OVERRIDE LIVERY="58" NAME="Surtees-Ford Cosworth #19 V. Brambilla" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="F1_1978_Season\1978preview19.dds" />
+    <TEXTURE NAME="BODY" PATH="F1_1978_Season\1978body19.dds" />
+    </LIVERY_OVERRIDE>
+    <HELMET_OVERRIDE LIVERY="58" NAME="Surtees-Ford Cosworth #19 V. Brambilla" BASEHELMET="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="F1_1978_Season\Helmets\78_Brambilla_Helmet.dds" />
+    <TEXTURE NAME="BODY_SPEC" PATH="F1_1978_Season\Helmets\78_helmet_spec.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_1978_Season\Helmets\78_visor.dds" />
+    <TEXTURE NAME="VISOR_SPEC" PATH="F1_1978_Season\Helmets\78_visor_spec.dds" />
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="58" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="F1_1978_Season\Suits\78_Brambilla_torso.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="F1_1978_Season\Suits\78_Brambilla_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="F1_1978_Season\Suits\78_Brambilla_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="F1_1978_Season\Suits\78_Brambilla_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_1978_Season\Suits\78_Brambilla_belts.dds" />
+    </OUTFIT_OVERRIDE> -->
+
+    <LIVERY_OVERRIDE LIVERY="59" NAME="Wolf-Ford Cosworth #20 J. Scheckter" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="F1_1978_Season\1978preview20.dds" />
+    <TEXTURE NAME="BODY" PATH="F1_1978_Season\1978body20.dds" />
+    </LIVERY_OVERRIDE>
+    <HELMET_OVERRIDE LIVERY="59" NAME="Wolf-Ford Cosworth #20 J. Scheckter" BASEHELMET="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="F1_1978_Season\Helmets\78_Scheckter_Helmet.dds" />
+    <TEXTURE NAME="BODY_SPEC" PATH="F1_1978_Season\Helmets\78_helmet_spec.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_1978_Season\Helmets\78_visor.dds" />
+    <TEXTURE NAME="VISOR_SPEC" PATH="F1_1978_Season\Helmets\78_visor_spec.dds" />
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="59" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="F1_1978_Season\Suits\78_Scheckter_torso.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="F1_1978_Season\Suits\78_Scheckter_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="F1_1978_Season\Suits\78_Scheckter_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="F1_1978_Season\Suits\78_Scheckter_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_1978_Season\Suits\78_Scheckter_belts.dds" />
+    </OUTFIT_OVERRIDE> -->
+
+    <LIVERY_OVERRIDE LIVERY="60" NAME="Williams-Ford Cosworth #27 A. Jones" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="F1_1978_Season\1978preview27.dds" />
+    <TEXTURE NAME="BODY" PATH="F1_1978_Season\1978body27.dds" />
+    </LIVERY_OVERRIDE>
+    <HELMET_OVERRIDE LIVERY="60" NAME="Williams-Ford Cosworth #27 A. Jones" BASEHELMET="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="F1_1978_Season\Helmets\78_Jones_Helmet.dds" />
+    <TEXTURE NAME="BODY_SPEC" PATH="F1_1978_Season\Helmets\78_helmet_spec.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_1978_Season\Helmets\78_visor.dds" />
+    <TEXTURE NAME="VISOR_SPEC" PATH="F1_1978_Season\Helmets\78_visor_spec.dds" />
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="60" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="F1_1978_Season\Suits\78_Jones_torso.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="F1_1978_Season\Suits\78_Jones_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="F1_1978_Season\Suits\78_Jones_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="F1_1978_Season\Suits\78_Jones_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_1978_Season\Suits\78_Jones_belts.dds" />
+    </OUTFIT_OVERRIDE> -->
+
+    <LIVERY_OVERRIDE LIVERY="61" NAME="Arrows-Ford Cosworth #35 R. Patrese" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="F1_1978_Season\1978preview35.dds" />
+    <TEXTURE NAME="BODY" PATH="F1_1978_Season\1978body35.dds" />
+    </LIVERY_OVERRIDE>
+    <HELMET_OVERRIDE LIVERY="61" NAME="Arrows-Ford Cosworth #35 R. Patrese" BASEHELMET="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="F1_1978_Season\Helmets\78_Patrese_Helmet.dds" />
+    <TEXTURE NAME="BODY_SPEC" PATH="F1_1978_Season\Helmets\78_helmet_spec.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_1978_Season\Helmets\78_visor.dds" />
+    <TEXTURE NAME="VISOR_SPEC" PATH="F1_1978_Season\Helmets\78_visor_spec.dds" />
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="61" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="F1_1978_Season\Suits\78_Patrese_torso.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="F1_1978_Season\Suits\78_Patrese_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="F1_1978_Season\Suits\78_Patrese_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="F1_1978_Season\Suits\78_Patrese_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_1978_Season\Suits\78_Patrese_belts.dds" />
+    </OUTFIT_OVERRIDE> -->
+
+    <LIVERY_OVERRIDE LIVERY="62" NAME="Martini-Ford Cosworth #31 R. Arnoux" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="F1_1978_Season\1978preview31.dds" />
+    <TEXTURE NAME="BODY" PATH="F1_1978_Season\1978body31.dds" />
+    </LIVERY_OVERRIDE>
+    <HELMET_OVERRIDE LIVERY="62" NAME="Martini-Ford Cosworth #31 R. Arnoux" BASEHELMET="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="F1_1978_Season\Helmets\78_Arnoux_Helmet.dds" />
+    <TEXTURE NAME="BODY_SPEC" PATH="F1_1978_Season\Helmets\78_helmet_spec.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_1978_Season\Helmets\78_visor.dds" />
+    <TEXTURE NAME="VISOR_SPEC" PATH="F1_1978_Season\Helmets\78_visor_spec.dds" />
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="62" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="F1_1978_Season\Suits\78_Arnoux_torso.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="F1_1978_Season\Suits\78_Arnoux_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="F1_1978_Season\Suits\78_Arnoux_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="F1_1978_Season\Suits\78_Arnoux_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_1978_Season\Suits\78_Arnoux_belts.dds" />
+    </OUTFIT_OVERRIDE> -->
+   
+</USER_OVERRIDES>

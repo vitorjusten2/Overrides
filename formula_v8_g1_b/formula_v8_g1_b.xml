@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+
+
+	<LIVERY_OVERRIDE LIVERY="51" NAME="Michael Schumacher #5" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1 2006 Skinpack\No Tabacco\Ferrari\Preview MSC.dds" />
+        <TEXTURE NAME="BODY" PATH="F1 2006 Skinpack\No Tabacco\Ferrari\Livery MSC.dds" />
+		<TEXTURE NAME="WHEELDIFF" PATH="F1 2006 Skinpack\No Tabacco\Ferrari\Ferrari Rims.dds" />
+		<TEXTURE NAME="WHEELBLURDIFF" PATH="F1 2006 Skinpack\No Tabacco\Ferrari\Ferrari Rims blur.dds" />
+		<TEXTURE NAME="WHEELSPEC" PATH="F1 2006 Skinpack\Rims\high.dds" />
+		<TEXTURE NAME="WHEELBLURSPEC" PATH="F1 2006 Skinpack\Rims\high_blur.dds" />
+        <TEXTURE NAME="SPEC" PATH="F1 2006 Skinpack\No Tabacco\Ferrari\Spec MSC.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="F1 2006 Skinpack\No Tabacco\Ferrari\Fresnel.dds" />
+	</LIVERY_OVERRIDE>
+
+	<OUTFIT_OVERRIDE LIVERY="51" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1 2006 Skinpack\Suits\Ferrari\Ferrari Torso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1 2006 Skinpack\Suits\Ferrari\Ferrari Arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1 2006 Skinpack\Suits\Ferrari\Schumi NT Gloves.dds" />
+		<TEXTURE NAME="GLOVES_SPEC" PATH="F1 2006 Skinpack\Suits\Suit spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1 2006 Skinpack\Suits\Ferrari\Ferrari Legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1 2006 Skinpack\Suits\Ferrari\Ferrari Seatbelt.dds" />
+    </OUTFIT_OVERRIDE> -->
+	
+    <HELMET_OVERRIDE LIVERY="51" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1 2006 Skinpack\Helmets\Ferrari\MSC NT Helmet.dds" />
+        <TEXTURE NAME="BODY_SPEC" PATH="F1 2006 Skinpack\Helmets\Ferrari\MSC Helmet Spec.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="F1 2006 Skinpack\Helmets\Ferrari\MSC NT Visor.dds" />
+        <TEXTURE NAME="VISOR_SPEC" PATH="F1 2006 Skinpack\Helmets\Ferrari\MSC Visor Spec.dds" />
+    </HELMET_OVERRIDE> -->
+
+	<LIVERY_OVERRIDE LIVERY="52" NAME="Felipe Massa #6" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1 2006 Skinpack\No Tabacco\Ferrari\Preview Massa.dds" />
+        <TEXTURE NAME="BODY" PATH="F1 2006 Skinpack\No Tabacco\Ferrari\Livery Massa.dds" />
+		<TEXTURE NAME="WHEELDIFF" PATH="F1 2006 Skinpack\No Tabacco\Ferrari\Ferrari Rims.dds" />
+		<TEXTURE NAME="WHEELBLURDIFF" PATH="F1 2006 Skinpack\No Tabacco\Ferrari\Ferrari Rims blur.dds" />
+		<TEXTURE NAME="WHEELSPEC" PATH="F1 2006 Skinpack\Rims\high.dds" />
+		<TEXTURE NAME="WHEELBLURSPEC" PATH="F1 2006 Skinpack\Rims\high_blur.dds" />
+        <TEXTURE NAME="SPEC" PATH="F1 2006 Skinpack\No Tabacco\Ferrari\Spec.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="F1 2006 Skinpack\No Tabacco\Ferrari\Fresnel.dds" />
+	</LIVERY_OVERRIDE>
+
+	<OUTFIT_OVERRIDE LIVERY="52" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1 2006 Skinpack\Suits\Ferrari\Ferrari Torso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1 2006 Skinpack\Suits\Ferrari\Ferrari Arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1 2006 Skinpack\Suits\Ferrari\Massa NT Gloves.dds" />
+		<TEXTURE NAME="GLOVES_SPEC" PATH="F1 2006 Skinpack\Suits\Suit spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1 2006 Skinpack\Suits\Ferrari\Ferrari Legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1 2006 Skinpack\Suits\Ferrari\Ferrari Seatbelt.dds" />
+    </OUTFIT_OVERRIDE> -->
+	
+    <HELMET_OVERRIDE LIVERY="52" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1 2006 Skinpack\Helmets\Ferrari\Massa NT Helmet.dds" />
+        <TEXTURE NAME="BODY_SPEC" PATH="F1 2006 Skinpack\Helmets\Ferrari\Massa Helmet Spec.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="F1 2006 Skinpack\Helmets\Ferrari\Massa NT Visor.dds" />
+        <TEXTURE NAME="VISOR_SPEC" PATH="F1 2006 Skinpack\Helmets\Ferrari\Massa Visor Spec.dds" />
+    </HELMET_OVERRIDE> -->
+
+	
+	<LIVERY_OVERRIDE LIVERY="53" NAME="Ralf Schumacher #7" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1 2006 Skinpack\Toyota\Preview RSC.dds" />
+		<TEXTURE NAME="BODY" PATH="F1 2006 Skinpack\Toyota\Livery RSC.dds" />
+		<TEXTURE NAME="WHEELDIFF" PATH="F1 2006 Skinpack\Toyota\Toyota Rims.dds" />
+		<TEXTURE NAME="WHEELBLURDIFF" PATH="F1 2006 Skinpack\Toyota\Toyota Rims Blur.dds" />
+		<TEXTURE NAME="WHEELSPEC" PATH="F1 2006 Skinpack\Rims\high.dds" />
+		<TEXTURE NAME="WHEELBLURSPEC" PATH="F1 2006 Skinpack\Rims\high_blur.dds" />
+        <TEXTURE NAME="SPEC" PATH="F1 2006 Skinpack\Toyota\Spec Toyota.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="F1 2006 Skinpack\Toyota\Fresnel RSC.dds" />
+	</LIVERY_OVERRIDE>
+
+	<OUTFIT_OVERRIDE LIVERY="53" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1 2006 Skinpack\Suits\Toyota\Toyota Torso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1 2006 Skinpack\Suits\Toyota\Toyota Arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1 2006 Skinpack\Suits\Toyota\Toyota Gloves RSC.dds" />
+		<TEXTURE NAME="GLOVES_SPEC" PATH="F1 2006 Skinpack\Suits\Suit spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1 2006 Skinpack\Suits\Toyota\Toyota Legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1 2006 Skinpack\Suits\Toyota\Toyota Seatbelt.dds" />
+        <TEXTURE NAME="SEATBELTS_SPEC" PATH="F1 2006 Skinpack\Suits\Suit spec.dds" />
+    </OUTFIT_OVERRIDE> -->
+	
+    <HELMET_OVERRIDE LIVERY="53" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1 2006 Skinpack\helmets\Toyota\RSC Helmet.dds" />
+        <TEXTURE NAME="BODY_SPEC" PATH="F1 2006 Skinpack\helmets\Toyota\RSC Helmet Spec.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="F1 2006 Skinpack\helmets\Toyota\RSC Visor.dds" />
+        <TEXTURE NAME="VISOR_SPEC" PATH="F1 2006 Skinpack\Helmets\Toyota\Toyota Visor Spec.dds" />
+    </HELMET_OVERRIDE> -->
+
+	<LIVERY_OVERRIDE LIVERY="54" NAME="Jarno Trulli #8" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1 2006 Skinpack\Toyota\Preview Trulli.dds" />
+		<TEXTURE NAME="BODY" PATH="F1 2006 Skinpack\Toyota\Livery Trulli.dds" />
+		<TEXTURE NAME="WHEELDIFF" PATH="F1 2006 Skinpack\Toyota\Toyota Rims.dds" />
+		<TEXTURE NAME="WHEELBLURDIFF" PATH="F1 2006 Skinpack\Toyota\Toyota Rims Blur.dds" />
+		<TEXTURE NAME="WHEELSPEC" PATH="F1 2006 Skinpack\Rims\high.dds" />
+		<TEXTURE NAME="WHEELBLURSPEC" PATH="F1 2006 Skinpack\Rims\high_blur.dds" />
+        <TEXTURE NAME="SPEC" PATH="F1 2006 Skinpack\Toyota\Spec Toyota.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="F1 2006 Skinpack\Toyota\Fresnel Trulli.dds" />
+	</LIVERY_OVERRIDE>
+
+	<OUTFIT_OVERRIDE LIVERY="54" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1 2006 Skinpack\Suits\Toyota\Toyota Torso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1 2006 Skinpack\Suits\Toyota\Toyota Arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1 2006 Skinpack\Suits\Toyota\Toyota Gloves Trulli.dds" />
+		<TEXTURE NAME="GLOVES_SPEC" PATH="F1 2006 Skinpack\Suits\Suit spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1 2006 Skinpack\Suits\Toyota\Toyota Legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1 2006 Skinpack\Suits\Toyota\Toyota Seatbelt.dds" />
+        <TEXTURE NAME="SEATBELTS_SPEC" PATH="F1 2006 Skinpack\Suits\Suit spec.dds" />
+    </OUTFIT_OVERRIDE> -->
+	
+    <HELMET_OVERRIDE LIVERY="54" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1 2006 Skinpack\helmets\Toyota\Trulli Helmet.dds" />
+        <TEXTURE NAME="BODY_SPEC" PATH="F1 2006 Skinpack\helmets\Toyota\Trulli Helmet Spec.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="F1 2006 Skinpack\helmets\Toyota\Trulli Visor.dds" />
+        <TEXTURE NAME="VISOR_SPEC" PATH="F1 2006 Skinpack\Helmets\Toyota\Toyota Visor Spec.dds" />
+    </HELMET_OVERRIDE> -->
+
+	<LIVERY_OVERRIDE LIVERY="55" NAME="Mark Webber #9" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1 2006 Skinpack\Williams\Preview Webber.dds" />
+        <TEXTURE NAME="BODY" PATH="F1 2006 Skinpack\Williams\Livery Webber.dds" />
+		<TEXTURE NAME="WHEELDIFF" PATH="F1 2006 Skinpack\Williams\Williams Rims.dds" />
+		<TEXTURE NAME="WHEELBLURDIFF" PATH="F1 2006 Skinpack\Williams\Williams Rims Blur.dds" />
+		<TEXTURE NAME="WHEELSPEC" PATH="F1 2006 Skinpack\Rims\high.dds" />
+		<TEXTURE NAME="WHEELBLURSPEC" PATH="F1 2006 Skinpack\Rims\high_blur.dds" />
+        <TEXTURE NAME="SPEC" PATH="F1 2006 Skinpack\Williams\.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="F1 2006 Skinpack\Williams\.dds" />
+	</LIVERY_OVERRIDE>
+
+	<OUTFIT_OVERRIDE LIVERY="55" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1 2006 Skinpack\Suits\Williams\Williams Torso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1 2006 Skinpack\Suits\Williams\Williams Arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1 2006 Skinpack\Suits\Williams\Williams Gloves.dds" />
+		<TEXTURE NAME="GLOVES_SPEC" PATH="F1 2006 Skinpack\Suits\Suit spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1 2006 Skinpack\Suits\Williams\Williams Legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1 2006 Skinpack\Suits\Williams\Williams Seatbelt.dds" />
+        <TEXTURE NAME="SEATBELTS_SPEC" PATH="F1 2006 Skinpack\Suits\Suit spec.dds" />
+    </OUTFIT_OVERRIDE> -->
+	
+    <HELMET_OVERRIDE LIVERY="55" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1 2006 Skinpack\Helmets\Williams\Webber Helmet.dds" />
+        <TEXTURE NAME="BODY_SPEC" PATH="F1 2006 Skinpack\Helmets\Williams\Webber Helmet Spec.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="F1 2006 Skinpack\Helmets\Williams\Webber Visor.dds" />
+        <TEXTURE NAME="VISOR_SPEC" PATH="F1 2006 Skinpack\Helmets\Williams\Williams Visor Spec.dds" />
+    </HELMET_OVERRIDE> -->
+
+	<LIVERY_OVERRIDE LIVERY="56" NAME="Nico Rosberg #10" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1 2006 Skinpack\Williams\Preview Rosberg.dds" />
+        <TEXTURE NAME="BODY" PATH="F1 2006 Skinpack\Williams\Livery Rosberg.dds" />
+		<TEXTURE NAME="WHEELDIFF" PATH="F1 2006 Skinpack\Williams\Williams Rims.dds" />
+		<TEXTURE NAME="WHEELBLURDIFF" PATH="F1 2006 Skinpack\Williams\Williams Rims Blur.dds" />
+		<TEXTURE NAME="WHEELSPEC" PATH="F1 2006 Skinpack\Rims\high.dds" />
+		<TEXTURE NAME="WHEELBLURSPEC" PATH="F1 2006 Skinpack\Rims\high_blur.dds" />
+        <TEXTURE NAME="SPEC" PATH="F1 2006 Skinpack\Williams\.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="F1 2006 Skinpack\Williams\.dds" />
+    </LIVERY_OVERRIDE>
+
+	<OUTFIT_OVERRIDE LIVERY="56" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1 2006 Skinpack\Suits\Williams\Williams Torso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1 2006 Skinpack\Suits\Williams\Williams Arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1 2006 Skinpack\Suits\Williams\Williams Gloves.dds" />
+		<TEXTURE NAME="GLOVES_SPEC" PATH="F1 2006 Skinpack\Suits\Suit spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1 2006 Skinpack\Suits\Williams\Williams Legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1 2006 Skinpack\Suits\Williams\Williams Seatbelt.dds" />
+        <TEXTURE NAME="SEATBELTS_SPEC" PATH="F1 2006 Skinpack\Suits\Suit spec.dds" />
+    </OUTFIT_OVERRIDE> -->
+	
+    <HELMET_OVERRIDE LIVERY="56" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1 2006 Skinpack\Helmets\Williams\Rosberg Helmet.dds" />
+        <TEXTURE NAME="BODY_SPEC" PATH="F1 2006 Skinpack\Helmets\Williams\Rosberg Helmet Spec.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="F1 2006 Skinpack\Helmets\Williams\Rosberg Visor.dds" />
+        <TEXTURE NAME="VISOR_SPEC" PATH="F1 2006 Skinpack\Helmets\Williams\Williams Visor Spec.dds" />
+    </HELMET_OVERRIDE> -->
+
+	<LIVERY_OVERRIDE LIVERY="57" NAME="Tiago Monteiro #18" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1 2006 Skinpack\Midland\Preview Monteiro.dds" />
+        <TEXTURE NAME="BODY" PATH="F1 2006 Skinpack\Midland\Livery Monteiro.dds" />
+		<TEXTURE NAME="WHEELDIFF" PATH="F1 2006 Skinpack\Midland\Midland Rims.dds" />
+		<TEXTURE NAME="WHEELBLURDIFF" PATH="F1 2006 Skinpack\Midland\Midland Rims Blur.dds" />
+		<TEXTURE NAME="WHEELSPEC" PATH="F1 2006 Skinpack\Rims\high.dds" />
+		<TEXTURE NAME="WHEELBLURSPEC" PATH="F1 2006 Skinpack\Rims\high_blur.dds" />
+        <TEXTURE NAME="SPEC" PATH="F1 2006 Skinpack\Midland\Spec Midland.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="F1 2006 Skinpack\Midland\Fresnel Midland.dds" />
+	</LIVERY_OVERRIDE>
+
+    <HELMET_OVERRIDE LIVERY="57" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1 2006 Skinpack\helmets\Midland\Monteiro Helmet.dds" />
+        <TEXTURE NAME="BODY_SPEC" PATH="F1 2006 Skinpack\helmets\Midland\Monteiro Helmet Spec.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="F1 2006 Skinpack\helmets\Midland\Monteiro Visor.dds" />
+        <TEXTURE NAME="VISOR_SPEC" PATH="F1 2006 Skinpack\Helmets\Midland\Midland Visor Spec.dds" />
+    </HELMET_OVERRIDE> -->
+
+	<OUTFIT_OVERRIDE LIVERY="57" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1 2006 Skinpack\Suits\Midland\Midland Torso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1 2006 Skinpack\Suits\Midland\Midland Arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1 2006 Skinpack\Suits\Midland\Midland Gloves.dds" />
+		<TEXTURE NAME="GLOVES_SPEC" PATH="F1 2006 Skinpack\Suits\Suit spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1 2006 Skinpack\Suits\Midland\Midland Legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1 2006 Skinpack\Suits\Midland\Midland Seatbelt.dds" />
+        <TEXTURE NAME="SEATBELTS_SPEC" PATH="F1 2006 Skinpack\Suits\Suit spec.dds" />
+    </OUTFIT_OVERRIDE> -->
+	
+	<LIVERY_OVERRIDE LIVERY="58" NAME="Christijan Albers #19" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1 2006 Skinpack\Midland\Preview Albers.dds" />
+        <TEXTURE NAME="BODY" PATH="F1 2006 Skinpack\Midland\Livery Albers.dds" />
+		<TEXTURE NAME="WHEELDIFF" PATH="F1 2006 Skinpack\Midland\Midland Rims.dds" />
+		<TEXTURE NAME="WHEELBLURDIFF" PATH="F1 2006 Skinpack\Midland\Midland Rims Blur.dds" />
+		<TEXTURE NAME="WHEELSPEC" PATH="F1 2006 Skinpack\Rims\high.dds" />
+		<TEXTURE NAME="WHEELBLURSPEC" PATH="F1 2006 Skinpack\Rims\high_blur.dds" />
+        <TEXTURE NAME="SPEC" PATH="F1 2006 Skinpack\Midland\Spec Midland.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="F1 2006 Skinpack\Midland\Fresnel Midland.dds" />
+	</LIVERY_OVERRIDE>
+
+	<OUTFIT_OVERRIDE LIVERY="58" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1 2006 Skinpack\Suits\Midland\Midland Torso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1 2006 Skinpack\Suits\Midland\Midland Arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1 2006 Skinpack\Suits\Midland\Midland Gloves.dds" />
+		<TEXTURE NAME="GLOVES_SPEC" PATH="F1 2006 Skinpack\Suits\Suit spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1 2006 Skinpack\Suits\Midland\Midland Legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1 2006 Skinpack\Suits\Midland\Midland Seatbelt.dds" />
+        <TEXTURE NAME="SEATBELTS_SPEC" PATH="F1 2006 Skinpack\Suits\Suit spec.dds" />
+    </OUTFIT_OVERRIDE> -->
+	
+    <HELMET_OVERRIDE LIVERY="58" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1 2006 Skinpack\helmets\Midland\Albers Helmet.dds" />
+        <TEXTURE NAME="BODY_SPEC" PATH="F1 2006 Skinpack\helmets\Midland\Albers Helmet Spec.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="F1 2006 Skinpack\helmets\Midland\Albers Visor.dds" />
+        <TEXTURE NAME="VISOR_SPEC" PATH="F1 2006 Skinpack\Helmets\Midland\Midland Visor Spec.dds" />
+    </HELMET_OVERRIDE> -->
+
+	<LIVERY_OVERRIDE LIVERY="59" NAME="Takuma Sato #22" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1 2006 Skinpack\Special Liveries\Super Aguri Livery 2\Preview Sato.dds" />
+        <TEXTURE NAME="BODY" PATH="F1 2006 Skinpack\Special Liveries\Super Aguri Livery 2\Livery Sato.dds" />
+		<TEXTURE NAME="WHEELDIFF" PATH="F1 2006 Skinpack\Special Liveries\Super Aguri Livery 2\Super Aguri Rims.dds" />
+		<TEXTURE NAME="WHEELBLURDIFF" PATH="F1 2006 Skinpack\Special Liveries\Super Aguri Livery 2\Super Aguri Rims Blur.dds" />
+		<TEXTURE NAME="WHEELSPEC" PATH="F1 2006 Skinpack\Rims\high.dds" />
+		<TEXTURE NAME="WHEELBLURSPEC" PATH="F1 2006 Skinpack\Rims\high_blur.dds" />
+        <TEXTURE NAME="SPEC" PATH="F1 2006 Skinpack\Special Liveries\Super Aguri Livery 2\Spec Super Aguri.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="F1 2006 Skinpack\Special Liveries\Super Aguri Livery 2\Fresnel Super Aguri.dds" />
+	</LIVERY_OVERRIDE>
+
+	<OUTFIT_OVERRIDE LIVERY="59" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1 2006 Skinpack\Suits\Super Aguri\Super Aguri Torso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1 2006 Skinpack\Suits\Super Aguri\Super Aguri Arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1 2006 Skinpack\Suits\Super Aguri\Super Aguri Gloves.dds" />
+		<TEXTURE NAME="GLOVES_SPEC" PATH="F1 2006 Skinpack\Suits\Suit spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1 2006 Skinpack\Suits\Super Aguri\Super Aguri Legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1 2006 Skinpack\Suits\Super Aguri\Super Aguri Seatbelt.dds" />
+    </OUTFIT_OVERRIDE> -->
+	
+    <HELMET_OVERRIDE LIVERY="59" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1 2006 Skinpack\helmets\Super Aguri\Sato Helmet.dds" />
+        <TEXTURE NAME="BODY_SPEC" PATH="F1 2006 Skinpack\helmets\Super Aguri\Sato Helmet Spec.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="F1 2006 Skinpack\helmets\Super Aguri\Sato Visor.dds" />
+        <TEXTURE NAME="VISOR_SPEC" PATH="F1 2006 Skinpack\Helmets\Super Aguri\Super Aguri Visor Spec.dds" />
+    </HELMET_OVERRIDE> -->
+
+	<LIVERY_OVERRIDE LIVERY="60" NAME="Yuji Ide #23" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1 2006 Skinpack\Special Liveries\Super Aguri Livery 2\Preview Ide.dds" />
+        <TEXTURE NAME="BODY" PATH="F1 2006 Skinpack\Special Liveries\Super Aguri Livery 2\Livery Ide.dds" />
+		<TEXTURE NAME="WHEELDIFF" PATH="F1 2006 Skinpack\Special Liveries\Super Aguri Livery 2\Super Aguri Rims.dds" />
+		<TEXTURE NAME="WHEELBLURDIFF" PATH="F1 2006 Skinpack\Special Liveries\Super Aguri Livery 2\Super Aguri Rims Blur.dds" />
+		<TEXTURE NAME="WHEELSPEC" PATH="F1 2006 Skinpack\Rims\high.dds" />
+		<TEXTURE NAME="WHEELBLURSPEC" PATH="F1 2006 Skinpack\Rims\high_blur.dds" />
+        <TEXTURE NAME="SPEC" PATH="F1 2006 Skinpack\Special Liveries\Super Aguri Livery 2\Spec Super Aguri.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="F1 2006 Skinpack\Special Liveries\Super Aguri Livery 2\Fresnel Super Aguri.dds" />
+		</LIVERY_OVERRIDE>
+
+	<OUTFIT_OVERRIDE LIVERY="60" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1 2006 Skinpack\Suits\Super Aguri\Super Aguri Torso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1 2006 Skinpack\Suits\Super Aguri\Super Aguri Arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1 2006 Skinpack\Suits\Super Aguri\Super Aguri Gloves.dds" />
+		<TEXTURE NAME="GLOVES_SPEC" PATH="F1 2006 Skinpack\Suits\Suit spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1 2006 Skinpack\Suits\Super Aguri\Super Aguri Legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1 2006 Skinpack\Suits\Super Aguri\Super Aguri Seatbelt.dds" />
+    </OUTFIT_OVERRIDE> -->
+	
+    <HELMET_OVERRIDE LIVERY="60" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1 2006 Skinpack\helmets\Super Aguri\Ide Helmet.dds" />
+        <TEXTURE NAME="BODY_SPEC" PATH="F1 2006 Skinpack\helmets\Super Aguri\Ide Helmet Spec.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="F1 2006 Skinpack\helmets\Super Aguri\Ide Visor.dds" />
+        <TEXTURE NAME="VISOR_SPEC" PATH="F1 2006 Skinpack\Helmets\Super Aguri\Super Aguri Visor Spec.dds" />
+    </HELMET_OVERRIDE> -->
+
+</USER_OVERRIDES>

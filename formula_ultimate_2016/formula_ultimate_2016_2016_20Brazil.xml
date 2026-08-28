@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--F1 2016 Round 20 (Brazil) XML File-->
+<USER_OVERRIDES>
+
+	<LIVERY_OVERRIDE LIVERY="51" NAME="2016 Mercedes #44 - L. Hamilton" BASELIVERY="SilverMetallic">
+		<PREVIEWIMAGE PATH="F1_Season_2016\Preview\44_Mercedes.dds" />
+		<TEXTURE NAME="BODY" PATH="F1_Season_2016\44_Mercedes.dds" />
+		<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_2016\Rims\Mercedes.dds" />
+		<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_2016\Rims\Mercedes_blur.dds" />
+		<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_2016\Rims\spec_low.dds" />
+		<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_2016\Rims\spec_blur_low.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="51" BASEHELMET="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2016\Helmet\Hamilton.dds" />
+		<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_2016\Helmet\spec_helmet.dds" />
+		<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_2016\Helmet\Hamilton_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="51" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2016\Driver\MercedesDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_2016\Driver\MercedesArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_2016\Driver\MercedesGloves_Hamilton.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_2016\Driver\spec_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_2016\Driver\MercedesLegs_Hamilton.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_2016\Harness\Mercedes.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="52" NAME="2016 Mercedes #6 - N. Rosberg" BASELIVERY="SilverMetallic">
+		<PREVIEWIMAGE PATH="F1_Season_2016\Preview\6_Mercedes.dds" />
+		<TEXTURE NAME="BODY" PATH="F1_Season_2016\6_Mercedes.dds" />
+		<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_2016\Rims\Mercedes.dds" />
+		<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_2016\Rims\Mercedes_blur.dds" />
+		<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_2016\Rims\spec_low.dds" />
+		<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_2016\Rims\spec_blur_low.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="52" BASEHELMET="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2016\Helmet\Rosberg.dds" />
+		<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_2016\Helmet\spec_helmet.dds" />
+		<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_2016\Helmet\Rosberg_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="52" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2016\Driver\MercedesDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_2016\Driver\MercedesArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_2016\Driver\MercedesGloves_Rosberg.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_2016\Driver\spec_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_2016\Driver\MercedesLegs_Rosberg.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_2016\Harness\Mercedes.dds" />
+    </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="53" NAME="2016 Ferrari #5 - S. Vettel" BASELIVERY="Default">
+		<PREVIEWIMAGE PATH="F1_Season_2016\Preview\5_Ferrari.dds" />
+		<TEXTURE NAME="BODY" PATH="F1_Season_2016\5_Ferrari.dds" />
+		<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_2016\Rims\Ferrari.dds" />
+		<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_2016\Rims\Ferrari_blur.dds" />
+		<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_2016\Rims\spec_low.dds" />
+		<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_2016\Rims\spec_blur_low.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="53" BASEHELMET="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2016\Helmet\Vettel.dds" />
+		<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_2016\Helmet\spec_helmet.dds" />
+		<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_2016\Helmet\Vettel_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="53" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2016\Driver\FerrariDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_2016\Driver\FerrariArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_2016\Driver\FerrariGloves.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_2016\Driver\spec_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_2016\Driver\FerrariLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_2016\Harness\Ferrari.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="54" NAME="2016 Ferrari #7 - K. Räikkönen" BASELIVERY="Default">
+		<PREVIEWIMAGE PATH="F1_Season_2016\Preview\7_Ferrari.dds" />
+		<TEXTURE NAME="BODY" PATH="F1_Season_2016\7_Ferrari.dds" />
+		<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_2016\Rims\Ferrari.dds" />
+		<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_2016\Rims\Ferrari_blur.dds" />
+		<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_2016\Rims\spec_low.dds" />
+		<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_2016\Rims\spec_blur_low.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="54" BASEHELMET="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2016\Helmet\Raikkonen.dds" />
+		<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_2016\Helmet\spec_helmet.dds" />
+		<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_2016\Helmet\Raikkonen_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="54" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2016\Driver\FerrariDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_2016\Driver\FerrariArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_2016\Driver\FerrariGloves.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_2016\Driver\spec_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_2016\Driver\FerrariLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_2016\Harness\Ferrari.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="55" NAME="2016 Williams #19 - F. Massa" BASELIVERY="Default">
+		<PREVIEWIMAGE PATH="F1_Season_2016\Preview\19_Williams_Brazil.dds" />
+		<TEXTURE NAME="BODY" PATH="F1_Season_2016\19_Williams_Brazil.dds" />
+		<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_2016\Rims\Williams.dds" />
+		<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_2016\Rims\Williams_blur.dds" />
+		<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_2016\Rims\spec_low.dds" />
+		<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_2016\Rims\spec_blur_low.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="55" BASEHELMET="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2016\Helmet\Massa.dds" />
+		<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_2016\Helmet\spec_helmet.dds" />
+		<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_2016\Helmet\Massa_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="55" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2016\Driver\WilliamsDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_2016\Driver\WilliamsArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_2016\Driver\WilliamsGloves.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_2016\Driver\spec_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_2016\Driver\WilliamsLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_2016\Harness\Williams.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="56" NAME="2016 Williams #77 - V. Bottas" BASELIVERY="Default">
+		<PREVIEWIMAGE PATH="F1_Season_2016\Preview\77_Williams.dds" />
+		<TEXTURE NAME="BODY" PATH="F1_Season_2016\77_Williams.dds" />
+		<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_2016\Rims\Williams.dds" />
+		<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_2016\Rims\Williams_blur.dds" />
+		<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_2016\Rims\spec_low.dds" />
+		<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_2016\Rims\spec_blur_low.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="56" BASEHELMET="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2016\Helmet\Bottas.dds" />
+		<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_2016\Helmet\spec_helmet.dds" />
+		<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_2016\Helmet\Bottas_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="56" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2016\Driver\WilliamsDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_2016\Driver\WilliamsArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_2016\Driver\WilliamsGloves.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_2016\Driver\spec_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_2016\Driver\WilliamsLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_2016\Harness\Williams.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="57" NAME="2016 Red Bull #3 - D. Ricciardo" BASELIVERY="Matte">
+		<PREVIEWIMAGE PATH="F1_Season_2016\Preview\3_RedBull.dds" />
+		<TEXTURE NAME="BODY" PATH="F1_Season_2016\3_RedBull.dds" />
+		<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_2016\Rims\RedBull.dds" />
+		<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_2016\Rims\RedBull_blur.dds" />
+		<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_2016\Rims\spec_low.dds" />
+		<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_2016\Rims\spec_blur_low.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="57" BASEHELMET="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2016\Helmet\Ricciardo.dds" />
+		<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_2016\Helmet\spec_helmet.dds" />
+		<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_2016\Helmet\RedBull_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="57" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2016\Driver\RedBullDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_2016\Driver\RedBullArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_2016\Driver\RedBullGloves.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_2016\Driver\spec_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_2016\Driver\RedBullLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_2016\Harness\RedBull.dds" />
+    </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="58" NAME="2016 Red Bull #33 - M. Verstappen" BASELIVERY="Matte">
+		<PREVIEWIMAGE PATH="F1_Season_2016\Preview\33_RedBull_Late.dds" />
+		<TEXTURE NAME="BODY" PATH="F1_Season_2016\33_RedBull.dds" />
+		<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_2016\Rims\RedBull.dds" />
+		<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_2016\Rims\RedBull_blur.dds" />
+		<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_2016\Rims\spec_low.dds" />
+		<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_2016\Rims\spec_blur_low.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="58" BASEHELMET="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2016\Helmet\Verstappen_Late.dds" />
+		<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_2016\Helmet\spec_helmet.dds" />
+		<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_2016\Helmet\Verstappen_Late_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="58" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2016\Driver\RedBullDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_2016\Driver\RedBullArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_2016\Driver\RedBullGloves.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_2016\Driver\spec_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_2016\Driver\RedBullLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_2016\Harness\RedBull.dds" />
+    </OUTFIT_OVERRIDE>	
+
+	<LIVERY_OVERRIDE LIVERY="59" NAME="2016 Force India #27 - N. Hülkenberg" BASELIVERY="SilverMetallic">
+		<PREVIEWIMAGE PATH="F1_Season_2016\Preview\27_ForceIndia.dds" />
+		<TEXTURE NAME="BODY" PATH="F1_Season_2016\27_ForceIndia.dds" />
+		<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_2016\Rims\ForceIndia.dds" />
+		<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_2016\Rims\ForceIndia_blur.dds" />
+		<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_2016\Rims\spec_low.dds" />
+		<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_2016\Rims\spec_blur_low.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="59" BASEHELMET="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2016\Helmet\Hulkenberg.dds" />
+		<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_2016\Helmet\spec_helmet.dds" />
+		<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_2016\Helmet\Hulkenberg_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="59" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2016\Driver\ForceIndiaDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_2016\Driver\ForceIndiaArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_2016\Driver\ForceIndiaGloves.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_2016\Driver\spec_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_2016\Driver\ForceIndiaLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_2016\Harness\ForceIndia.dds" />
+    </OUTFIT_OVERRIDE>	
+
+	<LIVERY_OVERRIDE LIVERY="60" NAME="2016 Force India #11 - S. Pérez" BASELIVERY="SilverMetallic">
+		<PREVIEWIMAGE PATH="F1_Season_2016\Preview\11_ForceIndia.dds" />
+		<TEXTURE NAME="BODY" PATH="F1_Season_2016\11_ForceIndia.dds" />
+		<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_2016\Rims\ForceIndia.dds" />
+		<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_2016\Rims\ForceIndia_blur.dds" />
+		<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_2016\Rims\spec_low.dds" />
+		<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_2016\Rims\spec_blur_low.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="60" BASEHELMET="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2016\Helmet\Perez.dds" />
+		<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_2016\Helmet\spec_helmet.dds" />
+		<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_2016\Helmet\Perez_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="60" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2016\Driver\ForceIndiaDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_2016\Driver\ForceIndiaArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_2016\Driver\ForceIndiaGloves.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_2016\Driver\spec_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_2016\Driver\ForceIndiaLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_2016\Harness\ForceIndia.dds" />
+    </OUTFIT_OVERRIDE>		
+	
+	<LIVERY_OVERRIDE LIVERY="61" NAME="2016 Renault #20 - K. Magnussen" BASELIVERY="Default">
+		<PREVIEWIMAGE PATH="F1_Season_2016\Preview\20_Renault.dds" />
+		<TEXTURE NAME="BODY" PATH="F1_Season_2016\20_Renault.dds" />
+		<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_2016\Rims\Renault.dds" />
+		<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_2016\Rims\Renault_blur.dds" />
+		<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_2016\Rims\spec_low.dds" />
+		<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_2016\Rims\spec_blur_low.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="61" BASEHELMET="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2016\Helmet\Magnussen.dds" />
+		<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_2016\Helmet\spec_helmet.dds" />
+		<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_2016\Helmet\Magnussen_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="61" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2016\Driver\RenaultDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_2016\Driver\RenaultArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_2016\Driver\RenaultGloves.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_2016\Driver\spec_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_2016\Driver\RenaultLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_2016\Harness\Renault.dds" />
+    </OUTFIT_OVERRIDE>		
+	
+	<LIVERY_OVERRIDE LIVERY="62" NAME="2016 Renault #30 - J. Palmer" BASELIVERY="Default">
+		<PREVIEWIMAGE PATH="F1_Season_2016\Preview\30_Renault.dds" />
+		<TEXTURE NAME="BODY" PATH="F1_Season_2016\30_Renault.dds" />
+		<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_2016\Rims\Renault.dds" />
+		<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_2016\Rims\Renault_blur.dds" />
+		<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_2016\Rims\spec_low.dds" />
+		<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_2016\Rims\spec_blur_low.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="62" BASEHELMET="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2016\Helmet\Palmer.dds" />
+		<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_2016\Helmet\spec_helmet.dds" />
+		<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_2016\Helmet\Palmer_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="62" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2016\Driver\RenaultDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_2016\Driver\RenaultArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_2016\Driver\RenaultGloves.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_2016\Driver\spec_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_2016\Driver\RenaultLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_2016\Harness\Renault.dds" />
+    </OUTFIT_OVERRIDE>		
+
+	<LIVERY_OVERRIDE LIVERY="63" NAME="2016 Toro Rosso #26 - D. Kvyat" BASELIVERY="BlueMetallic+Chrome">
+		<PREVIEWIMAGE PATH="F1_Season_2016\Preview\26_ToroRosso.dds" />
+		<TEXTURE NAME="BODY" PATH="F1_Season_2016\26_ToroRosso.dds" />
+		<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_2016\Rims\ToroRosso.dds" />
+		<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_2016\Rims\ToroRosso_blur.dds" />
+		<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_2016\Rims\spec_low.dds" />
+		<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_2016\Rims\spec_blur_low.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="63" BASEHELMET="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2016\Helmet\Kvyat_ToroRosso.dds" />
+		<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_2016\Helmet\spec_helmet.dds" />
+		<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_2016\Helmet\ToroRosso_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="63" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2016\Driver\ToroRossoDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_2016\Driver\ToroRossoArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_2016\Driver\ToroRossoGloves.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_2016\Driver\spec_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_2016\Driver\ToroRossoLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_2016\Harness\ToroRosso.dds" />
+    </OUTFIT_OVERRIDE>	
+
+	<LIVERY_OVERRIDE LIVERY="64" NAME="2016 Toro Rosso #55 - C. Sainz" BASELIVERY="BlueMetallic+Chrome">
+		<PREVIEWIMAGE PATH="F1_Season_2016\Preview\55_ToroRosso.dds" />
+		<TEXTURE NAME="BODY" PATH="F1_Season_2016\55_ToroRosso.dds" />
+		<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_2016\Rims\ToroRosso.dds" />
+		<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_2016\Rims\ToroRosso_blur.dds" />
+		<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_2016\Rims\spec_low.dds" />
+		<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_2016\Rims\spec_blur_low.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="64" BASEHELMET="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2016\Helmet\Sainz.dds" />
+		<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_2016\Helmet\spec_helmet.dds" />
+		<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_2016\Helmet\Sainz_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="64" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2016\Driver\ToroRossoDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_2016\Driver\ToroRossoArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_2016\Driver\ToroRossoGloves.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_2016\Driver\spec_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_2016\Driver\ToroRossoLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_2016\Harness\ToroRosso.dds" />
+    </OUTFIT_OVERRIDE>		
+	
+	<LIVERY_OVERRIDE LIVERY="65" NAME="2016 Sauber #9 - M. Ericsson" BASELIVERY="Default">
+		<PREVIEWIMAGE PATH="F1_Season_2016\Preview\9_Sauber.dds" />
+		<TEXTURE NAME="BODY" PATH="F1_Season_2016\9_Sauber.dds" />
+		<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_2016\Rims\Sauber.dds" />
+		<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_2016\Rims\Sauber_blur.dds" />
+		<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_2016\Rims\spec_low.dds" />
+		<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_2016\Rims\spec_blur_low.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="65" BASEHELMET="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2016\Helmet\Ericsson.dds" />
+		<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_2016\Helmet\spec_helmet.dds" />
+		<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_2016\Helmet\Ericsson_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="65" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2016\Driver\SauberDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_2016\Driver\SauberArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_2016\Driver\SauberGloves.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_2016\Driver\spec_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_2016\Driver\SauberLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_2016\Harness\Sauber.dds" />
+    </OUTFIT_OVERRIDE>	
+	
+	<LIVERY_OVERRIDE LIVERY="66" NAME="2016 Sauber #12 - F. Nasr" BASELIVERY="Default">
+		<PREVIEWIMAGE PATH="F1_Season_2016\Preview\12_Sauber.dds" />
+		<TEXTURE NAME="BODY" PATH="F1_Season_2016\12_Sauber.dds" />
+		<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_2016\Rims\Sauber.dds" />
+		<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_2016\Rims\Sauber_blur.dds" />
+		<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_2016\Rims\spec_low.dds" />
+		<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_2016\Rims\spec_blur_low.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="66" BASEHELMET="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2016\Helmet\Nasr.dds" />
+		<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_2016\Helmet\spec_helmet.dds" />
+		<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_2016\Helmet\Nasr_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="66" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2016\Driver\SauberDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_2016\Driver\SauberArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_2016\Driver\SauberGloves.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_2016\Driver\spec_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_2016\Driver\SauberLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_2016\Harness\Sauber.dds" />
+    </OUTFIT_OVERRIDE>	
+	
+	<LIVERY_OVERRIDE LIVERY="67" NAME="2016 McLaren #14 - F. Alonso" BASELIVERY="Default">
+		<PREVIEWIMAGE PATH="F1_Season_2016\Preview\14_McLaren.dds" />
+		<TEXTURE NAME="BODY" PATH="F1_Season_2016\14_McLaren.dds" />
+		<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_2016\Rims\McLaren.dds" />
+		<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_2016\Rims\McLaren_blur.dds" />
+		<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_2016\Rims\spec_low.dds" />
+		<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_2016\Rims\spec_blur_low.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="67" BASEHELMET="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2016\Helmet\Alonso.dds" />
+		<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_2016\Helmet\spec_helmet.dds" />
+		<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_2016\Helmet\Alonso_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="67" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2016\Driver\McLarenDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_2016\Driver\McLarenArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_2016\Driver\McLarenGloves_Alonso.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_2016\Driver\spec_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_2016\Driver\McLarenLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_2016\Harness\McLaren.dds" />
+    </OUTFIT_OVERRIDE>	
+	
+	<LIVERY_OVERRIDE LIVERY="68" NAME="2016 McLaren #22 - J. Button" BASELIVERY="Default">
+		<PREVIEWIMAGE PATH="F1_Season_2016\Preview\22_McLaren.dds" />
+		<TEXTURE NAME="BODY" PATH="F1_Season_2016\22_McLaren.dds" />
+		<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_2016\Rims\McLaren.dds" />
+		<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_2016\Rims\McLaren_blur.dds" />
+		<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_2016\Rims\spec_low.dds" />
+		<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_2016\Rims\spec_blur_low.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="68" BASEHELMET="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2016\Helmet\Button.dds" />
+		<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_2016\Helmet\spec_helmet.dds" />
+		<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_2016\Helmet\Button_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="68" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2016\Driver\McLarenDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_2016\Driver\McLarenArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_2016\Driver\McLarenGloves_Button.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_2016\Driver\spec_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_2016\Driver\McLarenLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_2016\Harness\McLaren.dds" />
+    </OUTFIT_OVERRIDE>	
+	
+	<LIVERY_OVERRIDE LIVERY="69" NAME="2016 Manor #94 - P. Wehrlein" BASELIVERY="Default">
+		<PREVIEWIMAGE PATH="F1_Season_2016\Preview\94_Manor_End.dds" />
+		<TEXTURE NAME="BODY" PATH="F1_Season_2016\94_Manor_End.dds" />
+		<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_2016\Rims\Manor.dds" />
+		<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_2016\Rims\Manor_blur.dds" />
+		<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_2016\Rims\spec_low.dds" />
+		<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_2016\Rims\spec_blur_low.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="69" BASEHELMET="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2016\Helmet\Wehrlein.dds" />
+		<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_2016\Helmet\spec_helmet.dds" />
+		<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_2016\Helmet\Wehrlein_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="69" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2016\Driver\ManorDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_2016\Driver\ManorArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_2016\Driver\ManorGloves.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_2016\Driver\spec_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_2016\Driver\ManorLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_2016\Harness\Manor.dds" />
+    </OUTFIT_OVERRIDE>	
+	
+	<LIVERY_OVERRIDE LIVERY="70" NAME="2016 Manor #31 - E. Ocon" BASELIVERY="Default">
+		<PREVIEWIMAGE PATH="F1_Season_2016\Preview\31_Manor_End.dds" />
+		<TEXTURE NAME="BODY" PATH="F1_Season_2016\31_Manor_End.dds" />
+		<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_2016\Rims\Manor.dds" />
+		<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_2016\Rims\Manor_blur.dds" />
+		<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_2016\Rims\spec_low.dds" />
+		<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_2016\Rims\spec_blur_low.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="70" BASEHELMET="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2016\Helmet\Ocon.dds" />
+		<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_2016\Helmet\spec_helmet.dds" />
+		<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_2016\Helmet\Ocon_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="70" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2016\Driver\ManorDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_2016\Driver\ManorArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_2016\Driver\ManorGloves.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_2016\Driver\spec_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_2016\Driver\ManorLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_2016\Harness\Manor.dds" />
+    </OUTFIT_OVERRIDE>	
+	
+	<LIVERY_OVERRIDE LIVERY="71" NAME="2016 Haas #8 - R. Grosjean" BASELIVERY="Default">
+		<PREVIEWIMAGE PATH="F1_Season_2016\Preview\8_Haas.dds" />
+		<TEXTURE NAME="BODY" PATH="F1_Season_2016\8_Haas.dds" />
+		<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_2016\Rims\Haas.dds" />
+		<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_2016\Rims\Haas_blur.dds" />
+		<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_2016\Rims\spec_low.dds" />
+		<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_2016\Rims\spec_blur_low.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="71" BASEHELMET="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2016\Helmet\Grosjean.dds" />
+		<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_2016\Helmet\spec_helmet.dds" />
+		<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_2016\Helmet\Grosjean_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="71" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2016\Driver\HaasDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_2016\Driver\HaasArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_2016\Driver\HaasGloves_Grosjean.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_2016\Driver\spec_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_2016\Driver\HaasLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_2016\Harness\Haas.dds" />
+    </OUTFIT_OVERRIDE>	
+	
+	<LIVERY_OVERRIDE LIVERY="72" NAME="2016 Haas #21 - E. Gutiérrez" BASELIVERY="Default">
+		<PREVIEWIMAGE PATH="F1_Season_2016\Preview\21_Haas.dds" />
+		<TEXTURE NAME="BODY" PATH="F1_Season_2016\21_Haas.dds" />
+		<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_2016\Rims\Haas.dds" />
+		<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_2016\Rims\Haas_blur.dds" />
+		<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_2016\Rims\spec_low.dds" />
+		<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_2016\Rims\spec_blur_low.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="72" BASEHELMET="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2016\Helmet\Gutierrez.dds" />
+		<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_2016\Helmet\spec_helmet.dds" />
+		<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_2016\Helmet\Gutierrez_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="72" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2016\Driver\HaasDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_2016\Driver\HaasArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_2016\Driver\HaasGloves_Gutierrez.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_2016\Driver\spec_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_2016\Driver\HaasLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_2016\Harness\Haas.dds" />
+    </OUTFIT_OVERRIDE>	
+
+</USER_OVERRIDES>

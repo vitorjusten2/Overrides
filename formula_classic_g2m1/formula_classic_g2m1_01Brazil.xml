@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+
+
+	<LIVERY_OVERRIDE LIVERY="51" NAME="Williams-Judd - N. Mansell #5" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1988\preview5.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1988\Williams5.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="51" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1988\Helmets\88_Mansell_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1988\Helmets\88_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="51" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1988\Suits\williams5_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1988\Suits\williams5_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1988\Suits\williams5_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1988\Suits\williams5_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1988\Suits\red_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="52" NAME="Williams-Judd - R. Patrese #6" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1988\preview6.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1988\Williams6.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="52" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1988\Helmets\88_Patrese_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1988\Helmets\88_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="52" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1988\Suits\williams6_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1988\Suits\williams6_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1988\Suits\williams6_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1988\Suits\williams6_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1988\Suits\red_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="53" NAME="Benetton-Ford - A. Nannini #19" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1988\preview19.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1988\Benetton19.dds" />
+	</LIVERY_OVERRIDE> -->
+	<HELMET_OVERRIDE LIVERY="53" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1988\Helmets\88_Nannini_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1988\Helmets\88_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="53" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1988\Suits\benetton_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1988\Suits\benetton_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1988\Suits\benetton19_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1988\Suits\benetton19_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1988\Suits\red_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="54" NAME="Benetton-Ford - T. Boutsen #20" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1988\preview20.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1988\Benetton20.dds" />
+	</LIVERY_OVERRIDE> -->
+	<HELMET_OVERRIDE LIVERY="54" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1988\Helmets\88_Boutsen_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1988\Helmets\88_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="54" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1988\Suits\benetton_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1988\Suits\benetton_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1988\Suits\benetton20_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1988\Suits\benetton20_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1988\Suits\red_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="55" NAME="Tyrrell-Ford - J. Palmer #3" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1988\preview3.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1988\Tyrrell3.dds" />
+	</LIVERY_OVERRIDE> -->
+	<HELMET_OVERRIDE LIVERY="55" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1988\Helmets\88_Palmer_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1988\Helmets\88_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="55" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1988\Suits\tyrrell_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1988\Suits\tyrrell_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1988\Suits\tyrrell_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1988\Suits\tyrrell_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1988\Suits\blue_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="56" NAME="Osella - N. Larini #21" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1988\preview21.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1988\Osella21.dds" />
+	</LIVERY_OVERRIDE> -->
+	<HELMET_OVERRIDE LIVERY="56" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1988\Helmets\88_Larini_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1988\Helmets\88_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="56" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1988\Suits\88_Osella_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1988\Suits\88_Osella_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1988\Suits\88_Osella_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1988\Suits\88_Osella_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1988\Suits\red_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="57" NAME="March-Judd - M. Gugelmin #15" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1988\preview15.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1988\March15.dds" />
+	</LIVERY_OVERRIDE> -->
+	<HELMET_OVERRIDE LIVERY="57" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1988\Helmets\88_Gugelmin_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1988\Helmets\88_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="57" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1988\Suits\march_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1988\Suits\march_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1988\Suits\march_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1988\Suits\march_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1988\Suits\blue_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="58" NAME="March-Judd - I. Capelli #16" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1988\preview16.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1988\March16.dds" />
+	</LIVERY_OVERRIDE> -->
+	<HELMET_OVERRIDE LIVERY="58" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1988\Helmets\88_Capelli_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1988\Helmets\88_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="58" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1988\Suits\march_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1988\Suits\march_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1988\Suits\march_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1988\Suits\march_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1988\Suits\blue_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+</USER_OVERRIDES>

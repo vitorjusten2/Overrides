@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+
+      <!--<HELMET_OVERRIDE LIVERY="51" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="..\1FTR\Equipments\Justen\justen-2000s-helmet.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="..\1FTR\Equipments\Justen\justen-2000s-visor.dds" />
+      </HELMET_OVERRIDE>
+
+      <OUTFIT_OVERRIDE LIVERY="51" BASEOUTFIT="DEFAULT">
+            <TEXTURE NAME="ARMS_DIFF" PATH="..\1FTR\Equipments\Justen\justen-2000s-arms.dds" />
+            <TEXTURE NAME="GLOVES_DIFF" PATH="..\1FTR\Equipments\Justen\justen-2000s-gloves.dds" />
+            <TEXTURE NAME="LEGS_DIFF" PATH="..\1FTR\Equipments\Justen\justen-2000s-legs.dds" />
+            <TEXTURE NAME="SEATBELTS_DIFF" PATH="..\1FTR\Equipments\Justen\justen-2000s-seatbelt.dds" />
+            <TEXTURE NAME="BODY_DIFF" PATH="..\1FTR\Equipments\Justen\justen-2000s-torso.dds" />
+      </OUTFIT_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="51" NAME="Faster Team Racing" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="..\1FTR\FTR-IMAGE.dds" />
+        <TEXTURE NAME="BODY" PATH="FTR\FTR-FUSCA26.dds" />
+    </LIVERY_OVERRIDE> 
+
+      <HELMET_OVERRIDE LIVERY="70" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="..\1FTR\Equipments\Soares\soares-2000s-helmet.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="..\1FTR\Equipments\Soares\soares-2000s-visor.dds" />
+      </HELMET_OVERRIDE>
+
+      <OUTFIT_OVERRIDE LIVERY="70" BASEOUTFIT="DEFAULT">
+            <TEXTURE NAME="ARMS_DIFF" PATH="..\1FTR\Equipments\Soares\soares-2000s-arms.dds" />
+            <TEXTURE NAME="GLOVES_DIFF" PATH="..\1FTR\Equipments\Soares\soares-2000s-gloves.dds" />
+            <TEXTURE NAME="LEGS_DIFF" PATH="..\1FTR\Equipments\Soares\soares-2000s-legs.dds" />
+            <TEXTURE NAME="SEATBELTS_DIFF" PATH="..\1FTR\Equipments\Soares\soares-2000s-seatbelt.dds" />
+            <TEXTURE NAME="BODY_DIFF" PATH="..\1FTR\Equipments\Soares\soares-2000s-torso.dds" />
+      </OUTFIT_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="70" NAME="Faster Team Racing - Iuri Soares #22" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="..\1FTR\FTR-IMAGE.dds" />
+        <TEXTURE NAME="BODY" PATH="FTR\FTR-FUSCA26-soares.dds" />
+    </LIVERY_OVERRIDE> -->
+
+</USER_OVERRIDES>

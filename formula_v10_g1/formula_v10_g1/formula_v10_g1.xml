@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+   	
+	<LIVERY_OVERRIDE LIVERY="52" NAME="Danka Arrows Yamaha 2" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_1997\arrows\parrows2.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_1997\arrows\arrows2.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="52" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1997\arrows\Helmets\diniz.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1997\helmet_spec.dds" />
+		<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1997\arrows\Helmets\arrows_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="52" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1997\arrows\Suits\97_Arrows_body.dds" />
+		<TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1997\arrows\Suits\97_Arrows_arms.dds" />
+		<TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1997\arrows\Suits\97_Arrows_gloves.dds" />
+		<TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1997\arrows\Suits\97_Arrows_legs.dds" />
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1997\Suits_common\blue_safety_harness.dds" />
+	</OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="53" NAME="Rothmans Williams Renault 3" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_1997\williams\pwilliams3.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_1997\williams\williams3.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="53" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1997\williams\Helmets\villeneuve.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1997\helmet_spec.dds" />
+		<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1997\williams\Helmets\williams_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="53" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1997\williams\Suits\97_Williams_body.dds" />
+		<TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1997\williams\Suits\97_Williams_arms.dds" />
+		<TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1997\williams\Suits\97_Williams_gloves.dds" />
+		<TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1997\williams\Suits\97_Williams_legs.dds" />
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1997\Suits_common\blue_safety_harness.dds" />
+	</OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="54" NAME="Rothmans Williams Renault 4" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_1997\williams\pwilliams4.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_1997\williams\williams4.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="54" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1997\williams\Helmets\frentzen.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1997\helmet_spec.dds" />
+		<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1997\williams\Helmets\williams_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="54" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1997\williams\Suits\97_Williams_body.dds" />
+		<TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1997\williams\Suits\97_Williams_arms.dds" />
+		<TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1997\williams\Suits\97_Williams_gloves.dds" />
+		<TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1997\williams\Suits\97_Williams_legs.dds" />
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1997\Suits_common\blue_safety_harness.dds" />
+	</OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="55" NAME="Scuderia Ferrari Marlboro 5" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_1997\ferrari\pferrari5.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_1997\ferrari\ferrari5.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="55" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1997\ferrari\Helmets\schumacher.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1997\helmet_spec.dds" />
+		<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1997\ferrari\Helmets\schumacher_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="55" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1997\ferrari\Suits\97_ferrari_body.dds" />
+		<TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1997\ferrari\Suits\97_ferrari_arms.dds" />
+		<TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1997\ferrari\Suits\97_ferrari_gloves.dds" />
+		<TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1997\ferrari\Suits\97_ferrari_legs.dds" />
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1997\Suits_common\red_safety_harness.dds" />
+	</OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="56" NAME="Scuderia Ferrari Marlboro 6" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_1997\ferrari\pferrari6.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_1997\ferrari\ferrari6.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="56" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1997\ferrari\Helmets\irvine.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1997\helmet_spec.dds" />
+		<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1997\ferrari\Helmets\irvine_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="56" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1997\ferrari\Suits\97_ferrari_body.dds" />
+		<TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1997\ferrari\Suits\97_ferrari_arms.dds" />
+		<TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1997\ferrari\Suits\97_ferrari_gloves.dds" />
+		<TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1997\ferrari\Suits\97_ferrari_legs.dds" />
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1997\Suits_common\red_safety_harness.dds" />
+	</OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="57" NAME="Mild Seven Benetton Renault 7" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_1997\benetton\pbenetton7.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_1997\benetton\benetton7.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="57" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1997\benetton\Helmets\alesi.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1997\helmet_spec.dds" />
+		<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1997\benetton\Helmets\alesi_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="57" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1997\benetton\Suits\97_benetton_body.dds" />
+		<TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1997\benetton\Suits\97_benetton_arms.dds" />
+		<TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1997\benetton\Suits\97_benetton_gloves.dds" />
+		<TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1997\benetton\Suits\97_benetton_legs.dds" />
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1997\Suits_common\blue_safety_harness.dds" />
+	</OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="58" NAME="Mild Seven Benetton Renault 8" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_1997\benetton\pbenetton8.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_1997\benetton\benetton8.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="58" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1997\benetton\Helmets\berger.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1997\helmet_spec.dds" />
+		<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1997\benetton\Helmets\berger_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="58" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1997\benetton\Suits\97_benetton_body.dds" />
+		<TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1997\benetton\Suits\97_benetton_arms.dds" />
+		<TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1997\benetton\Suits\97_benetton_gloves.dds" />
+		<TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1997\benetton\Suits\97_benetton_legs.dds" />
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1997\Suits_common\blue_safety_harness.dds" />
+	</OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="59" NAME="BH Total Jordan Peugeot 11" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_1997\jordan\pjordan11.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_1997\jordan\jordan11.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="59" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1997\jordan\Helmets\schumacher.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1997\helmet_spec.dds" />
+		<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1997\jordan\Helmets\jordan_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="59" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1997\jordan\Suits\97_Jordan_body.dds" />
+		<TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1997\jordan\Suits\97_Jordan_arms.dds" />
+		<TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1997\jordan\Suits\97_Jordan_gloves.dds" />
+		<TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1997\jordan\Suits\97_Jordan_legs.dds" />
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1997\Suits_common\yellow_safety_harness.dds" />
+	</OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="60" NAME="BH Total Jordan Peugeot 12" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_1997\jordan\pjordan12.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_1997\jordan\jordan12.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="60" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1997\jordan\Helmets\fisico.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1997\helmet_spec.dds" />
+		<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1997\jordan\Helmets\jordan_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="60" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1997\jordan\Suits\97_Jordan_body.dds" />
+		<TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1997\jordan\Suits\97_Jordan_arms.dds" />
+		<TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1997\jordan\Suits\97_Jordan_gloves.dds" />
+		<TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1997\jordan\Suits\97_Jordan_legs.dds" />
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1997\Suits_common\yellow_safety_harness.dds" />
+	</OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="61" NAME="Prost Gauloises Blondes 14" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_1997\prost\pprost14.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_1997\prost\prost14.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="61" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1997\prost\Helmets\panis.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1997\helmet_spec.dds" />
+		<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1997\prost\Helmets\prost_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="61" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1997\prost\Suits\97_Prost_body.dds" />
+		<TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1997\prost\Suits\97_Prost_arms.dds" />
+		<TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1997\prost\Suits\97_Prost_gloves.dds" />
+		<TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1997\prost\Suits\97_Prost_legs.dds" />
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1997\Suits_common\blue_safety_harness.dds" />
+	</OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="62" NAME="Prost Gauloises Blondes 15" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_1997\prost\pprost15.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_1997\prost\prost15.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="62" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1997\prost\Helmets\nakano.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1997\helmet_spec.dds" />
+		<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1997\prost\Helmets\prost_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="62" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1997\prost\Suits\97_Prost_body.dds" />
+		<TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1997\prost\Suits\97_Prost_arms.dds" />
+		<TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1997\prost\Suits\97_Prost_gloves.dds" />
+		<TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1997\prost\Suits\97_Prost_legs.dds" />
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1997\Suits_common\blue_safety_harness.dds" />
+	</OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="63" NAME="Red Bull Sauber Petronas 16" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_1997\sauber\psauber16.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_1997\sauber\sauber16.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="63" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1997\sauber\Helmets\herbert.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1997\helmet_spec.dds" />
+		<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1997\sauber\Helmets\sauber_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="63" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1997\sauber\Suits\97_Sauber_body.dds" />
+		<TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1997\sauber\Suits\97_Sauber_arms.dds" />
+		<TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1997\sauber\Suits\97_Sauber_gloves.dds" />
+		<TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1997\sauber\Suits\97_Sauber_legs.dds" />
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1997\Suits_common\blue_safety_harness.dds" />
+	</OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="64" NAME="Red Bull Sauber Petronas 17" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_1997\sauber\psauber17.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_1997\sauber\sauber17.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="64" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1997\sauber\Helmets\larini.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1997\helmet_spec.dds" />
+		<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1997\sauber\Helmets\sauber_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="64" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1997\sauber\Suits\97_Sauber_body.dds" />
+		<TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1997\sauber\Suits\97_Sauber_arms.dds" />
+		<TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1997\sauber\Suits\97_Sauber_gloves.dds" />
+		<TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1997\sauber\Suits\97_Sauber_legs.dds" />
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1997\Suits_common\blue_safety_harness.dds" />
+	</OUTFIT_OVERRIDE>
+		
+	<LIVERY_OVERRIDE LIVERY="65" NAME="Tyrrell Ford 18" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_1997\tyrrell\ptyrrell18.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_1997\tyrrell\tyrrell18.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="65" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1997\tyrrell\Helmets\verstappen.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1997\helmet_spec.dds" />
+		<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1997\tyrrell\Helmets\verstappen_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="65" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1997\tyrrell\Suits\97_Tyrrell_body.dds" />
+		<TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1997\tyrrell\Suits\97_Tyrrell_arms.dds" />
+		<TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1997\tyrrell\Suits\97_Tyrrell_gloves.dds" />
+		<TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1997\tyrrell\Suits\97_Tyrrell_legs.dds" />
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1997\Suits_common\black_safety_harness.dds" />
+	</OUTFIT_OVERRIDE>
+		
+	<LIVERY_OVERRIDE LIVERY="66" NAME="Tyrrell Ford 19" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_1997\tyrrell\ptyrrell19.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_1997\tyrrell\tyrrell19.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="66" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1997\tyrrell\Helmets\salo.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1997\helmet_spec.dds" />
+		<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1997\tyrrell\Helmets\salo_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="66" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1997\tyrrell\Suits\97_Tyrrell_body.dds" />
+		<TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1997\tyrrell\Suits\97_Tyrrell_arms.dds" />
+		<TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1997\tyrrell\Suits\97_Tyrrell_gloves.dds" />
+		<TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1997\tyrrell\Suits\97_Tyrrell_legs.dds" />
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1997\Suits_common\black_safety_harness.dds" />
+	</OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="67" NAME="Minardi Team 20" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_1997\minardi\pminardi20.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_1997\minardi\minardi20.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="67" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1997\minardi\Helmets\katayama.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1997\helmet_spec.dds" />
+		<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1997\minardi\Helmets\katayama_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="67" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1997\minardi\Suits\97_Minardi_body.dds" />
+		<TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1997\minardi\Suits\97_Minardi_arms.dds" />
+		<TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1997\minardi\Suits\97_Minardi_gloves.dds" />
+		<TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1997\minardi\Suits\97_Minardi_legs.dds" />
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1997\Suits_common\black_safety_harness.dds" />
+	</OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="68" NAME="Minardi Team 21" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_1997\minardi\pminardi21.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_1997\minardi\minardi21.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="68" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1997\minardi\Helmets\trulli.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1997\helmet_spec.dds" />
+		<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1997\minardi\Helmets\trulli_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="68" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1997\minardi\Suits\97_Minardi_body.dds" />
+		<TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1997\minardi\Suits\97_Minardi_arms.dds" />
+		<TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1997\minardi\Suits\97_Minardi_gloves.dds" />
+		<TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1997\minardi\Suits\97_Minardi_legs.dds" />
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1997\Suits_common\black_safety_harness.dds" />
+	</OUTFIT_OVERRIDE>
+			
+	<LIVERY_OVERRIDE LIVERY="69" NAME="Stewart Ford 22" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_1997\stewart\pstewart22.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_1997\stewart\stewart22.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="69" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1997\stewart\Helmets\barrichello.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1997\helmet_spec.dds" />
+		<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1997\stewart\Helmets\stewart_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="69" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1997\stewart\Suits\97_Stewart_body.dds" />
+		<TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1997\stewart\Suits\97_Stewart_arms.dds" />
+		<TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1997\stewart\Suits\97_Stewart_gloves.dds" />
+		<TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1997\stewart\Suits\97_Stewart_legs.dds" />
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1997\Suits_common\black_safety_harness.dds" />
+	</OUTFIT_OVERRIDE>
+			
+	<LIVERY_OVERRIDE LIVERY="70" NAME="Stewart Ford 23" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_1997\stewart\pstewart23.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_1997\stewart\stewart23.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="70" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1997\stewart\Helmets\magnussen.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1997\helmet_spec.dds" />
+		<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1997\stewart\Helmets\stewart_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="70" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1997\stewart\Suits\97_Stewart_body.dds" />
+		<TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1997\stewart\Suits\97_Stewart_arms.dds" />
+		<TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1997\stewart\Suits\97_Stewart_gloves.dds" />
+		<TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1997\stewart\Suits\97_Stewart_legs.dds" />
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1997\Suits_common\black_safety_harness.dds" />
+	</OUTFIT_OVERRIDE>
+			
+</USER_OVERRIDES>

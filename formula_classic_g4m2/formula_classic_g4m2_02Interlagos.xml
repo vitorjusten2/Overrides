@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+
+	<LIVERY_OVERRIDE LIVERY="51" NAME="Williams-Renault #5 N. Mansell" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1991\preview5_Brazil.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1991\Williams5_Brazil.dds" />
+	</LIVERY_OVERRIDE> -->
+	<HELMET_OVERRIDE LIVERY="51" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1991\Helmets\91_Mansell_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1991\Helmets\91_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="51" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1991\Suits\williams5_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1991\Suits\williams_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1991\Suits\williams_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1991\Suits\williams_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1991\Suits\red_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="52" NAME="Williams-Renault #6 R. Patrese" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1991\preview6_Brazil.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1991\Williams6_Brazil.dds" />
+	</LIVERY_OVERRIDE> -->
+	<HELMET_OVERRIDE LIVERY="52" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1991\Helmets\91_Patrese_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1991\Helmets\91_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="52" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1991\Suits\williams6_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1991\Suits\williams_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1991\Suits\williams_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1991\Suits\williams_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1991\Suits\black_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="53" NAME="Lotus-Judd #11 M. Hakkinen" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1991\preview11.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1991\Lotus11.dds" />
+	</LIVERY_OVERRIDE> -->
+	<HELMET_OVERRIDE LIVERY="53" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1991\Helmets\91_Hakkinen_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1991\Helmets\91_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="53" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1991\Suits\lotus11_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1991\Suits\lotus_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1991\Suits\lotus_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1991\Suits\lotus_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1991\Suits\black_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="54" NAME="Lotus-Judd #12 J. Bailey" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1991\preview12.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1991\Lotus12.dds" />
+	</LIVERY_OVERRIDE> -->
+	<HELMET_OVERRIDE LIVERY="54" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1991\Helmets\91_Bailey_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1991\Helmets\91_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="54" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1991\Suits\lotus12_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1991\Suits\lotus_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1991\Suits\lotus_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1991\Suits\lotus_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1991\Suits\black_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="55" NAME="Leyton-House-Ilmor #15 M. Gugelmin" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1991\preview15_early.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1991\Leyton15_early.dds" />
+	</LIVERY_OVERRIDE> -->
+	<HELMET_OVERRIDE LIVERY="55" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1991\Helmets\91_Gugelmin_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1991\Helmets\91_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="55" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1991\Suits\leytonhouse15_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1991\Suits\leytonhouse_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1991\Suits\leytonhouse_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1991\Suits\leytonhouse_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1991\Suits\blue_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="56" NAME="Leyton-House-Ilmor #16 I. Capelli" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1991\preview16_Capelli.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1991\Leyton16_Capelli.dds" />
+	</LIVERY_OVERRIDE> -->
+	<HELMET_OVERRIDE LIVERY="56" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1991\Helmets\91_Capelli_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1991\Helmets\91_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="56" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1991\Suits\leytonhouse16_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1991\Suits\leytonhouse_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1991\Suits\leytonhouse_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1991\Suits\leytonhouse_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1991\Suits\blue_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="57" NAME="Jordan-Ford #32 B. Gachot" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1991\preview32_Gachot.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1991\Jordan32_Gachot.dds" />
+	</LIVERY_OVERRIDE> -->
+	<HELMET_OVERRIDE LIVERY="57" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1991\Helmets\91_Gachot_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1991\Helmets\91_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="57" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1991\Suits\jordan32a_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1991\Suits\jordan_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1991\Suits\jordan_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1991\Suits\jordan_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1991\Suits\blue_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="58" NAME="Jordan-Ford #33 A. De Cesaris" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1991\preview33.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1991\Jordan33.dds" />
+	</LIVERY_OVERRIDE> -->
+	<HELMET_OVERRIDE LIVERY="58" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1991\Helmets\91_DeCesaris_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1991\Helmets\91_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="58" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1991\Suits\jordan33_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1991\Suits\jordan_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1991\Suits\jordan_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1991\Suits\jordan_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1991\Suits\blue_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+</USER_OVERRIDES>

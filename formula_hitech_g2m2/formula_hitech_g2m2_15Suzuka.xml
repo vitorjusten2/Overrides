@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+ 
+	<LIVERY_OVERRIDE LIVERY="51" NAME="Williams-Renault #0 D. Hill" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1993\preview0.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1993\Williams0.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="51" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1993\Helmets\93_Hill_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1993\Helmets\93_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="51" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1993\Suits\93_Williams_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1993\Suits\93_Williams_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1993\Suits\93_Williams_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1993\Suits\93_Williams_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1993\Suits\red_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="52" NAME="Williams-Renault #2 A. Prost" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1993\preview2.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1993\Williams2.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="52" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1993\Helmets\93_Prost_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1993\Helmets\93_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="52" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1993\Suits\93_Williams_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1993\Suits\93_Williams_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1993\Suits\93_Williams_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1993\Suits\93_Williams_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1993\Suits\red_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="xx" NAME="Lotus-Ford #11 A. Zanardi" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1993\preview11.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1993\Lotus11.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="xx" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1993\Helmets\93_Zanardi_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1993\Helmets\93_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="xx" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1993\Suits\93_Lotus_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1993\Suits\93_Lotus_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1993\Suits\93_Lotus_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1993\Suits\93_Lotus_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1993\Suits\red_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="53" NAME="Lotus-Ford #11 P. Lamy" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1993\preview11_suz.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1993\Lotus11suz.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="53" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1993\Helmets\93_Lamy_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1993\Helmets\93_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="53" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1993\Suits\93_Lotus_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1993\Suits\93_Lotus_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1993\Suits\93_Lotus_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1993\Suits\93_Lotus_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1993\Suits\red_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="54" NAME="Lotus-Ford #12 J. Herbert" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1993\preview12_suz.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1993\Lotus12suz.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="54" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1993\Helmets\93_Herbert_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1993\Helmets\93_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="54" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1993\Suits\93_Lotus_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1993\Suits\93_Lotus_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1993\Suits\93_Lotus_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1993\Suits\93_Lotus_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1993\Suits\red_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="55" NAME="Jordan-Hart #14 R. Barrichello" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1993\preview14.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1993\Jordan14.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="55" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1993\Helmets\93_Barrichello_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1993\Helmets\93_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="55" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1993\Suits\93_Jordan_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1993\Suits\93_Jordan_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1993\Suits\93_Jordan_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1993\Suits\93_Jordan_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1993\Suits\red_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="xx" NAME="Jordan-Hart #15 I. Capelli" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1993\preview15.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1993\Jordan15.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="xx" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1993\Helmets\93_Capelli_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1993\Helmets\93_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="xx" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1993\Suits\93_Jordan_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1993\Suits\93_Jordan_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1993\Suits\93_Jordan_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1993\Suits\93_Jordan_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1993\Suits\red_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="xx" NAME="Jordan-Hart #15 T. Boutsen" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1993\preview15.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1993\Jordan15.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="xx" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1993\Helmets\93_Boutsen_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1993\Helmets\93_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="xx" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1993\Suits\93_Jordan_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1993\Suits\93_Jordan_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1993\Suits\93_Jordan_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1993\Suits\93_Jordan_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1993\Suits\red_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="56" NAME="Jordan-Hart #15 E. Irvine" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1993\preview15.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1993\Jordan15.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="56" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1993\Helmets\93_Irvine_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1993\Helmets\93_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="56" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1993\Suits\93_Jordan_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1993\Suits\93_Jordan_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1993\Suits\93_Jordan_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1993\Suits\93_Jordan_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1993\Suits\red_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="xx" NAME="Jordan-Hart #15 M. Apicella" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1993\preview15.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1993\Jordan15.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="xx" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1993\Helmets\93_Apicella_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1993\Helmets\93_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="xx" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1993\Suits\93_Jordan_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1993\Suits\93_Jordan_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1993\Suits\93_Jordan_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1993\Suits\93_Jordan_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1993\Suits\red_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="xx" NAME="Jordan-Hart #15 E. Naspetti" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1993\preview15.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1993\Jordan15.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="xx" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1993\Helmets\93_Naspetti_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1993\Helmets\93_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="xx" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1993\Suits\93_Jordan_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1993\Suits\93_Jordan_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1993\Suits\93_Jordan_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1993\Suits\93_Jordan_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1993\Suits\red_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="xx" NAME="Minardi-Ford #23 C. Fittipaldi" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1993\preview23.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1993\Minardi23.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="xx" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1993\Helmets\93_Fittipaldi_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1993\Helmets\93_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="xx" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1993\Suits\93_Minardi_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1993\Suits\93_Minardi_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1993\Suits\93_Minardi_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1993\Suits\93_Minardi_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1993\Suits\red_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="57" NAME="Minardi-Ford #23 J.M. Gounon" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1993\preview23_suz.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1993\Minardi23suz.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="57" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1993\Helmets\93_Gounon_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1993\Helmets\93_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="57" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1993\Suits\93_Minardi_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1993\Suits\93_Minardi_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1993\Suits\93_Minardi_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1993\Suits\93_Minardi_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1993\Suits\red_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>		
+	
+	<LIVERY_OVERRIDE LIVERY="58" NAME="Minardi-Ford #24 P. Martini" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1993\preview24_suz.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1993\Minardi24suz.dds" />
+	</LIVERY_OVERRIDE>	
+	<HELMET_OVERRIDE LIVERY="58" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1993\Helmets\93_Martini_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1993\Helmets\93_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="58" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1993\Suits\93_Minardi_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1993\Suits\93_Minardi_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1993\Suits\93_Minardi_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1993\Suits\93_Minardi_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1993\Suits\red_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="xx" NAME="Minardi-Ford #24 F. Barbazza" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1993\preview24.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1993\Minardi24.dds" />
+	</LIVERY_OVERRIDE>	
+	<HELMET_OVERRIDE LIVERY="xx" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1993\Helmets\93_Barbazza_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1993\Helmets\93_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="xx" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1993\Suits\93_Minardi_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1993\Suits\93_Minardi_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1993\Suits\93_Minardi_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1993\Suits\93_Minardi_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1993\Suits\red_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>		
+	
+	<LIVERY_OVERRIDE LIVERY="59" NAME="Ligier-Renault #25 M. Brundle" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1993\preview25.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1993\Ligier25.dds" />
+	</LIVERY_OVERRIDE>	
+	<HELMET_OVERRIDE LIVERY="59" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1993\Helmets\93_Brundle_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1993\Helmets\93_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="59" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1993\Suits\93_Ligier_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1993\Suits\93_Ligier_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1993\Suits\93_Ligier_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1993\Suits\93_Ligier_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1993\Suits\red_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="60" NAME="Ligier-Renault #26 M. Blundell" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1993\preview26.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1993\Ligier26.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="60" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1993\Helmets\93_Blundell_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1993\Helmets\93_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="60" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1993\Suits\93_Ligier_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1993\Suits\93_Ligier_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1993\Suits\93_Ligier_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1993\Suits\93_Ligier_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1993\Suits\red_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>	
+	
+	<LIVERY_OVERRIDE LIVERY="61" NAME="Sauber-Mercedes #29 K. Wendlinger" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1993\preview29_late.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1993\Sauber29spa.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="61" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1993\Helmets\93_Wendlinger_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1993\Helmets\93_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="61" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1993\Suits\93_Sauber_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1993\Suits\93_Sauber_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1993\Suits\93_Sauber_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1993\Suits\93_Sauber_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1993\Suits\red_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>		
+	
+	<LIVERY_OVERRIDE LIVERY="62" NAME="Sauber-Mercedes #30 JJ. Lehto" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1993\preview30_late.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1993\Sauber30spa.dds" />
+	</LIVERY_OVERRIDE>	
+	<HELMET_OVERRIDE LIVERY="62" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1993\Helmets\93_Lehto_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1993\Helmets\93_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="62" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1993\Suits\93_Sauber_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1993\Suits\93_Sauber_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1993\Suits\93_Sauber_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1993\Suits\93_Sauber_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1993\Suits\red_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>		
+			
+</USER_OVERRIDES>

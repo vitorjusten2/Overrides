@@ -1,0 +1,825 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+
+    <!--
+        Create a copy of this file without the '_dist' part and place it beside this one
+
+        eg      'formula_ultimate_2025_dist.xml'
+                    should become
+                'formula_ultimate_2025.xml'
+
+        Define a 'LIVERY_OVERRIDE' section for each default livery you wish to replace.
+
+        A LIVERY_OVERRIDE definition must be based on one of the base liveries provided which will provide
+        variations where required. The LIVERY attribute determines which base game livery is replaced.
+        A NAME attribute must be set
+
+        Within a LIVERY_OVERRIDE definition each desired texture override
+        should be defined in a TEXTURE element. Any texture not present will use the texture from
+        the BASELIVERY.
+
+        Additionally a PREVIEWIMAGE element with a PATH attribute can be used to note a texture for use
+        in the game's UI. (2048 x 600 px )
+
+        Texture PATH attributes are relative to this file's directory. Further sub-directories are
+        permissable and their structure is left to the users own preference.
+
+		LIVERY IDs can be viewed in the game UI by running the game with -showLiveryIDs switch/launch option
+
+AVAILABLE BASE LIVERIES
+        =======================
+
+		        Default: Default body only skin
+                Available textures: 
+                        BODY        - the main external body/window paint texture
+                                    - 4096 x 4096
+                                    - DXT1 with MIPs
+									- DXT5 with MIPs saved with alpha channel for paint fx 
+                        						
+						SPEC     	- specular map
+                                    - 4096 x 4096
+                                    - DXT5 with MIPs	
+
+						FRESNEL		- fresnel map
+                                    - 4096 x 4096
+                                    - DXT1 with MIPs
+									
+						WINGS		- Front wheel winglets/arches - Paint on the main body of the cars template
+                                    - 4096 x 4096
+                                    - DXT1 with MIPs
+									
+						WHEELDIFF	- Wheel rim covers
+                                    - 512 x 512
+                                    - DXT1 with MIPs
+									
+						WHEELBLURDIFF	- Wheel rim covers - Blur
+                                    - 512 x 512
+                                    - DXT1 with MIPs
+                                
+				Matte: Matte metallic effect
+                Available textures: 
+                        BODY        - the main external body/window paint texture
+                                    - 4096 x 4096
+                                    - DXT5 with MIPs saved with alpha channel for paint fx 
+									
+						SPEC     	- specular map
+                                    - 4096 x 4096
+                                    - DXT5 with MIPs	
+
+						FRESNEL		- fresnel map
+                                    - 4096 x 4096
+                                    - DXT1 with MIPs
+									
+						WINGS		- Front wheel winglets/arches - Paint on the main body of the cars template
+                                    - 4096 x 4096
+                                    - DXT1 with MIPs
+									
+						WHEELDIFF	- Wheel rim covers
+                                    - 512 x 512
+                                    - DXT1 with MIPs
+									
+						WHEELBLURDIFF	- Wheel rim covers - Blur
+                                    - 512 x 512
+                                    - DXT1 with MIPs
+        
+				Chrome: Chrome effect
+                Available textures: 
+                        BODY        - the main external body/window paint texture
+                                    - 4096 x 4096
+                                    - DXT1 with MIPs
+									- DXT5 with MIPs saved with alpha channel for paint fx 
+									
+						SPEC     	- specular map for reflection effects
+                                    - 4096 x 4096
+                                    - DXT5 with MIPs	
+
+						FRESNEL		- fresnel map
+                                    - 4096 x 4096
+                                    - DXT1 with MIPs
+									
+						WINGS		- Front wheel winglets/arches - Paint on the main body of the cars template
+                                    - 4096 x 4096
+                                    - DXT1 with MIPs
+									
+						WHEELDIFF	- Wheel rim covers
+                                    - 512 x 512
+                                    - DXT1 with MIPs
+									
+						WHEELBLURDIFF	- Wheel rim covers - Blur
+                                    - 512 x 512
+                                    - DXT1 with MIPs
+									
+				GreenMetallic: Green Metallic Effect
+                Available textures: 
+                        BODY        - the main external body/window paint texture
+                                    - 4096 x 4096
+                                    - DXT1 with MIPs
+									- DXT5 with MIPs saved with alpha channel for paint fx 
+									
+						SPEC     	- specular map for reflection effects
+                                    - 4096 x 4096
+                                    - DXT5 with MIPs	
+
+						FRESNEL		- fresnel map
+                                    - 4096 x 4096
+                                    - DXT1 with MIPs
+									
+						WINGS		- Front wheel winglets/arches - Paint on the main body of the cars template
+                                    - 4096 x 4096
+                                    - DXT1 with MIPs
+									
+						WHEELDIFF	- Wheel rim covers
+                                    - 512 x 512
+                                    - DXT1 with MIPs
+									
+						WHEELBLURDIFF	- Wheel rim covers - Blur
+                                    - 512 x 512
+                                    - DXT1 with MIPs
+									
+				RedMetallic: Red Metallic Effect
+                Available textures: 
+                        BODY        - the main external body/window paint texture
+                                    - 4096 x 4096
+                                    - DXT1 with MIPs
+									- DXT5 with MIPs saved with alpha channel for paint fx 
+									
+						SPEC     	- specular map for reflection effects
+                                    - 4096 x 4096
+                                    - DXT5 with MIPs	
+
+						FRESNEL		- fresnel map
+                                    - 4096 x 4096
+                                    - DXT1 with MIPs
+									
+						WINGS		- Front wheel winglets/arches - Paint on the main body of the cars template
+                                    - 4096 x 4096
+                                    - DXT1 with MIPs
+									
+						WHEELDIFF	- Wheel rim covers
+                                    - 512 x 512
+                                    - DXT1 with MIPs
+									
+						WHEELBLURDIFF	- Wheel rim covers - Blur
+                                    - 512 x 512
+                                    - DXT1 with MIPs
+									
+				BlueMetallic: Blue Metallic Effect
+                Available textures: 
+                        BODY        - the main external body/window paint texture
+                                    - 4096 x 4096
+                                    - DXT1 with MIPs
+									- DXT5 with MIPs saved with alpha channel for paint fx 
+									
+						SPEC     	- specular map for reflection effects
+                                    - 4096 x 4096
+                                    - DXT5 with MIPs	
+
+						FRESNEL		- fresnel map
+                                    - 4096 x 4096
+                                    - DXT1 with MIPs
+									
+						WINGS		- Front wheel winglets/arches - Paint on the main body of the cars template
+                                    - 4096 x 4096
+                                    - DXT1 with MIPs
+									
+						WHEELDIFF	- Wheel rim covers
+                                    - 512 x 512
+                                    - DXT1 with MIPs
+									
+						WHEELBLURDIFF	- Wheel rim covers - Blur
+                                    - 512 x 512
+                                    - DXT1 with MIPs
+									
+		HELMETS
+        =======================
+
+        For each overriden livery a helmet override can be defined. The work similarly to liveries
+        in that they override a named base helmet with user defined textures. To assigne a helmet
+        to a livery use the same 'LIVERY' id as in the livery override
+
+        AVAILABLE BASE HELMETS
+        =======================
+
+				DEFAULT: default helmet used by all vehicles of the class
+                Available textures: 
+                        BODY        - the main exterior surface of the helmet
+                                    - 2048 x 2048
+                                    - DXT1 with MIPs
+                        						
+						VISOR     	- visor texture
+                                    - 2048 x 2048
+                                    - DXT5 with MIPs
+									
+        OUTFITS
+        =======================
+
+        For each overriden livery an outfit override can be defined. The work similarly to liveries
+        in that they override a named base outfit with user defined textures. To assign an outfit
+        to a livery use the same 'LIVERY' id as in the livery override
+
+        AVAILABLE BASE OUTFITS
+        =======================
+
+        DEFAULT: default outfit used by all vehicles of the class
+            Available textures:
+                BODY_DIFF       - the main exterior surface of the body
+                                - 2048 x 2048
+                                - DXT1 with MIPs
+
+                BODY_SPEC       - specular map
+                                - 2048 x 2048
+                                - DXT5 with MIPs
+
+                ARMS_DIFF       - the main exterior surface of the arms
+                                - 2048 x 2048
+                                - DXT1 with MIPs
+
+                ARMS_SPEC       - specular map
+                                - 2048 x 2048
+                                - DXT5 with MIPs
+
+                LEGS_DIFF       - the main exterior surface of the legs
+                                - 2048 x 2048
+                                - DXT1 with MIPs
+
+                LEGS_SPEC       - specular map
+                                - 2048 x 2048
+                                - DXT5 with MIPs
+
+                GLOVES_DIFF     - the main exterior surface of the gloves
+                                - 2048 x 2048
+                                - DXT1 with MIPs
+
+                GLOVES_SPEC     - specular map
+                                - 2048 x 2048
+                                - DXT5 with MIPs
+
+                SEATBELTS_DIFF  - the main exterior surface of the seatbelts
+                                - 2048 x 2048
+                                - DXT1 with MIPs
+
+                SEATBELTS_SPEC  - specular map
+                                - 2048 x 2048
+                                - DXT5 with MIPs
+										
+
+    	EXAMPLES
+		================================= --> 
+
+	<!-- <HELMET_OVERRIDE LIVERY="59" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY" PATH="helmet.dds" />
+        <TEXTURE NAME="VISOR" PATH="visor.dds" />
+    </HELMET_OVERRIDE> -->
+	
+	<!-- <OUTFIT_OVERRIDE LIVERY="59" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="body1.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="arms1.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="gloves1.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="legs1.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="belts1.dds" />
+    </OUTFIT_OVERRIDE> -->
+
+    <!-- <LIVERY_OVERRIDE LIVERY="59" NAME="My Racing Team #12" BASELIVERY="Default">
+	  <PREVIEWIMAGE PATH="myracingteam\preview12.dds" />
+	  <TEXTURE NAME="BODY" PATH="myracingteam\body12.dds" />
+    </LIVERY_OVERRIDE> -->
+
+	<!-- <HELMET_OVERRIDE LIVERY="60" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY" PATH="helmet2.dds" />
+        <TEXTURE NAME="VISOR" PATH="visor2.dds" />
+    </HELMET_OVERRIDE> -->
+	
+	<!-- <OUTFIT_OVERRIDE LIVERY="60" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="body2.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="arms2.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="gloves2.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="legs2.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="belts2.dds" />
+    </OUTFIT_OVERRIDE> -->
+
+    <!-- <LIVERY_OVERRIDE LIVERY="60" NAME="My Racing Team #86" BASELIVERY="Default">
+	  <PREVIEWIMAGE PATH="myracingteam\preview86.dds" />
+	  <TEXTURE NAME="BODY" PATH="myracingteam\body86.dds" />
+	  <TEXTURE NAME="SPEC" PATH="MyTeam\body86_spec.dds" />
+	  <TEXTURE NAME="FRESNEL" PATH="MyTeam\body86_fresnel.dds" />
+    </LIVERY_OVERRIDE> -->
+	
+	<!-- <HELMET_OVERRIDE LIVERY="61" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY" PATH="helmet3.dds" />
+        <TEXTURE NAME="VISOR" PATH="visor3.dds" />
+    </HELMET_OVERRIDE> -->
+	
+	<!-- <OUTFIT_OVERRIDE LIVERY="61" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="body3.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="arms3.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="gloves3.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="legs3.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="belts3.dds" />
+    </OUTFIT_OVERRIDE> -->
+	
+    <!-- <LIVERY_OVERRIDE LIVERY="61" NAME="My Racing Team #37" BASELIVERY="Matte">
+	  <PREVIEWIMAGE PATH="myracingteam\preview86.dds" />
+	  <TEXTURE NAME="BODY" PATH="myracingteam\body86.dds" />
+    </LIVERY_OVERRIDE> -->
+
+	<LIVERY_OVERRIDE LIVERY="51" NAME="Max Verstappen #1" BASELIVERY="Matte">
+        <PREVIEWIMAGE PATH="F1 2025 Skinpack\Red Bull\Verstappen.dds" />
+		<TEXTURE NAME="BODY" PATH="F1 2025 Skinpack\Red Bull\Livery Verstappen.dds" />
+		<TEXTURE NAME="WINGS" PATH="F1 2025 Skinpack\Red Bull\Red Bull gives you Wings.dds" />
+		<TEXTURE NAME="WHEELDIFF" PATH="F1 2025 Skinpack\Red Bull\Red Bull Wheel Cover.dds" />
+		<TEXTURE NAME="WHEELBLURDIFF" PATH="F1 2025 Skinpack\Red Bull\Red Bull Wheel Cover Blur.dds" />
+        <TEXTURE NAME="SPEC" PATH="F1 2025 Skinpack\Red Bull\Red Bull Spec.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="F1 2025 Skinpack\Red Bull\Red Bull Fresnel.dds" />
+	</LIVERY_OVERRIDE>
+
+	<OUTFIT_OVERRIDE LIVERY="51" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1 2025 Skinpack\Suits\Red Bull\Red Bull Torso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1 2025 Skinpack\Suits\Red Bull\Red Bull Arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1 2025 Skinpack\Suits\Red Bull\Red Bull Gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1 2025 Skinpack\Suits\Red Bull\Red Bull Legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1 2025 Skinpack\Suits\Red Bull\Red Bull Seatbelt.dds" />
+    </OUTFIT_OVERRIDE> -->
+	
+    <HELMET_OVERRIDE LIVERY="51" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1 2025 Skinpack\Helmets\Red Bull\Verstappen Helmet.dds" />
+        <TEXTURE NAME="BODY_SPEC" PATH="F1 2025 Skinpack\Helmets\Red Bull\Verstappen Helmet Spec.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="F1 2025 Skinpack\Helmets\Red Bull\Verstappen Visor.dds" />
+        <TEXTURE NAME="VISOR_SPEC" PATH="F1 2025 Skinpack\Helmets\Red Bull\Verstappen Visor Spec.dds" />
+    </HELMET_OVERRIDE> -->
+
+	<LIVERY_OVERRIDE LIVERY="52" NAME="Yuki Tsunoda #22" BASELIVERY="Matte">
+        <PREVIEWIMAGE PATH="F1 2025 Skinpack\Red Bull\Tsunoda.dds" />
+		<TEXTURE NAME="BODY" PATH="F1 2025 Skinpack\Red Bull\Livery Tsunoda.dds" />
+		<TEXTURE NAME="WINGS" PATH="F1 2025 Skinpack\Red Bull\Red Bull gives you Wings.dds" />
+		<TEXTURE NAME="WHEELDIFF" PATH="F1 2025 Skinpack\Red Bull\Red Bull Wheel Cover.dds" />
+		<TEXTURE NAME="WHEELBLURDIFF" PATH="F1 2025 Skinpack\Red Bull\Red Bull Wheel Cover Blur.dds" />
+        <TEXTURE NAME="SPEC" PATH="F1 2025 Skinpack\Red Bull\Spec Red Bull.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="F1 2025 Skinpack\Red Bull\Fresnel Red Bull.dds" />
+	</LIVERY_OVERRIDE>
+
+	<OUTFIT_OVERRIDE LIVERY="52" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1 2025 Skinpack\Suits\Red Bull\Red Bull Torso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1 2025 Skinpack\Suits\Red Bull\Red Bull Arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1 2025 Skinpack\Suits\Red Bull\Red Bull Gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1 2025 Skinpack\Suits\Red Bull\Red Bull Legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1 2025 Skinpack\Suits\Red Bull\Red Bull Seatbelt.dds" />
+    </OUTFIT_OVERRIDE> -->
+	
+    <HELMET_OVERRIDE LIVERY="52" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1 2025 Skinpack\Helmets\Red Bull\Tsunoda Helmet.dds" />
+        <TEXTURE NAME="BODY_SPEC" PATH="F1 2025 Skinpack\Helmets\Red Bull\Tsunoda Helmet Spec.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="F1 2025 Skinpack\Helmets\Red Bull\Tsunoda Visor.dds" />
+        <TEXTURE NAME="VISOR_SPEC" PATH="F1 2025 Skinpack\Helmets\Red Bull\Tsunoda Visor Spec.dds" />
+    </HELMET_OVERRIDE> -->
+
+	<LIVERY_OVERRIDE LIVERY="53" NAME="Lando Norris #4" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1 2025 Skinpack\McLaren\Norris.dds" />
+        <TEXTURE NAME="BODY" PATH="F1 2025 Skinpack\McLaren\Livery Norris.dds" />
+		<TEXTURE NAME="WINGS" PATH="F1 2025 Skinpack\McLaren\McLaren Wings.dds" />
+		<TEXTURE NAME="WHEELDIFF" PATH="F1 2025 Skinpack\McLaren\McLaren Wheel Cover.dds" />
+		<TEXTURE NAME="WHEELBLURDIFF" PATH="F1 2025 Skinpack\McLaren\McLaren Wheel Cover Blur.dds" />
+        <TEXTURE NAME="SPEC" PATH="F1 2025 Skinpack\McLaren\.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="F1 2025 Skinpack\McLaren\ .dds" />
+	</LIVERY_OVERRIDE>
+
+	<OUTFIT_OVERRIDE LIVERY="53" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1 2025 Skinpack\Suits\McLaren\Norris Torso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1 2025 Skinpack\Suits\McLaren\McLaren Arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1 2025 Skinpack\Suits\McLaren\McLaren Glove.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1 2025 Skinpack\Suits\McLaren\McLaren Legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1 2025 Skinpack\Suits\McLaren\McLaren Seatbelt.dds" />
+    </OUTFIT_OVERRIDE> -->
+	
+    <HELMET_OVERRIDE LIVERY="53" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1 2025 Skinpack\Helmets\McLaren\Norris Helmet.dds" />
+        <TEXTURE NAME="BODY_SPEC" PATH="F1 2025 Skinpack\Helmets\McLaren\Norris Helmet Spec.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="F1 2025 Skinpack\Helmets\McLaren\Norris Visor.dds" />
+        <TEXTURE NAME="VISOR_SPEC" PATH="F1 2025 Skinpack\Helmets\McLaren\Norris Visor Spec.dds" />
+    </HELMET_OVERRIDE> -->
+
+	<LIVERY_OVERRIDE LIVERY="54" NAME="Oscar Piastri #81" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1 2025 Skinpack\McLaren\Piastri.dds" />
+        <TEXTURE NAME="BODY" PATH="F1 2025 Skinpack\McLaren\Livery Piastri.dds" />
+		<TEXTURE NAME="WINGS" PATH="F1 2025 Skinpack\McLaren\McLaren Wings.dds" />
+		<TEXTURE NAME="WHEELDIFF" PATH="F1 2025 Skinpack\McLaren\McLaren Wheel Cover.dds" />
+		<TEXTURE NAME="WHEELBLURDIFF" PATH="F1 2025 Skinpack\McLaren\McLaren Wheel Cover Blur.dds" />
+        <TEXTURE NAME="SPEC" PATH="F1 2025 Skinpack\McLaren\.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="F1 2025 Skinpack\McLaren\.dds" />
+	</LIVERY_OVERRIDE>
+
+	<OUTFIT_OVERRIDE LIVERY="54" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1 2025 Skinpack\Suits\McLaren\Piastri Torso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1 2025 Skinpack\Suits\McLaren\McLaren Arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1 2025 Skinpack\Suits\McLaren\McLaren Glove.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1 2025 Skinpack\Suits\McLaren\McLaren Legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1 2025 Skinpack\Suits\McLaren\McLaren Seatbelt.dds" />
+    </OUTFIT_OVERRIDE> -->
+	
+    <HELMET_OVERRIDE LIVERY="54" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1 2025 Skinpack\Helmets\McLaren\Piastri Helmet.dds" />
+        <TEXTURE NAME="BODY_SPEC" PATH="F1 2025 Skinpack\Helmets\McLaren\Piastri Helmet Spec.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="F1 2025 Skinpack\Helmets\McLaren\Piastri Visor.dds" />
+        <TEXTURE NAME="VISOR_SPEC" PATH="F1 2025 Skinpack\Helmets\McLaren\Piastri Visor Spec.dds" />
+    </HELMET_OVERRIDE> -->
+
+	<LIVERY_OVERRIDE LIVERY="55" NAME="Charles Leclerc #16" BASELIVERY="Matte">
+        <PREVIEWIMAGE PATH="F1 2025 Skinpack\Special Liveries\Ferrari Monaco\Leclerc.dds" />
+        <TEXTURE NAME="BODY" PATH="F1 2025 Skinpack\Special Liveries\Ferrari Monaco\Livery Leclerc.dds" />
+		<TEXTURE NAME="WINGS" PATH="F1 2025 Skinpack\Special Liveries\Ferrari Monaco\Leclerc Wings.dds" />
+		<TEXTURE NAME="WHEELDIFF" PATH="F1 2025 Skinpack\Special Liveries\Ferrari Monaco\Ferrari Wheel Cover.dds" />
+		<TEXTURE NAME="WHEELBLURDIFF" PATH="F1 2025 Skinpack\Special Liveries\Ferrari Monaco\Ferrari Wheel Cover.dds" />
+        <TEXTURE NAME="SPEC" PATH="F1 2025 Skinpack\Special Liveries\Ferrari Monaco\Spec Leclerc.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="F1 2025 Skinpack\Special Liveries\Ferrari Monaco\Fresnel.dds" />
+	</LIVERY_OVERRIDE>
+
+	<OUTFIT_OVERRIDE LIVERY="55" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1 2025 Skinpack\Suits\Ferrari\Ferrari Torso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1 2025 Skinpack\Suits\Ferrari\Ferrari Arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1 2025 Skinpack\Suits\Ferrari\Ferrari Gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1 2025 Skinpack\Suits\Ferrari\Ferrari Legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1 2025 Skinpack\Suits\Ferrari\Ferrari Seatbelt.dds" />
+    </OUTFIT_OVERRIDE> -->
+	
+    <HELMET_OVERRIDE LIVERY="55" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1 2025 Skinpack\Helmets\Ferrari\Leclerc Helmet.dds" />
+        <TEXTURE NAME="BODY_SPEC" PATH="F1 2025 Skinpack\Helmets\Ferrari\Leclerc Helmet Spec.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="F1 2025 Skinpack\Helmets\Ferrari\Leclerc Visor.dds" />
+        <TEXTURE NAME="VISOR_SPEC" PATH="F1 2025 Skinpack\Helmets\Ferrari\Leclerc Visor Spec.dds" />
+    </HELMET_OVERRIDE> -->
+
+	<LIVERY_OVERRIDE LIVERY="56" NAME="Lewis Hamilton #44" BASELIVERY="Matte">
+        <PREVIEWIMAGE PATH="F1 2025 Skinpack\Special Liveries\Ferrari Monaco\Hamilton.dds" />
+        <TEXTURE NAME="BODY" PATH="F1 2025 Skinpack\Special Liveries\Ferrari Monaco\Livery Hamilton.dds" />
+		<TEXTURE NAME="WINGS" PATH="F1 2025 Skinpack\Special Liveries\Ferrari Monaco\Hamilton Wings.dds" />
+		<TEXTURE NAME="WHEELDIFF" PATH="F1 2025 Skinpack\Special Liveries\Ferrari Monaco\Ferrari Wheel Cover.dds" />
+		<TEXTURE NAME="WHEELBLURDIFF" PATH="F1 2025 Skinpack\Special Liveries\Ferrari Monaco\Ferrari Wheel Cover.dds" />
+        <TEXTURE NAME="SPEC" PATH="F1 2025 Skinpack\Special Liveries\Ferrari Monaco\Spec.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="F1 2025 Skinpack\Special Liveries\Ferrari Monaco\Fresnel.dds" />
+	</LIVERY_OVERRIDE>
+
+	<OUTFIT_OVERRIDE LIVERY="56" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1 2025 Skinpack\Suits\Ferrari\Ferrari Torso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1 2025 Skinpack\Suits\Ferrari\Ferrari Arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1 2025 Skinpack\Suits\Ferrari\Ferrari Gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1 2025 Skinpack\Suits\Ferrari\Ferrari Legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1 2025 Skinpack\Suits\Ferrari\Ferrari Seatbelt.dds" />
+    </OUTFIT_OVERRIDE> -->
+	
+    <HELMET_OVERRIDE LIVERY="56" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1 2025 Skinpack\Helmets\Ferrari\Hamilton Helmet.dds" />
+        <TEXTURE NAME="BODY_SPEC" PATH="F1 2025 Skinpack\Helmets\Ferrari\Hamilton Helmet Spec.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="F1 2025 Skinpack\Helmets\Ferrari\Hamilton Visor.dds" />
+        <TEXTURE NAME="VISOR_SPEC" PATH="F1 2025 Skinpack\Helmets\Ferrari\Hamilton Visor Spec.dds" />
+    </HELMET_OVERRIDE> -->
+
+	<LIVERY_OVERRIDE LIVERY="57" NAME="George Russell #63" BASELIVERY="SilverMetallic">
+        <PREVIEWIMAGE PATH="F1 2025 Skinpack\Mercedes\Russell.dds" />
+		<TEXTURE NAME="BODY" PATH="F1 2025 Skinpack\Mercedes\Livery Russell.dds" />
+		<TEXTURE NAME="WINGS" PATH="F1 2025 Skinpack\Mercedes\Mercedes Wings.dds" />
+		<TEXTURE NAME="WHEELDIFF" PATH="F1 2025 Skinpack\Mercedes\Mercedes Wheel Cover.dds" />
+		<TEXTURE NAME="WHEELBLURDIFF" PATH="F1 2025 Skinpack\Mercedes\Mercedes Wheel Cover Blur.dds" />
+        <TEXTURE NAME="SPEC" PATH="F1 2025 Skinpack\Mercedes\Spec Mercedes.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="F1 2025 Skinpack\Mercedes\Fresnel Russell.dds" />
+	</LIVERY_OVERRIDE>
+
+	<OUTFIT_OVERRIDE LIVERY="57" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1 2025 Skinpack\Suits\Mercedes\Mercedes Torso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1 2025 Skinpack\Suits\Mercedes\Mercedes Arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1 2025 Skinpack\Suits\Mercedes\Russell Gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1 2025 Skinpack\Suits\Mercedes\Mercedes Legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1 2025 Skinpack\Suits\Mercedes\Mercedes Seatbelt.dds" />
+    </OUTFIT_OVERRIDE> -->
+	
+    <HELMET_OVERRIDE LIVERY="57" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1 2025 Skinpack\helmets\Mercedes\Russell Helmet.dds" />
+        <TEXTURE NAME="BODY_SPEC" PATH="F1 2025 Skinpack\helmets\Mercedes\Russell Helmet Spec.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="F1 2025 Skinpack\helmets\Mercedes\Russell Visor.dds" />
+        <TEXTURE NAME="VISOR_SPEC" PATH="F1 2025 Skinpack\helmets\Mercedes\Russell Visor Spec.dds" />
+    </HELMET_OVERRIDE> -->
+
+	<LIVERY_OVERRIDE LIVERY="58" NAME="Kimi Antonelli #12" BASELIVERY="SilverMetallic">
+        <PREVIEWIMAGE PATH="F1 2025 Skinpack\Mercedes\Antonelli.dds" />
+		<TEXTURE NAME="BODY" PATH="F1 2025 Skinpack\Mercedes\Livery Antonelli.dds" />
+		<TEXTURE NAME="WINGS" PATH="F1 2025 Skinpack\Mercedes\Mercedes Wings.dds" />
+		<TEXTURE NAME="WHEELDIFF" PATH="F1 2025 Skinpack\Mercedes\Mercedes Wheel Cover.dds" />
+		<TEXTURE NAME="WHEELBLURDIFF" PATH="F1 2025 Skinpack\Mercedes\Mercedes Wheel Cover Blur.dds" />
+        <TEXTURE NAME="SPEC" PATH="F1 2025 Skinpack\Mercedes\Spec Mercedes.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="F1 2025 Skinpack\Mercedes\Fresnel Antonelli.dds" />
+	</LIVERY_OVERRIDE>
+
+	<OUTFIT_OVERRIDE LIVERY="58" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1 2025 Skinpack\Suits\Mercedes\Mercedes Torso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1 2025 Skinpack\Suits\Mercedes\Mercedes Arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1 2025 Skinpack\Suits\Mercedes\Antonelli Gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1 2025 Skinpack\Suits\Mercedes\Mercedes Legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1 2025 Skinpack\Suits\Mercedes\Mercedes Seatbelt.dds" />
+    </OUTFIT_OVERRIDE> -->
+	
+    <HELMET_OVERRIDE LIVERY="58" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1 2025 Skinpack\helmets\Mercedes\Antonelli Helmet.dds" />
+        <TEXTURE NAME="BODY_SPEC" PATH="F1 2025 Skinpack\helmets\Mercedes\Antonelli Helmet Spec.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="F1 2025 Skinpack\helmets\Mercedes\Antonelli Visor.dds" />
+        <TEXTURE NAME="VISOR_SPEC" PATH="F1 2025 Skinpack\helmets\Mercedes\Antonelli Visor Spec.dds" />
+    </HELMET_OVERRIDE> -->
+
+	<LIVERY_OVERRIDE LIVERY="59" NAME="Fernando Alonso #14" BASELIVERY="BlueGreenMetallic">
+        <PREVIEWIMAGE PATH="F1 2025 Skinpack\Aston Martin\Alonso.dds" />
+        <TEXTURE NAME="BODY" PATH="F1 2025 Skinpack\Aston Martin\Livery Alonso.dds" />
+		<TEXTURE NAME="WINGS" PATH="F1 2025 Skinpack\Aston Martin\Aston Martin Wings.dds" />
+		<TEXTURE NAME="WHEELDIFF" PATH="F1 2025 Skinpack\Aston Martin\Aston Martin Wheel Cover.dds" />
+		<TEXTURE NAME="WHEELBLURDIFF" PATH="F1 2025 Skinpack\Aston Martin\Aston Martin Wheel Cover Blur.dds" />
+        <TEXTURE NAME="SPEC" PATH="F1 2025 Skinpack\Aston Martin\.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="F1 2025 Skinpack\Aston Martin\.dds" />
+	</LIVERY_OVERRIDE>
+
+	<OUTFIT_OVERRIDE LIVERY="59" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1 2025 Skinpack\Suits\Aston Martin\Aston Torso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1 2025 Skinpack\Suits\Aston Martin\Aston Arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1 2025 Skinpack\Suits\Aston Martin\Aston Gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1 2025 Skinpack\Suits\Aston Martin\Aston Legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1 2025 Skinpack\Suits\Aston Martin\Aston Martin Seatbelt.dds" />
+    </OUTFIT_OVERRIDE> -->
+	
+    <HELMET_OVERRIDE LIVERY="59" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1 2025 Skinpack\Helmets\Aston Martin\Alonso Helmet.dds" />
+        <TEXTURE NAME="BODY_SPEC" PATH="F1 2025 Skinpack\Helmets\Aston Martin\Alonso Helmet Spec.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="F1 2025 Skinpack\Helmets\Aston Martin\Alonso Visor.dds" />
+        <TEXTURE NAME="VISOR_SPEC" PATH="F1 2025 Skinpack\Helmets\Aston Martin\Alonso Visor Spec.dds" />
+    </HELMET_OVERRIDE> -->
+
+	<LIVERY_OVERRIDE LIVERY="60" NAME="Lance Stroll #18" BASELIVERY="BlueGreenMetallic">
+        <PREVIEWIMAGE PATH="F1 2025 Skinpack\Aston Martin\Stroll.dds" />
+        <TEXTURE NAME="BODY" PATH="F1 2025 Skinpack\Aston Martin\Livery Stroll.dds" />
+		<TEXTURE NAME="WINGS" PATH="F1 2025 Skinpack\Aston Martin\Aston Martin Wings.dds" />
+		<TEXTURE NAME="WHEELDIFF" PATH="F1 2025 Skinpack\Aston Martin\Aston Martin Wheel Cover.dds" />
+		<TEXTURE NAME="WHEELBLURDIFF" PATH="F1 2025 Skinpack\Aston Martin\Aston Martin Wheel Cover Blur.dds" />
+        <TEXTURE NAME="SPEC" PATH="F1 2025 Skinpack\Aston Martin\.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="F1 2025 Skinpack\Aston Martin\.dds" />
+       </LIVERY_OVERRIDE>
+
+	<OUTFIT_OVERRIDE LIVERY="60" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1 2025 Skinpack\Suits\Aston Martin\Aston Torso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1 2025 Skinpack\Suits\Aston Martin\Aston Arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1 2025 Skinpack\Suits\Aston Martin\Aston Gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1 2025 Skinpack\Suits\Aston Martin\Aston Legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1 2025 Skinpack\Suits\Aston Martin\Aston Martin Seatbelt.dds" />
+    </OUTFIT_OVERRIDE> -->
+	
+    <HELMET_OVERRIDE LIVERY="60" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1 2025 Skinpack\Helmets\Aston Martin\Stroll Helmet.dds" />
+        <TEXTURE NAME="BODY_SPEC" PATH="F1 2025 Skinpack\Helmets\Aston Martin\Stroll Helmet Spec.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="F1 2025 Skinpack\Helmets\Aston Martin\Stroll Visor.dds" />
+        <TEXTURE NAME="VISOR_SPEC" PATH="F1 2025 Skinpack\Helmets\Aston Martin\Stroll Visor Spec.dds" />
+    </HELMET_OVERRIDE> -->
+
+	<LIVERY_OVERRIDE LIVERY="61" NAME="Pierre Gasly #10" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1 2025 Skinpack\Special Liveries\Alpine Mercado Libre\Gasly.dds" />
+        <TEXTURE NAME="BODY" PATH="F1 2025 Skinpack\Special Liveries\Alpine Mercado Libre\Livery Gasly.dds" />
+		<TEXTURE NAME="WINGS" PATH="F1 2025 Skinpack\Special Liveries\Alpine Mercado Libre\Alpine Wings.dds" />
+		<TEXTURE NAME="WHEELDIFF" PATH="F1 2025 Skinpack\Special Liveries\Alpine Mercado Libre\Alpine Wheel Cover.dds" />
+		<TEXTURE NAME="WHEELBLURDIFF" PATH="F1 2025 Skinpack\Special Liveries\Alpine Mercado Libre\Alpine Wheel Cover Blur.dds" />
+        <TEXTURE NAME="SPEC" PATH="F1 2025 Skinpack\Special Liveries\Alpine Mercado Libre\Spec Alpine.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="F1 2025 Skinpack\Special Liveries\Alpine Mercado Libre\Fresnel Alpine.dds" />
+	</LIVERY_OVERRIDE>
+
+	<OUTFIT_OVERRIDE LIVERY="61" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1 2025 Skinpack\Suits\Alpine\Alpine Torso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1 2025 Skinpack\Suits\Alpine\Alpine Arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1 2025 Skinpack\Suits\Alpine\Alpine Gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1 2025 Skinpack\Suits\Alpine\Alpine Legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1 2025 Skinpack\Suits\Alpine\Alpine Seatbelt.dds" />
+    </OUTFIT_OVERRIDE> -->
+	
+    <HELMET_OVERRIDE LIVERY="61" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1 2025 Skinpack\Helmets\Alpine\Gasly Helmet.dds" />
+        <TEXTURE NAME="BODY_SPEC" PATH="F1 2025 Skinpack\Helmets\Alpine\Gasly Helmet Spec.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="F1 2025 Skinpack\Helmets\Alpine\Gasly Visor.dds" />
+        <TEXTURE NAME="VISOR_SPEC" PATH="F1 2025 Skinpack\Helmets\Alpine\Gasly Visor Spec.dds" />
+    </HELMET_OVERRIDE> -->
+
+	<LIVERY_OVERRIDE LIVERY="62" NAME="Franco Colapinto #43" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1 2025 Skinpack\Special Liveries\Alpine Mercado Libre\Colapinto.dds" />
+        <TEXTURE NAME="BODY" PATH="F1 2025 Skinpack\Special Liveries\Alpine Mercado Libre\Livery Colapinto.dds" />
+		<TEXTURE NAME="WINGS" PATH="F1 2025 Skinpack\Special Liveries\Alpine Mercado Libre\Alpine Wings.dds" />
+		<TEXTURE NAME="WHEELDIFF" PATH="F1 2025 Skinpack\Special Liveries\Alpine Mercado Libre\Alpine Wheel Cover.dds" />
+		<TEXTURE NAME="WHEELBLURDIFF" PATH="F1 2025 Skinpack\Special Liveries\Alpine Mercado Libre\Alpine Wheel Cover Blur.dds" />
+        <TEXTURE NAME="SPEC" PATH="F1 2025 Skinpack\Special Liveries\Alpine Mercado Libre\Spec Alpine.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="F1 2025 Skinpack\Special Liveries\Alpine Mercado Libre\Fresnel Alpine.dds" />
+	</LIVERY_OVERRIDE>
+
+	<OUTFIT_OVERRIDE LIVERY="62" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1 2025 Skinpack\Suits\Alpine\Alpine Torso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1 2025 Skinpack\Suits\Alpine\Alpine Arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1 2025 Skinpack\Suits\Alpine\Alpine Gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1 2025 Skinpack\Suits\Alpine\Alpine Legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1 2025 Skinpack\Suits\Alpine\Alpine Seatbelt.dds" />
+    </OUTFIT_OVERRIDE> -->
+	
+    <HELMET_OVERRIDE LIVERY="62" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1 2025 Skinpack\Helmets\Alpine\Colapinto Helmet.dds" />
+        <TEXTURE NAME="BODY_SPEC" PATH="F1 2025 Skinpack\Helmets\Alpine\Colapinto Helmet Spec.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="F1 2025 Skinpack\Helmets\Alpine\Colapinto Visor.dds" />
+        <TEXTURE NAME="VISOR_SPEC" PATH="F1 2025 Skinpack\Helmets\Alpine\Colapinto Visor Spec.dds" />
+    </HELMET_OVERRIDE> -->
+
+	<LIVERY_OVERRIDE LIVERY="63" NAME="Esteban Ocon #31" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1 2025 Skinpack\Haas\Ocon.dds" />
+        <TEXTURE NAME="BODY" PATH="F1 2025 Skinpack\Haas\Livery Ocon.dds" />
+		<TEXTURE NAME="WINGS" PATH="F1 2025 Skinpack\Haas\Haas Wings.dds" />
+		<TEXTURE NAME="WHEELDIFF" PATH="F1 2025 Skinpack\Haas\Haas Wheel Cover.dds" />
+		<TEXTURE NAME="WHEELBLURDIFF" PATH="F1 2025 Skinpack\Haas\Haas Wheel Cover Blur.dds" />
+        <TEXTURE NAME="SPEC" PATH="F1 2025 Skinpack\Haas\Spec Haas.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="F1 2025 Skinpack\Haas\Fresnel Haas.dds" />
+	</LIVERY_OVERRIDE>
+
+	<OUTFIT_OVERRIDE LIVERY="63" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1 2025 Skinpack\Suits\Haas\Haas Torso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1 2025 Skinpack\Suits\Haas\Haas Arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1 2025 Skinpack\Suits\Haas\Haas Gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1 2025 Skinpack\Suits\Haas\Haas Legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1 2025 Skinpack\Suits\Haas\Haas Seatbelt.dds" />
+    </OUTFIT_OVERRIDE> -->
+	
+    <HELMET_OVERRIDE LIVERY="63" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1 2025 Skinpack\Helmets\Haas\Ocon Helmet.dds" />
+        <TEXTURE NAME="BODY_SPEC" PATH="F1 2025 Skinpack\Helmets\Haas\Ocon Helmet Spec.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="F1 2025 Skinpack\Helmets\Haas\Ocon Visor.dds" />
+        <TEXTURE NAME="VISOR_SPEC" PATH="F1 2025 Skinpack\Helmets\Haas\Ocon Visor Spec.dds" />
+    </HELMET_OVERRIDE> -->
+
+	<LIVERY_OVERRIDE LIVERY="64" NAME="Oliver Bearman #87" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1 2025 Skinpack\Haas\Bearman.dds" />
+        <TEXTURE NAME="BODY" PATH="F1 2025 Skinpack\Haas\Livery Bearman.dds" />
+		<TEXTURE NAME="WINGS" PATH="F1 2025 Skinpack\Haas\Haas Wings.dds" />
+		<TEXTURE NAME="WHEELDIFF" PATH="F1 2025 Skinpack\Haas\Haas Wheel Cover.dds" />
+		<TEXTURE NAME="WHEELBLURDIFF" PATH="F1 2025 Skinpack\Haas\Haas Wheel Cover Blur.dds" />
+        <TEXTURE NAME="SPEC" PATH="F1 2025 Skinpack\Haas\Spec Haas.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="F1 2025 Skinpack\Haas\Fresnel Haas.dds" />
+	</LIVERY_OVERRIDE>
+
+	<OUTFIT_OVERRIDE LIVERY="64" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1 2025 Skinpack\Suits\Haas\Haas Torso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1 2025 Skinpack\Suits\Haas\Haas Arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1 2025 Skinpack\Suits\Haas\Haas Gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1 2025 Skinpack\Suits\Haas\Haas Legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1 2025 Skinpack\Suits\Haas\Haas Seatbelt.dds" />
+    </OUTFIT_OVERRIDE> -->
+	
+    <HELMET_OVERRIDE LIVERY="64" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1 2025 Skinpack\Helmets\Haas\Bearman Helmet.dds" />
+        <TEXTURE NAME="BODY_SPEC" PATH="F1 2025 Skinpack\Helmets\Haas\Bearman Helmet Spec.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="F1 2025 Skinpack\Helmets\Haas\Bearman Visor.dds" />
+        <TEXTURE NAME="VISOR_SPEC" PATH="F1 2025 Skinpack\Helmets\Haas\Bearman Visor Spec.dds" />
+    </HELMET_OVERRIDE> -->
+
+		<LIVERY_OVERRIDE LIVERY="65" NAME="Liam Lawson #30" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1 2025 Skinpack\RB\Lawson.dds" />
+        <TEXTURE NAME="BODY" PATH="F1 2025 Skinpack\RB\Livery Lawson.dds" />
+		<TEXTURE NAME="WINGS" PATH="F1 2025 Skinpack\RB\RB Wings.dds" />
+		<TEXTURE NAME="WHEELDIFF" PATH="F1 2025 Skinpack\RB\RB Wheel Cover.dds" />
+		<TEXTURE NAME="WHEELBLURDIFF" PATH="F1 2025 Skinpack\RB\RB Wheel Cover Blur.dds" />
+        <TEXTURE NAME="SPEC" PATH="F1 2025 Skinpack\RB\" />
+        <TEXTURE NAME="FRESNEL" PATH="F1 2025 Skinpack\RB\" />
+		</LIVERY_OVERRIDE>
+
+	<OUTFIT_OVERRIDE LIVERY="65" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1 2025 Skinpack\Suits\RB\RB Torso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1 2025 Skinpack\Suits\RB\RB Arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1 2025 Skinpack\Suits\RB\RB Gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1 2025 Skinpack\Suits\RB\RB Legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1 2025 Skinpack\Suits\RB\RB Seatbelt.dds" />
+    </OUTFIT_OVERRIDE> -->
+	
+    <HELMET_OVERRIDE LIVERY="65" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1 2025 Skinpack\helmets\RB\Lawson Helmet.dds" />
+        <TEXTURE NAME="BODY_SPEC" PATH="F1 2025 Skinpack\helmets\RB\Lawson Helmet Spec.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="F1 2025 Skinpack\helmets\RB\Lawson Visor.dds" />
+        <TEXTURE NAME="VISOR_SPEC" PATH="F1 2025 Skinpack\helmets\RB\Lawson Visor Spec.dds" />
+    </HELMET_OVERRIDE> -->
+
+		<LIVERY_OVERRIDE LIVERY="66" NAME="Isack Hadjar #6" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1 2025 Skinpack\RB\Hadjar.dds" />
+        <TEXTURE NAME="BODY" PATH="F1 2025 Skinpack\RB\Livery Hadjar.dds" />
+		<TEXTURE NAME="WINGS" PATH="F1 2025 Skinpack\RB\RB Wings.dds" />
+		<TEXTURE NAME="WHEELDIFF" PATH="F1 2025 Skinpack\RB\RB Wheel Cover.dds" />
+		<TEXTURE NAME="WHEELBLURDIFF" PATH="F1 2025 Skinpack\RB\RB Wheel Cover Blur.dds" />
+        <TEXTURE NAME="SPEC" PATH="F1 2025 Skinpack\RB\" />
+        <TEXTURE NAME="FRESNEL" PATH="F1 2025 Skinpack\RB\" />
+		</LIVERY_OVERRIDE>
+
+	<OUTFIT_OVERRIDE LIVERY="66" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1 2025 Skinpack\Suits\RB\RB Torso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1 2025 Skinpack\Suits\RB\RB Arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1 2025 Skinpack\Suits\RB\RB Gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1 2025 Skinpack\Suits\RB\RB Legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1 2025 Skinpack\Suits\RB\RB Seatbelt.dds" />
+    </OUTFIT_OVERRIDE> -->
+	
+    <HELMET_OVERRIDE LIVERY="66" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1 2025 Skinpack\helmets\RB\Hadjar Helmet.dds" />
+        <TEXTURE NAME="BODY_SPEC" PATH="F1 2025 Skinpack\helmets\RB\Hadjar Helmet Spec.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="F1 2025 Skinpack\helmets\RB\Hadjar Visor.dds" />
+        <TEXTURE NAME="VISOR_SPEC" PATH="F1 2025 Skinpack\helmets\RB\Hadjar Visor Spec.dds" />
+    </HELMET_OVERRIDE> -->
+
+		<LIVERY_OVERRIDE LIVERY="67" NAME="Alexander Albon #23" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1 2025 Skinpack\Special Liveries\Williams Interlagos\Albon.dds" />
+        <TEXTURE NAME="BODY" PATH="F1 2025 Skinpack\Special Liveries\Williams Interlagos\Livery Albon.dds" />
+		<TEXTURE NAME="WINGS" PATH="F1 2025 Skinpack\Special Liveries\Williams Interlagos\Williams Wings.dds" />
+		<TEXTURE NAME="WHEELDIFF" PATH="F1 2025 Skinpack\Special Liveries\Williams Interlagos\Williams Wheel Cover.dds" />
+		<TEXTURE NAME="WHEELBLURDIFF" PATH="F1 2025 Skinpack\Special Liveries\Williams Interlagos\Williams Wheel Cover Blur.dds" />
+        <TEXTURE NAME="SPEC" PATH="F1 2025 Skinpack\Williams\Spec Williams.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="F1 2025 Skinpack\Williams\Fresnel Williams.dds" />
+		</LIVERY_OVERRIDE>
+
+    <HELMET_OVERRIDE LIVERY="67" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1 2025 Skinpack\helmets\Williams\Albon Helmet.dds" />
+        <TEXTURE NAME="BODY_SPEC" PATH="F1 2025 Skinpack\helmets\Williams\Albon Helmet Spec.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="F1 2025 Skinpack\helmets\Williams\Albon Visor.dds" />
+        <TEXTURE NAME="VISOR_SPEC" PATH="F1 2025 Skinpack\helmets\Williams\Albon Visor Spec.dds" />
+    </HELMET_OVERRIDE> -->
+
+	<OUTFIT_OVERRIDE LIVERY="67" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1 2025 Skinpack\Suits\Williams\Williams Torso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1 2025 Skinpack\Suits\Williams\Williams Arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1 2025 Skinpack\Suits\Williams\Williams Gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1 2025 Skinpack\Suits\Williams\Williams Legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1 2025 Skinpack\Suits\Williams\Williams Seatbelt.dds" />
+    </OUTFIT_OVERRIDE> -->
+	
+		<LIVERY_OVERRIDE LIVERY="68" NAME="Carlos Sainz #55" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1 2025 Skinpack\Special Liveries\Williams Interlagos\Sainz.dds" />
+        <TEXTURE NAME="BODY" PATH="F1 2025 Skinpack\Special Liveries\Williams Interlagos\Livery Sainz.dds" />
+		<TEXTURE NAME="WINGS" PATH="F1 2025 Skinpack\Special Liveries\Williams Interlagos\Williams Wings.dds" />
+		<TEXTURE NAME="WHEELDIFF" PATH="F1 2025 Skinpack\Special Liveries\Williams Interlagos\Williams Wheel Cover.dds" />
+		<TEXTURE NAME="WHEELBLURDIFF" PATH="F1 2025 Skinpack\Special Liveries\Williams Interlagos\Williams Wheel Cover Blur.dds" />
+        <TEXTURE NAME="SPEC" PATH="F1 2025 Skinpack\Williams\Spec Williams.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="F1 2025 Skinpack\Williams\Fresnel Williams.dds" />
+		</LIVERY_OVERRIDE>
+
+	<OUTFIT_OVERRIDE LIVERY="68" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1 2025 Skinpack\Suits\Williams\Williams Torso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1 2025 Skinpack\Suits\Williams\Williams Arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1 2025 Skinpack\Suits\Williams\Williams Gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1 2025 Skinpack\Suits\Williams\Williams Legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1 2025 Skinpack\Suits\Williams\Williams Seatbelt.dds" />
+    </OUTFIT_OVERRIDE> -->
+	
+    <HELMET_OVERRIDE LIVERY="68" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1 2025 Skinpack\helmets\Williams\Sainz Helmet.dds" />
+        <TEXTURE NAME="BODY_SPEC" PATH="F1 2025 Skinpack\helmets\Williams\Sainz Helmet Spec.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="F1 2025 Skinpack\helmets\Williams\Sainz Visor.dds" />
+        <TEXTURE NAME="VISOR_SPEC" PATH="F1 2025 Skinpack\helmets\Williams\Sainz Visor Spec.dds" />
+    </HELMET_OVERRIDE> -->
+	
+		<LIVERY_OVERRIDE LIVERY="69" NAME="Nico Hülkenberg #27" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1 2025 Skinpack\Stake F1 Team\Huelkenberg.dds" />
+        <TEXTURE NAME="BODY" PATH="F1 2025 Skinpack\Stake F1 Team\Livery Huelkenberg.dds" />
+		<TEXTURE NAME="WINGS" PATH="F1 2025 Skinpack\Stake F1 Team\Sauber Wings.dds" />
+		<TEXTURE NAME="WHEELDIFF" PATH="F1 2025 Skinpack\Stake F1 Team\Sauber Wheel Cover.dds" />
+		<TEXTURE NAME="WHEELBLURDIFF" PATH="F1 2025 Skinpack\Stake F1 Team\Sauber Wheel Cover Blur.dds" />
+        <TEXTURE NAME="SPEC" PATH="F1 2025 Skinpack\Stake F1 Team\Spec Sauber.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="F1 2025 Skinpack\Stake F1 Team\Fresnel Sauber.dds" />
+		</LIVERY_OVERRIDE>
+
+	<OUTFIT_OVERRIDE LIVERY="69" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1 2025 Skinpack\Suits\Stake F1 Team\Sauber Torso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1 2025 Skinpack\Suits\Stake F1 Team\Sauber Arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1 2025 Skinpack\Suits\Stake F1 Team\Sauber Gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1 2025 Skinpack\Suits\Stake F1 Team\Sauber Legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1 2025 Skinpack\Suits\Stake F1 Team\Sauber Seatbelt.dds" />
+    </OUTFIT_OVERRIDE> -->
+	
+    <HELMET_OVERRIDE LIVERY="69" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1 2025 Skinpack\helmets\Stake F1 Team\Huelkenberg Helmet 2.dds" />
+        <TEXTURE NAME="BODY_SPEC" PATH="F1 2025 Skinpack\helmets\Stake F1 Team\Huelkenberg Helmet Spec.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="F1 2025 Skinpack\helmets\Stake F1 Team\Huelkenberg Visor.dds" />
+        <TEXTURE NAME="VISOR_SPEC" PATH="F1 2025 Skinpack\helmets\Stake F1 Team\Huelkenberg Visor Spec.dds" />
+    </HELMET_OVERRIDE> -->
+
+		<LIVERY_OVERRIDE LIVERY="70" NAME="Gabriel Bortoleto #5" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1 2025 Skinpack\Stake F1 Team\Bortoleto.dds" />
+        <TEXTURE NAME="BODY" PATH="F1 2025 Skinpack\Stake F1 Team\Livery Bortoleto.dds" />
+		<TEXTURE NAME="WINGS" PATH="F1 2025 Skinpack\Stake F1 Team\Sauber Wings.dds" />
+		<TEXTURE NAME="WHEELDIFF" PATH="F1 2025 Skinpack\Stake F1 Team\Sauber Wheel Cover.dds" />
+		<TEXTURE NAME="WHEELBLURDIFF" PATH="F1 2025 Skinpack\Stake F1 Team\Sauber Wheel Cover Blur.dds" />
+        <TEXTURE NAME="SPEC" PATH="F1 2025 Skinpack\Stake F1 Team\Spec Sauber.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="F1 2025 Skinpack\Stake F1 Team\Fresnel Sauber.dds" />
+		</LIVERY_OVERRIDE>
+
+	<OUTFIT_OVERRIDE LIVERY="70" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1 2025 Skinpack\Suits\Stake F1 Team\Sauber Torso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1 2025 Skinpack\Suits\Stake F1 Team\Sauber Arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1 2025 Skinpack\Suits\Stake F1 Team\Sauber Gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1 2025 Skinpack\Suits\Stake F1 Team\Sauber Legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1 2025 Skinpack\Suits\Stake F1 Team\Sauber Seatbelt.dds" />
+    </OUTFIT_OVERRIDE> -->
+	
+    <HELMET_OVERRIDE LIVERY="70" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1 2025 Skinpack\helmets\Stake F1 Team\Bortoleto Helmet.dds" />
+        <TEXTURE NAME="BODY_SPEC" PATH="F1 2025 Skinpack\helmets\Stake F1 Team\Bortoleto Helmet Spec.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="F1 2025 Skinpack\helmets\Stake F1 Team\Bortoleto Visor.dds" />
+        <TEXTURE NAME="VISOR_SPEC" PATH="F1 2025 Skinpack\helmets\Stake F1 Team\Bortoleto Visor Spec.dds" />
+    </HELMET_OVERRIDE> -->
+
+</USER_OVERRIDES>

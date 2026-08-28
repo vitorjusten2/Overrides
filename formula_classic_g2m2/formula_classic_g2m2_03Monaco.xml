@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+
+	<LIVERY_OVERRIDE LIVERY="51" NAME="AGS-Ford - P. Streiff #14" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1988\preview-ags14.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1988\AGS14.dds" />
+	</LIVERY_OVERRIDE> -->
+	<HELMET_OVERRIDE LIVERY="51" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1988\Helmets\88_Streiff_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1988\Helmets\88_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="51" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1988\Suits\ags_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1988\Suits\ags_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1988\Suits\ags_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1988\Suits\ags_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1988\Suits\red_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="52" NAME="Rial-Ford - A. De Cesaris #22" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1988\preview-rial22.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1988\Rial22.dds" />
+	</LIVERY_OVERRIDE> -->
+	<HELMET_OVERRIDE LIVERY="52" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1988\Helmets\88_DeCesaris_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1988\Helmets\88_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="52" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1988\Suits\rial_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1988\Suits\rial_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1988\Suits\rial_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1988\Suits\rial_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1988\Suits\red_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="53" NAME="Coloni-Ford - G. Tarquini #31" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1988\preview-coloni31.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1988\Coloni31.dds" />
+	</LIVERY_OVERRIDE> -->
+	<HELMET_OVERRIDE LIVERY="53" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1988\Helmets\88_Tarquini_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1988\Helmets\88_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="53" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1988\Suits\88_Coloni_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1988\Suits\88_Coloni_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1988\Suits\88_Coloni_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1988\Suits\88_Coloni_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1988\Suits\red_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="54" NAME="Lola Larrousse-Ford - Y. Dalmas #29" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1988\preview-lola29.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1988\Lola29.dds" />
+	</LIVERY_OVERRIDE> -->
+	<HELMET_OVERRIDE LIVERY="54" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1988\Helmets\88_Dalmas_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1988\Helmets\88_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="54" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1988\Suits\larrousse_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1988\Suits\larrousse_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1988\Suits\larrousse29_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1988\Suits\larrousse29_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1988\Suits\red_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="55" NAME="Lola Larrousse-Ford - P. Alliot #30" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1988\preview-lola30.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1988\Lola30.dds" />
+	</LIVERY_OVERRIDE> -->
+	<HELMET_OVERRIDE LIVERY="55" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1988\Helmets\88_Alliot_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1988\Helmets\88_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="55" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1988\Suits\larrousse_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1988\Suits\larrousse_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1988\Suits\larrousse30_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1988\Suits\larrousse30_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1988\Suits\red_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="56" NAME="Minardi-Ford - L. Pérez-Sala #24" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1988\preview-minardi24.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1988\Minardi24.dds" />
+	</LIVERY_OVERRIDE> -->
+	<HELMET_OVERRIDE LIVERY="56" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1988\Helmets\88_Perez-Sala_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1988\Helmets\88_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="56" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1988\Suits\minardi_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1988\Suits\minardi_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1988\Suits\minardi_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1988\Suits\minardi_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1988\Suits\red_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="57" NAME="Ligier-Judd - R. Arnoux #25" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1988\preview-ligier25.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1988\ligier25.dds" />
+	</LIVERY_OVERRIDE> -->
+	<HELMET_OVERRIDE LIVERY="57" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1988\Helmets\88_Arnoux_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1988\Helmets\88_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="57" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1988\Suits\ligier_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1988\Suits\ligier_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1988\Suits\ligier_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1988\Suits\ligier_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1988\Suits\red_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="58" NAME="Ligier-Judd - S. Johansson #26" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1988\preview-ligier26.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1988\ligier26.dds" />
+	</LIVERY_OVERRIDE> -->
+	<HELMET_OVERRIDE LIVERY="58" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1988\Helmets\88_Johansson_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1988\Helmets\88_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="58" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1988\Suits\ligier_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1988\Suits\ligier_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1988\Suits\ligier_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1988\Suits\ligier_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1988\Suits\red_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+</USER_OVERRIDES>

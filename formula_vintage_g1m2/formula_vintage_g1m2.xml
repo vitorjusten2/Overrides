@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+
+	<LIVERY_OVERRIDE LIVERY="51" NAME="Ferrari #8 C. Amon" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1967\preview8.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1967\Amon_08.dds" />
+    	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="51" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1967\Helmets\Amon_08_helmet.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1967\Helmets\Amon_08_helmet_peak.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="51" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1967\Suits\black_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="52" NAME="Ferrari #18 L. Bandini" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1967\preview18.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1967\Bandini_18.dds" />
+    	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="52" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1967\Helmets\Bandini_18_helmet.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1967\Helmets\Bandini_18_helmet_peak.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="52" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1967\Suits\black_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="53" NAME="Ferrari #19 L. Scarfiotti" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1967\preview19.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1967\Scarfiotti_19.dds" />
+    	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="53" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1967\Helmets\Scarfiotti_19_helmet.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1967\Helmets\Scarfiotti_19_helmet_peak.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="53" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1967\Suits\black_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="54" NAME="Eagle-Climax #10 D. Gurney" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1967\preview10.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1967\Gurney_10.dds" />
+    	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="54" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1967\Helmets\Gurney_10_helmet.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1967\Helmets\Gurney_10_helmet_peak.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="54" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1967\Suits\black_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="55" NAME="Eagle-Climax #22 R. Ginther" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1967\preview22.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1967\Ginther_22.dds" />
+    	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="55" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1967\Helmets\Ginther_22_helmet.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1967\Helmets\Ginther_22_helmet_peak.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="55" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1967\Suits\black_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="56" NAME="Honda #7 J. Surtees" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1967\preview7.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1967\Surtees_07.dds" />
+    	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="56" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1967\Helmets\Surtees_07_helmet.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1967\Helmets\Surtees_07_helmet_peak.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="56" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1967\Suits\black_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="57" NAME="Cooper-Maserati #11 P. Rodriguez" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1967\preview11.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1967\Rodriguez_11.dds" />
+    	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="57" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1967\Helmets\Rodriguez_11_helmet.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1967\Helmets\Rodriguez_11_helmet_peak.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="57" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1967\Suits\black_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="58" NAME="Cooper-Maserati #30 J. Rindt" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1967\preview30.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1967\Rindt_30.dds" />
+    	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="58" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1967\Helmets\Rindt_30_helmet.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1967\Helmets\Rindt_30_helmet_peak.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="58" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1967\Suits\black_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="59" NAME="Cooper-Maserati #12 J. Siffert" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1967\preview12.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1967\Siffert_12.dds" />
+    	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="59" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1967\Helmets\Siffert_12_helmet.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1967\Helmets\Siffert_12_helmet_peak.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="59" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1967\Suits\black_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="60" NAME="McLaren-BRM #14 B. McLaren" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1967\preview14.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1967\McLaren_14.dds" />
+    	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="60" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1967\Helmets\McLaren_14_helmet.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1967\Helmets\McLaren_14_helmet_peak.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="60" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1967\Suits\black_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+</USER_OVERRIDES>

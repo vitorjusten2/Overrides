@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+
+    <!--
+        Create a copy of this file without the '_dist' part and place it beside this one
+        
+        eg      'formula_ultimate_2019_dist.xml'
+                    should become 
+                'formula_ultimate_2019.xml'
+
+        Define a 'LIVERY_OVERRIDE' section for each default livery you wish to replace.
+
+        A LIVERY_OVERRIDE definition must be based on one of the base liveries provided which will provide
+        variations where required. The LIVERY attribute determines which base game livery is replaced.
+        A NAME attribute must be set
+        
+        Within a LIVERY_OVERRIDE definition each desired texture override 
+        should be defined in a TEXTURE element. Any texture not present will use the texture from 
+        the BASELIVERY.
+
+        Additionally a PREVIEWIMAGE element with a PATH attribute can be used to note a texture for use
+        in the game's UI. (2048 x 600 px )
+
+        Texture PATH attributes are relative to this file's directory. Further sub-directories are 
+        permissable and their structure is left to the users own preference.
+
+		LIVERY IDs can be viewed in the game UI by running the game with -showLiveryIDs switch/launch option
+
+        AVAILABLE BASE LIVERIES
+        =======================
+
+        Default: Default body only skin
+                Available textures: 
+                        BODY        - the main external body/window paint texture
+                                    - 4096 x 4096
+                                    - DXT1 with MIPs
+        
+    -->
+
+    <!-- <LIVERY_OVERRIDE LIVERY="51" NAME="My Racing Team #12" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="myracingteam\preview12.dds" />
+        <TEXTURE NAME="BODY" PATH="myracingteam\body12.dds" />
+    </LIVERY_OVERRIDE> -->
+	
+		<LIVERY_OVERRIDE LIVERY="51" NAME="Mercedes #44 - Lewis Hamilton" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F12020\merc_Black_44P.dds" />
+        <TEXTURE NAME="BODY" PATH="F12020\merc_Black_44.dds" />
+		</LIVERY_OVERRIDE>
+		
+		<LIVERY_OVERRIDE LIVERY="52" NAME="Mercedes #77 - Valtteri Bottas" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F12020\merc_Black_77P.dds" />
+        <TEXTURE NAME="BODY" PATH="F12020\merc_Black_77.dds" />
+		</LIVERY_OVERRIDE>
+		
+		<LIVERY_OVERRIDE LIVERY="53" NAME="Red Bull #33- Max Verstappen" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F12020\redbull_33P.dds" />
+        <TEXTURE NAME="BODY" PATH="F12020\redbull_33.dds" />
+		</LIVERY_OVERRIDE>
+		
+		<LIVERY_OVERRIDE LIVERY="54" NAME="Red Bull #23- Alex Albon" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F12020\redbull_23P.dds" />
+        <TEXTURE NAME="BODY" PATH="F12020\redbull_23.dds" />
+		</LIVERY_OVERRIDE>
+		
+		<LIVERY_OVERRIDE LIVERY="55" NAME="McLaren #4 - Lando Norris" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F12020\mclaren_4P.dds" />
+        <TEXTURE NAME="BODY" PATH="F12020\mclaren_4.dds" />
+		</LIVERY_OVERRIDE>
+		
+		<LIVERY_OVERRIDE LIVERY="56" NAME="McLaren #55 - Carlos Sainz" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F12020\mclaren_55P.dds" />
+        <TEXTURE NAME="BODY" PATH="F12020\mclaren_55.dds" />
+		</LIVERY_OVERRIDE>
+		
+		<LIVERY_OVERRIDE LIVERY="57" NAME="Racing Point #11 - Sergio Perez" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F12020\racingpoint_11P.dds" />
+        <TEXTURE NAME="BODY" PATH="F12020\racingpoint_11.dds" />
+		</LIVERY_OVERRIDE>
+		
+		<LIVERY_OVERRIDE LIVERY="58" NAME="Racing Point #18 - Lance Stroll" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F12020\racingpoint_18P.dds" />
+        <TEXTURE NAME="BODY" PATH="F12020\racingpoint_18.dds" />
+		</LIVERY_OVERRIDE>
+		
+		<LIVERY_OVERRIDE LIVERY="59" NAME="Renault #31 - Esteban Ocon" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F12020\renault_31P.dds" />
+        <TEXTURE NAME="BODY" PATH="F12020\renault_31.dds" />
+		</LIVERY_OVERRIDE>
+		
+		<LIVERY_OVERRIDE LIVERY="60" NAME="Renault #3 - Daniel Ricciardo" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F12020\renault_3P.dds" />
+        <TEXTURE NAME="BODY" PATH="F12020\renault_3.dds" />
+		</LIVERY_OVERRIDE>
+		
+		<LIVERY_OVERRIDE LIVERY="61" NAME="Ferrari #16 - Charles Leclerc" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F12020\ferrari_16P.dds" />
+        <TEXTURE NAME="BODY" PATH="F12020\ferrari_16.dds" />
+		</LIVERY_OVERRIDE>
+		
+		<LIVERY_OVERRIDE LIVERY="62" NAME="Ferrari #5 - Sebastian Vettel" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F12020\ferrari_5P.dds" />
+        <TEXTURE NAME="BODY" PATH="F12020\ferrari_5.dds" />
+		</LIVERY_OVERRIDE>
+		
+		<LIVERY_OVERRIDE LIVERY="63" NAME="AlphaTauri #10 - Pierre Gasly" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F12020\at_10P.dds" />
+        <TEXTURE NAME="BODY" PATH="F12020\at_10.dds" />
+		</LIVERY_OVERRIDE>
+		
+		<LIVERY_OVERRIDE LIVERY="64" NAME="AlphaTauri #26 - Daniil Kvyat" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F12020\at_26P.dds" />
+        <TEXTURE NAME="BODY" PATH="F12020\at_26.dds" />
+		</LIVERY_OVERRIDE>
+		
+        <HELMET_OVERRIDE LIVERY="65" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="..\1FTR\Equipments\Justen\justen-2000s-helmet.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="..\1FTR\Equipments\Justen\justen-2000s-visor.dds" />
+        </HELMET_OVERRIDE>
+
+        <OUTFIT_OVERRIDE LIVERY="65" BASEOUTFIT="DEFAULT">
+            <TEXTURE NAME="ARMS_DIFF" PATH="..\1FTR\Equipments\Justen\justen-2000s-arms.dds" />
+            <TEXTURE NAME="GLOVES_DIFF" PATH="..\1FTR\Equipments\Justen\justen-2000s-gloves.dds" />
+            <TEXTURE NAME="LEGS_DIFF" PATH="..\1FTR\Equipments\Justen\justen-2000s-legs.dds" />
+            <TEXTURE NAME="SEATBELTS_DIFF" PATH="..\1FTR\Equipments\Justen\justen-2000s-seatbelt.dds" />
+            <TEXTURE NAME="BODY_DIFF" PATH="..\1FTR\Equipments\Justen\justen-2000s-torso.dds" />
+      </OUTFIT_OVERRIDE>
+
+		<LIVERY_OVERRIDE LIVERY="65" NAME="Faster Team Racing" BASELIVERY="BlueMetallic">
+        <PREVIEWIMAGE PATH="..\1FTR\FTR-IMAGE.dds" />
+        <TEXTURE NAME="BODY" PATH="FTR\FTR-FU125.dds" />
+		</LIVERY_OVERRIDE>
+
+		<LIVERY_OVERRIDE LIVERY="66" NAME="Alfa Romeo #7 - Kimi Raikonnen" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F12020\alfa_7P.dds" />
+        <TEXTURE NAME="BODY" PATH="F12020\alfa_7.dds" />
+		</LIVERY_OVERRIDE>
+		
+		<LIVERY_OVERRIDE LIVERY="67" NAME="Haas #8 - Romain Grosjean" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F12020\haas_8P.dds" />
+        <TEXTURE NAME="BODY" PATH="F12020\haas_8.dds" />
+		</LIVERY_OVERRIDE>
+		
+		<LIVERY_OVERRIDE LIVERY="68" NAME="Haas #20 - Kevin Magnussen" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F12020\haas_20P.dds" />
+        <TEXTURE NAME="BODY" PATH="F12020\haas_20.dds" />
+		</LIVERY_OVERRIDE>
+		
+		<LIVERY_OVERRIDE LIVERY="69" NAME="Williams #6 - Nicholas Latifi" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F12020\williams_6P.dds" />
+        <TEXTURE NAME="BODY" PATH="F12020\williams_6.dds" />
+		</LIVERY_OVERRIDE>
+		
+		<LIVERY_OVERRIDE LIVERY="70" NAME="Williams #63 - George Russell" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F12020\williams_63P.dds" />
+        <TEXTURE NAME="BODY" PATH="F12020\williams_63.dds" />
+		</LIVERY_OVERRIDE>
+		
+</USER_OVERRIDES>

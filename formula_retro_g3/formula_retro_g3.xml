@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+
+<LIVERY_OVERRIDE LIVERY="51" NAME="Williams-Ford #1 Rosberg" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="TAMS2SP\1983preview1.dds" />
+        <TEXTURE NAME="BODY" PATH="TAMS2SP\1983body1.dds" />
+    </LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="51" NAME="Williams-Ford #1 Rosberg" BASEHELMET="DEFAULT">
+    	<TEXTURE NAME="BODY_DIFF" PATH="TAMS2SP\83_Rosberg_Helmet.dds" />
+    	<TEXTURE NAME="VISOR_DIFF" PATH="TAMS2SP\83_Rosberg_visor.dds" />
+		<TEXTURE NAME="VISOR_SPEC" PATH="TAMS2SP\83_Rosberg_visor_spec.dds" />
+    </HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="51" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="TAMS2SP\Suits\williams_rosberg_torso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="TAMS2SP\Suits\williams_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="TAMS2SP\Suits\williams_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="TAMS2SP\Suits\williams_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="TAMS2SP\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="52" NAME="Williams-Ford #2 Laffite" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="TAMS2SP\1983preview2.dds" />
+        <TEXTURE NAME="BODY" PATH="TAMS2SP\1983body2.dds" />
+    </LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="52" NAME="Williams-Ford #2 Laffite" BASEHELMET="DEFAULT">
+    	<TEXTURE NAME="BODY_DIFF" PATH="TAMS2SP\83_Laffite_Helmet.dds" />
+    	<TEXTURE NAME="VISOR_DIFF" PATH="TAMS2SP\83_Laffite_visor.dds" />
+		<TEXTURE NAME="VISOR_SPEC" PATH="TAMS2SP\83_Laffite_visor_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="52" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="TAMS2SP\Suits\williams_laffite_torso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="TAMS2SP\Suits\williams_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="TAMS2SP\Suits\williams_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="TAMS2SP\Suits\williams_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="TAMS2SP\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="53" NAME="Tyrrell-Ford #3 Alboreto" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="TAMS2SP\1983preview3.dds" />
+        <TEXTURE NAME="BODY" PATH="TAMS2SP\1983body3.dds" />
+    </LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="53" NAME="Tyrrell-Ford #3 Alboreto" BASEHELMET="DEFAULT">
+    	<TEXTURE NAME="BODY_DIFF" PATH="TAMS2SP\83_Alboreto_Helmet.dds" />
+    	<TEXTURE NAME="VISOR_DIFF" PATH="TAMS2SP\83_Alboreto_visor.dds" />
+		<TEXTURE NAME="VISOR_SPEC" PATH="TAMS2SP\83_Alboreto_visor_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="53" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="TAMS2SP\Suits\tyrrell_alboreto_torso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="TAMS2SP\Suits\tyrrell_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="TAMS2SP\Suits\tyrrell_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="TAMS2SP\Suits\tyrrell_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="TAMS2SP\Suits\blue_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="54" NAME="Tyrrell-Ford #4 Sullivan" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="TAMS2SP\1983preview4.dds" />
+        <TEXTURE NAME="BODY" PATH="TAMS2SP\1983body4.dds" />
+    </LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="54" NAME="Tyrrell-Ford #4 Sullivan" BASEHELMET="DEFAULT">
+    	<TEXTURE NAME="BODY_DIFF" PATH="TAMS2SP\83_Sullivan_Helmet.dds" />
+    	<TEXTURE NAME="VISOR_DIFF" PATH="TAMS2SP\83_Sullivan_visor.dds" />
+		<TEXTURE NAME="VISOR_SPEC" PATH="TAMS2SP\83_Sullivan_visor_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="54" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="TAMS2SP\Suits\tyrrell_sullivan_torso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="TAMS2SP\Suits\tyrrell_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="TAMS2SP\Suits\tyrrell_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="TAMS2SP\Suits\tyrrell_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="TAMS2SP\Suits\blue_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="55" NAME="Lotus-Ford #12 Mansell" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="TAMS2SP\1983preview12.dds" />
+        <TEXTURE NAME="BODY" PATH="TAMS2SP\1983body12.dds" />
+    </LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="55" NAME="Lotus-Ford #12 Mansell" BASEHELMET="DEFAULT">
+    	<TEXTURE NAME="BODY_DIFF" PATH="TAMS2SP\83_Mansell_Helmet.dds" />
+    	<TEXTURE NAME="VISOR_DIFF" PATH="TAMS2SP\83_Mansell_visor.dds" />
+		<TEXTURE NAME="VISOR_SPEC" PATH="TAMS2SP\83_Mansell_visor_spec.dds" />
+    </HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="55" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="TAMS2SP\Suits\lotus_torso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="TAMS2SP\Suits\lotus_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="TAMS2SP\Suits\lotus_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="TAMS2SP\Suits\lotus_legs.dds" />
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="TAMS2SP\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="56" NAME="Ligier-Ford #25 Jarier" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="TAMS2SP\1983preview25.dds" />
+        <TEXTURE NAME="BODY" PATH="TAMS2SP\1983body25.dds" />
+    </LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="56" NAME="Ligier-Ford #25 Jarier" BASEHELMET="DEFAULT">
+    	<TEXTURE NAME="BODY_DIFF" PATH="TAMS2SP\83_Jarier_Helmet.dds" />
+    	<TEXTURE NAME="VISOR_DIFF" PATH="TAMS2SP\83_Jarier_visor.dds" />
+		<TEXTURE NAME="VISOR_SPEC" PATH="TAMS2SP\83_Jarrier_visor_spec.dds" />
+    </HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="56" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="TAMS2SP\Suits\ligier_jarier_torso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="TAMS2SP\Suits\ligier_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="TAMS2SP\Suits\ligier_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="TAMS2SP\Suits\ligier_legs.dds" />
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="TAMS2SP\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="57" NAME="Ligier-Ford #26 Boesel" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="TAMS2SP\1983preview26.dds" />
+        <TEXTURE NAME="BODY" PATH="TAMS2SP\1983body26.dds" />
+    </LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="57" NAME="Ligier-Ford #26 Boesel" BASEHELMET="DEFAULT">
+    	<TEXTURE NAME="BODY_DIFF" PATH="TAMS2SP\83_Boesel_Helmet.dds" />
+    	<TEXTURE NAME="VISOR_DIFF" PATH="TAMS2SP\83_Boesel_visor.dds" />
+		<TEXTURE NAME="VISOR_SPEC" PATH="TAMS2SP\83_Boesel_visor_spec.dds" />
+    </HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="57" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="TAMS2SP\Suits\ligier_boesel_torso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="TAMS2SP\Suits\ligier_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="TAMS2SP\Suits\ligier_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="TAMS2SP\Suits\ligier_legs.dds" />
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="TAMS2SP\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="58" NAME="Arrows-Ford #29 Surer" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="TAMS2SP\1983preview29.dds" />
+        <TEXTURE NAME="BODY" PATH="TAMS2SP\1983body29.dds" />
+    </LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="58" NAME="Arrows-Ford #29 Surer" BASEHELMET="DEFAULT">
+    	<TEXTURE NAME="BODY_DIFF" PATH="TAMS2SP\83_Surer_Helmet.dds" />
+    	<TEXTURE NAME="VISOR_DIFF" PATH="TAMS2SP\83_Surer_visor.dds" />
+		<TEXTURE NAME="VISOR_SPEC" PATH="TAMS2SP\83_Surer_visor_spec.dds" />
+    </HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="58" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="TAMS2SP\Suits\arrows_surer_torso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="TAMS2SP\Suits\arrows_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="TAMS2SP\Suits\arrows_surer_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="TAMS2SP\Suits\arrows_legs.dds" />
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="TAMS2SP\Suits\blue_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+
+    <!-- Thierry Boutsen -->
+	<LIVERY_OVERRIDE LIVERY="59" NAME="Arrows-Ford #30 Boutsen" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="TAMS2SP\1983preview30.dds" />
+        <TEXTURE NAME="BODY" PATH="TAMS2SP\1983body30.dds" />
+    </LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="59" NAME="Arrows-Ford #30 Boutsen" BASEHELMET="DEFAULT">
+    	<TEXTURE NAME="BODY_DIFF" PATH="TAMS2SP\83_Boutsen_Helmet.dds" />
+    	<TEXTURE NAME="VISOR_DIFF" PATH="TAMS2SP\83_Boutsen_visor.dds" />
+		<TEXTURE NAME="VISOR_SPEC" PATH="TAMS2SP\83_Boutsen_visor_spec.dds" />
+    </HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="59" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="TAMS2SP\Suits\arrows_boutsen_torso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="TAMS2SP\Suits\arrows_boutsen_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="TAMS2SP\Suits\arrows_boutsen_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="TAMS2SP\Suits\arrows_boutsen_legs.dds" />
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="TAMS2SP\Suits\blue_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>	
+		
+	<!-- Chico Serra RD1,3-5 
+	<LIVERY_OVERRIDE LIVERY="59" NAME="Arrows-Ford #30 Boutsen" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="TAMS2SP\1983preview30.dds" />
+        <TEXTURE NAME="BODY" PATH="TAMS2SP\1983body30.dds" />
+    </LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="59" NAME="Arrows-Ford #30 Boutsen" BASEHELMET="DEFAULT">
+    	<TEXTURE NAME="BODY_DIFF" PATH="TAMS2SP\83_Serra_Helmet.dds" />
+    	<TEXTURE NAME="VISOR_DIFF" PATH="TAMS2SP\83_Serra_visor.dds" />
+		<TEXTURE NAME="VISOR_SPEC" PATH="TAMS2SP\83_Serra_visor_spec.dds" />
+    </HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="59" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="TAMS2SP\Suits\arrows_serra_torso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="TAMS2SP\Suits\arrows_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="TAMS2SP\Suits\arrows_serra_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="TAMS2SP\Suits\arrows_legs.dds" />
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="TAMS2SP\Suits\blue_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>	-->
+		
+	<!-- Alan Jones RD2 
+		<LIVERY_OVERRIDE LIVERY="59" NAME="Arrows-Ford #30 Boutsen" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="TAMS2SP\1983preview30.dds" />
+        <TEXTURE NAME="BODY" PATH="TAMS2SP\1983body30.dds" />
+    </LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="59" NAME="Arrows-Ford #30 Boutsen" BASEHELMET="DEFAULT">
+    	<TEXTURE NAME="BODY_DIFF" PATH="TAMS2SP\78_Jones_Helmet.dds" />
+    	<TEXTURE NAME="VISOR_DIFF" PATH="TAMS2SP\78_Jones_visor.dds" />
+		<TEXTURE NAME="VISOR_SPEC" PATH="TAMS2SP\78_Jones_visor_spec.dds" />
+    </HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="59" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="TAMS2SP\Suits\arrows_jones_torso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="TAMS2SP\Suits\arrows_jones_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="TAMS2SP\Suits\arrows_jones_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="TAMS2SP\Suits\arrows_jones_legs.dds" />
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="TAMS2SP\Suits\blue_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>	-->
+<!--		
+	<LIVERY_OVERRIDE LIVERY="60" NAME="Theodore-Ford #33 Guerrero" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="TAMS2SP\1983preview33.dds" />
+        <TEXTURE NAME="BODY" PATH="TAMS2SP\1983body33.dds" />
+    </LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="60" NAME="Theodore-Ford #33 Guerrero" BASEHELMET="DEFAULT">
+    	<TEXTURE NAME="BODY_DIFF" PATH="TAMS2SP\83_Guerrero_Helmet.dds" />
+    	<TEXTURE NAME="VISOR_DIFF" PATH="TAMS2SP\83_Guerrero_visor.dds" />
+		<TEXTURE NAME="VISOR_SPEC" PATH="TAMS2SP\83_Guerrero_visor_spec.dds" />
+    </HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="60" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="TAMS2SP\Suits\theodore_guerrero_torso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="TAMS2SP\Suits\theodore_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="TAMS2SP\Suits\theodore_guerrero_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="TAMS2SP\Suits\theodore_legs.dds" />
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="TAMS2SP\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>	-->
+
+    <LIVERY_OVERRIDE LIVERY="60" NAME="Theodore-Ford #34 Cecotto" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="TAMS2SP\1983preview34.dds" />
+        <TEXTURE NAME="BODY" PATH="TAMS2SP\1983body34.dds" />
+    </LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="60" NAME="Theodore-Ford #34 Cecotto" BASEHELMET="DEFAULT">
+    	<TEXTURE NAME="BODY_DIFF" PATH="TAMS2SP\83_Cecotto_Helmet.dds" />
+    	<TEXTURE NAME="VISOR_DIFF" PATH="TAMS2SP\83_Cecotto_visor.dds" />
+		<TEXTURE NAME="VISOR_SPEC" PATH="TAMS2SP\83_Cecotto_visor_spec.dds" />
+    </HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="60" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="TAMS2SP\Suits\theodore_cecotto_torso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="TAMS2SP\Suits\theodore_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="TAMS2SP\Suits\theodore_cecotto_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="TAMS2SP\Suits\theodore_legs.dds" />
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="TAMS2SP\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>	
+
+</USER_OVERRIDES>

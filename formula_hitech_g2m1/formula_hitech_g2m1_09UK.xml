@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+   
+	<LIVERY_OVERRIDE LIVERY="51" NAME="Scuderia Ferrari #27 J. Alesi" BASELIVERY="Default">
+    	<PREVIEWIMAGE PATH="F1_Season_1993\preview27_donington.dds" />
+    	<TEXTURE NAME="BODY" PATH="F1_Season_1993\Ferrari27NT.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="51" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1993\Helmets\93_Alesi_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1993\Helmets\93_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="51" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1993\Suits\93_ferrari_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1993\Suits\93_ferrari_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1993\Suits\93_ferrari_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1993\Suits\93_ferrari_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1993\Suits\red_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+   
+	<LIVERY_OVERRIDE LIVERY="52" NAME="Scuderia Ferrari #28 G. Berger" BASELIVERY="Default">
+    	<PREVIEWIMAGE PATH="F1_Season_1993\preview28_donington.dds" />
+    	<TEXTURE NAME="BODY" PATH="F1_Season_1993\Ferrari28NT.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="52" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1993\Helmets\93_Berger_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1993\Helmets\93_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="52" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1993\Suits\93_ferrari_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1993\Suits\93_ferrari_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1993\Suits\93_ferrari_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1993\Suits\93_ferrari_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1993\Suits\red_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+   	<LIVERY_OVERRIDE LIVERY="53" NAME="Lola-Ferrari #21 M. Alboreto" BASELIVERY="Default">
+    	<PREVIEWIMAGE PATH="F1_Season_1993\preview21_UK.dds" />
+    	<TEXTURE NAME="BODY" PATH="F1_Season_1993\BMS21UK.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="53" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1993\Helmets\93_Alboreto_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1993\Helmets\93_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="53" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1993\Suits\93_Lola_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1993\Suits\93_Lola_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1993\Suits\93_Lola_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1993\Suits\93_Lola_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1993\Suits\red_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+	
+   	<LIVERY_OVERRIDE LIVERY="54" NAME="Lola-Ferrari #22 L. Badoer" BASELIVERY="Default">
+    	<PREVIEWIMAGE PATH="F1_Season_1993\preview22_UK.dds" />
+    	<TEXTURE NAME="BODY" PATH="F1_Season_1993\BMS22UK.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="54" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1993\Helmets\93_Badoer_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1993\Helmets\93_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="54" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1993\Suits\93_Lola_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1993\Suits\93_Lola_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1993\Suits\93_Lola_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1993\Suits\93_Lola_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1993\Suits\red_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+	   
+	<LIVERY_OVERRIDE LIVERY="55" NAME="Larrousse-Lamborghini #19 P. Alliot" BASELIVERY="Default">
+    	<PREVIEWIMAGE PATH="F1_Season_1993\preview19_france.dds" />
+    	<TEXTURE NAME="BODY" PATH="F1_Season_1993\Larrousse19fra.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="55" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1993\Helmets\93_Alliot_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1993\Helmets\93_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="55" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1993\Suits\93_Larrousse_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1993\Suits\93_Larrousse_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1993\Suits\93_Larrousse_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1993\Suits\93_Larrousse_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1993\Suits\red_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="xx" NAME="Larrousse-Lamborghini #19 T. Suzuki" BASELIVERY="Default">
+    	<PREVIEWIMAGE PATH="F1_Season_1993\preview19_france.dds" />
+    	<TEXTURE NAME="BODY" PATH="F1_Season_1993\Larrousse19.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="xx" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1993\Helmets\93_TSuzuki_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1993\Helmets\93_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="xx" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1993\Suits\93_Larrousse_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1993\Suits\93_Larrousse_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1993\Suits\93_Larrousse_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1993\Suits\93_Larrousse_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1993\Suits\red_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+ 
+ 	<LIVERY_OVERRIDE LIVERY="56" NAME="Larrousse-Lamborghini #20 E. Comas" BASELIVERY="Default">
+    	<PREVIEWIMAGE PATH="F1_Season_1993\preview20_france.dds" />
+    	<TEXTURE NAME="BODY" PATH="F1_Season_1993\Larrousse20fra.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="56" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1993\Helmets\93_Comas_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1993\Helmets\93_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="56" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1993\Suits\93_Larrousse_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1993\Suits\93_Larrousse_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1993\Suits\93_Larrousse_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1993\Suits\93_Larrousse_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1993\Suits\red_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>	
+ 
+</USER_OVERRIDES>

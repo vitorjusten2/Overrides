@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+    
+ 
+	<LIVERY_OVERRIDE LIVERY="51" NAME="McLaren-TAG - A. Prost #1" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_1986\preview1_BrandsHatch.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_1986\body1_BrandsHatch.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="51" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1986\Helmets\86_ProstNT_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1986\Helmets\86_helmet_spec.dds" />
+    	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1986\Helmets\86_McLaren_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="51" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1986\Suits\86_McLaren_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1986\Suits\86_McLaren_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1986\Suits\86_McLaren_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1986\Suits\86_McLaren_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1986\Suits\black_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="52" NAME="McLaren-TAG - K. Rosberg #2" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_1986\preview2_BrandsHatch.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_1986\body2_BrandsHatch.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="52" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1986\Helmets\86_RosbergNT_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1986\Helmets\86_helmet_spec.dds" />
+    	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1986\Helmets\86_McLaren_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="52" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1986\Suits\86_McLaren_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1986\Suits\86_McLaren_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1986\Suits\86_McLaren_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1986\Suits\86_McLaren_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1986\Suits\black_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="53" NAME="Tyrrell-Renault - M. Brundle #3" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_1986\preview3.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_1986\body3.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="53" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1986\Helmets\86_Brundle_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1986\Helmets\86_helmet_spec.dds" />
+    	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1986\Helmets\86_Tyrrell_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="53" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1986\Suits\86_Tyrrell_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1986\Suits\86_Tyrrell_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1986\Suits\86_Tyrrell_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1986\Suits\86_Tyrrell_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1986\Suits\black_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="54" NAME="Tyrrell-Renault - P. Streiff #4" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_1986\preview4.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_1986\body4.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="54" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1986\Helmets\86_Streiff_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1986\Helmets\86_helmet_spec.dds" />
+    	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1986\Helmets\86_Tyrrell_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="54" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1986\Suits\86_Tyrrell_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1986\Suits\86_Tyrrell_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1986\Suits\86_Tyrrell_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1986\Suits\86_Tyrrell_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1986\Suits\black_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="55" NAME="Zakspeed - J. Palmer #14" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_1986\preview14.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_1986\body14.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="55" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1986\Helmets\86_Palmer_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1986\Helmets\86_helmet_spec.dds" />
+    	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1986\Helmets\86_Transparent_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="55" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1986\Suits\86_Zakspeed_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1986\Suits\86_Zakspeed_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1986\Suits\86_Zakspeed_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1986\Suits\86_Zakspeed_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1986\Suits\black_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="56" NAME="Lola Haas-Ford Cosworth - A. Jones #15" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_1986\preview15.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_1986\body15.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="56" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1986\Helmets\86_Jones_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1986\Helmets\86_helmet_spec.dds" />
+    	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1986\Helmets\86_Transparent_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="56" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1986\Suits\86_Haas_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1986\Suits\86_Haas_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1986\Suits\86_Haas_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1986\Suits\86_Haas_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1986\Suits\black_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+   
+	<LIVERY_OVERRIDE LIVERY="57" NAME="Lola Haas-Ford Cosworth - P. Tambay #16" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_1986\preview16.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_1986\body16.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="57" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1986\Helmets\86_Tambay_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1986\Helmets\86_helmet_spec.dds" />
+    	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1986\Helmets\86_Transparent_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="57" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1986\Suits\86_Haas_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1986\Suits\86_Haas_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1986\Suits\86_Haas_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1986\Suits\86_Haas_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1986\Suits\black_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="58" NAME="Arrows-BMW - C. Danner #17" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_1986\preview17_Danner.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_1986\body17_Danner.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="58" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1986\Helmets\86_Danner_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1986\Helmets\86_helmet_spec.dds" />
+    	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1986\Helmets\86_Transparent_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="58" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1986\Suits\86_Arrows_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1986\Suits\86_Arrows_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1986\Suits\86_Arrows_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1986\Suits\86_Arrows_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1986\Suits\black_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+   
+	<LIVERY_OVERRIDE LIVERY="59" NAME="Arrows-BMW - T. Boutsen #18" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_1986\preview18.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_1986\body18.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="59" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1986\Helmets\86_Boutsen_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1986\Helmets\86_helmet_spec.dds" />
+    	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1986\Helmets\86_Transparent_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="59" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1986\Suits\86_Arrows_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1986\Suits\86_Arrows_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1986\Suits\86_Arrows_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1986\Suits\86_Arrows_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1986\Suits\black_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="60" NAME="Benetton-BMW - T. Fabi #19" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_1986\preview19.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_1986\body19.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="60" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1986\Helmets\86_Fabi_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1986\Helmets\86_helmet_spec.dds" />
+    	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1986\Helmets\86_Benetton_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="60" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1986\Suits\86_Benetton_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1986\Suits\86_Benetton_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1986\Suits\86_Benetton_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1986\Suits\86_Benetton_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1986\Suits\black_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="61" NAME="Benetton-BMW - G. Berger #20" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_1986\preview20.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_1986\body20.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="61" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1986\Helmets\86_Berger_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1986\Helmets\86_helmet_spec.dds" />
+    	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1986\Helmets\86_Benetton_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="61" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1986\Suits\86_Benetton_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1986\Suits\86_Benetton_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1986\Suits\86_Benetton_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1986\Suits\86_Benetton_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1986\Suits\black_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="62" NAME="Ferrari - M. Alboreto #27" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_1986\preview27_Hockenheim.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_1986\body27_Hockenheim.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="62" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1986\Helmets\86_AlboretoNT_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1986\Helmets\86_helmet_spec.dds" />
+    	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1986\Helmets\86_Transparent_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="62" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1986\Suits\86_Ferrari_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1986\Suits\86_Ferrari_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1986\Suits\86_Ferrari_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1986\Suits\86_Ferrari_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1986\Suits\black_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="63" NAME="Ferrari - S. Johansson #28" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_1986\preview28_Hockenheim.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_1986\body28_Hockenheim.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="63" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1986\Helmets\86_JohanssonNT_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1986\Helmets\86_helmet_spec.dds" />
+    	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1986\Helmets\86_Transparent_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="63" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1986\Suits\86_Ferrari_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1986\Suits\86_Ferrari_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1986\Suits\86_Ferrari_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1986\Suits\86_Ferrari_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1986\Suits\black_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+     
+	<LIVERY_OVERRIDE LIVERY="64" NAME="Zakspeed - H. Rothengatter #29" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_1986\preview29.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_1986\body29.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="64" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1986\Helmets\86_Rothengatter_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1986\Helmets\86_helmet_spec.dds" />
+    	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1986\Helmets\86_Transparent_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="64" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1986\Suits\86_Zakspeed_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1986\Suits\86_Zakspeed_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1986\Suits\86_Zakspeed_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1986\Suits\86_Zakspeed_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1986\Suits\black_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+</USER_OVERRIDES>

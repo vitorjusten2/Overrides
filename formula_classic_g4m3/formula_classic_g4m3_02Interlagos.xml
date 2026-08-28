@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+
+	<LIVERY_OVERRIDE LIVERY="51" NAME="Tyrrell-Honda #03 S. Nakajima" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1991\preview03.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1991\Tyrrell03.dds" />
+	</LIVERY_OVERRIDE> -->
+	<HELMET_OVERRIDE LIVERY="51" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1991\Helmets\91_Nakajima_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1991\Helmets\91_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="51" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1991\Suits\tyrrell3_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1991\Suits\tyrrell_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1991\Suits\tyrrell_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1991\Suits\tyrrell_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1991\Suits\blue_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="52" NAME="Tyrrell-Honda #04 S. Modena" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1991\preview04.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1991\Tyrrell04.dds" />
+	</LIVERY_OVERRIDE> -->	
+	<HELMET_OVERRIDE LIVERY="52" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1991\Helmets\91_Modena_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1991\Helmets\91_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="52" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1991\Suits\tyrrell4_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1991\Suits\tyrrell_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1991\Suits\tyrrell_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1991\Suits\tyrrell_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1991\Suits\blue_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="53" NAME="Benetton-Ford #19 R. Moreno" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1991\preview19_Moreno.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1991\Benetton19_Moreno.dds" />
+	</LIVERY_OVERRIDE> -->
+	<HELMET_OVERRIDE LIVERY="53" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1991\Helmets\91_Moreno_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1991\Helmets\91_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="53" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1991\Suits\benetton19b_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1991\Suits\benetton_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1991\Suits\benetton_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1991\Suits\benetton_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1991\Suits\red_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="54" NAME="Benetton-Ford #20 N. Piquet" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1991\preview20.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1991\Benetton20.dds" />
+	</LIVERY_OVERRIDE> -->
+	<HELMET_OVERRIDE LIVERY="54" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1991\Helmets\91_Piquet_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1991\Helmets\91_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="54" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1991\Suits\benetton20_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1991\Suits\benetton_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1991\Suits\benetton_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1991\Suits\benetton_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1991\Suits\red_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="55" NAME="Brabham-Yamaha #07 M. Brundle" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1991\preview07.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1991\Brabham07.dds" />
+	</LIVERY_OVERRIDE> -->
+	<HELMET_OVERRIDE LIVERY="55" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1991\Helmets\91_Brundle_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1991\Helmets\91_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="55" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1991\Suits\brabham7_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1991\Suits\brabham_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1991\Suits\brabham_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1991\Suits\brabham_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1991\Suits\blue_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="56" NAME="Brabham-Yamaha #08 M. Blundell" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1991\preview08.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1991\Brabham08.dds" />
+	</LIVERY_OVERRIDE> -->
+	<HELMET_OVERRIDE LIVERY="56" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1991\Helmets\91_Blundell_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1991\Helmets\91_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="56" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1991\Suits\brabham8_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1991\Suits\brabham_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1991\Suits\brabham_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1991\Suits\brabham_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1991\Suits\blue_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="57" NAME="Lola-Ford Cosworth #29 E. Bernard" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1991\preview29.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1991\Lola29.dds" />
+	</LIVERY_OVERRIDE> -->
+	<HELMET_OVERRIDE LIVERY="57" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1991\Helmets\91_Bernard_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1991\Helmets\91_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="57" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1991\Suits\lola29_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1991\Suits\lola_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1991\Suits\lola29_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1991\Suits\lola29_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1991\Suits\red_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="58" NAME="Lola-Ford Cosworth #30 A. Suzuki" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1991\preview30.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1991\Lola30.dds" />
+	</LIVERY_OVERRIDE> -->
+	<HELMET_OVERRIDE LIVERY="58" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1991\Helmets\91_Suzuki_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1991\Helmets\91_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="58" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1991\Suits\lola30_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1991\Suits\lola_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1991\Suits\lola30_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1991\Suits\lola30_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1991\Suits\red_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+	
+</USER_OVERRIDES>

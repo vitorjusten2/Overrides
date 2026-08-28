@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+ 
+    <LIVERY_OVERRIDE LIVERY=" ## " NAME="Hitachi Goodyear - C. Reutemann #7" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_1974\preview7.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_1974\body7.dds" />
+    </LIVERY_OVERRIDE>
+    <HELMET_OVERRIDE LIVERY=" ## " BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_1974\74_Reutemann_Helmet.dds" />
+        <TEXTURE NAME="BODY_SPEC" PATH="F1_1974\Common\74_helmet_spec.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="F1_1974\Common\74_visor.dds" />
+        <TEXTURE NAME="VISOR_SPEC" PATH="F1_1974\Common\74_visor_spec.dds" />
+    </HELMET_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY=" ## " NAME="Goodyear Racing - C. Reutemann #7" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_1974\preview7-normal.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_1974\body7-normal.dds" />
+    </LIVERY_OVERRIDE>
+    <HELMET_OVERRIDE LIVERY=" ## " BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_1974\74_Reutemann_Helmet.dds" />
+        <TEXTURE NAME="BODY_SPEC" PATH="F1_1974\Common\74_helmet_spec.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="F1_1974\Common\74_visor.dds" />
+        <TEXTURE NAME="VISOR_SPEC" PATH="F1_1974\Common\74_visor_spec.dds" />
+    </HELMET_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY=" ## " NAME="Goodyear Racing - C. Pace #8" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_1974\preview8.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_1974\body8.dds" />
+    </LIVERY_OVERRIDE>
+    <HELMET_OVERRIDE LIVERY=" ## " BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_1974\74_Pace_Helmet.dds" />
+        <TEXTURE NAME="BODY_SPEC" PATH="F1_1974\Common\74_helmet_spec.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="F1_1974\Common\74_visor.dds" />
+        <TEXTURE NAME="VISOR_SPEC" PATH="F1_1974\Common\74_visor_spec.dds" />
+    </HELMET_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY=" ## " NAME="Goodyear Racing - R. Robarts #8" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_1974\preview8-robarts.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_1974\body8-robarts.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY=" ## " NAME="Goodyear Racing - R von Opel #8" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_1974\preview8-opel.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_1974\body8-opel.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY=" ## " NAME="Goldie Hexagon - J. Watson #28" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_1974\preview28.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_1974\body28.dds" />
+    </LIVERY_OVERRIDE>
+    <HELMET_OVERRIDE LIVERY=" ## " BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_1974\74_Watson_Helmet.dds" />
+        <TEXTURE NAME="BODY_SPEC" PATH="F1_1974\Common\74_helmet_spec.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="F1_1974\Common\74_visor.dds" />
+        <TEXTURE NAME="VISOR_SPEC" PATH="F1_1974\Common\74_visor_spec.dds" />
+    </HELMET_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY=" ## " NAME="Scuderia Finotto - C. Facetti #31" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_1974\preview31-facetti.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_1974\body31-facetti.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY=" ## " NAME="Scuderia Finotto - H. Koinigg #32" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_1974\preview32-koinigg.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_1974\body32-koinigg.dds" />
+    </LIVERY_OVERRIDE>
+    <HELMET_OVERRIDE LIVERY=" ## " BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_1974\74_Koinigg_helmet.dds" />
+        <TEXTURE NAME="BODY_SPEC" PATH="F1_1974\Common\74_helmet_spec.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="F1_1974\Common\74_visor.dds" />
+        <TEXTURE NAME="VISOR_SPEC" PATH="F1_1974\Common\74_visor_spec.dds" />
+    </HELMET_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY=" ## " NAME="Hitachi Goodyear - T. Pilette #34" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_1974\preview34.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_1974\body34.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY=" ## " NAME="Goldie Hexagon - C. Pace #34" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_1974\preview34-pace.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_1974\body34-pace.dds" />
+    </LIVERY_OVERRIDE>
+    <HELMET_OVERRIDE LIVERY=" ## " BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_1974\74_Pace_Helmet.dds" />
+        <TEXTURE NAME="BODY_SPEC" PATH="F1_1974\Common\74_helmet_spec.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="F1_1974\Common\74_visor.dds" />
+        <TEXTURE NAME="VISOR_SPEC" PATH="F1_1974\Common\74_visor_spec.dds" />
+    </HELMET_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY=" ## " NAME="Chequered Flag Racing- I. Ashley #42" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_1974\preview42.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_1974\body42.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY=" ## " NAME="Scuderia Finotto - G. Larrousse #43" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_1974\preview43.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_1974\body43.dds" />
+    </LIVERY_OVERRIDE>
+    <HELMET_OVERRIDE LIVERY=" ## " BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_1974\74_Larrousse_Helmet.dds" />
+        <TEXTURE NAME="BODY_SPEC" PATH="F1_1974\Common\74_helmet_spec.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="F1_1974\Common\74_visor.dds" />
+        <TEXTURE NAME="VISOR_SPEC" PATH="F1_1974\Common\74_visor_spec.dds" />
+    </HELMET_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY=" ## " NAME="Team Canada - E. Wietzes #50" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_1974\preview50.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_1974\body50.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY=" ## " NAME="Allied Polymer - L. Lombardi #208" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_1974\preview208.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_1974\body208.dds" />
+    </LIVERY_OVERRIDE>
+        <HELMET_OVERRIDE LIVERY=" ## " BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_1974\74_Lombardi_helmet.dds" />
+        <TEXTURE NAME="BODY_SPEC" PATH="F1_1974\Common\74_helmet_spec.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="F1_1974\74_Lombardi_visor.dds" />
+        <TEXTURE NAME="VISOR_SPEC" PATH="F1_1974\74_Lombardi_visor_spec.dds" />
+    </HELMET_OVERRIDE>
+
+</USER_OVERRIDES>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+
+	<LIVERY_OVERRIDE LIVERY="51" NAME="Ferrari #27 G. Morbidelli" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1991\preview27_Morbidelli.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1991\Ferrari27_Morbidelli.dds" />
+	</LIVERY_OVERRIDE> -->
+	<HELMET_OVERRIDE LIVERY="51" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1991\Helmets\91_Morbidelli_Ferrari_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1991\Helmets\91_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="51" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1991\Suits\ferrari27_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1991\Suits\ferrari_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1991\Suits\ferrari_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1991\Suits\ferrari_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1991\Suits\red_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="52" NAME="Ferrari #28 J. Alesi" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1991\preview28.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1991\Ferrari28.dds" />
+	</LIVERY_OVERRIDE> -->
+	<HELMET_OVERRIDE LIVERY="52" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1991\Helmets\91_Alesi_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1991\Helmets\91_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="52" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1991\Suits\ferrari28_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1991\Suits\ferrari_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1991\Suits\ferrari_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1991\Suits\ferrari_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1991\Suits\red_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="53" NAME="Minardi-Ferrari #23 P. Martini" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1991\preview23.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1991\Minardi23.dds" />
+	</LIVERY_OVERRIDE> -->
+	<HELMET_OVERRIDE LIVERY="53" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1991\Helmets\91_Martini_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1991\Helmets\91_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="53" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1991\Suits\minardi23_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1991\Suits\minardi_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1991\Suits\minardi_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1991\Suits\minardi_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1991\Suits\red_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="54" NAME="Minardi-Ferrari #24 R. Moreno" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1991\preview24_Moreno.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1991\Minardi24_Moreno.dds" />
+	</LIVERY_OVERRIDE> -->
+	<HELMET_OVERRIDE LIVERY="54" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1991\Helmets\91_Moreno_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1991\Helmets\91_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="54" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1991\Suits\minardi24_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1991\Suits\minardi_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1991\Suits\minardi_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1991\Suits\minardi_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1991\Suits\red_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="55" NAME="Ligier-Lamborghini #25 T. Boutsen" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1991\preview25_Monaco.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1991\Ligier25_Monaco.dds" />
+	</LIVERY_OVERRIDE> -->
+	<HELMET_OVERRIDE LIVERY="55" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1991\Helmets\91_Boutsen_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1991\Helmets\91_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="55" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1991\Suits\ligier25_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1991\Suits\ligier_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1991\Suits\ligier_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1991\Suits\ligier_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1991\Suits\blue_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="56" NAME="Ligier-Lamborghini #26 E. Comas" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1991\preview26_Monaco.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1991\Ligier26_Monaco.dds" />
+	</LIVERY_OVERRIDE> -->
+	<HELMET_OVERRIDE LIVERY="56" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1991\Helmets\91_Comas_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1991\Helmets\91_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="56" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1991\Suits\ligier26_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1991\Suits\ligier_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1991\Suits\ligier_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1991\Suits\ligier_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1991\Suits\blue_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="57" NAME="Dallara-Judd #21 E. Pirro" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1991\preview21.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1991\Dallara21.dds" />
+	</LIVERY_OVERRIDE> -->
+	<HELMET_OVERRIDE LIVERY="57" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1991\Helmets\91_Pirro_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1991\Helmets\91_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="57" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1991\Suits\dallara21_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1991\Suits\dallara_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1991\Suits\dallara_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1991\Suits\dallara_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1991\Suits\red_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="58" NAME="Dallara-Judd #22 J. Jarvilehto" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1991\preview22.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1991\Dallara22.dds" />
+	</LIVERY_OVERRIDE> -->
+	<HELMET_OVERRIDE LIVERY="58" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1991\Helmets\91_Lehto_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1991\Helmets\91_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="58" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1991\Suits\dallara22_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1991\Suits\dallara_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1991\Suits\dallara_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1991\Suits\dallara_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1991\Suits\red_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+</USER_OVERRIDES>

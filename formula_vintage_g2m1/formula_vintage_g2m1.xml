@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+
+	<LIVERY_OVERRIDE LIVERY="51" NAME="McLaren-Ford Cosworth #5 D. Hulme" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1969\preview5.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1969\Hulme_05.dds" />
+        </LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="51" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1969\Helmets\Hulme_05_helmet.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1969\Helmets\Hulme_05_helmet_peak.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="51" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1969\Suits\black_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="52" NAME="McLaren-Ford Cosworth #6 B. McLaren" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1969\preview6.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1969\McLaren_06.dds" />
+        </LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="52" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1969\Helmets\McLaren_06_helmet.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1969\Helmets\McLaren_06_helmet_peak.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="52" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1969\Suits\black_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="53" NAME="McLaren-Ford Cosworth #20 D. Bell" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1969\preview20.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1969\Bell_20.dds" />
+        </LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="53" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1969\Helmets\Bell_20_helmet.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1969\Helmets\Bell_20_helmet_peak.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="53" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1969\Suits\black_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="54" NAME="Matra-Ford Cosworth #7 J. Stewart" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1969\preview7.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1969\Stewart_07.dds" />
+        </LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="54" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1969\Helmets\Stewart_07_helmet.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1969\Helmets\Stewart_07_helmet_peak.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="54" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1969\Suits\black_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="55" NAME="Matra-Ford Cosworth #8 J-P. Beltoise" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1969\preview8.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1969\Beltoise_08.dds" />
+        </LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="55" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1969\Helmets\Beltoise_08_helmet.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1969\Helmets\Beltoise_08_helmet_peak.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="55" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1969\Suits\black_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="56" NAME="Matra-Ford Cosworth #26 H. Pescarolo" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1969\preview26.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1969\Pescarolo_26.dds" />
+        </LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="56" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1969\Helmets\Pescarolo_26_helmet.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1969\Helmets\Pescarolo_26_helmet_peak.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="56" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1969\Suits\black_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="57" NAME="McLaren-Ford Cosworth #18 V. Elford" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1969\preview18.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1969\Elford_18.dds" />
+        </LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="57" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1969\Helmets\Elford_18_helmet.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1969\Helmets\Elford_18_helmet_peak.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="57" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1969\Suits\black_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="58" NAME="Tecno-Ford Cosworth #28 F. Cevert" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1969\preview28.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1969\Cevert_28.dds" />
+        </LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="58" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1969\Helmets\Cevert_28_helmet.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1969\Helmets\Cevert_28_helmet_peak.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="58" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1969\Suits\black_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+</USER_OVERRIDES>
