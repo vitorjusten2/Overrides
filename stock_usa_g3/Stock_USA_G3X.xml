@@ -1,0 +1,740 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+
+    <LIVERY_OVERRIDE LIVERY="51" NAME="Trackhouse Racing #1 Ross Chastain" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_g3\preview\preview01a.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_g3\Body01A.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="51" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Helmets\01_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="Stock_g3\Helmets\01_helmet_spec.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_g3\Helmets\01_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="51" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Suits\01_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_g3\Suits\01_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_g3\Suits\01_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_g3\Suits\01_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_g3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="52" NAME="Team Penske #2 Austin Cindric" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_g3\preview\preview02A.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_g3\Body02A.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="52" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Helmets\02_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="Stock_g3\Helmets\02_helmet_spec.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_g3\Helmets\02_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="52" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Suits\02_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_g3\Suits\02_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_g3\Suits\AlpinestarW_Gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_g3\Suits\02_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_g3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="53" NAME="Richard Childress Racing #3 Austin Dillon" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_g3\preview\preview03A.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_g3\Body03A.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="53" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Helmets\03_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="Stock_g3\Helmets\03_helmet_spec.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_g3\Helmets\03_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="53" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Suits\03_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_g3\Suits\03_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_g3\Suits\03_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_g3\Suits\03_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_g3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="54" NAME="Front Row Motorsports #4 Noah Gragson" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_g3\preview\preview04A.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_g3\Body04A.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="54" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Helmets\04_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="Stock_g3\Helmets\04_helmet_spec.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_g3\Helmets\04_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="54" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Suits\04_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_g3\Suits\04_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_g3\Suits\AlpinestarW_Gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_g3\Suits\04_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_g3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="55" NAME="Hendrick Motorsports #5 Kyle Larson" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_g3\preview\preview05A.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_g3\Body05A.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="55" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Helmets\05_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="Stock_g3\Helmets\05_helmet_spec.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_g3\Helmets\05_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="55" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Suits\05_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_g3\Suits\05_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_g3\Suits\AlpinestarBl_Gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_g3\Suits\05_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_g3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="56" NAME="RFK Racing #6 Brad Keselowski" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_g3\preview\preview06A.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_g3\Body06A.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="56" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Helmets\06_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="Stock_g3\Helmets\06_helmet_spec.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_g3\Helmets\06_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="56" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Suits\06_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_g3\Suits\06_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_g3\Suits\06_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_g3\Suits\06_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_g3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="57" NAME="Spire Motorsports #7 Justin Haley" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_g3\preview\preview07A.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_g3\Body07A.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="57" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Helmets\07_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="Stock_g3\Helmets\07_helmet_spec.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_g3\Helmets\07_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="57" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Suits\07_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_g3\Suits\07_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_g3\Suits\AlpinestarW_Gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_g3\Suits\07_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_g3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="58" NAME="Richard Childress Racing #8 Kyle Busch" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_g3\preview\preview08A.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_g3\Body08A.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="58" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Helmets\08_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="Stock_g3\Helmets\08_helmet_spec.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_g3\Helmets\08_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="58" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Suits\08_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_g3\Suits\08_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_g3\Suits\08_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_g3\Suits\08_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_g3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="59" NAME="Hendrick Motorsports #9 Chase Elliott" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_g3\preview\preview09A.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_g3\Body09A.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="59" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Helmets\09_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="Stock_g3\Helmets\09_helmet_spec.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_g3\Helmets\09_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="59" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Suits\09_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_g3\Suits\09_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_g3\Suits\AlpinestarBl_Gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_g3\Suits\09_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_g3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="60" NAME="Kaulig Racing #10 Ty Dillon" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_g3\preview\preview10A.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_g3\Body10A.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="60" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Helmets\10_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="Stock_g3\Helmets\10_helmet_spec.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_g3\Helmets\10_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="60" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Suits\10_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_g3\Suits10_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_g3\Suits\10_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_g3\Suits\10_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_g3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="61" NAME="Joe Gibbs Racing #11 Denny Hamlin" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_g3\preview\preview11A.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_g3\Body11A.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="61" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Helmets\11_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="Stock_g3\Helmets\11_helmet_spec.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_g3\Helmets\11_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="61" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Suits\11_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_g3\Suits\11_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_g3\Suits\11_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_g3\Suits\11_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_g3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="62" NAME="Team Penske #12 Ryan Blaney" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_g3\preview\preview12A.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_g3\Body12A.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="62" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Helmets\12_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="Stock_g3\Helmets\12_helmet_spec.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_g3\Helmets\12_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="62" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Suits\12_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_g3\Suits\12_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_g3\Suits\12_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_g3\Suits\12_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_g3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="63" NAME="Kaulig Racing #16 A.J. Allmendinger" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_g3\preview\preview16A.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_g3\Body16A.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="63" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Helmets\16_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="Stock_g3\Helmets\16_helmet_spec.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_g3\Helmets\16_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="63" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Suits\16_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_g3\Suits\16_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_g3\Suits\16_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_g3\Suits\16_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_g3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="64" NAME="RFK Racing #17 Chris Buescher" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_g3\preview\preview17A.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_g3\Body17A.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="64" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Helmets\17_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="Stock_g3\Helmets\17_helmet_spec.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_g3\Helmets\17_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="64" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Suits\17_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_g3\Suits\17_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_g3\Suits\17_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_g3\Suits\17_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_g3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="65" NAME="Joe Gibbs Racing #19 Chase Briscoe" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_g3\preview\preview19A.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_g3\Body19A.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="65" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Helmets\19_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="Stock_g3\Helmets\19_helmet_spec.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_g3\Helmets\19_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="65" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Suits\19_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_g3\Suits\19_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_g3\Suits\AlpinestarBk_Gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_g3\Suits\19_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_g3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="66" NAME="Joe Gibbs Racing #20 Christopher Bell" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_g3\preview\preview20A.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_g3\Body20A.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="66" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Helmets\20_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="Stock_g3\Helmets\20_helmet_spec.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_g3\Helmets\20_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="66" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Suits\20_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_g3\Suits\20_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_g3\Suits\20_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_g3\Suits\20_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_g3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="67" NAME="Wood Brothers Racing #21 Josh Berry" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_g3\preview\preview21A.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_g3\Body21A.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="67" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Helmets\21_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="Stock_g3\Helmets\21_helmet_spec.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_g3\Helmets\21_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="67" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Suits\21_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_g3\Suits\21_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_g3\Suits\21_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_g3\Suits\21_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_g3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="68" NAME="Team Penske #22 Joey Logano" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_g3\preview\preview22A.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_g3\Body22A.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="68" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Helmets\22_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="Stock_g3\Helmets\22_helmet_spec.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_g3\Helmets\22_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="68" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Suits\22_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_g3\Suits\22_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_g3\Suits\22_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_g3\Suits\22_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_g3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="69" NAME="23XI Racing #23 Bubba Wallace" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_g3\preview\preview23A.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_g3\Body23A.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="69" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Helmets\23_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="Stock_g3\Helmets\23_helmet_spec.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_g3\Helmets\23_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="69" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Suits\23_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_g3\Suits\23_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_g3\Suits\23_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_g3\Suits\23_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_g3\Suits\Seatbelt_Black.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="70" NAME="Hendrick Motorsports #24 William Byron" BASELIVERY="Matte">
+    <PREVIEWIMAGE PATH="Stock_g3\preview\preview24A.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_g3\Body24c.dds" />
+	<TEXTURE NAME="SPEC" PATH="Stock_g3\Body24c_spec.dds" />
+	<TEXTURE NAME="FRESNEL" PATH="Stock_g3\Body24c_fresnel.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="70" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Helmets\24_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="Stock_g3\Helmets\24_helmet_spec.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_g3\Helmets\24_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="70" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Suits\24_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_g3\Suits\24_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_g3\Suits\AlpinestarW_Gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_g3\Suits\24_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_g3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="71" NAME="Front Row Motorsports #34 Todd Gilliland" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_g3\preview\preview34A.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_g3\Body34a.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="71" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Helmets\34_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="Stock_g3\Helmets\34_helmet_spec.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_g3\Helmets\34_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="71" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Suits\34_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_g3\Suits\34_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_g3\Suits\34_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_g3\Suits\34_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_g3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="72" NAME="23XI Racing #35 Riley Herbst" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_g3\preview\preview35A.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_g3\Body35a.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="72" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Helmets\35_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="Stock_g3\Helmets\35_helmet_spec.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_g3\Helmets\35_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="72" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Suits\35_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_g3\Suits\35_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_g3\Suits\35_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_g3\Suits\35_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_g3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="73" NAME="Front Row Motorsports #38 Zane Smith" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_g3\preview\preview38A.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_g3\Body38a.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="73" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Helmets\38_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="Stock_g3\Helmets\38_helmet_spec.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_g3\Helmets\38_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="73" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Suits\38_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_g3\Suits\38_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_g3\Suits\38_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_g3\Suits\38_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_g3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="74" NAME="Haas Factory Team #41 Cole Custer" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_g3\preview\preview41A.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_g3\Body41a.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="74" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Helmets\41_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="Stock_g3\Helmets\41_helmet_spec.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_g3\Helmets\41_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="74" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Suits\41_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_g3\Suits\41_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_g3\Suits\41_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_g3\Suits\41_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_g3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="75" NAME="Legacy Motor Club #42 John Hunter Nemechek" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_g3\preview\preview42A.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_g3\Body42a.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="75" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Helmets\42_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="Stock_g3\Helmets\42_helmet_spec.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_g3\Helmets\42_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="75" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Suits\42_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_g3\Suits\42_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_g3\Suits\42_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_g3\Suits\42_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_g3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="76" NAME="Legacy Motor Club #43 Erik Jones" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_g3\preview\preview43A.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_g3\Body43a.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="76" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Helmets\43_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="Stock_g3\Helmets\43_helmet_spec.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_g3\Helmets\43_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="76" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Suits\43_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_g3\Suits\43_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_g3\Suits\43_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_g3\Suits\43_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_g3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="77" NAME="JANIQUES #13 Nelson Janiques" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="N13\N13.dds" />
+    <TEXTURE NAME="BODY" PATH="N13\N13-NASCARG3.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="77" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Helmets\45_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="Stock_g3\Helmets\45_helmet_spec.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_g3\Helmets\45_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="77" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Suits\45_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_g3\Suits\45_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_g3\Suits\45_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_g3\Suits\45_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_g3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="78" NAME="HYAK Motorsports #47 Ricky Stenhouse Jr" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_g3\preview\preview47A.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_g3\Body47a.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="78" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Helmets\47_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="Stock_g3\Helmets\47_helmet_spec.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_g3\Helmets\47_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="78" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Suits\47_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_g3\Suits\47_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_g3\Suits\47_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_g3\Suits\47_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_g3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="79" NAME="Hendrick Motorsports #48 Alex Bowman" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_g3\preview\preview48A.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_g3\Body48a.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="79" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Helmets\48_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="Stock_g3\Helmets\48_helmet_spec.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_g3\Helmets\48_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="79" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Suits\48_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_g3\Suits\48_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_g3\Suits\48_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_g3\Suits\48_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_g3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="80" NAME="JR Motorsports #40 Justin Allgaier" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_g3\preview\preview40A.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_g3\Body40.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="80" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Helmets\40_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="Stock_g3\Helmets\40_helmet_spec.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_g3\Helmets\40_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="80" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Suits\40_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_g3\Suits\40_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_g3\Suits\40_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_g3\Suits\40_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_g3\Suits\Seatbelt_Blue.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="81" NAME="Rick Ware Racing #51 Cody Ware" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_g3\preview\preview51A.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_g3\Body51A.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="81" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Helmets\51_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="Stock_g3\Helmets\51_helmet_spec.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_g3\Helmets\51_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="81" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_g3\Suits\51_gloves.dds" />
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Suits\51_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_g3\Suits\51_arms.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_g3\Suits\51_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_g3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="82" NAME="Joe Gibbs Racing #54 Ty Gibbs" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_g3\preview\preview54A.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_g3\Body54a.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="82" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Helmets\54_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="Stock_g3\Helmets\54_helmet_spec.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_g3\Helmets\54_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="82" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Suits\54_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_g3\Suits\54_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_g3\Suits\54_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_g3\Suits\54_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_g3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="83" NAME="Tricon Garage #56 Martin Truex Jr" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_g3\preview\preview56A.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_g3\Body56.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="83" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Helmets\56_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="Stock_g3\Helmets\56_helmet_spec.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_g3\Helmets\56_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="83" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Suits\56_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_g3\Suits\56_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_g3\Suits\56_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_g3\Suits\56_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_g3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="84" NAME="RFK Racing #60 Ryan Preece" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_g3\preview\preview60A.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_g3\Body60A.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="84" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Helmets\60_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="Stock_g3\Helmets\60_helmet_spec.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_g3\Helmets\60_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="84" BASEOUTFIT="DEFAULT">
+	<TEXTURE NAME="GLOVES_DIFF" PATH="Stock_g3\Suits\60_gloves.dds" />
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Suits\60_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_g3\Suits\60_arms.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_g3\Suits\60_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_g3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="85" NAME="Spire Motorsports #71 Michael McDowell" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_g3\preview\preview71A.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_g3\Body71A.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="85" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Helmets\71_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="Stock_g3\Helmets\71_helmet_spec.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_g3\Helmets\71_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="85" BASEOUTFIT="DEFAULT">
+	<TEXTURE NAME="GLOVES_DIFF" PATH="Stock_g3\Suits\71_gloves.dds" />
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Suits\71_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_g3\Suits\71_arms.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_g3\Suits\71_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_g3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="86" NAME="Spire Motorsports #77 Carson Hocevar" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_g3\preview\preview77A.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_g3\Body77A.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="86" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Helmets\77_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="Stock_g3\Helmets\77_helmet_spec.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_g3\Helmets\77_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="86" BASEOUTFIT="DEFAULT">
+	<TEXTURE NAME="GLOVES_DIFF" PATH="Stock_g3\Suits\77_gloves.dds" />
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Suits\77_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_g3\Suits\77_arms.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_g3\Suits\77_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_g3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="87" NAME="Trackhouse Racing #87 Connor Zilisch" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_g3\preview\preview87A.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_g3\Body87A.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="87" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Helmets\87_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="Stock_g3\Helmets\87_helmet_spec.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_g3\Helmets\87_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="87" BASEOUTFIT="DEFAULT">
+	<TEXTURE NAME="GLOVES_DIFF" PATH="Stock_g3\Suits\87_gloves.dds" />
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Suits\87_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_g3\Suits\87_arms.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_g3\Suits\87_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_g3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="88" NAME="Trackhouse Racing #88 Shane van Gisbergen" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_g3\preview\preview88A.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_g3\Body88a.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="88" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Helmets\88_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="Stock_g3\Helmets\88_helmet_spec.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_g3\Helmets\88_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="88" BASEOUTFIT="DEFAULT">
+	<TEXTURE NAME="GLOVES_DIFF" PATH="Stock_g3\Suits\88_gloves.dds" />
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Suits\88_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_g3\Suits\88_arms.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_g3\Suits\88_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_g3\Suits\Seatbelt_Black.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="89" NAME="Trackhouse Racing #91 Helio Castroneves" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_g3\preview\preview91A.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_g3\Body91.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="89" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Helmets\91_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="Stock_g3\Helmets\91_helmet_spec.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_g3\Helmets\91_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="89" BASEOUTFIT="DEFAULT">
+	<TEXTURE NAME="GLOVES_DIFF" PATH="Stock_g3\Suits\91_gloves.dds" />
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Suits\91_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_g3\Suits\91_arms.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_g3\Suits\91_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_g3\Suits\Seatbelt_Black.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="90" NAME="Trackhouse Racing #99 Daniel Suarez" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_g3\preview\preview99a.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_g3\Body99.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="90" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Helmets\99_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="Stock_g3\Helmets\99_helmet_spec.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_g3\Helmets\99_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="90" BASEOUTFIT="DEFAULT">
+	<TEXTURE NAME="GLOVES_DIFF" PATH="Stock_g3\Suits\99_gloves.dds" />
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Suits\99_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_g3\Suits\99_arms.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_g3\Suits\99_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_g3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="XX" NAME="Exxon #51 R. Burns" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_g3\preview\preview51Exxon.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_g3\Body51.dds" />
+    <TEXTURE NAME="WHEELDIFF" PATH="Stock_g3\Wheels\Diff.dds"/>
+    <TEXTURE NAME="WHEELBLURDIFF" PATH="Stock_g3\Wheels\diff_blur.dds"/>
+    <TEXTURE NAME="WHEELSPEC" PATH="Stock_g3\Wheels\Diff_spec.dds"/>
+    <TEXTURE NAME="WHEELBLURSPEC" PATH="Stock_g3\Wheels\Diff_spec_blur.dds"/>			
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="XX" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Helmets\51helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="Stock_g3\Helmets\51helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="XX" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Suits\91_Exxon_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_g3\Suits\51_Exxon_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_g3\Suits\51_Exxon_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_g3\Suits\51_Exxon_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_g3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="XX" NAME="City Chevrolet #46 C. Trickle" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_g3\preview\preview46City.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_g3\Body46.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="XX" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Helmets\46helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="Stock_g3\Helmets\46helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="XX" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Suits\46_City_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_g3\Suits\46_City_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_g3\Suits\46_City_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_g3\Suits\46_City_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_g3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="XX" NAME="MM'S #18" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_g3\preview\preview18.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_g3\Body18.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="XX" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Helmets\18_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="Stock_g3\Helmets\18_helmet_spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="XX" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_g3\Suits\18_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_g3\Suits\18_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_g3\Suits\18_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_g3\Suits\18_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_g3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+
+	
+
+</USER_OVERRIDES>

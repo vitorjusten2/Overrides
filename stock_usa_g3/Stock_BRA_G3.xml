@@ -1,0 +1,1066 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+
+    <LIVERY_OVERRIDE LIVERY="51" NAME="Team RC #0 Cacá Bueno" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_BRA_G3\preview\preview00.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_BRA_G3\Body00.dds" />
+	<TEXTURE NAME="miscdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_misc_diff.dds"/>
+	<TEXTURE NAME="lightsdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_lights_diff.dds"/>
+	<TEXTURE NAME="lightsspec" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_lights_spec.dds"/>
+	<TEXTURE NAME="TIREDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_00.dds"/>
+	<TEXTURE NAME="TIRESPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_00.dds"/>
+    <TEXTURE NAME="TIREBLURDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_01.dds"/>
+	<TEXTURE NAME="TIREBLURSPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_01.dds"/>
+    <TEXTURE NAME="TIRENORM" PATH="Stock_BRA_G3\tyres\tire_pirelli_norm_00.dds"/>
+	</LIVERY_OVERRIDE>
+	
+	<HELMET_OVERRIDE LIVERY="51" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Helmets\00_helmet.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_BRA_G3\Helmets\00_visor.dds" />
+	<TEXTURE NAME="VISOR_SPEC" PATH="Stock_BRA_G3\Helmets\Visor_Spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="51" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Suits\00_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_BRA_G3\Suits\00_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_BRA_G3\Suits\00_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_BRA_G3\Suits\00_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_BRA_G3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="52" NAME="Cavaleiro Sports #5 Denis Navarro" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_BRA_G3\preview\preview05.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_BRA_G3\Body05.dds" />
+	<TEXTURE NAME="miscdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_misc_diff.dds"/>
+	<TEXTURE NAME="lightsdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_lights_diff.dds"/>
+	<TEXTURE NAME="lightsspec" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_lights_spec.dds"/>
+	<TEXTURE NAME="TIREDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_00.dds"/>
+	<TEXTURE NAME="TIRESPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_00.dds"/>
+    <TEXTURE NAME="TIREBLURDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_01.dds"/>
+	<TEXTURE NAME="TIREBLURSPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_01.dds"/>
+    <TEXTURE NAME="TIRENORM" PATH="Stock_BRA_G3\tyres\tire_pirelli_norm_00.dds"/>
+	</LIVERY_OVERRIDE>
+	
+	<HELMET_OVERRIDE LIVERY="52" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Helmets\05_helmet.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_BRA_G3\Helmets\05_visor.dds" />
+	<TEXTURE NAME="VISOR_SPEC" PATH="Stock_BRA_G3\Helmets\Visor_Spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="52" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Suits\05_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_BRA_G3\Suits\05_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_BRA_G3\Suits\05_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_BRA_G3\Suits\05_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_BRA_G3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="53" NAME="Full Time Sports #8 Alfredinho Ibiapina" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_BRA_G3\preview\preview08.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_BRA_G3\Body08.dds" />
+	<TEXTURE NAME="miscdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_misc_Ford_diff.dds"/>
+	<TEXTURE NAME="lightsdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_Ford_lights_diff.dds"/>
+	<TEXTURE NAME="lightsspec" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_Ford_lights_spec.dds"/>
+	<TEXTURE NAME="TIREDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_00.dds"/>
+	<TEXTURE NAME="TIRESPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_00.dds"/>
+    <TEXTURE NAME="TIREBLURDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_01.dds"/>
+	<TEXTURE NAME="TIREBLURSPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_01.dds"/>
+    <TEXTURE NAME="TIRENORM" PATH="Stock_BRA_G3\tyres\tire_pirelli_norm_00.dds"/>
+	</LIVERY_OVERRIDE>
+	
+	<HELMET_OVERRIDE LIVERY="53" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Helmets\08_helmet.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_BRA_G3\Helmets\08_visor.dds" />
+	<TEXTURE NAME="VISOR_SPEC" PATH="Stock_BRA_G3\Helmets\Visor_Spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="53" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Suits\08_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_BRA_G3\Suits\08_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_BRA_G3\Suits\08_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_BRA_G3\Suits\08_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_BRA_G3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="54" NAME="Cavaleiro Sports #9 Arthur Gama" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_BRA_G3\preview\preview09.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_BRA_G3\Body09.dds" />
+	<TEXTURE NAME="miscdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_misc_diff.dds"/>
+	<TEXTURE NAME="lightsdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_lights_diff.dds"/>
+	<TEXTURE NAME="lightsspec" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_lights_spec.dds"/>
+	<TEXTURE NAME="TIREDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_00.dds"/>
+	<TEXTURE NAME="TIRESPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_00.dds"/>
+    <TEXTURE NAME="TIREBLURDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_01.dds"/>
+	<TEXTURE NAME="TIREBLURSPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_01.dds"/>
+    <TEXTURE NAME="TIRENORM" PATH="Stock_BRA_G3\tyres\tire_pirelli_norm_00.dds"/>
+	</LIVERY_OVERRIDE>
+	
+	<HELMET_OVERRIDE LIVERY="54" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Helmets\09_helmet.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_BRA_G3\Helmets\09_visor.dds" />
+	<TEXTURE NAME="VISOR_SPEC" PATH="Stock_BRA_G3\Helmets\Visor_Spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="54" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Suits\09_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_BRA_G3\Suits\09_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_BRA_G3\Suits\09_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_BRA_G3\Suits\09_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_BRA_G3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="55" NAME="Cavaleiro Sports #10 Ricardo Zonta" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_BRA_G3\preview\preview10.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_BRA_G3\Body10.dds" />
+	<TEXTURE NAME="miscdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_misc_diff.dds"/>
+	<TEXTURE NAME="lightsdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_lights_diff.dds"/>
+	<TEXTURE NAME="lightsspec" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_lights_spec.dds"/>
+	<TEXTURE NAME="TIREDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_00.dds"/>
+	<TEXTURE NAME="TIRESPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_00.dds"/>
+    <TEXTURE NAME="TIREBLURDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_01.dds"/>
+	<TEXTURE NAME="TIREBLURSPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_01.dds"/>
+    <TEXTURE NAME="TIRENORM" PATH="Stock_BRA_G3\tyres\tire_pirelli_norm_00.dds"/>
+	</LIVERY_OVERRIDE>
+	
+	<HELMET_OVERRIDE LIVERY="55" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Helmets\10_helmet.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_BRA_G3\Helmets\10_visor.dds" />
+	<TEXTURE NAME="VISOR_SPEC" PATH="Stock_BRA_G3\Helmets\Visor_Spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="55" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Suits\10_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_BRA_G3\Suits\10_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_BRA_G3\Suits\10_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_BRA_G3\Suits\10_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_BRA_G3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="56" NAME="Team RC #11 Witold Ramasauskas" BASELIVERY="BronzeMetallic">
+    <PREVIEWIMAGE PATH="Stock_BRA_G3\preview\preview11.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_BRA_G3\Body11.dds" />
+	<TEXTURE NAME="SPEC" PATH="Stock_BRA_G3\Body11_spec.dds" />
+	<TEXTURE NAME="FRESNEL" PATH="Stock_BRA_G3\Body11_fresnel.dds" />
+	<TEXTURE NAME="miscdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_misc_diff.dds"/>
+	<TEXTURE NAME="lightsdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_lights_diff.dds"/>
+	<TEXTURE NAME="lightsspec" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_lights_spec.dds"/>
+	<TEXTURE NAME="TIREDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_00.dds"/>
+	<TEXTURE NAME="TIRESPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_00.dds"/>
+    <TEXTURE NAME="TIREBLURDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_01.dds"/>
+	<TEXTURE NAME="TIREBLURSPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_01.dds"/>
+    <TEXTURE NAME="TIRENORM" PATH="Stock_BRA_G3\tyres\tire_pirelli_norm_00.dds"/>
+	</LIVERY_OVERRIDE>
+	
+	<HELMET_OVERRIDE LIVERY="56" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Helmets\11_helmet.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_BRA_G3\Helmets\11_visor.dds" />
+	<TEXTURE NAME="VISOR_SPEC" PATH="Stock_BRA_G3\Helmets\Visor_Spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="56" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Suits\11_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_BRA_G3\Suits\11_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_BRA_G3\Suits\11_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_BRA_G3\Suits\11_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_BRA_G3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="57" NAME="Full Time #15 Tito Giaffone" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_BRA_G3\preview\preview15.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_BRA_G3\Body15.dds" />
+	<TEXTURE NAME="miscdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_misc_Ford_diff.dds"/>
+	<TEXTURE NAME="lightsdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_Ford_lights_diff.dds"/>
+	<TEXTURE NAME="lightsspec" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_Ford_lights_spec.dds"/>
+	<TEXTURE NAME="TIREDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_00.dds"/>
+	<TEXTURE NAME="TIRESPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_00.dds"/>
+    <TEXTURE NAME="TIREBLURDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_01.dds"/>
+	<TEXTURE NAME="TIREBLURSPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_01.dds"/>
+    <TEXTURE NAME="TIRENORM" PATH="Stock_BRA_G3\tyres\tire_pirelli_norm_00.dds"/>
+	</LIVERY_OVERRIDE>
+	
+	<HELMET_OVERRIDE LIVERY="57" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Helmets\15_helmet.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_BRA_G3\Helmets\15_visor.dds" />
+	<TEXTURE NAME="VISOR_SPEC" PATH="Stock_BRA_G3\Helmets\Visor_Spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="57" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Suits\15_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_BRA_G3\Suits\15_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_BRA_G3\Suits\15_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_BRA_G3\Suits\15_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_BRA_G3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="58" NAME="Full Time #21 Thiago Camilo" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_BRA_G3\preview\preview21.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_BRA_G3\Body21.dds" />
+	<TEXTURE NAME="miscdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_misc_Ford_diff.dds"/>
+	<TEXTURE NAME="lightsdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_Ford_lights_diff.dds"/>
+	<TEXTURE NAME="lightsspec" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_Ford_lights_spec.dds"/>
+	<TEXTURE NAME="TIREDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_00.dds"/>
+	<TEXTURE NAME="TIRESPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_00.dds"/>
+    <TEXTURE NAME="TIREBLURDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_01.dds"/>
+	<TEXTURE NAME="TIREBLURSPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_01.dds"/>
+    <TEXTURE NAME="TIRENORM" PATH="Stock_BRA_G3\tyres\tire_pirelli_norm_00.dds"/>
+	</LIVERY_OVERRIDE>
+	
+	<HELMET_OVERRIDE LIVERY="58" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Helmets\21_helmet.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_BRA_G3\Helmets\21_visor.dds" />
+	<TEXTURE NAME="VISOR_SPEC" PATH="Stock_BRA_G3\Helmets\Visor_Spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="58" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Suits\21_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_BRA_G3\Suits\21_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_BRA_G3\Suits\21_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_BRA_G3\Suits\21_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_BRA_G3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="59" NAME="Full Time #22 Victor Andrade" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_BRA_G3\preview\preview22.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_BRA_G3\Body22.dds" />
+	<TEXTURE NAME="miscdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_misc_Ford_diff.dds"/>
+	<TEXTURE NAME="lightsdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_Ford_lights_diff.dds"/>
+	<TEXTURE NAME="lightsspec" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_Ford_lights_spec.dds"/>
+	<TEXTURE NAME="TIREDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_00.dds"/>
+	<TEXTURE NAME="TIRESPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_00.dds"/>
+    <TEXTURE NAME="TIREBLURDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_01.dds"/>
+	<TEXTURE NAME="TIREBLURSPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_01.dds"/>
+    <TEXTURE NAME="TIRENORM" PATH="Stock_BRA_G3\tyres\tire_pirelli_norm_00.dds"/>
+	</LIVERY_OVERRIDE>
+	
+	<HELMET_OVERRIDE LIVERY="59" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Helmets\22_helmet.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_BRA_G3\Helmets\22_visor.dds" />
+	<TEXTURE NAME="VISOR_SPEC" PATH="Stock_BRA_G3\Helmets\Visor_Spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="59" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Suits\22_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_BRA_G3\Suits\22_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_BRA_G3\Suits\22_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_BRA_G3\Suits\22_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_BRA_G3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="60" NAME="AMattheis Vogel #18 Allam Khodair" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_BRA_G3\preview\preview18.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_BRA_G3\Body18.dds" />
+	<TEXTURE NAME="miscdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_misc_Ford_diff.dds"/>
+	<TEXTURE NAME="lightsdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_Ford_lights_diff.dds"/>
+	<TEXTURE NAME="lightsspec" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_Ford_lights_spec.dds"/>
+	<TEXTURE NAME="TIREDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_00.dds"/>
+	<TEXTURE NAME="TIRESPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_00.dds"/>
+    <TEXTURE NAME="TIREBLURDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_01.dds"/>
+	<TEXTURE NAME="TIREBLURSPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_01.dds"/>
+    <TEXTURE NAME="TIRENORM" PATH="Stock_BRA_G3\tyres\tire_pirelli_norm_00.dds"/>
+	</LIVERY_OVERRIDE>
+	
+	<HELMET_OVERRIDE LIVERY="60" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Helmets\18_helmet.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_BRA_G3\Helmets\18_visor.dds" />
+	<TEXTURE NAME="VISOR_SPEC" PATH="Stock_BRA_G3\Helmets\Visor_Spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="60" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Suits\18_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_BRA_G3\Suits\18_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_BRA_G3\Suits\18_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_BRA_G3\Suits\18_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_BRA_G3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="61" NAME="Pole Motorsport #25 Tatiana Calderón" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_BRA_G3\preview\preview25.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_BRA_G3\Body25.dds" />
+	<TEXTURE NAME="miscdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_misc_Ford_diff.dds"/>
+	<TEXTURE NAME="lightsdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_Ford_lights_diff.dds"/>
+	<TEXTURE NAME="lightsspec" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_Ford_lights_spec.dds"/>
+	<TEXTURE NAME="TIREDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_00.dds"/>
+	<TEXTURE NAME="TIRESPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_00.dds"/>
+    <TEXTURE NAME="TIREBLURDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_01.dds"/>
+	<TEXTURE NAME="TIREBLURSPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_01.dds"/>
+    <TEXTURE NAME="TIRENORM" PATH="Stock_BRA_G3\tyres\tire_pirelli_norm_00.dds"/>
+	</LIVERY_OVERRIDE>
+	
+	<HELMET_OVERRIDE LIVERY="61" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Helmets\25_helmet.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_BRA_G3\Helmets\25_visor.dds" />
+	<TEXTURE NAME="VISOR_SPEC" PATH="Stock_BRA_G3\Helmets\Visor_Spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="61" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Suits\25_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_BRA_G3\Suits\25_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_BRA_G3\Suits\25_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_BRA_G3\Suits\25_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_BRA_G3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="62" NAME="MX Vogel #28 Gui Backes" BASELIVERY="BronzeMetallic">
+    <PREVIEWIMAGE PATH="Stock_BRA_G3\preview\preview28.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_BRA_G3\Body28.dds" />
+	<TEXTURE NAME="SPEC" PATH="Stock_BRA_G3\Body28_spec.dds" />
+	<TEXTURE NAME="miscdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_misc_Ford_diff.dds"/>
+	<TEXTURE NAME="lightsdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_Ford_lights_diff.dds"/>
+	<TEXTURE NAME="lightsspec" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_Ford_lights_spec.dds"/>
+	<TEXTURE NAME="FRESNEL" PATH="Stock_BRA_G3\Body28_fresnel.dds" />
+	<TEXTURE NAME="TIREDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_00.dds"/>
+	<TEXTURE NAME="TIRESPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_00.dds"/>
+    <TEXTURE NAME="TIREBLURDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_01.dds"/>
+	<TEXTURE NAME="TIREBLURSPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_01.dds"/>
+    <TEXTURE NAME="TIRENORM" PATH="Stock_BRA_G3\tyres\tire_pirelli_norm_00.dds"/>
+	</LIVERY_OVERRIDE>
+	
+	<HELMET_OVERRIDE LIVERY="62" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Helmets\28_helmet.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_BRA_G3\Helmets\28_visor.dds" />
+	<TEXTURE NAME="VISOR_SPEC" PATH="Stock_BRA_G3\Helmets\Visor_Spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="62" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Suits\28_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_BRA_G3\Suits\28_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_BRA_G3\Suits\28_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_BRA_G3\Suits\28_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_BRA_G3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="63" NAME="Pole Motorsport #34 Dudes Castroneves" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_BRA_G3\preview\preview34.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_BRA_G3\Body34.dds" />
+	<TEXTURE NAME="miscdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_misc_diff.dds"/>
+	<TEXTURE NAME="lightsdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_lights_diff.dds"/>
+	<TEXTURE NAME="lightsspec" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_lights_spec.dds"/>
+	<TEXTURE NAME="TIREDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_00.dds"/>
+	<TEXTURE NAME="TIRESPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_00.dds"/>
+    <TEXTURE NAME="TIREBLURDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_01.dds"/>
+	<TEXTURE NAME="TIREBLURSPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_01.dds"/>
+    <TEXTURE NAME="TIRENORM" PATH="Stock_BRA_G3\tyres\tire_pirelli_norm_00.dds"/>
+	</LIVERY_OVERRIDE>
+	
+	<HELMET_OVERRIDE LIVERY="63" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Helmets\34_helmet.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_BRA_G3\Helmets\34_visor.dds" />
+	<TEXTURE NAME="VISOR_SPEC" PATH="Stock_BRA_G3\Helmets\Visor_Spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="63" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Suits\34_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_BRA_G3\Suits\34_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_BRA_G3\Suits\34_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_BRA_G3\Suits\34_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_BRA_G3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="64" NAME="Full Time #46 Vitor Genz" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_BRA_G3\preview\preview46.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_BRA_G3\Body46.dds" />
+	<TEXTURE NAME="miscdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_misc_Ford_diff.dds"/>
+	<TEXTURE NAME="lightsdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_Ford_lights_diff.dds"/>
+	<TEXTURE NAME="lightsspec" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_Ford_lights_spec.dds"/>
+	<TEXTURE NAME="TIREDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_00.dds"/>
+	<TEXTURE NAME="TIRESPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_00.dds"/>
+    <TEXTURE NAME="TIREBLURDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_01.dds"/>
+	<TEXTURE NAME="TIREBLURSPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_01.dds"/>
+    <TEXTURE NAME="TIRENORM" PATH="Stock_BRA_G3\tyres\tire_pirelli_norm_00.dds"/>
+	</LIVERY_OVERRIDE>
+	
+	<HELMET_OVERRIDE LIVERY="64" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Helmets\46_helmet.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_BRA_G3\Helmets\46_visor.dds" />
+	<TEXTURE NAME="VISOR_SPEC" PATH="Stock_BRA_G3\Helmets\Visor_Spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="64" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Suits\46_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_BRA_G3\Suits\46_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_BRA_G3\Suits\46_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_BRA_G3\Suits\46_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_BRA_G3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="65" NAME="Full Time #55 Murilo Rocha" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_BRA_G3\preview\preview55.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_BRA_G3\Body55.dds" />
+	<TEXTURE NAME="miscdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_misc_Ford_diff.dds"/>
+	<TEXTURE NAME="lightsdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_Ford_lights_diff.dds"/>
+	<TEXTURE NAME="lightsspec" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_Ford_lights_spec.dds"/>
+	<TEXTURE NAME="TIREDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_00.dds"/>
+	<TEXTURE NAME="TIRESPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_00.dds"/>
+    <TEXTURE NAME="TIREBLURDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_01.dds"/>
+	<TEXTURE NAME="TIREBLURSPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_01.dds"/>
+    <TEXTURE NAME="TIRENORM" PATH="Stock_BRA_G3\tyres\tire_pirelli_norm_00.dds"/>
+	</LIVERY_OVERRIDE>
+	
+	<HELMET_OVERRIDE LIVERY="65" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Helmets\55_helmet.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_BRA_G3\Helmets\55_visor.dds" />
+	<TEXTURE NAME="VISOR_SPEC" PATH="Stock_BRA_G3\Helmets\Visor_Spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="65" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Suits\55_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_BRA_G3\Suits\55_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_BRA_G3\Suits\55_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_BRA_G3\Suits\55_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_BRA_G3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="66" NAME="Team RC #57 Felipe Tozzo" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_BRA_G3\preview\preview57.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_BRA_G3\Body57.dds" />
+	<TEXTURE NAME="miscdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_misc_diff.dds"/>
+	<TEXTURE NAME="lightsdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_lights_diff.dds"/>
+	<TEXTURE NAME="lightsspec" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_lights_spec.dds"/>
+	<TEXTURE NAME="TIREDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_00.dds"/>
+	<TEXTURE NAME="TIRESPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_00.dds"/>
+    <TEXTURE NAME="TIREBLURDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_01.dds"/>
+	<TEXTURE NAME="TIREBLURSPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_01.dds"/>
+    <TEXTURE NAME="TIRENORM" PATH="Stock_BRA_G3\tyres\tire_pirelli_norm_00.dds"/>
+	</LIVERY_OVERRIDE>
+	
+	<HELMET_OVERRIDE LIVERY="66" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Helmets\57_helmet.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_BRA_G3\Helmets\57_visor.dds" />
+	<TEXTURE NAME="VISOR_SPEC" PATH="Stock_BRA_G3\Helmets\Visor_Spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="66" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Suits\57_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_BRA_G3\Suits\57_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_BRA_G3\Suits\57_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_BRA_G3\Suits\57_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_BRA_G3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="67" NAME="AMattheis Vogel #69 Nicolas Costa" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_BRA_G3\preview\preview69.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_BRA_G3\Body69.dds" />
+	<TEXTURE NAME="miscdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_misc_diff.dds"/>
+	<TEXTURE NAME="lightsdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_lights_diff.dds"/>
+	<TEXTURE NAME="lightsspec" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_lights_spec.dds"/>
+	<TEXTURE NAME="TIREDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_00.dds"/>
+	<TEXTURE NAME="TIRESPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_00.dds"/>
+    <TEXTURE NAME="TIREBLURDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_01.dds"/>
+	<TEXTURE NAME="TIREBLURSPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_01.dds"/>
+    <TEXTURE NAME="TIRENORM" PATH="Stock_BRA_G3\tyres\tire_pirelli_norm_00.dds"/>
+	</LIVERY_OVERRIDE>
+	
+	<HELMET_OVERRIDE LIVERY="67" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Helmets\69_helmet.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_BRA_G3\Helmets\69_visor.dds" />
+	<TEXTURE NAME="VISOR_SPEC" PATH="Stock_BRA_G3\Helmets\Visor_Spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="67" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Suits\69_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_BRA_G3\Suits\69_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_BRA_G3\Suits\69_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_BRA_G3\Suits\69_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_BRA_G3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="68" NAME="MX Vogel #83 Gabriel Casagrande" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_BRA_G3\preview\preview83.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_BRA_G3\Body83.dds" />
+	<TEXTURE NAME="miscdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_misc_diff.dds"/>
+	<TEXTURE NAME="lightsdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_lights_diff.dds"/>
+	<TEXTURE NAME="lightsspec" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_lights_spec.dds"/>
+	<TEXTURE NAME="TIREDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_00.dds"/>
+	<TEXTURE NAME="TIRESPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_00.dds"/>
+    <TEXTURE NAME="TIREBLURDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_01.dds"/>
+	<TEXTURE NAME="TIREBLURSPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_01.dds"/>
+    <TEXTURE NAME="TIRENORM" PATH="Stock_BRA_G3\tyres\tire_pirelli_norm_00.dds"/>
+	</LIVERY_OVERRIDE>
+	
+	<HELMET_OVERRIDE LIVERY="68" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Helmets\83_helmet.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_BRA_G3\Helmets\83_visor.dds" />
+	<TEXTURE NAME="VISOR_SPEC" PATH="Stock_BRA_G3\Helmets\Visor_Spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="68" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Suits\83_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_BRA_G3\Suits\83_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_BRA_G3\Suits\83_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_BRA_G3\Suits\83_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_BRA_G3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="69" NAME="Team RC #85 Gustavo Bandeira" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_BRA_G3\preview\preview85.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_BRA_G3\Body85.dds" />
+	<TEXTURE NAME="miscdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_misc_diff.dds"/>
+	<TEXTURE NAME="lightsdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_lights_diff.dds"/>
+	<TEXTURE NAME="lightsspec" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_lights_spec.dds"/>
+	<TEXTURE NAME="TIREDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_00.dds"/>
+	<TEXTURE NAME="TIRESPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_00.dds"/>
+    <TEXTURE NAME="TIREBLURDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_01.dds"/>
+	<TEXTURE NAME="TIREBLURSPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_01.dds"/>
+    <TEXTURE NAME="TIRENORM" PATH="Stock_BRA_G3\tyres\tire_pirelli_norm_00.dds"/>
+	</LIVERY_OVERRIDE>
+	
+	<HELMET_OVERRIDE LIVERY="69" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Helmets\85_helmet.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_BRA_G3\Helmets\85_visor.dds" />
+	<TEXTURE NAME="VISOR_SPEC" PATH="Stock_BRA_G3\Helmets\Visor_Spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="69" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Suits\85_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_BRA_G3\Suits\85_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_BRA_G3\Suits\85_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_BRA_G3\Suits\85_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_BRA_G3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="70" NAME="Team RC #87 Jorge Martelli" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_BRA_G3\preview\preview87.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_BRA_G3\Body87.dds" />
+	<TEXTURE NAME="miscdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_misc_diff.dds"/>
+	<TEXTURE NAME="lightsdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_lights_diff.dds"/>
+	<TEXTURE NAME="lightsspec" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_lights_spec.dds"/>
+	<TEXTURE NAME="TIREDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_00.dds"/>
+	<TEXTURE NAME="TIRESPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_00.dds"/>
+    <TEXTURE NAME="TIREBLURDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_01.dds"/>
+	<TEXTURE NAME="TIREBLURSPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_01.dds"/>
+    <TEXTURE NAME="TIRENORM" PATH="Stock_BRA_G3\tyres\tire_pirelli_norm_00.dds"/>
+	</LIVERY_OVERRIDE>
+	
+	<HELMET_OVERRIDE LIVERY="70" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Helmets\87_helmet.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_BRA_G3\Helmets\87_visor.dds" />
+	<TEXTURE NAME="VISOR_SPEC" PATH="Stock_BRA_G3\Helmets\Visor_Spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="70" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Suits\87_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_BRA_G3\Suits\87_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_BRA_G3\Suits\87_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_BRA_G3\Suits\87_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_BRA_G3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="71" NAME="Cavaleiro e Pole #90 Alex Seid" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_BRA_G3\preview\preview89.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_BRA_G3\Body89.dds" />
+	<TEXTURE NAME="miscdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_misc_diff.dds"/>
+	<TEXTURE NAME="lightsdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_lights_diff.dds"/>
+	<TEXTURE NAME="lightsspec" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_lights_spec.dds"/>
+	<TEXTURE NAME="TIREDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_00.dds"/>
+	<TEXTURE NAME="TIRESPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_00.dds"/>
+    <TEXTURE NAME="TIREBLURDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_01.dds"/>
+	<TEXTURE NAME="TIREBLURSPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_01.dds"/>
+    <TEXTURE NAME="TIRENORM" PATH="Stock_BRA_G3\tyres\tire_pirelli_norm_00.dds"/>
+	</LIVERY_OVERRIDE>
+	
+	<HELMET_OVERRIDE LIVERY="71" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Helmets\89_helmet.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_BRA_G3\Helmets\89_visor.dds" />
+	<TEXTURE NAME="VISOR_SPEC" PATH="Stock_BRA_G3\Helmets\Visor_Spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="71" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Suits\89_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_BRA_G3\Suits\89_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_BRA_G3\Suits\89_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_BRA_G3\Suits\89_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_BRA_G3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="72" NAME="Cavaleiro e Pole #90 Ricardo Maurício" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_BRA_G3\preview\preview90.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_BRA_G3\Body90.dds" />
+	<TEXTURE NAME="miscdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_misc_diff.dds"/>
+	<TEXTURE NAME="lightsdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_lights_diff.dds"/>
+	<TEXTURE NAME="lightsspec" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_lights_spec.dds"/>
+	<TEXTURE NAME="TIREDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_00.dds"/>
+	<TEXTURE NAME="TIRESPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_00.dds"/>
+    <TEXTURE NAME="TIREBLURDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_01.dds"/>
+	<TEXTURE NAME="TIREBLURSPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_01.dds"/>
+    <TEXTURE NAME="TIRENORM" PATH="Stock_BRA_G3\tyres\tire_pirelli_norm_00.dds"/>
+	</LIVERY_OVERRIDE>
+	
+	<HELMET_OVERRIDE LIVERY="72" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Helmets\90_helmet.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_BRA_G3\Helmets\90_visor.dds" />
+	<TEXTURE NAME="VISOR_SPEC" PATH="Stock_BRA_G3\Helmets\Visor_Spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="72" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Suits\90_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_BRA_G3\Suits\90_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_BRA_G3\Suits\90_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_BRA_G3\Suits\90_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_BRA_G3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="73" NAME="SG28 Racing #97 Bruna Tomaselli" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_BRA_G3\preview\preview97.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_BRA_G3\Body97.dds" />
+	<TEXTURE NAME="miscdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_misc_Ford_diff.dds"/>
+	<TEXTURE NAME="lightsdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_Ford_lights_diff.dds"/>
+	<TEXTURE NAME="lightsspec" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_Ford_lights_spec.dds"/>
+	<TEXTURE NAME="TIREDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_00.dds"/>
+	<TEXTURE NAME="TIRESPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_00.dds"/>
+    <TEXTURE NAME="TIREBLURDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_01.dds"/>
+	<TEXTURE NAME="TIREBLURSPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_01.dds"/>
+    <TEXTURE NAME="TIRENORM" PATH="Stock_BRA_G3\tyres\tire_pirelli_norm_00.dds"/>
+	</LIVERY_OVERRIDE>
+	
+	<HELMET_OVERRIDE LIVERY="73" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Helmets\97_helmet.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_BRA_G3\Helmets\97_visor.dds" />
+	<TEXTURE NAME="VISOR_SPEC" PATH="Stock_BRA_G3\Helmets\Visor_Spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="73" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Suits\97_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_BRA_G3\Suits\97_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_BRA_G3\Suits\97_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_BRA_G3\Suits\97_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_BRA_G3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="74" NAME="Cavaleiro Sports #99 Galid Osman" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_BRA_G3\preview\preview99.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_BRA_G3\Body99.dds" />
+	<TEXTURE NAME="miscdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_misc_diff.dds"/>
+	<TEXTURE NAME="lightsdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_lights_diff.dds"/>
+	<TEXTURE NAME="lightsspec" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_lights_spec.dds"/>
+	<TEXTURE NAME="TIREDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_00.dds"/>
+	<TEXTURE NAME="TIRESPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_00.dds"/>
+    <TEXTURE NAME="TIREBLURDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_01.dds"/>
+	<TEXTURE NAME="TIREBLURSPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_01.dds"/>
+    <TEXTURE NAME="TIRENORM" PATH="Stock_BRA_G3\tyres\tire_pirelli_norm_00.dds"/>
+	</LIVERY_OVERRIDE>
+	
+	<HELMET_OVERRIDE LIVERY="74" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Helmets\99_helmet.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_BRA_G3\Helmets\99_visor.dds" />
+	<TEXTURE NAME="VISOR_SPEC" PATH="Stock_BRA_G3\Helmets\Visor_Spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="74" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Suits\99_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_BRA_G3\Suits\99_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_BRA_G3\Suits\99_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_BRA_G3\Suits\99_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_BRA_G3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="75" NAME="AMattheis Vogel #17 Juninho Berlanda" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_BRA_G3\preview\preview17.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_BRA_G3\Body17.dds" />
+	<TEXTURE NAME="miscdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_misc_Ford_diff.dds"/>
+	<TEXTURE NAME="lightsdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_Ford_lights_diff.dds"/>
+	<TEXTURE NAME="lightsspec" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_Ford_lights_spec.dds"/>
+	<TEXTURE NAME="TIREDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_00.dds"/>
+	<TEXTURE NAME="TIRESPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_00.dds"/>
+    <TEXTURE NAME="TIREBLURDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_01.dds"/>
+	<TEXTURE NAME="TIREBLURSPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_01.dds"/>
+    <TEXTURE NAME="TIRENORM" PATH="Stock_BRA_G3\tyres\tire_pirelli_norm_00.dds"/>
+	</LIVERY_OVERRIDE>
+	
+	<HELMET_OVERRIDE LIVERY="75" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Helmets\17_helmet.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_BRA_G3\Helmets\17_visor.dds" />
+	<TEXTURE NAME="VISOR_SPEC" PATH="Stock_BRA_G3\Helmets\Visor_Spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="75" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Suits\17_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_BRA_G3\Suits\17_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_BRA_G3\Suits\17_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_BRA_G3\Suits\17_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_BRA_G3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="76" NAME="Full Time #91 Rubens Barrichelo" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_BRA_G3\preview\preview91.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_BRA_G3\Body91.dds" />
+	<TEXTURE NAME="miscdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_misc_Ford_diff.dds"/>
+	<TEXTURE NAME="lightsdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_Ford_lights_diff.dds"/>
+	<TEXTURE NAME="lightsspec" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_Ford_lights_spec.dds"/>
+	<TEXTURE NAME="TIREDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_00.dds"/>
+	<TEXTURE NAME="TIRESPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_00.dds"/>
+    <TEXTURE NAME="TIREBLURDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_01.dds"/>
+	<TEXTURE NAME="TIREBLURSPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_01.dds"/>
+    <TEXTURE NAME="TIRENORM" PATH="Stock_BRA_G3\tyres\tire_pirelli_norm_00.dds"/>
+	</LIVERY_OVERRIDE>
+	
+	<HELMET_OVERRIDE LIVERY="76" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Helmets\91_helmet.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_BRA_G3\Helmets\91_visor.dds" />
+	<TEXTURE NAME="VISOR_SPEC" PATH="Stock_BRA_G3\Helmets\Visor_Spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="76" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Suits\91_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_BRA_G3\Suits\91_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_BRA_G3\Suits\91_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_BRA_G3\Suits\91_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_BRA_G3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="77" NAME="SG28 Racing #03 Firás Fahs" BASELIVERY="Chrome">
+    <PREVIEWIMAGE PATH="Stock_BRA_G3\preview\preview03.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_BRA_G3\Body03.dds" />
+	<TEXTURE NAME="SPEC" PATH="Stock_BRA_G3\Body03_spec.dds" />
+	<TEXTURE NAME="FRESNEL" PATH="Stock_BRA_G3\Body03_fresnel.dds" />
+	<TEXTURE NAME="miscdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_misc_diff.dds"/>
+	<TEXTURE NAME="lightsdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_lights_diff.dds"/>
+	<TEXTURE NAME="lightsspec" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_lights_spec.dds"/>
+	<TEXTURE NAME="TIREDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_00.dds"/>
+	<TEXTURE NAME="TIRESPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_00.dds"/>
+    <TEXTURE NAME="TIREBLURDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_01.dds"/>
+	<TEXTURE NAME="TIREBLURSPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_01.dds"/>
+    <TEXTURE NAME="TIRENORM" PATH="Stock_BRA_G3\tyres\tire_pirelli_norm_00.dds"/>
+	</LIVERY_OVERRIDE>
+	
+	<HELMET_OVERRIDE LIVERY="77" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Helmets\03_helmet.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_BRA_G3\Helmets\03_visor.dds" />
+	<TEXTURE NAME="VISOR_SPEC" PATH="Stock_BRA_G3\Helmets\Visor_Spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="77" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Suits\03_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_BRA_G3\Suits\03_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_BRA_G3\Suits\03_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_BRA_G3\Suits\03_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_BRA_G3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="78" NAME="MY TEAM #53 Henrique Freitas" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_BRA_G3\preview\preview53.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_BRA_G3\Body53.dds" />
+	<TEXTURE NAME="miscdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_misc_Ford_diff.dds"/>
+	<TEXTURE NAME="lightsdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_Ford_lights_diff.dds"/>
+	<TEXTURE NAME="lightsspec" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_Ford_lights_spec.dds"/>
+	<TEXTURE NAME="TIREDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_00.dds"/>
+	<TEXTURE NAME="TIRESPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_00.dds"/>
+    <TEXTURE NAME="TIREBLURDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_01.dds"/>
+	<TEXTURE NAME="TIREBLURSPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_01.dds"/>
+    <TEXTURE NAME="TIRENORM" PATH="Stock_BRA_G3\tyres\tire_pirelli_norm_00.dds"/>
+	</LIVERY_OVERRIDE>
+	
+	<HELMET_OVERRIDE LIVERY="78" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Helmets\53_helmet.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_BRA_G3\Helmets\53_visor.dds" />
+	<TEXTURE NAME="VISOR_SPEC" PATH="Stock_BRA_G3\Helmets\Visor_Spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="78" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Suits\53_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_BRA_G3\Suits\53_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_BRA_G3\Suits\53_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_BRA_G3\Suits\53_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_BRA_G3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="79" NAME="Full Time Sports #84 Vinícius Canhedo" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_BRA_G3\preview\preview84.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_BRA_G3\Body84.dds" />
+	<TEXTURE NAME="miscdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_misc_Ford_diff.dds"/>
+	<TEXTURE NAME="lightsdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_Ford_lights_diff.dds"/>
+	<TEXTURE NAME="lightsspec" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_Ford_lights_spec.dds"/>
+	<TEXTURE NAME="TIREDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_00.dds"/>
+	<TEXTURE NAME="TIRESPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_00.dds"/>
+    <TEXTURE NAME="TIREBLURDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_01.dds"/>
+	<TEXTURE NAME="TIREBLURSPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_01.dds"/>
+    <TEXTURE NAME="TIRENORM" PATH="Stock_BRA_G3\tyres\tire_pirelli_norm_00.dds"/>
+	</LIVERY_OVERRIDE>
+	
+	<HELMET_OVERRIDE LIVERY="79" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Helmets\84_helmet.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_BRA_G3\Helmets\84_visor.dds" />
+	<TEXTURE NAME="VISOR_SPEC" PATH="Stock_BRA_G3\Helmets\Visor_Spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="79" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Suits\84_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_BRA_G3\Suits\84_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_BRA_G3\Suits\84_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_BRA_G3\Suits\84_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_BRA_G3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="80" NAME="MX Vogel #02 Léo Torres" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_BRA_G3\preview\preview02.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_BRA_G3\Body02.dds" />
+	<TEXTURE NAME="miscdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_misc_Ford_diff.dds"/>
+	<TEXTURE NAME="lightsdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_Ford_lights_diff.dds"/>
+	<TEXTURE NAME="lightsspec" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_Ford_lights_spec.dds"/>
+	<TEXTURE NAME="TIREDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_00.dds"/>
+	<TEXTURE NAME="TIRESPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_00.dds"/>
+    <TEXTURE NAME="TIREBLURDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_01.dds"/>
+	<TEXTURE NAME="TIREBLURSPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_01.dds"/>
+    <TEXTURE NAME="TIRENORM" PATH="Stock_BRA_G3\tyres\tire_pirelli_norm_00.dds"/>
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="80" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Helmets\02_helmet.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_BRA_G3\Helmets\02_visor.dds" />
+	<TEXTURE NAME="VISOR_SPEC" PATH="Stock_BRA_G3\Helmets\Visor_Spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="80" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Suits\02_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_BRA_G3\Suits\02_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_BRA_G3\Suits\02_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_BRA_G3\Suits\02_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_BRA_G3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="81" NAME="R.Mattheis Motorsport #04 Cayan Chianca" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_BRA_G3\preview\preview04.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_BRA_G3\Body04.dds" />
+	<TEXTURE NAME="miscdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_misc_diff.dds"/>
+	<TEXTURE NAME="lightsdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_lights_diff.dds"/>
+	<TEXTURE NAME="lightsspec" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_lights_spec.dds"/>
+	<TEXTURE NAME="TIREDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_00.dds"/>
+	<TEXTURE NAME="TIRESPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_00.dds"/>
+    <TEXTURE NAME="TIREBLURDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_01.dds"/>
+	<TEXTURE NAME="TIREBLURSPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_01.dds"/>
+    <TEXTURE NAME="TIRENORM" PATH="Stock_BRA_G3\tyres\tire_pirelli_norm_00.dds"/>
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="81" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Helmets\04_helmet.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_BRA_G3\Helmets\04_visor.dds" />
+	<TEXTURE NAME="VISOR_SPEC" PATH="Stock_BRA_G3\Helmets\Visor_Spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="81" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Suits\04_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_BRA_G3\Suits\04_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_BRA_G3\Suits\04_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_BRA_G3\Suits\04_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_BRA_G3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="82" NAME="MX Vogel #06 Lourenço Beirão" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_BRA_G3\preview\preview06.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_BRA_G3\Body06.dds" />
+	<TEXTURE NAME="miscdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_misc_Ford_diff.dds"/>
+	<TEXTURE NAME="lightsdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_Ford_lights_diff.dds"/>
+	<TEXTURE NAME="lightsspec" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_Ford_lights_spec.dds"/>
+	<TEXTURE NAME="TIREDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_00.dds"/>
+	<TEXTURE NAME="TIRESPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_00.dds"/>
+    <TEXTURE NAME="TIREBLURDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_01.dds"/>
+	<TEXTURE NAME="TIREBLURSPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_01.dds"/>
+    <TEXTURE NAME="TIRENORM" PATH="Stock_BRA_G3\tyres\tire_pirelli_norm_00.dds"/>
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="82" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Helmets\06_helmet.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_BRA_G3\Helmets\06_visor.dds" />
+	<TEXTURE NAME="VISOR_SPEC" PATH="Stock_BRA_G3\Helmets\Visor_Spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="82" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Suits\06_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_BRA_G3\Suits\06_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_BRA_G3\Suits\06_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_BRA_G3\Suits\06_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_BRA_G3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="83" NAME="MX Vogel #07 Julio Campos" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_BRA_G3\preview\preview07.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_BRA_G3\Body07.dds" />
+	<TEXTURE NAME="miscdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_misc_Ford_diff.dds"/>
+	<TEXTURE NAME="lightsdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_Ford_lights_diff.dds"/>
+	<TEXTURE NAME="lightsspec" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_Ford_lights_spec.dds"/>
+	<TEXTURE NAME="TIREDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_00.dds"/>
+	<TEXTURE NAME="TIRESPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_00.dds"/>
+    <TEXTURE NAME="TIREBLURDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_01.dds"/>
+	<TEXTURE NAME="TIREBLURSPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_01.dds"/>
+    <TEXTURE NAME="TIRENORM" PATH="Stock_BRA_G3\tyres\tire_pirelli_norm_00.dds"/>
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="83" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Helmets\07_helmet.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_BRA_G3\Helmets\07_visor.dds" />
+	<TEXTURE NAME="VISOR_SPEC" PATH="Stock_BRA_G3\Helmets\Visor_Spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="83" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Suits\90_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_BRA_G3\Suits\90_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_BRA_G3\Suits\90_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_BRA_G3\Suits\90_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_BRA_G3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="84" NAME="MX Vogel #16 Antonio Junqueira" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_BRA_G3\preview\preview16.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_BRA_G3\Body16.dds" />
+	<TEXTURE NAME="miscdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_misc_Ford_diff.dds"/>
+	<TEXTURE NAME="lightsdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_Ford_lights_diff.dds"/>
+	<TEXTURE NAME="lightsspec" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_Ford_lights_spec.dds"/>
+	<TEXTURE NAME="TIREDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_00.dds"/>
+	<TEXTURE NAME="TIRESPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_00.dds"/>
+    <TEXTURE NAME="TIREBLURDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_01.dds"/>
+	<TEXTURE NAME="TIREBLURSPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_01.dds"/>
+    <TEXTURE NAME="TIRENORM" PATH="Stock_BRA_G3\tyres\tire_pirelli_norm_00.dds"/>
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="84" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Helmets\16_helmet.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_BRA_G3\Helmets\16_visor.dds" />
+	<TEXTURE NAME="VISOR_SPEC" PATH="Stock_BRA_G3\Helmets\Visor_Spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="84" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Suits\16_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_BRA_G3\Suits\16_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_BRA_G3\Suits\16_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_BRA_G3\Suits\16_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_BRA_G3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="85" NAME="MX Vogel #19 NicK Monteiro" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_BRA_G3\preview\preview19.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_BRA_G3\Body19.dds" />
+	<TEXTURE NAME="miscdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_misc_Ford_diff.dds"/>
+	<TEXTURE NAME="lightsdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_Ford_lights_diff.dds"/>
+	<TEXTURE NAME="lightsspec" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_Ford_lights_spec.dds"/>
+	<TEXTURE NAME="TIREDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_00.dds"/>
+	<TEXTURE NAME="TIRESPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_00.dds"/>
+    <TEXTURE NAME="TIREBLURDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_01.dds"/>
+	<TEXTURE NAME="TIREBLURSPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_01.dds"/>
+    <TEXTURE NAME="TIRENORM" PATH="Stock_BRA_G3\tyres\tire_pirelli_norm_00.dds"/>
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="85" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Helmets\19_helmet.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_BRA_G3\Helmets\19_visor.dds" />
+	<TEXTURE NAME="VISOR_SPEC" PATH="Stock_BRA_G3\Helmets\Visor_Spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="85" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Suits\19_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_BRA_G3\Suits\19_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_BRA_G3\Suits\19_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_BRA_G3\Suits\19_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_BRA_G3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="86" NAME="Team RC #20 Adalberto Baptista" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_BRA_G3\preview\preview20.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_BRA_G3\Body20.dds" />
+	<TEXTURE NAME="miscdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_misc_diff.dds"/>
+	<TEXTURE NAME="lightsdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_lights_diff.dds"/>
+	<TEXTURE NAME="lightsspec" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_lights_spec.dds"/>
+	<TEXTURE NAME="TIREDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_00.dds"/>
+	<TEXTURE NAME="TIRESPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_00.dds"/>
+    <TEXTURE NAME="TIREBLURDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_01.dds"/>
+	<TEXTURE NAME="TIREBLURSPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_01.dds"/>
+    <TEXTURE NAME="TIRENORM" PATH="Stock_BRA_G3\tyres\tire_pirelli_norm_00.dds"/>
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="86" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Helmets\20_helmet.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_BRA_G3\Helmets\20_visor.dds" />
+	<TEXTURE NAME="VISOR_SPEC" PATH="Stock_BRA_G3\Helmets\Visor_Spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="86" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Suits\20_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_BRA_G3\Suits\20_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_BRA_G3\Suits\20_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_BRA_G3\Suits\20_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_BRA_G3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="87" NAME="R.Mattheis Motorsport #54 Brendon Zonta" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_BRA_G3\preview\preview54.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_BRA_G3\Body54.dds" />
+	<TEXTURE NAME="miscdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_misc_diff.dds"/>
+	<TEXTURE NAME="lightsdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_lights_diff.dds"/>
+	<TEXTURE NAME="lightsspec" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_lights_spec.dds"/>
+	<TEXTURE NAME="TIREDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_00.dds"/>
+	<TEXTURE NAME="TIRESPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_00.dds"/>
+    <TEXTURE NAME="TIREBLURDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_01.dds"/>
+	<TEXTURE NAME="TIREBLURSPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_01.dds"/>
+    <TEXTURE NAME="TIRENORM" PATH="Stock_BRA_G3\tyres\tire_pirelli_norm_00.dds"/>
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="87" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Helmets\54_helmet.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_BRA_G3\Helmets\54_visor.dds" />
+	<TEXTURE NAME="VISOR_SPEC" PATH="Stock_BRA_G3\Helmets\Visor_Spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="87" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Suits\54_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_BRA_G3\Suits\54_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_BRA_G3\Suits\54_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_BRA_G3\Suits\54_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_BRA_G3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="88" NAME="R.Mattheis Motorsport #56 Gabryel Romano" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_BRA_G3\preview\preview56.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_BRA_G3\Body56.dds" />
+	<TEXTURE NAME="miscdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_misc_diff.dds"/>
+	<TEXTURE NAME="lightsdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_lights_diff.dds"/>
+	<TEXTURE NAME="lightsspec" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_lights_spec.dds"/>
+	<TEXTURE NAME="TIREDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_00.dds"/>
+	<TEXTURE NAME="TIRESPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_00.dds"/>
+    <TEXTURE NAME="TIREBLURDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_01.dds"/>
+	<TEXTURE NAME="TIREBLURSPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_01.dds"/>
+    <TEXTURE NAME="TIRENORM" PATH="Stock_BRA_G3\tyres\tire_pirelli_norm_00.dds"/>
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="88" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Helmets\56_helmet.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_BRA_G3\Helmets\56_visor.dds" />
+	<TEXTURE NAME="VISOR_SPEC" PATH="Stock_BRA_G3\Helmets\Visor_Spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="88" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Suits\56_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_BRA_G3\Suits\56_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_BRA_G3\Suits\56_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_BRA_G3\Suits\56_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_BRA_G3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="89" NAME="R.Mattheis Motorsport #71 Pietro Rimbano" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_BRA_G3\preview\preview71.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_BRA_G3\Body71.dds" />
+	<TEXTURE NAME="miscdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_misc_diff.dds"/>
+	<TEXTURE NAME="lightsdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_lights_diff.dds"/>
+	<TEXTURE NAME="lightsspec" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_lights_spec.dds"/>
+	<TEXTURE NAME="TIREDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_00.dds"/>
+	<TEXTURE NAME="TIRESPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_00.dds"/>
+    <TEXTURE NAME="TIREBLURDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_01.dds"/>
+	<TEXTURE NAME="TIREBLURSPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_01.dds"/>
+    <TEXTURE NAME="TIRENORM" PATH="Stock_BRA_G3\tyres\tire_pirelli_norm_00.dds"/>
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="89" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Helmets\71_helmet.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_BRA_G3\Helmets\71_visor.dds" />
+	<TEXTURE NAME="VISOR_SPEC" PATH="Stock_BRA_G3\Helmets\Visor_Spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="89" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Suits\71_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_BRA_G3\Suits\71_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_BRA_G3\Suits\71_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_BRA_G3\Suits\71_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_BRA_G3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="90" NAME="Full Time Sports #95 Alceu Feldmann Neto" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_BRA_G3\preview\preview95.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_BRA_G3\Body95.dds" />
+	<TEXTURE NAME="miscdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_misc_Ford_diff.dds"/>
+	<TEXTURE NAME="lightsdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_Ford_lights_diff.dds"/>
+	<TEXTURE NAME="lightsspec" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_Ford_lights_spec.dds"/>
+	<TEXTURE NAME="TIREDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_00.dds"/>
+	<TEXTURE NAME="TIRESPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_00.dds"/>
+    <TEXTURE NAME="TIREBLURDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_01.dds"/>
+	<TEXTURE NAME="TIREBLURSPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_01.dds"/>
+    <TEXTURE NAME="TIRENORM" PATH="Stock_BRA_G3\tyres\tire_pirelli_norm_00.dds"/>
+	</LIVERY_OVERRIDE>
+	
+	<HELMET_OVERRIDE LIVERY="90" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Helmets\95_helmet.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_BRA_G3\Helmets\95_visor.dds" />
+	<TEXTURE NAME="VISOR_SPEC" PATH="Stock_BRA_G3\Helmets\Visor_Spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="90" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Suits\95_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_BRA_G3\Suits\95_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_BRA_G3\Suits\95_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_BRA_G3\Suits\95_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_BRA_G3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="XX" NAME="MX Vogel #66 RafaBin" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="Stock_BRA_G3\preview\preview66.dds" />
+    <TEXTURE NAME="BODY" PATH="Stock_BRA_G3\Body66.dds" />
+	<TEXTURE NAME="miscdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_misc_diff.dds"/>
+	<TEXTURE NAME="lightsdiff" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_lights_diff.dds"/>
+	<TEXTURE NAME="lightsspec" PATH="Stock_BRA_G3\Wheels\stock_usa_gen3_lights_spec.dds"/>
+	<TEXTURE NAME="TIREDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_00.dds"/>
+	<TEXTURE NAME="TIRESPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_00.dds"/>
+    <TEXTURE NAME="TIREBLURDIFF" PATH="Stock_BRA_G3\tyres\tire_pirelli_diff_01.dds"/>
+	<TEXTURE NAME="TIREBLURSPEC" PATH="Stock_BRA_G3\tyres\tire_pirelli_spec_01.dds"/>
+    <TEXTURE NAME="TIRENORM" PATH="Stock_BRA_G3\tyres\tire_pirelli_norm_00.dds"/>
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="XX" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Helmets\66_helmet.dds" />
+	<TEXTURE NAME="VISOR_DIFF" PATH="Stock_BRA_G3\Helmets\66_visor.dds" />
+	<TEXTURE NAME="VISOR_SPEC" PATH="Stock_BRA_G3\Helmets\Visor_Spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="XX" BASEOUTFIT="DEFAULT">
+    <TEXTURE NAME="BODY_DIFF" PATH="Stock_BRA_G3\Suits\66_body.dds" />
+    <TEXTURE NAME="ARMS_DIFF" PATH="Stock_BRA_G3\Suits\66_arms.dds" />
+    <TEXTURE NAME="GLOVES_DIFF" PATH="Stock_BRA_G3\Suits\66_gloves.dds" />
+    <TEXTURE NAME="LEGS_DIFF" PATH="Stock_BRA_G3\Suits\66_legs.dds" />
+    <TEXTURE NAME="SEATBELTS_DIFF" PATH="Stock_BRA_G3\Suits\red_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	
+</USER_OVERRIDES>
