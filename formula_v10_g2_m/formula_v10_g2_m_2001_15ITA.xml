@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--F1 2001 Round 15 (Italy) Michelin version XML File-->
+<USER_OVERRIDES>
+
+	<LIVERY_OVERRIDE LIVERY="51" NAME="2001 Williams #5 - R. Schumacher" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_2001\preview\5_Williams.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_2001\5_Williams.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_2001\Rims\Williams.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_2001\Rims\Williams_Blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_2001\Rims\low.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_2001\Rims\low_blur.dds" />
+	<TEXTURE NAME="TIREDIFF" PATH="F1_Season_2001\Tires\5_Williams.dds" />
+	<TEXTURE NAME="TIREBLURDIFF" PATH="F1_Season_2001\Tires\5_Williams_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="51" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2001\Helmet\RSchumacher.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_2001\Helmet\Williams.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_2001\Helmet\helmet_spec.dds" />
+	<TEXTURE NAME="VISOR_SPEC" PATH="F1_Season_2001\Helmet\visor_spec_black.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="51" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2001\Driver\WilliamsDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_2001\Driver\WilliamsArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_2001\Driver\WilliamsGloves.dds" />
+		<TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_2001\Driver\Gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_2001\Driver\WilliamsLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_2001\Harness\blue.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="52" NAME="2001 Williams #6 - J-P. Montoya" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_2001\preview\6_Williams.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_2001\6_Williams.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_2001\Rims\Williams.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_2001\Rims\Williams_Blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_2001\Rims\low.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_2001\Rims\low_blur.dds" />
+	<TEXTURE NAME="TIREDIFF" PATH="F1_Season_2001\Tires\6_Williams.dds" />
+	<TEXTURE NAME="TIREBLURDIFF" PATH="F1_Season_2001\Tires\6_Williams_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="52" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2001\Helmet\Montoya.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_2001\Helmet\Williams.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_2001\Helmet\helmet_spec.dds" />
+	<TEXTURE NAME="VISOR_SPEC" PATH="F1_Season_2001\Helmet\visor_spec_black.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="52" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2001\Driver\WilliamsDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_2001\Driver\WilliamsArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_2001\Driver\WilliamsGloves.dds" />
+		<TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_2001\Driver\Gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_2001\Driver\WilliamsLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_2001\Harness\blue.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="53" NAME="2001 Benetton #7 - G. Fisichella" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_2001\preview\7_Benetton_Late.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_2001\7_Benetton_Late.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_2001\Rims\Benetton.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_2001\Rims\Benetton_Blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_2001\Rims\low.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_2001\Rims\low_blur.dds" />
+	<TEXTURE NAME="TIREDIFF" PATH="F1_Season_2001\Tires\7_Benetton.dds" />
+	<TEXTURE NAME="TIREBLURDIFF" PATH="F1_Season_2001\Tires\7_Benetton_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="53" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2001\Helmet\Fisichella.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_2001\Helmet\Benetton.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_2001\Helmet\helmet_spec.dds" />
+	<TEXTURE NAME="VISOR_SPEC" PATH="F1_Season_2001\Helmet\visor_spec_black.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="53" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2001\Driver\BenettonDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_2001\Driver\BenettonArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_2001\Driver\BenettonGloves.dds" />
+		<TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_2001\Driver\Gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_2001\Driver\BenettonLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_2001\Harness\blue.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="54" NAME="2001 Benetton #8 - J. Button" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_2001\preview\8_Benetton_Late.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_2001\8_Benetton_Late.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_2001\Rims\Benetton.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_2001\Rims\Benetton_Blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_2001\Rims\low.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_2001\Rims\low_blur.dds" />
+	<TEXTURE NAME="TIREDIFF" PATH="F1_Season_2001\Tires\8_Benetton.dds" />
+	<TEXTURE NAME="TIREBLURDIFF" PATH="F1_Season_2001\Tires\8_Benetton_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="54" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2001\Helmet\Button.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_2001\Helmet\Benetton.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_2001\Helmet\helmet_spec.dds" />
+	<TEXTURE NAME="VISOR_SPEC" PATH="F1_Season_2001\Helmet\visor_spec_black.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="54" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2001\Driver\BenettonDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_2001\Driver\BenettonArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_2001\Driver\BenettonGloves.dds" />
+		<TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_2001\Driver\Gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_2001\Driver\BenettonLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_2001\Harness\blue.dds" />
+    </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="55" NAME="2001 Jaguar #18 - E. Irvine" BASELIVERY="GreenMetallic">
+	<PREVIEWIMAGE PATH="F1_Season_2001\preview\18_Jaguar_Italy.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_2001\18_Jaguar_Italy.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_2001\Rims\Jaguar.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_2001\Rims\Jaguar_Blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_2001\Rims\low.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_2001\Rims\low_blur.dds" />
+	<TEXTURE NAME="TIREDIFF" PATH="F1_Season_2001\Tires\18_Jaguar.dds" />
+	<TEXTURE NAME="TIREBLURDIFF" PATH="F1_Season_2001\Tires\18_Jaguar_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="55" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2001\Helmet\Irvine.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_2001\Helmet\Jaguar.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_2001\Helmet\helmet_spec.dds" />
+	<TEXTURE NAME="VISOR_SPEC" PATH="F1_Season_2001\Helmet\visor_spec_black.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="55" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2001\Driver\JaguarDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_2001\Driver\JaguarArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_2001\Driver\JaguarGloves.dds" />
+		<TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_2001\Driver\Gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_2001\Driver\JaguarLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_2001\Harness\black.dds" />
+    </OUTFIT_OVERRIDE>	
+	
+	<LIVERY_OVERRIDE LIVERY="56" NAME="2001 Jaguar #19 - P. de la Rosa" BASELIVERY="GreenMetallic">
+	<PREVIEWIMAGE PATH="F1_Season_2001\preview\19_Jaguar_Italy.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_2001\19_Jaguar_Italy.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_2001\Rims\Jaguar.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_2001\Rims\Jaguar_Blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_2001\Rims\low.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_2001\Rims\low_blur.dds" />
+	<TEXTURE NAME="TIREDIFF" PATH="F1_Season_2001\Tires\19_Jaguar.dds" />
+	<TEXTURE NAME="TIREBLURDIFF" PATH="F1_Season_2001\Tires\19_Jaguar_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="56" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2001\Helmet\delaRosa.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_2001\Helmet\Jaguar.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_2001\Helmet\helmet_spec.dds" />
+	<TEXTURE NAME="VISOR_SPEC" PATH="F1_Season_2001\Helmet\visor_spec_black.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="56" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2001\Driver\JaguarDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_2001\Driver\JaguarArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_2001\Driver\JaguarGloves.dds" />
+		<TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_2001\Driver\Gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_2001\Driver\JaguarLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_2001\Harness\black.dds" />
+    </OUTFIT_OVERRIDE>	
+
+	<LIVERY_OVERRIDE LIVERY="57" NAME="2001 Minardi #20 - A. Yoong" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_2001\preview\20_Minardi_Yoong.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_2001\20_Minardi_Late.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_2001\Rims\Minardi.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_2001\Rims\Minardi_Blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_2001\Rims\low.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_2001\Rims\low_blur.dds" />
+	<TEXTURE NAME="TIREDIFF" PATH="F1_Season_2001\Tires\20_Minardi.dds" />
+	<TEXTURE NAME="TIREBLURDIFF" PATH="F1_Season_2001\Tires\20_Minardi_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="57" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2001\Helmet\Yoong.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_2001\Helmet\Minardi.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_2001\Helmet\helmet_spec.dds" />
+	<TEXTURE NAME="VISOR_SPEC" PATH="F1_Season_2001\Helmet\visor_spec_black.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="57" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2001\Driver\MinardiDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_2001\Driver\MinardiArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_2001\Driver\MinardiGloves.dds" />
+		<TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_2001\Driver\Gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_2001\Driver\MinardiLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_2001\Harness\red.dds" />
+    </OUTFIT_OVERRIDE>		
+
+	<LIVERY_OVERRIDE LIVERY="58" NAME="2001 Minardi #21 - F. Alonso" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_2001\preview\21_Minardi_Late.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_2001\21_Minardi_Late.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_2001\Rims\Minardi.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_2001\Rims\Minardi_Blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_2001\Rims\low.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_2001\Rims\low_blur.dds" />
+	<TEXTURE NAME="TIREDIFF" PATH="F1_Season_2001\Tires\21_Minardi.dds" />
+	<TEXTURE NAME="TIREBLURDIFF" PATH="F1_Season_2001\Tires\21_Minardi_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="58" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2001\Helmet\Alonso.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_2001\Helmet\Minardi.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_2001\Helmet\helmet_spec.dds" />
+	<TEXTURE NAME="VISOR_SPEC" PATH="F1_Season_2001\Helmet\visor_spec_black.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="58" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2001\Driver\MinardiDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_2001\Driver\MinardiArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_2001\Driver\MinardiGloves.dds" />
+		<TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_2001\Driver\Gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_2001\Driver\MinardiLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_2001\Harness\red.dds" />
+    </OUTFIT_OVERRIDE>	
+
+	<LIVERY_OVERRIDE LIVERY="59" NAME="2001 Prost #22 - H-H. Frentzen" BASELIVERY="BlueMetallic">
+	<PREVIEWIMAGE PATH="F1_Season_2001\preview\22_Prost_Frentzen.dds"/>
+	<TEXTURE NAME="BODY" PATH="F1_Season_2001\22_Prost_Frentzen.dds"/>
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_2001\Rims\Prost.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_2001\Rims\Prost_Blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_2001\Rims\low.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_2001\Rims\low_blur.dds" />
+	<TEXTURE NAME="TIREDIFF" PATH="F1_Season_2001\Tires\22_Prost_Frentzen.dds" />
+	<TEXTURE NAME="TIREBLURDIFF" PATH="F1_Season_2001\Tires\22_Prost_Frentzen_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="59" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2001\Helmet\Frentzen_Prost.dds"/>
+	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_2001\Helmet\Prost.dds"/>
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_2001\Helmet\helmet_spec.dds" />
+	<TEXTURE NAME="VISOR_SPEC" PATH="F1_Season_2001\Helmet\visor_spec_black.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="59" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2001\Driver\ProstDriver.dds"/>
+		<TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_2001\Driver\ProstArms.dds"/>
+		<TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_2001\Driver\ProstGloves.dds"/>
+		<TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_2001\Driver\Gloves_spec.dds" />
+		<TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_2001\Driver\ProstLegs.dds"/>
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_2001\Harness\red.dds"/>
+	</OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="60" NAME="2001 Prost #23 - T. Enge" BASELIVERY="BlueMetallic">
+	<PREVIEWIMAGE PATH="F1_Season_2001\preview\23_Prost_Enge.dds"/>
+	<TEXTURE NAME="BODY" PATH="F1_Season_2001\23_Prost_Enge.dds"/>
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_2001\Rims\Prost.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_2001\Rims\Prost_Blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_2001\Rims\low.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_2001\Rims\low_blur.dds" />
+	<TEXTURE NAME="TIREDIFF" PATH="F1_Season_2001\Tires\23_Prost_Enge.dds" />
+	<TEXTURE NAME="TIREBLURDIFF" PATH="F1_Season_2001\Tires\23_Prost_Enge_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="60" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2001\Helmet\Enge.dds"/>
+	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_2001\Helmet\Prost.dds"/>
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_2001\Helmet\helmet_spec.dds" />
+	<TEXTURE NAME="VISOR_SPEC" PATH="F1_Season_2001\Helmet\visor_spec_black.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="60" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2001\Driver\ProstDriver.dds"/>
+		<TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_2001\Driver\ProstArms.dds"/>
+		<TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_2001\Driver\ProstGloves.dds"/>
+		<TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_2001\Driver\Gloves_spec.dds" />
+		<TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_2001\Driver\ProstLegs.dds"/>
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_2001\Harness\red.dds"/>
+    </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="61" NAME="2001 Toyota #25 - A. McNish" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_2001\preview\25_Toyota.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_2001\25_Toyota.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_2001\Rims\Toyota.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_2001\Rims\Toyota_Blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_2001\Rims\low.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_2001\Rims\low_blur.dds" />
+	<TEXTURE NAME="TIREDIFF" PATH="F1_Season_2001\Tires\25_Toyota.dds" />
+	<TEXTURE NAME="TIREBLURDIFF" PATH="F1_Season_2001\Tires\25_Toyota_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="61" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2001\Helmet\McNish.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_2001\Helmet\Toyota.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_2001\Helmet\helmet_spec.dds" />
+	<TEXTURE NAME="VISOR_SPEC" PATH="F1_Season_2001\Helmet\visor_spec_black.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="61" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2001\Driver\ToyotaDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_2001\Driver\ToyotaArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_2001\Driver\ToyotaGloves.dds" />
+		<TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_2001\Driver\Gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_2001\Driver\ToyotaLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_2001\Harness\red.dds" />
+    </OUTFIT_OVERRIDE>
+
+</USER_OVERRIDES>

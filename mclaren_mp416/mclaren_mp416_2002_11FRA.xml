@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--F1 2002 McLaren Round 11 (France) XML File-->
+<USER_OVERRIDES>
+	
+	<LIVERY_OVERRIDE LIVERY="51" NAME="2002 McLaren #3 - D. Coulthard" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_2002\Preview\3_McLaren_France.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_2002\3_McLaren_France.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_2002\Rims\McLaren.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_2002\Rims\McLaren_Blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_2002\Rims\high.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_2002\Rims\high_blur.dds" />
+	<TEXTURE NAME="TIREDIFF" PATH="F1_Season_2002\Tires\3_McLaren.dds" />
+	<TEXTURE NAME="TIREBLURDIFF" PATH="F1_Season_2002\Tires\3_McLaren_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="51" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2002\Helmet\Coulthard_NT.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_2002\Helmet\McLaren.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_2002\Helmets\helmet_spec.dds" />
+	<TEXTURE NAME="VISOR_SPEC" PATH="F1_Season_2002\Helmets\visor_spec_black.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="51" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2002\Driver\McLarenDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_2002\Driver\McLarenArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_2002\Driver\McLarenGloves_Coulthard.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_2002\Driver\Gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_2002\Driver\McLarenLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_2002\Harness\black.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="52" NAME="2002 McLaren #4 - K. Räikkönen" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_2002\Preview\4_McLaren_France.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_2002\4_McLaren_France.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_2002\Rims\McLaren.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_2002\Rims\McLaren_Blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_2002\Rims\high.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_2002\Rims\high_blur.dds" />
+	<TEXTURE NAME="TIREDIFF" PATH="F1_Season_2002\Tires\4_McLaren.dds" />
+	<TEXTURE NAME="TIREBLURDIFF" PATH="F1_Season_2002\Tires\4_McLaren_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="52" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2002\Helmet\Raikkonen_NT.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_2002\Helmet\McLaren.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_2002\Helmets\helmet_spec.dds" />
+	<TEXTURE NAME="VISOR_SPEC" PATH="F1_Season_2002\Helmets\visor_spec_blue.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="52" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2002\Driver\McLarenDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_2002\Driver\McLarenArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_2002\Driver\McLarenGloves_Raikkonen.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_2002\Driver\Gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_2002\Driver\McLarenLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_2002\Harness\black.dds" />
+    </OUTFIT_OVERRIDE>
+
+</USER_OVERRIDES>

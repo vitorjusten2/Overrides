@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--F1 1998 McLaren Round 08 (France) XML File-->
+<USER_OVERRIDES>
+	
+	<LIVERY_OVERRIDE LIVERY="51" NAME="1998 McLaren #7 - D. Coulthard" BASELIVERY="SilverMetallic">
+	<PREVIEWIMAGE PATH="F1_Season_1998\Preview\7_McLaren_France.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_1998\7_McLaren_France.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_1998\Rims\McLaren.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_1998\Rims\McLaren_Blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_1998\Rims\high.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_1998\Rims\high_blur.dds" />
+	<TEXTURE NAME="TIREDIFF" PATH="F1_Season_1998\Tires\7_McLaren.dds" />
+	<TEXTURE NAME="TIREBLURDIFF" PATH="F1_Season_1998\Tires\7_McLaren_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="51" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1998\Helmet\Coulthard_NT.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1998\Helmet\McLaren.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1998\Helmets\helmet_spec.dds" />
+	<TEXTURE NAME="VISOR_SPEC" PATH="F1_Season_1998\Helmets\visor_spec_black.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="51" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1998\Driver\McLarenDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1998\Driver\McLarenArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1998\Driver\McLarenGloves_Coulthard.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_1998\Driver\Gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1998\Driver\McLarenLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1998\Harness\black.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="52" NAME="1998 McLaren #8 - M. Hakkinen" BASELIVERY="SilverMetallic">
+	<PREVIEWIMAGE PATH="F1_Season_1998\Preview\8_McLaren_France.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_1998\8_McLaren_France.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_1998\Rims\McLaren.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_1998\Rims\McLaren_Blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_1998\Rims\high.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_1998\Rims\high_blur.dds" />
+	<TEXTURE NAME="TIREDIFF" PATH="F1_Season_1998\Tires\8_McLaren.dds" />
+	<TEXTURE NAME="TIREBLURDIFF" PATH="F1_Season_1998\Tires\8_McLaren_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="52" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1998\Helmet\Hakkinen_NT.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1998\Helmet\McLaren.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1998\Helmets\helmet_spec.dds" />
+	<TEXTURE NAME="VISOR_SPEC" PATH="F1_Season_1998\Helmets\visor_spec_black.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="52" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1998\Driver\McLarenDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1998\Driver\McLarenArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1998\Driver\McLarenGloves_Hakkinen.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_1998\Driver\Gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1998\Driver\McLarenLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1998\Harness\black.dds" />
+    </OUTFIT_OVERRIDE>
+
+</USER_OVERRIDES>

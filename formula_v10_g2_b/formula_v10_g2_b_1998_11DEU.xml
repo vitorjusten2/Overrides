@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--F1 1998 Round 11 (Germany) Bridgestone version XML File-->
+<USER_OVERRIDES>
+
+	<LIVERY_OVERRIDE LIVERY="51" NAME="1998 Benetton #5 - G. Fisichella" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_1998\preview\5_Benetton_NT.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_1998\5_Benetton_NT.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_1998\Rims\Benetton.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_1998\Rims\Benetton_Blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_1998\Rims\low.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_1998\Rims\low_blur.dds" />
+	<TEXTURE NAME="TIREDIFF" PATH="F1_Season_1998\Tires\5_Benetton.dds" />
+	<TEXTURE NAME="TIREBLURDIFF" PATH="F1_Season_1998\Tires\5_Benetton_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="51" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1998\Helmet\Fisichella_NT.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1998\Helmet\Benetton.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1998\Helmet\helmet_spec.dds" />
+	<TEXTURE NAME="VISOR_SPEC" PATH="F1_Season_1998\Helmet\visor_spec_black.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="51" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1998\Driver\BenettonDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1998\Driver\BenettonArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1998\Driver\BenettonGloves.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_1998\Driver\Gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1998\Driver\BenettonLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1998\Harness\red.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="52" NAME="1998 Benetton #6 - A. Wurz" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_1998\preview\6_Benetton_NT.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_1998\6_Benetton_NT.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_1998\Rims\Benetton.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_1998\Rims\Benetton_Blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_1998\Rims\low.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_1998\Rims\low_blur.dds" />
+	<TEXTURE NAME="TIREDIFF" PATH="F1_Season_1998\Tires\6_Benetton.dds" />
+	<TEXTURE NAME="TIREBLURDIFF" PATH="F1_Season_1998\Tires\6_Benetton_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="52" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1998\Helmet\Wurz_NT.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1998\Helmet\Benetton.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1998\Helmet\helmet_spec.dds" />
+	<TEXTURE NAME="VISOR_SPEC" PATH="F1_Season_1998\Helmet\visor_spec_black.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="52" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1998\Driver\BenettonDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1998\Driver\BenettonArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1998\Driver\BenettonGloves.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_1998\Driver\Gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1998\Driver\BenettonLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1998\Harness\red.dds" />
+    </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="53" NAME="1998 Prost #11 - O. Panis" BASELIVERY="BlueMetallic">
+	<PREVIEWIMAGE PATH="F1_Season_1998\preview\11_Prost_NT.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_1998\11_Prost_NT.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_1998\Rims\Prost.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_1998\Rims\Prost_Blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_1998\Rims\low.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_1998\Rims\low_blur.dds" />
+	<TEXTURE NAME="TIREDIFF" PATH="F1_Season_1998\Tires\11_Prost.dds" />
+	<TEXTURE NAME="TIREBLURDIFF" PATH="F1_Season_1998\Tires\11_Prost_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="53" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1998\Helmet\Panis.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1998\Helmet\Prost_NT.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1998\Helmet\helmet_spec.dds" />
+	<TEXTURE NAME="VISOR_SPEC" PATH="F1_Season_1998\Helmet\visor_spec_black.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="53" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1998\Driver\ProstDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1998\Driver\ProstArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1998\Driver\ProstGloves.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_1998\Driver\Gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1998\Driver\ProstLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1998\Harness\red.dds" />
+    </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="54" NAME="1998 Prost #12 - J. Trulli" BASELIVERY="BlueMetallic">
+	<PREVIEWIMAGE PATH="F1_Season_1998\preview\12_Prost_NT.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_1998\12_Prost_NT.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_1998\Rims\Prost.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_1998\Rims\Prost_Blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_1998\Rims\low.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_1998\Rims\low_blur.dds" />
+	<TEXTURE NAME="TIREDIFF" PATH="F1_Season_1998\Tires\12_Prost.dds" />
+	<TEXTURE NAME="TIREBLURDIFF" PATH="F1_Season_1998\Tires\12_Prost_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="54" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1998\Helmet\Trulli.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1998\Helmet\Prost_NT.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1998\Helmet\helmet_spec.dds" />
+	<TEXTURE NAME="VISOR_SPEC" PATH="F1_Season_1998\Helmet\visor_spec_Trulli.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="54" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1998\Driver\ProstDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1998\Driver\ProstArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1998\Driver\ProstGloves.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_1998\Driver\Gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1998\Driver\ProstLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1998\Harness\red.dds" />
+    </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="55" NAME="1998 Arrows #16 - P. Diniz" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_1998\preview\16_Arrows.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_1998\16_Arrows.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_1998\Rims\Arrows.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_1998\Rims\Arrows_Blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_1998\Rims\low.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_1998\Rims\low_blur.dds" />
+	<TEXTURE NAME="TIREDIFF" PATH="F1_Season_1998\Tires\16_Arrows.dds" />
+	<TEXTURE NAME="TIREBLURDIFF" PATH="F1_Season_1998\Tires\16_Arrows_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="55" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1998\Helmet\Diniz.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1998\Helmet\Arrows.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1998\Helmet\helmet_spec.dds" />
+	<TEXTURE NAME="VISOR_SPEC" PATH="F1_Season_1998\Helmet\visor_spec_black.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="55" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1998\Driver\ArrowsDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1998\Driver\ArrowsArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1998\Driver\ArrowsGloves.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_1998\Driver\Gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1998\Driver\ArrowsLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1998\Harness\red.dds" />
+    </OUTFIT_OVERRIDE>	
+
+	<LIVERY_OVERRIDE LIVERY="56" NAME="1998 Arrows #17 - M. Salo" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_1998\preview\17_Arrows.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_1998\17_Arrows.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_1998\Rims\Arrows.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_1998\Rims\Arrows_Blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_1998\Rims\low.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_1998\Rims\low_blur.dds" />
+	<TEXTURE NAME="TIREDIFF" PATH="F1_Season_1998\Tires\17_Arrows.dds" />
+	<TEXTURE NAME="TIREBLURDIFF" PATH="F1_Season_1998\Tires\17_Arrows_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="56" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1998\Helmet\Salo.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1998\Helmet\Arrows.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1998\Helmet\helmet_spec.dds" />
+	<TEXTURE NAME="VISOR_SPEC" PATH="F1_Season_1998\Helmet\visor_spec_black.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="56" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1998\Driver\ArrowsDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1998\Driver\ArrowsArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1998\Driver\ArrowsGloves.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_1998\Driver\Gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1998\Driver\ArrowsLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1998\Harness\red.dds" />
+    </OUTFIT_OVERRIDE>	
+
+	<LIVERY_OVERRIDE LIVERY="57" NAME="1998 Stewart #18 - R. Barrichello" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_1998\preview\18_Stewart.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_1998\18_Stewart.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_1998\Rims\Stewart.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_1998\Rims\Stewart_Blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_1998\Rims\low.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_1998\Rims\low_blur.dds" />
+	<TEXTURE NAME="TIREDIFF" PATH="F1_Season_1998\Tires\18_Stewart.dds" />
+	<TEXTURE NAME="TIREBLURDIFF" PATH="F1_Season_1998\Tires\18_Stewart_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="57" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1998\Helmet\Barrichello.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1998\Helmet\Stewart_Barrichello.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1998\Helmet\helmet_spec.dds" />
+	<TEXTURE NAME="VISOR_SPEC" PATH="F1_Season_1998\Helmet\visor_spec_Barrichello.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="57" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1998\Driver\StewartDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1998\Driver\StewartArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1998\Driver\StewartGloves.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_1998\Driver\Gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1998\Driver\StewartLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1998\Harness\red.dds" />
+    </OUTFIT_OVERRIDE>	
+	
+	<LIVERY_OVERRIDE LIVERY="58" NAME="1998 Stewart #19 - J. Verstappen" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_1998\preview\19_Stewart_Verstappen.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_1998\19_Stewart.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_1998\Rims\Stewart.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_1998\Rims\Stewart_Blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_1998\Rims\low.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_1998\Rims\low_blur.dds" />
+	<TEXTURE NAME="TIREDIFF" PATH="F1_Season_1998\Tires\19_Stewart_Verstappen.dds" />
+	<TEXTURE NAME="TIREBLURDIFF" PATH="F1_Season_1998\Tires\19_Stewart_Verstappen_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="58" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1998\Helmet\Verstappen_Stewart.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1998\Helmet\Stewart.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1998\Helmet\helmet_spec.dds" />
+	<TEXTURE NAME="VISOR_SPEC" PATH="F1_Season_1998\Helmet\visor_spec_blue.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="58" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1998\Driver\StewartDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1998\Driver\StewartArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1998\Driver\StewartGloves.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_1998\Driver\Gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1998\Driver\StewartLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1998\Harness\red.dds" />
+    </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="59" NAME="1998 Minardi #22 - S. Nakano" BASELIVERY="SilverMetallic">
+	<PREVIEWIMAGE PATH="F1_Season_1998\preview\22_Minardi.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_1998\22_Minardi.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_1998\Rims\Minardi.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_1998\Rims\Minardi_Blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_1998\Rims\low.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_1998\Rims\low_blur.dds" />
+	<TEXTURE NAME="TIREDIFF" PATH="F1_Season_1998\Tires\22_Minardi.dds" />
+	<TEXTURE NAME="TIREBLURDIFF" PATH="F1_Season_1998\Tires\22_Minardi_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="59" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1998\Helmet\Nakano.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1998\Helmet\Minardi.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1998\Helmet\helmet_spec.dds" />
+	<TEXTURE NAME="VISOR_SPEC" PATH="F1_Season_1998\Helmet\visor_spec_black.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="59" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1998\Driver\MinardiDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1998\Driver\MinardiArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1998\Driver\MinardiGloves.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_1998\Driver\Gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1998\Driver\MinardiLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1998\Harness\red.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="60" NAME="1998 Minardi #23 - E. Tuero" BASELIVERY="SilverMetallic">
+	<PREVIEWIMAGE PATH="F1_Season_1998\preview\23_Minardi.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_1998\23_Minardi.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_1998\Rims\Minardi.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_1998\Rims\Minardi_Blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_1998\Rims\low.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_1998\Rims\low_blur.dds" />
+	<TEXTURE NAME="TIREDIFF" PATH="F1_Season_1998\Tires\23_Minardi.dds" />
+	<TEXTURE NAME="TIREBLURDIFF" PATH="F1_Season_1998\Tires\23_Minardi_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="60" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1998\Helmet\Tuero.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1998\Helmet\Minardi.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1998\Helmet\helmet_spec.dds" />
+	<TEXTURE NAME="VISOR_SPEC" PATH="F1_Season_1998\Helmet\visor_spec_black.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="60" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1998\Driver\MinardiDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1998\Driver\MinardiArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1998\Driver\MinardiGloves.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_1998\Driver\Gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1998\Driver\MinardiLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1998\Harness\red.dds" />
+    </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="61" NAME="1998 Lola #24 - V. Sospiri" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="F1_Season_1998\preview\24_Lola.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_1998\24_Lola.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_1998\Rims\Lola.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_1998\Rims\Lola_Blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_1998\Rims\low.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_1998\Rims\low_blur.dds" />
+	<TEXTURE NAME="TIREDIFF" PATH="F1_Season_1998\Tires\24_Lola.dds" />
+	<TEXTURE NAME="TIREBLURDIFF" PATH="F1_Season_1998\Tires\24_Lola_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="61" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1998\Helmet\Sospiri.dds" />
+    <TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1998\Helmet\Lola.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1998\Helmet\helmet_spec.dds" />
+	<TEXTURE NAME="VISOR_SPEC" PATH="F1_Season_1998\Helmet\visor_spec_black.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="61" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1998\Driver\LolaDriver.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1998\Driver\LolaArms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1998\Driver\LolaGloves.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_1998\Driver\Gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1998\Driver\LolaLegs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1998\Harness\red.dds" />
+    </OUTFIT_OVERRIDE>
+
+</USER_OVERRIDES>

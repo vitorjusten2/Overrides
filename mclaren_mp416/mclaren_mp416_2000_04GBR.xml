@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+   	
+	<LIVERY_OVERRIDE LIVERY="51" NAME="2000 McLaren #1 - M. Häkkinen" BASELIVERY="SilverMetallic">
+	<PREVIEWIMAGE PATH="F1_Season_2000\Previews\2000_McLaren1_GBR_preview.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_2000\2000_McLaren1_GBR.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_2000\Rims\2000_McLaren_rims.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_2000\Rims\2000_McLaren_rims_blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_2000\Rims\2000_rims_lowspec.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_2000\Rims\2000_rims_lowspec_blur.dds" />
+	<TEXTURE NAME="TIREDIFF" PATH="F1_Season_2000\Tires\2000_McLaren1_tires.dds" />
+	<TEXTURE NAME="TIREBLURDIFF" PATH="F1_Season_2000\Tires\2000_McLaren1_tires_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="51" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2000\Helmets\2000_Hakkinen_NT_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_2000\Helmets\helmet_spec.dds" />
+    	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_2000\Helmets\2000_McLaren_visor.dds" />
+	<TEXTURE NAME="VISOR_SPEC" PATH="F1_Season_2000\Helmets\2000_visor_spec_black.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="51" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2000\Suits\2000_mclaren_torso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_2000\Suits\2000_mclaren_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_2000\Suits\2000_mclaren_gloves_Hakkinen.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_2000\Suits\2000_gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_2000\Suits\2000_mclaren_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_2000\Harness\Black_BOSS_harness.dds" />
+        </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="52" NAME="2000 McLaren #2 - D. Coulthard" BASELIVERY="SilverMetallic">
+	<PREVIEWIMAGE PATH="F1_Season_2000\Previews\2000_McLaren2_GBR_preview.dds" />
+	<TEXTURE NAME="BODY" PATH="F1_Season_2000\2000_McLaren2_GBR.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="F1_Season_2000\Rims\2000_McLaren_rims.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="F1_Season_2000\Rims\2000_McLaren_rims_blur.dds" />
+	<TEXTURE NAME="WHEELSPEC" PATH="F1_Season_2000\Rims\2000_rims_lowspec.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="F1_Season_2000\Rims\2000_rims_lowspec_blur.dds" />
+	<TEXTURE NAME="TIREDIFF" PATH="F1_Season_2000\Tires\2000_McLaren2_tires.dds" />
+	<TEXTURE NAME="TIREBLURDIFF" PATH="F1_Season_2000\Tires\2000_McLaren2_tires_blur.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="52" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2000\Helmets\2000_Coulthard_NT_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_2000\Helmets\helmet_spec.dds" />
+    	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_2000\Helmets\2000_McLaren_visor.dds" />
+	<TEXTURE NAME="VISOR_SPEC" PATH="F1_Season_2000\Helmets\2000_visor_spec_black.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="52" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_2000\Suits\2000_mclaren_torso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_2000\Suits\2000_mclaren_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_2000\Suits\2000_mclaren_gloves_Coulthard.dds" />
+        <TEXTURE NAME="GLOVES_SPEC" PATH="F1_Season_2000\Suits\2000_gloves_spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_2000\Suits\2000_mclaren_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_2000\Harness\Black_BOSS_harness.dds" />
+        </OUTFIT_OVERRIDE>
+	
+</USER_OVERRIDES>

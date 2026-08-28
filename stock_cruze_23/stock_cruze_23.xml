@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+
+    <HELMET_OVERRIDE LIVERY="52" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="..\1FTR\Equipments\Soares\soares-2000s-helmet.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="..\1FTR\Equipments\Soares\soares-2000s-visor.dds" />
+    </HELMET_OVERRIDE>
+
+      <OUTFIT_OVERRIDE LIVERY="52" BASEOUTFIT="DEFAULT">
+            <TEXTURE NAME="ARMS_DIFF" PATH="..\1FTR\Equipments\Soares\soares-2000s-arms.dds" />
+            <TEXTURE NAME="GLOVES_DIFF" PATH="..\1FTR\Equipments\Soares\soares-2000s-gloves.dds" />
+            <TEXTURE NAME="LEGS_DIFF" PATH="..\1FTR\Equipments\Soares\soares-2000s-legs.dds" />
+            <TEXTURE NAME="SEATBELTS_DIFF" PATH="..\1FTR\Equipments\Soares\soares-2000s-seatbelt.dds" />
+            <TEXTURE NAME="BODY_DIFF" PATH="..\1FTR\Equipments\Soares\soares-2000s-torso.dds" />
+      </OUTFIT_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="52" NAME="Iuri Soares Dragon13 #22" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="Dragon13\preview22.dds" />
+        <TEXTURE NAME="BODY" PATH="Dragon13\body22.dds" />
+		<TEXTURE NAME="WINDSCREEN" PATH="Dragon13\banner22.dds" />
+    </LIVERY_OVERRIDE>
+
+    <HELMET_OVERRIDE LIVERY="51" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="..\1FTR\Equipments\Justen\justen-2000s-helmet.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="..\1FTR\Equipments\Justen\justen-2000s-visor.dds" />
+    </HELMET_OVERRIDE>
+
+      <OUTFIT_OVERRIDE LIVERY="51" BASEOUTFIT="DEFAULT">
+            <TEXTURE NAME="ARMS_DIFF" PATH="..\1FTR\Equipments\Justen\justen-2000s-arms.dds" />
+            <TEXTURE NAME="GLOVES_DIFF" PATH="..\1FTR\Equipments\Justen\justen-2000s-gloves.dds" />
+            <TEXTURE NAME="LEGS_DIFF" PATH="..\1FTR\Equipments\Justen\justen-2000s-legs.dds" />
+            <TEXTURE NAME="SEATBELTS_DIFF" PATH="..\1FTR\Equipments\Justen\justen-2000s-seatbelt.dds" />
+            <TEXTURE NAME="BODY_DIFF" PATH="..\1FTR\Equipments\Justen\justen-2000s-torso.dds" />
+      </OUTFIT_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="51" NAME="Faster Team Racing" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="FASTER TEAM RACING\StockCruze_Preview_Iuri_Soares.dds" />
+        <TEXTURE NAME="BODY" PATH="FASTER TEAM RACING\FTR-CRUZE FTR-23-V2.dds" />
+        <TEXTURE NAME="WINDSCREEN" PATH="FASTER TEAM RACING\PARABRISAIS22.dds" />
+    </LIVERY_OVERRIDE> -->
+
+        <HELMET_OVERRIDE LIVERY="53" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="..\1FTR\Equipments\Soares\soares-2000s-helmet.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="..\1FTR\Equipments\Soares\soares-2000s-visor.dds" />
+    </HELMET_OVERRIDE>
+
+      <OUTFIT_OVERRIDE LIVERY="53" BASEOUTFIT="DEFAULT">
+            <TEXTURE NAME="ARMS_DIFF" PATH="..\1FTR\Equipments\Soares\soares-2000s-arms.dds" />
+            <TEXTURE NAME="GLOVES_DIFF" PATH="..\1FTR\Equipments\Soares\soares-2000s-gloves.dds" />
+            <TEXTURE NAME="LEGS_DIFF" PATH="..\1FTR\Equipments\Soares\soares-2000s-legs.dds" />
+            <TEXTURE NAME="SEATBELTS_DIFF" PATH="..\1FTR\Equipments\Soares\soares-2000s-seatbelt.dds" />
+            <TEXTURE NAME="BODY_DIFF" PATH="..\1FTR\Equipments\Soares\soares-2000s-torso.dds" />
+      </OUTFIT_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="53" NAME="Iuri Soares #22" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="..\1FTR\FTR-IMAGE-22.dds" />
+        <TEXTURE NAME="BODY" PATH="FTR/FTR-STCRUZE23-soares.dds"/>
+		<TEXTURE NAME="WINDSCREEN" PATH="FTR\banner22.dds" />
+    </LIVERY_OVERRIDE>
+
+        <HELMET_OVERRIDE LIVERY="54" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="..\1FTR\Equipments\Justen\justen-2000s-helmet.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="..\1FTR\Equipments\Justen\justen-2000s-visor.dds" />
+    </HELMET_OVERRIDE>
+
+      <OUTFIT_OVERRIDE LIVERY="54" BASEOUTFIT="DEFAULT">
+            <TEXTURE NAME="ARMS_DIFF" PATH="..\1FTR\Equipments\Justen\justen-2000s-arms.dds" />
+            <TEXTURE NAME="GLOVES_DIFF" PATH="..\1FTR\Equipments\Justen\justen-2000s-gloves.dds" />
+            <TEXTURE NAME="LEGS_DIFF" PATH="..\1FTR\Equipments\Justen\justen-2000s-legs.dds" />
+            <TEXTURE NAME="SEATBELTS_DIFF" PATH="..\1FTR\Equipments\Justen\justen-2000s-seatbelt.dds" />
+            <TEXTURE NAME="BODY_DIFF" PATH="..\1FTR\Equipments\Justen\justen-2000s-torso.dds" />
+      </OUTFIT_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="54" NAME="Vitor Justen #02" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="..\1FTR\FTR-IMAGE-02.dds" />
+        <TEXTURE NAME="BODY" PATH="FTR/FTR-STCRUZE23-justen.dds" />
+		<TEXTURE NAME="WINDSCREEN" PATH="FTR\banner02.dds" />
+    </LIVERY_OVERRIDE>
+
+</USER_OVERRIDES>
