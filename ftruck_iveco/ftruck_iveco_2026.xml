@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+
+	
+	<LIVERY_OVERRIDE LIVERY="51" NAME="#26 Raphael Abbate" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="2026\preview26.dds" />
+        <TEXTURE NAME="BODY" PATH="2026\Body26.dds" />
+		<TEXTURE NAME="TIREDIFF" PATH="2026\tyres\prometeon_tire_diff.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="2026\tyres\prometeon_tire_spec.dds"/>
+		<TEXTURE NAME="TIREBLURDIFF" PATH="2026\tyres\prometeon_tire_blur_diff.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="2026\tyres\prometeon_tire_blur_spec.dds"/>
+		<TEXTURE NAME="TIRENORM" PATH="2026\tyres\prometeon_tire_norm.dds"/>
+    </LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="51" BASEHELMET="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="2026\Helmets\26_helmet.dds" />
+		<TEXTURE NAME="VISOR_DIFF" PATH="2026\Helmets\26_visor.dds" />
+		<TEXTURE NAME="VISOR_SPEC" PATH="2026\Helmets\visor_Spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="51" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="2026\Suits\26_body.dds" />
+		<TEXTURE NAME="ARMS_DIFF" PATH="2026\Suits\26_arms.dds" />
+		<TEXTURE NAME="GLOVES_DIFF" PATH="2026\Suits\26_gloves.dds" />
+		<TEXTURE NAME="LEGS_DIFF" PATH="2026\Suits\26_legs.dds" />
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="2026\Suits\Seatbelt_red.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="52" NAME="#28 Danilo Dirani" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="2026\preview28.dds" />
+        <TEXTURE NAME="BODY" PATH="2026\Body28.dds" />
+		<TEXTURE NAME="TIREDIFF" PATH="2026\tyres\prometeon_tire_diff.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="2026\tyres\prometeon_tire_spec.dds"/>
+		<TEXTURE NAME="TIREBLURDIFF" PATH="2026\tyres\prometeon_tire_blur_diff.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="2026\tyres\prometeon_tire_blur_spec.dds"/>
+		<TEXTURE NAME="TIRENORM" PATH="2026\tyres\prometeon_tire_norm.dds"/>
+    </LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="52" BASEHELMET="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="2026\Helmets\28_helmet.dds" />
+		<TEXTURE NAME="VISOR_DIFF" PATH="2026\Helmets\28_visor.dds" />
+		<TEXTURE NAME="VISOR_SPEC" PATH="2026\Helmets\visor_Spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="52" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="2026\Suits\28_body.dds" />
+		<TEXTURE NAME="ARMS_DIFF" PATH="2026\Suits\28_arms.dds" />
+		<TEXTURE NAME="GLOVES_DIFF" PATH="2026\Suits\28_gloves.dds" />
+		<TEXTURE NAME="LEGS_DIFF" PATH="2026\Suits\28_legs.dds" />
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="2026\Suits\Seatbelt_Black.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="53" NAME="#73 Leandro Totti" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="2026\preview73.dds" />
+        <TEXTURE NAME="BODY" PATH="2026\Body73.dds" />
+		<TEXTURE NAME="TIREDIFF" PATH="2026\tyres\prometeon_tire_diff.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="2026\tyres\prometeon_tire_spec.dds"/>
+		<TEXTURE NAME="TIREBLURDIFF" PATH="2026\tyres\prometeon_tire_blur_diff.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="2026\tyres\prometeon_tire_blur_spec.dds"/>
+		<TEXTURE NAME="TIRENORM" PATH="2026\tyres\prometeon_tire_norm.dds"/>
+    </LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="53" BASEHELMET="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="2026\Helmets\73_helmet.dds" />
+		<TEXTURE NAME="VISOR_DIFF" PATH="2026\Helmets\73_visor.dds" />
+		<TEXTURE NAME="VISOR_SPEC" PATH="2026\Helmets\visor_Spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="53" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="2026\Suits\73_body.dds" />
+		<TEXTURE NAME="ARMS_DIFF" PATH="2026\Suits\73_arms.dds" />
+		<TEXTURE NAME="GLOVES_DIFF" PATH="2026\Suits\73_gloves.dds" />
+		<TEXTURE NAME="LEGS_DIFF" PATH="2026\Suits\73_legs.dds" />
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="2026\Suits\Seatbelt_red.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	<LIVERY_OVERRIDE LIVERY="54" NAME="#111 Bia Figueiredo" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="2026\preview111.dds" />
+        <TEXTURE NAME="BODY" PATH="2026\Body111.dds" />
+		<TEXTURE NAME="TIREDIFF" PATH="2026\tyres\prometeon_tire_diff.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="2026\tyres\prometeon_tire_spec.dds"/>
+		<TEXTURE NAME="TIREBLURDIFF" PATH="2026\tyres\prometeon_tire_blur_diff.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="2026\tyres\prometeon_tire_blur_spec.dds"/>
+		<TEXTURE NAME="TIRENORM" PATH="2026\tyres\prometeon_tire_norm.dds"/>
+    </LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="54" BASEHELMET="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="2026\Helmets\111_helmet.dds" />
+		<TEXTURE NAME="VISOR_DIFF" PATH="2026\Helmets\111_visor.dds" />
+		<TEXTURE NAME="VISOR_SPEC" PATH="2026\Helmets\visor_Spec.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="54" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="2026\Suits\111_body.dds" />
+		<TEXTURE NAME="ARMS_DIFF" PATH="2026\Suits\111_arms.dds" />
+		<TEXTURE NAME="GLOVES_DIFF" PATH="2026\Suits\111_gloves.dds" />
+		<TEXTURE NAME="LEGS_DIFF" PATH="2026\Suits\111_legs.dds" />
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="2026\Suits\Seatbelt_red.dds" />
+    </OUTFIT_OVERRIDE>
+	
+	
+</USER_OVERRIDES>

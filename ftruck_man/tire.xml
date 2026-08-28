@@ -1,0 +1,681 @@
+<!--
+
+READ: This is designed for livery artists to use.
+
+1) Drag the "tyres" folder into Automobilista 2/Vehicles/Textures/CustomLiveries/Overrides/ 
+
+2) Copy paste the following section based on which tires you want into the livery override xml file.
+
+DISCLAIMER: these textures are taken directly from the ingame files for PCARS 1, PCARS 2 and AMS2. 
+
+    I am only human so if any are missing or if there are any errors/issues then please let me know via 
+    discord or overtake and i will add them.
+
+    The naming convention used it based upon the file type so id look at the texture itself if you are unsure what tyre to use
+
+-->
+
+<!--blank tyre (no sponsor) option 1-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\common_tire_diff_00.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\common_tire_spec_00.dds"/>
+		<TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\common_tire_diff_01.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\common_tire_spec_01.dds"/>
+		<TEXTURE NAME="TIRENORM" PATH="..\tyres\common_tire_norm_00.dds"/>
+
+<!--blank tyre (no sponsor) option 2-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\common_tire_diff.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\common_tire_spec.dds"/>
+		<TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\common_tire_blur_diff.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\common_tire_blur_spec.dds"/>
+		<TEXTURE NAME="TIRENORM" PATH="..\tyres\common_tire_nmp8888.dds"/>
+
+<!--blank tyre (no sponsor) option 3-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\common_tire_diffuse_00.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\common_tire_specular_00.dds"/>
+		<TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\common_tire_diffuse_01.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\common_tire_specular_01.dds"/>
+		<TEXTURE NAME="TIRENORM" PATH="..\tyres\common_tire_normals_00.dds"/>
+
+<!--brigdestone lm97-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\tire_bridgestone_lm97_diff.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\tire_bridgestone_lm97_spec.dds"/>
+		<TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\tire_bridgestone_lm97_blur_diff.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\tire_bridgestone_lm97_blur_spec.dds"/>
+		<TEXTURE NAME="TIRENORM" PATH="..\tyres\tire_bridgestone_lm97_nmp8888.dds"/>
+
+<!--brigdestone potenza-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\tire_bridge_potenza01_diff.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\tire_bridge_potenza01_spec.dds"/>
+		<TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\tire_bridge_potenza01_blur_diff.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\tire_bridge_potenza01_blur_spec.dds"/>
+		<TEXTURE NAME="TIRENORM" PATH="..\tyres\tire_bridge_potenza01_nmp8888.dds"/>	
+
+<!--brigdestone formula v10-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\formula_v10_tire_diff.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\formula_v10_tire_spec.dds"/>
+		<TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\formula_v10_tire_blur_diff.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\formula_v10_tire_blur_spec.dds"/>
+		<TEXTURE NAME="TIRENORM" PATH="..\tyres\formula_v10_tire_norm.dds"/>	
+
+
+<!--continental-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\tire_continental_diff_00.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\tire_continental_spec_00.dds"/>
+		<TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\tire_continental_diff_01.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\tire_continental_spec_01.dds"/>
+		<TEXTURE NAME="TIRENORM" PATH="..\tyres\tire_continental_norm_00.dds"/>
+
+<!--continental gt4-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\tire_continental_gt4_diff.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\tire_continental_gt4_spec.dds"/>
+		<TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\tire_continental_gt4_blur_diff.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\tire_continental_gt4_blur_spec.dds"/>
+		<TEXTURE NAME="TIRENORM" PATH="..\tyres\tire_continental_gt4_nmp8888.dds"/>
+
+<!--continental 2-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\tire_continental2_diff_00.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\tire_continental2_spec_00.dds"/>
+		<TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\tire_continental2_diff_01.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\tire_continental2_spec_01.dds"/>
+		<TEXTURE NAME="TIRENORM" PATH="..\tyres\tire_continental2_norm_00.dds"/>
+
+<!--cooper jplm-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\tire_cooper_jplm_diff_00.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\tire_cooper_jplm_spec_00.dds"/>
+		<TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\tire_cooper_jplm_diff_01.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\tire_cooper_jplm_spec_01.dds"/>
+		<TEXTURE NAME="TIRENORM" PATH="..\tyres\tire_cooper_jplm_norm_00.dds"/>
+
+<!-- dunlop denloc-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\tire_dunlop_denloc_diff.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\tire_dunlop_denloc_spec.dds"/>
+		<TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\tire_dunlop_denloc_blur_diff.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\tire_dunlop_denloc_blur_spec.dds"/>
+        <TEXTURE NAME="TIRENORM" PATH="..\tyres\tire_dunlop_denloc_nmp8888.dds"/>
+
+<!-- dunlop direzza-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\tire_dunlop_direzza_diff_00.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\tire_dunlop_direzza_spec_00.dds"/>
+		<TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\tire_dunlop_direzza_diff_01.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\tire_dunlop_direzza_spec_01.dds"/>
+        <TEXTURE NAME="TIRENORM" PATH="..\tyres\tire_dunlop_direzza_norm_00.dds"/>
+
+<!-- dunlop 1991-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\tire_dunlop_91_diff.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\tire_dunlop_91_spec.dds"/>
+		<TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\tire_dunlop_91_blur_diff.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\tire_dunlop_91_blur_spec.dds"/>
+        <TEXTURE NAME="TIRENORM" PATH="..\tyres\tire_dunlop_91_nmp8888.dds"/>
+
+<!-- dunlop gt3-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\tire_dunlop_gt3_diff.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\tire_dunlop_gt3_spec.dds"/>
+		<TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\tire_dunlop_gt3_blur_diff.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\common_tire_spec_01.dds"/>
+        <TEXTURE NAME="TIRENORM" PATH="..\tyres\tire_dunlop_gt3_nmp8888.dds"/>
+
+<!-- dunlop s-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\tire_dunlop_s_diff_00.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\tire_dunlop_s_spec_00.dds"/>
+		<TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\tire_dunlop_s_diff_01.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\tire_dunlop_s_spec_01.dds"/>
+        <TEXTURE NAME="TIRENORM" PATH="..\tyres\tire_dunlop_s_norm_00.dds"/>
+
+<!--falken gt3-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\tire_falken_gt3_diff.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\tire_falken_gt3_spec.dds"/>
+        <TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\tire_falken_gt3_blur_diff.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\tire_falken_gt3_blur_spec.dds"/>
+        <TEXTURE NAME="TIRENORM" PATH="..\tyres\tire_falken_gt3_nmp8888.dds"/>
+
+<!--falken 2-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\tire_falken2_diff_00.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\tire_falken2_spec_00.dds"/>
+        <TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\tire_falken2_diff_01.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\tire_falken2_spec_01.dds"/>
+        <TEXTURE NAME="TIRENORM" PATH="..\tyres\tire_falken2_norm_00.dds"/>
+
+<!--firestone f167-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\tire_firestone_f167_diff_00.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\tire_firestone_f167_spec_00.dds"/>
+        <TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\tire_firestone_f167_diff_01.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\tire_firestone_f167_spec_01.dds"/>
+        <TEXTURE NAME="TIRENORM" PATH="..\tyres\tire_firestone_f167_nmp8888.dds"/>
+
+<!--firestone indy-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\tire_firestone_indy_diff_00.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\tire_firestone_indy_spec_00.dds"/>
+        <TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\tire_firestone_indy_diff_01.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\tire_firestone_indy_spec_01.dds"/>
+        <TEXTURE NAME="TIRENORM" PATH="..\tyres\tire_firestone_indy_nmp8888.dds"/>
+
+<!--goodyear eagle-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\tire_goodyear_eagle_yel_diff.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\tire_goodyear_eagle_spec.dds"/>
+        <TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\tire_goodyear_eagle_yel_blur_diff.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\tire_goodyear_eagle_blur_spec.dds"/>
+        <TEXTURE NAME="TIRENORM" PATH="..\tyres\tire_goodyear_eagle_norm.dds"/>
+
+<!--goodyear corvette gtp-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\corvette_gtp_tire_goodyear_diff.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\tire_goodyear_eagle_spec.dds"/>
+        <TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\corvette_gtp_tire_goodyear_blur.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\tire_goodyear_eagle_blur_spec.dds"/>
+        <TEXTURE NAME="TIRENORM" PATH="..\tyres\tire_goodyear_eagle_norm.dds"/>
+
+<!--goodyear formula classic gen 3-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\fc_g3m1_tire_diff.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\fc_g3m1_tire_spec.dds"/>
+        <TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\fc_g3m1_tire_blur_diff.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\fc_g3m1_tire_blur_spec.dds"/>
+        <TEXTURE NAME="TIRENORM" PATH="..\tyres\fc_g3m1_tire_norm.dds"/>
+
+<!--goodyear modern-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\tire_goodyear_diff_00.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\tire_goodyear_spec_00.dds"/>
+        <TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\tire_goodyear_diff_01.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\common_tire_spec_01.dds"/>
+        <TEXTURE NAME="TIRENORM" PATH="..\tyres\tire_goodyear_norm_00.dds"/>
+
+<!--goodyear f93-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\tire_goodyear_f93_diff.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\tire_goodyear_f93_spec.dds"/>
+        <TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\tire_goodyear_f93_blur_diff.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\tire_goodyear_f93_blur_spec.dds"/>
+        <TEXTURE NAME="TIRENORM" PATH="..\tyres\tire_goodyear_f93_norm.dds"/>
+
+<!--goodyear f1 77-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\tire_goodyear_f177_diff_00.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\tire_goodyear_f177_spec_00.dds"/>
+        <TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\tire_goodyear_f177_diff_01.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\tire_goodyear_f177_spec_01.dds"/>
+        <TEXTURE NAME="TIRENORM" PATH="..\tyres\tire_goodyear_f177_nmp8888.dds"/>
+
+<!--goodyear f1 86-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\tire_goodyear_f186_diff_00.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\tire_goodyear_f186_spec_00.dds"/>
+        <TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\tire_goodyear_f186_diff_01.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\tire_goodyear_f186_spec_01.dds"/>
+        <TEXTURE NAME="TIRENORM" PATH="..\tyres\tire_goodyear_f186_nmp8888.dds"/>
+
+<!--goodyear f1 vintage-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\tire_goodyear_fvin_diff.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\tire_goodyear_fvin_spec.dds"/>
+        <TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\tire_goodyear_fvin_blur_diff.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\tire_goodyear_fvin_blur_spec.dds"/>
+        <TEXTURE NAME="TIRENORM" PATH="..\tyres\tire_goodyear_fvin_norm.dds"/>
+
+<!--goodyear vintage-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\tire_goodyear_vint_diff.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\tire_goodyear_vint_spec.dds"/>
+        <TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\tire_goodyear_vint_blur_diff.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\tire_goodyear_vint_blur_spec.dds"/>
+        <TEXTURE NAME="TIRENORM" PATH="..\tyres\tire_goodyear_vint_norm.dds"/>
+
+<!--goodyear stock car yellow-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\stockdiff.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\stockspec.dds"/>
+        <TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\stockblurdiff.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\stockblurspec.dds"/>
+        <TEXTURE NAME="TIRENORM" PATH="..\tyres\stock_nmp8888.dds"/>
+
+<!--goodyear stock car white-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\tire_stock_usa_stockcar_diff.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\tire_stock_usa_stockcar_spec.dds"/>
+        <TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\tire_stock_usa_stockcar_blur_diff.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\tire_stock_usa_stockcar_blur_spec.dds"/>
+        <TEXTURE NAME="TIRENORM" PATH="..\tyres\tire_stock_usa_stockcar_nmp8888.dds"/>
+
+<!--hankook-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\tire_hankook_diff_00.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\tire_hankook_spec_00.dds"/>
+        <TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\tire_hankook_diff_01.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\tire_hankook_spec_01.dds"/>
+        <TEXTURE NAME="TIRENORM" PATH="..\tyres\tire_hankook_norm_00.dds"/>
+
+<!--hankook-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\tire_hankook_diff.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\tire_hankook_spec.dds"/>
+        <TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\tire_hankook_blur_diff.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\tire_hankook_blur_spec.dds"/>
+        <TEXTURE NAME="TIRENORM" PATH="..\tyres\tire_hankook_norm.dds"/>
+
+<!--hankook 2-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\tire_hankook2_diff_00.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\tire_hankook2_spec_00.dds"/>
+        <TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\tire_hankook2_diff_01.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\tire_hankook2_spec_01.dds"/>
+        <TEXTURE NAME="TIRENORM" PATH="..\tyres\tire_hankook2_norm_00.dds"/>
+
+<!--hankook dtm-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\tire_hankook_dtm_diff_00.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\tire_hankook_dtm_spec_00.dds"/>
+        <TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\tire_hankook_dtm_diff_01.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\tire_hankook_dtm_spec_01.dds"/>
+        <TEXTURE NAME="TIRENORM" PATH="..\tyres\tire_hankook_dtm_norm_00.dds"/>
+
+<!--hankook dtm 2011-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\tire_hankook_dtm11_diff_00.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\tire_hankook_dtm11_spec_00.dds"/>
+        <TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\tire_hankook_dtm11_diff_01.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\tire_hankook_dtm11_spec_01.dds"/>
+        <TEXTURE NAME="TIRENORM" PATH="..\tyres\tire_hankook_dtm11_norm_00.dds"/>
+
+<!--hankook 2023-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\tire_hankook_2023_diff.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\tire_hankook_2023_spec.dds"/>
+        <TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\tire_hankook_2023_blur_diff.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\tire_hankook_2023_blur_spec.dds"/>
+        <TEXTURE NAME="TIRENORM" PATH="..\tyres\tire_hankook_2023_norm.dds"/>
+
+<!--michelin-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\tire_michelin_diff_00.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\tire_michelin_spec_00.dds"/>
+		<TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\tire_michelin_diff_01.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\tire_michelin_spec_01.dds"/>
+		<TEXTURE NAME="TIRENORM" PATH="..\tyres\tire_michelin_norm_00.dds"/>
+
+<!--michelin 2-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\tire_michelin2_diff_00.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\tire_michelin2_spec_00.dds"/>
+		<TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\tire_michelin2_diff_01.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\tire_michelin2_spec_01.dds"/>
+		<TEXTURE NAME="TIRENORM" PATH="..\tyres\tire_michelin2_norm_00.dds"/>
+
+<!--michelin 2011-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\tire_michelin_2011_diff_00.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\tire_michelin_2011_spec_00.dds"/>
+		<TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\tire_michelin_2011_diff_01.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\tire_michelin_2011_spec_01.dds"/>
+		<TEXTURE NAME="TIRENORM" PATH="..\tyres\tire_michelin_2011_norm_00.dds"/>
+
+<!--michelin form 15-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\tire_michelin_form_15_diff_00.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\tire_michelin_form_15_spec_00.dds"/>
+		<TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\tire_michelin_form_15_diff_01.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\tire_michelin_form_15_spec_01.dds"/>
+		<TEXTURE NAME="TIRENORM" PATH="..\tyres\tire_michelin_form_15_nmp8888.dds"/>
+
+<!--michelin fv8-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\tire_michelin_fv8_diff.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\tire_michelin_fv8_spec.dds"/>
+		<TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\tire_michelin_fv8_blur_diff.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\tire_michelin_fv8_blur_spec.dds"/>
+		<TEXTURE NAME="TIRENORM" PATH="..\tyres\tire_michelin_fv8_norm.dds"/>
+
+<!--michelin gt3-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\tire_michelin_gt3_diffuse_00.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\common_tire_spec_00.dds"/>
+		<TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\tire_michelin_gt3_diffuse_01.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\common_tire_spec_01.dds"/>
+		<TEXTURE NAME="TIRENORM" PATH="..\tyres\tire_michelin_gt3_normals_00.dds"/>
+
+<!--michelin gte 15-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\tire_michelin_gte15_diff_00.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\tire_michelin_gte15_spec_00.dds"/>
+		<TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\tire_michelin_gte15_diff_01.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\tire_michelin_gte15_spec_01.dds"/>
+		<TEXTURE NAME="TIRENORM" PATH="..\tyres\tire_michelin_gte15_nmp8888.dds"/>
+
+<!--michelin audi r18-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\tire_michelin_audi_r18_diff_00.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\tire_michelin_audi_r18_spec_00.dds"/>
+		<TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\tire_michelin_audi_r18_diff_01.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\tire_michelin_audi_r18_spec_01.dds"/>
+		<TEXTURE NAME="TIRENORM" PATH="..\tyres\tire_michelin_audi_r18_norm_00.dds"/>
+
+<!--michelin IMSA soft-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\tire_michelin_imsa_soft_diff.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\tire_michelin_imsa_spec.dds"/>
+		<TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\tire_michelin_imsa_soft_blur_diff.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\tire_michelin_imsa_spec_blur.dds"/>
+		<TEXTURE NAME="TIRENORM" PATH="..\tyres\tire_michelin_imsa_norm.dds"/>
+
+<!--michelin IMSA medium-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\tire_michelin_imsa_med_diff.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\tire_michelin_imsa_spec.dds"/>
+		<TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\tire_michelin_imsa_med_blur_diff.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\tire_michelin_imsa_spec_blur.dds"/>
+		<TEXTURE NAME="TIRENORM" PATH="..\tyres\tire_michelin_imsa_norm.dds"/>
+
+<!--michelin IMSA hard-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\tire_michelin_imsa_hard_diff.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\tire_michelin_imsa_spec.dds"/>
+		<TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\tire_michelin_imsa_hard_blur_diff.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\tire_michelin_imsa_spec_blur.dds"/>
+		<TEXTURE NAME="TIRENORM" PATH="..\tyres\tire_michelin_imsa_norm.dds"/>
+
+<!--michelin IMSA wet-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\tire_michelin_imsa_wet_diff.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\tire_michelin_imsa_spec.dds"/>
+		<TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\tire_michelin_imsa_wet_blur_diff.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\tire_michelin_imsa_spec_blur.dds"/>
+		<TEXTURE NAME="TIRENORM" PATH="..\tyres\tire_michelin_imsa_norm.dds"/>
+
+<!--michelin lm-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\tire_michelin_lm_diff_00.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\tire_michelin_lm_spec_00.dds"/>
+		<TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\tire_michelin_lm_diff_01.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\tire_michelin_lm_spec_01.dds"/>
+		<TEXTURE NAME="TIRENORM" PATH="..\tyres\tire_michelin_lm_nmp8888.dds"/>
+
+<!--michelin lm11-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\tire_michelin_lm11_diff_00.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\tire_michelin_lm11_spec_00.dds"/>
+		<TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\tire_michelin_lm11_diff_01.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\tire_michelin_lm11_spec_01.dds"/>
+		<TEXTURE NAME="TIRENORM" PATH="..\tyres\tire_michelin_lm11_norm_00.dds"/>
+
+<!--michelin lm14-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\tire_michelin_lm14_diff_00.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\tire_michelin_lm14_spec_00.dds"/>
+		<TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\tire_michelin_lm14_diff_01.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\tire_michelin_lm14_spec_01.dds"/>
+		<TEXTURE NAME="TIRENORM" PATH="..\tyres\tire_michelin_lm14_nmp8888.dds"/>
+
+<!--michelin lm97-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\tire_michelin_lm97_diff_00.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\tire_michelin_lm97_spec_00.dds"/>
+		<TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\tire_michelin_lm97_diff_01.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\tire_michelin_lm97_spec_01.dds"/>
+		<TEXTURE NAME="TIRENORM" PATH="..\tyres\tire_michelin_lm97_nmp8888.dds"/>
+
+<!--michelin pilot-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\tire_michelin_pilot_diff_00.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\tire_michelin_pilot_spec_00.dds"/>
+		<TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\tire_michelin_pilot_diff_01.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\tire_michelin_pilot_spec_01.dds"/>
+		<TEXTURE NAME="TIRENORM" PATH="..\tyres\tire_michelin_pilot_norm_00.dds"/>
+
+<!--michelin pilot sport-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\tire_michelin_ps_diff.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\tire_michelin_ps_spec.dds"/>
+		<TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\tire_michelin_ps_blur_diff.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\tire_michelin_ps_blur_spec.dds"/>
+		<TEXTURE NAME="TIRENORM" PATH="..\tyres\tire_michelin_ps_norm.dds"/>
+
+<!--michelin pilot sport 2-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\tire_michelin_psc2_diffuse_00.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\tire_michelin_psc2_specular_00.dds"/>
+		<TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\tire_michelin_psc2_diffuse_01.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\tire_michelin_psc2_specular_01.dds"/>
+		<TEXTURE NAME="TIRENORM" PATH="..\tyres\tire_michelin_psc2_normals_00.dds"/>
+
+<!--michelin vintage-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\tire_michelin_vint_diff_00.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\tire_michelin_vint_spec_00.dds"/>
+		<TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\tire_michelin_vint_diff_01.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\tire_michelin_vint_spec_01.dds"/>
+		<TEXTURE NAME="TIRENORM" PATH="..\tyres\tire_michelin_vint_nmp8888.dds"/>
+
+<!--nitto-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\tire_nitto_diff.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\common_tire_spec_00.dds"/>
+		<TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\tire_nitto_blur_diff.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\common_tire_spec_01.dds"/>
+		<TEXTURE NAME="TIRENORM" PATH="..\tyres\tire_nitto_norm.dds"/>
+
+<!--nitto nt05-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\tire_nitto_nt05_diff_00.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\tire_nitto_nt05_spec_00.dds"/>
+		<TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\tire_nitto_nt05_diff_01.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\tire_nitto_nt05_spec_01.dds"/>
+		<TEXTURE NAME="TIRENORM" PATH="..\tyres\tire_nitto_nt05_norm_00.dds"/>
+
+<!--nitto nt05w-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\tire_nitto_nt05w_diff_00.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\tire_nitto_nt05w_spec_00.dds"/>
+		<TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\tire_nitto_nt05w_diff_01.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\tire_nitto_nt05w_spec_01.dds"/>
+		<TEXTURE NAME="TIRENORM" PATH="..\tyres\tire_nitto_nt05w_norm_00.dds"/>
+
+<!--pirelli-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\tire_pirelli_diff_00.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\tire_pirelli_spec_00.dds"/>
+        <TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\tire_pirelli_diff_01.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\tire_pirelli_spec_01.dds"/>
+        <TEXTURE NAME="TIRENORM" PATH="..\tyres\tire_pirelli_norm_00.dds"/>
+
+<!--pirelli gt3-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\tire_pirelli_gt3_diff_00.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\tire_pirelli_gt3_spec_00.dds"/>
+        <TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\tire_pirelli_gt3_diff_01.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\tire_pirelli_gt3_spec_01.dds"/>
+        <TEXTURE NAME="TIRENORM" PATH="..\tyres\tire_pirelli_gt3_nmp8888.dds"/>
+
+<!--pirelli gt3n-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\tire_pirelli_gt3n_diff_00.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\tire_pirelli_gt3n_spec_00.dds"/>
+        <TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\tire_pirelli_gt3n_diff_01.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\tire_pirelli_gt3n_spec_01.dds"/>
+        <TEXTURE NAME="TIRENORM" PATH="..\tyres\tire_pirelli_gt3n_norm_00.dds"/>
+
+<!--pirelli huayra-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\tire_pirelli_huayra_diff_00.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\tire_pirelli_huayra_spec_00.dds"/>
+        <TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\tire_pirelli_huayra_diff_01.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\tire_pirelli_huayra_spec_01.dds"/>
+        <TEXTURE NAME="TIRENORM" PATH="..\tyres\tire_pirelli_huayra_nmp8888.dds"/>
+
+<!--pirelli formula-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\tire_pirelli_formula_diff.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\tire_pirelli_formula_spec.dds"/>
+        <TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\tire_pirelli_formula_blur_diff.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\tire_pirelli_formula_blur_spec.dds"/>
+        <TEXTURE NAME="TIRENORM" PATH="..\tyres\tire_pirelli_formula_norm.dds"/>
+
+<!--pirelli formula inter-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\f_inter_tire_diff.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\f_inter_tire_spec.dds"/>
+        <TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\f_inter_tire_blur_diff.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\f_inter_tire_blur_spec.dds"/>
+        <TEXTURE NAME="TIRENORM" PATH="..\tyres\f_inter_tire_norm.dds"/>
+
+<!--pirelli p zero soft 16-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\tire_pirelli_pz16s_diff.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\tire_pirelli_pz16_spec.dds"/>
+        <TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\tire_pirelli_pz16s_blur_diff.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\tire_pirelli_pz16_blur_spec.dds"/>
+        <TEXTURE NAME="TIRENORM" PATH="..\tyres\tire_pirelli_pz16_norm.dds"/>
+
+<!--pirelli p zero medium 16-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\tire_pirelli_pz16m_diff.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\tire_pirelli_pz16_spec.dds"/>
+        <TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\tire_pirelli_pz16m_blur_diff.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\tire_pirelli_pz16_blur_spec.dds"/>
+        <TEXTURE NAME="TIRENORM" PATH="..\tyres\tire_pirelli_pz16_norm.dds"/>
+
+<!--pirelli p zero hard 16-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\tire_pirelli_pz16h_diff.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\tire_pirelli_pz16_spec.dds"/>
+        <TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\tire_pirelli_pz16h_blur_diff.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\tire_pirelli_pz16_blur_spec.dds"/>
+        <TEXTURE NAME="TIRENORM" PATH="..\tyres\tire_pirelli_pz16_norm.dds"/>
+
+<!--pirelli p zero inter 16-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\tire_pirelli_pz16i_diff.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\tire_pirelli_pz16_spec.dds"/>
+        <TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\tire_pirelli_pz16i_blur_diff.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\tire_pirelli_pz16_blur_spec.dds"/>
+        <TEXTURE NAME="TIRENORM" PATH="..\tyres\tire_pirelli_pz16_norm.dds"/>
+
+<!--pirelli p zero wet 16-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\tire_pirelli_pz16w_diff.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\tire_pirelli_pz16_spec.dds"/>
+        <TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\tire_pirelli_pz16w_blur_diff.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\tire_pirelli_pz16_blur_spec.dds"/>
+        <TEXTURE NAME="TIRENORM" PATH="..\tyres\tire_pirelli_pz16_norm.dds"/>
+
+<!--pirelli p zero soft 19-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\tire_pirelli_pz19s_diff.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\tire_pirelli_pz19_spec.dds"/>
+        <TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\tire_pirelli_pz19s_blur_diff.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\tire_pirelli_pz19_blur_spec.dds"/>
+        <TEXTURE NAME="TIRENORM" PATH="..\tyres\tire_pirelli_pz19_norm.dds"/>
+
+<!--pirelli p zero medium 19-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\tire_pirelli_pz19m_diff.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\tire_pirelli_pz19_spec.dds"/>
+        <TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\tire_pirelli_pz19m_blur_diff.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\tire_pirelli_pz19_blur_spec.dds"/>
+        <TEXTURE NAME="TIRENORM" PATH="..\tyres\tire_pirelli_pz19_norm.dds"/>
+
+<!--pirelli p zero hard 19-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\tire_pirelli_pz19h_diff.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\tire_pirelli_pz19_spec.dds"/>
+        <TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\tire_pirelli_pz19h_blur_diff.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\tire_pirelli_pz19_blur_spec.dds"/>
+        <TEXTURE NAME="TIRENORM" PATH="..\tyres\tire_pirelli_pz19_norm.dds"/>
+
+<!--pirelli p zero inter 19-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\tire_pirelli_pz19i_diff.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\tire_pirelli_pz19_spec.dds"/>
+        <TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\tire_pirelli_pz19i_blur_diff.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\tire_pirelli_pz19_blur_spec.dds"/>
+        <TEXTURE NAME="TIRENORM" PATH="..\tyres\tire_pirelli_pz19_norm.dds"/>
+
+<!--pirelli p zero wet 19-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\tire_pirelli_pz19w_diff.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\tire_pirelli_pz19_spec.dds"/>
+        <TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\tire_pirelli_pz19w_blur_diff.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\tire_pirelli_pz19_blur_spec.dds"/>
+        <TEXTURE NAME="TIRENORM" PATH="..\tyres\tire_pirelli_pz19_norm.dds"/>
+
+<!--pirelli p zero medium 22-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\fultimate_2022_tire_diff.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\common_tire_spec_00.dds"/>
+		<TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\fultimate_2022_tire_blur_diff.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\common_tire_spec_01.dds"/>
+		<TEXTURE NAME="TIRENORM" PATH="..\tyres\common_tire_norm_00.dds"/>
+
+<!--pirelli p zero wet 22-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\fultimate_2022_tire_wet.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\common_tire_spec_00.dds"/>
+		<TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\fultimate_2022_tire_wet_blur.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\common_tire_spec_01.dds"/>
+		<TEXTURE NAME="TIRENORM" PATH="..\tyres\common_tire_norm_00.dds"/>
+
+<!--pirelli p zero soft 22-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\fultimate_2022_tire_soft.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\common_tire_spec_00.dds"/>
+		<TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\fultimate_2022_tire_soft_blur.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\common_tire_spec_01.dds"/>
+		<TEXTURE NAME="TIRENORM" PATH="..\tyres\common_tire_norm_00.dds"/>
+
+<!--pirelli p zero inter 22-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\fultimate_2022_tire_inter.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\common_tire_spec_00.dds"/>
+		<TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\fultimate_2022_tire_inter_blur.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\common_tire_spec_01.dds"/>
+		<TEXTURE NAME="TIRENORM" PATH="..\tyres\common_tire_norm_00.dds"/>
+
+<!--pirelli p zero hard 22-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\fultimate_2022_tire_hard.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\common_tire_spec_00.dds"/>
+		<TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\fultimate_2022_tire_hard_blur.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\common_tire_spec_01.dds"/>
+		<TEXTURE NAME="TIRENORM" PATH="..\tyres\common_tire_norm_00.dds"/>
+
+<!--pirelli stock car brasil-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\stock_cruze_tire_diff.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\stock_cruze_tire_spec.dds"/>
+		<TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\stock_cruze_tire_blur_diff.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\stock_cruze_tire_blur_spec.dds"/>
+		<TEXTURE NAME="TIRENORM" PATH="..\tyres\common_tire_norm_00.dds"/>
+
+<!--yokohama-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\tire_yokohama_diff_00.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\tire_yokohama_spec_00.dds"/>
+		<TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\tire_yokohama_diff_01.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\tire_yokohama_spec_01.dds"/>
+		<TEXTURE NAME="TIRENORM" PATH="..\tyres\tire_yokohama_norm_00.dds"/>
+
+<!--yokohama gt-->
+
+		<TEXTURE NAME="TIREDIFF" PATH="..\tyres\tire_yokohama_gt_diff.dds"/>
+		<TEXTURE NAME="TIRESPEC" PATH="..\tyres\tire_yokohama_gt_spec.dds"/>
+		<TEXTURE NAME="TIREBLURDIFF" PATH="..\tyres\tire_yokohama_gt_blur_diff.dds"/>
+		<TEXTURE NAME="TIREBLURSPEC" PATH="..\tyres\tire_yokohama_gt_blur_spec.dds"/>
+		<TEXTURE NAME="TIRENORM" PATH="..\tyres\tire_yokohama_gt_nmp8888.dds"/>
