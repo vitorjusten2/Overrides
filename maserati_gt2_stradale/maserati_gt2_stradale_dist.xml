@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+
+    <!--
+        Create a copy of this file without the '_dist' part and place it beside this one
+        
+        eg      'maserati_gt2_stradale_dist.xml'
+                    should become 
+                'maserati_gt2_stradale.xml'
+
+        Define a 'LIVERY_OVERRIDE' section for each default livery you wish to replace.
+
+        A LIVERY_OVERRIDE definition must be based on one of the base liveries provided which will provide
+        variations where required. The LIVERY attribute determines which base game livery is replaced.
+        A NAME attribute must be set
+        
+        Within a LIVERY_OVERRIDE definition each desired texture override 
+        should be defined in a TEXTURE element. Any texture not present will use the texture from 
+        the BASELIVERY.
+
+        Additionally a PREVIEWIMAGE element with a PATH attribute can be used to note a texture for use
+        in the game's UI. (2048 x 600 px )
+
+        Texture PATH attributes are relative to this file's directory. Further sub-directories are 
+        permissable and their structure is left to the users own preference.
+
+		LIVERY IDs can be viewed in the game UI by running the game with -showLiveryIDs switch/launch option
+
+		AVAILABLE BASE PAINTS
+        =======================
+
+		        -BluInfinito
+		        -GialloGenio
+		        -NeroEssenza
+		        -BiancoAudace
+		        -DigitalAurora
+		        -PowerNude
+		        -NeroCometa
+		        -DigitalMint
+		        -GrigioLamiera
+		        -AzzurroAstro
+		        -MilitaryTeal
+		        -DevilOrange
+		        -RossoVincente
+		        -NightInteraction
+		        -GrigioMistero
+		        -GrigioIncognito
+		        -BluCorse
+				
+		PREDEFINED LIVERY
+        =======================
+
+	  <TEXTURE NAME="VINYL" PATH="\Vinyls\performance_livery.dds" />
+				
+		LOGOS COLOR
+        =======================
+
+		        -Blue (standard)
+
+	  <TEXTURE NAME="BADGES" PATH="\Badges\blue.dds" />
+
+		        -Black
+
+	  <TEXTURE NAME="BADGES" PATH="\Badges\black.dds" />
+
+		        -Silver
+
+	  <TEXTURE NAME="BADGES" PATH="\Badges\silver.dds" />
+
+		        -White
+
+	  <TEXTURE NAME="BADGES" PATH="\Badges\white.dds" />
+	  
+		        -Tricolor (goes with Performance Livery)
+
+	  <TEXTURE NAME="BADGES" PATH="\Badges\tricolor.dds" />
+	  
+				
+		CALIPERS
+        =======================
+
+		        -Blue (standard)
+				
+	  <TEXTURE NAME="CALIPERS" PATH="\Calipers\blu.dds" />
+
+		        -Silver
+				
+	  <TEXTURE NAME="CALIPERS" PATH="\Calipers\argento.dds" />
+
+		        -Yellow
+				
+	  <TEXTURE NAME="CALIPERS" PATH="\Calipers\giallo.dds" />
+
+		        -Black
+				
+	  <TEXTURE NAME="CALIPERS" PATH="\Calipers\nero.dds" />
+
+		        -Red
+				
+	  <TEXTURE NAME="CALIPERS" PATH="\Calipers\rosso.dds" />
+	  
+				
+		INTERIOR
+        =======================
+
+		        -Blue (standard)
+				
+	  <TEXTURE NAME="INTERIORDIFF" PATH="\Interior\interior_blue_diff.dds" />
+	  <TEXTURE NAME="INTERIORSPEC" PATH="\Interior\interior_blue_spec.dds" />
+	  <TEXTURE NAME="ALCANTARA" PATH="\Interior\alcantara_blue.dds" />
+
+		        -Black
+				
+	  <TEXTURE NAME="INTERIORDIFF" PATH="\Interior\interior_black_diff.dds" />
+	  <TEXTURE NAME="INTERIORSPEC" PATH="\Interior\interior_black_spec.dds" />
+	  <TEXTURE NAME="ALCANTARA" PATH="\Interior\alcantara_black.dds" />
+	  
+				
+		WHEELS
+        =======================
+
+		        -Black/blue cap
+				
+	  <TEXTURE NAME="WHEELDIFF" PATH="\Rims\black_blue_diff.dds" />
+	  <TEXTURE NAME="WHEELSPEC" PATH="\Rims\black_blue_spec.dds" />
+	  <TEXTURE NAME="WHEELBLURDIFF" PATH="\Rims\black_blue_blur_diff.dds" />
+	  <TEXTURE NAME="WHEELBLURDIFF" PATH="\Rims\black_blue_blur_spec.dds" />
+
+		        -Silver/blue cap
+				
+	  <TEXTURE NAME="WHEELDIFF" PATH="\Rims\silver_blue_diff.dds" />
+	  <TEXTURE NAME="WHEELSPEC" PATH="\Rims\silver_blue_spec.dds" />
+	  <TEXTURE NAME="WHEELBLURDIFF" PATH="\Rims\black_blue_blur_diff.dds" />
+	  <TEXTURE NAME="WHEELBLURDIFF" PATH="\Rims\black_blue_blur_spec.dds" />
+
+		        -Black/black cap
+				
+	  <TEXTURE NAME="WHEELDIFF" PATH="\Rims\black_diff.dds" />
+	  <TEXTURE NAME="WHEELSPEC" PATH="\Rims\black_spec.dds" />
+	  <TEXTURE NAME="WHEELBLURDIFF" PATH="\Rims\black_blur_diff.dds" />
+	  <TEXTURE NAME="WHEELBLURDIFF" PATH="\Rims\black_blur_spec.dds" />
+
+		        -Silver/black cap
+				
+	  <TEXTURE NAME="WHEELDIFF" PATH="\Rims\silver_diff.dds" />
+	  <TEXTURE NAME="WHEELSPEC" PATH="\Rims\black_spec.dds" />
+	  <TEXTURE NAME="WHEELBLURDIFF" PATH="\Rims\silver_blur_diff.dds" />
+	  <TEXTURE NAME="WHEELBLURDIFF" PATH="\Rims\black_blur_spec.dds" />
+	  
+	  
+									
+		EXEMPLE OF CONFIGURATION
+        =======================
+		
+	<LIVERY_OVERRIDE LIVERY="51" NAME="Custom" BASELIVERY="BluInfinito">
+	  <PREVIEWIMAGE PATH="\Custom livery.dds" />
+	  <TEXTURE NAME="VINYL" PATH="\Vinyls\performance_livery.dds" />
+	  <TEXTURE NAME="BADGES" PATH="\Badges\black.dds" />
+	  <TEXTURE NAME="CALIPERS" PATH="\Calipers\nero.dds" />
+	  <TEXTURE NAME="INTERIORDIFF" PATH="\Interior\interior_black_diff.dds" />
+	  <TEXTURE NAME="INTERIORSPEC" PATH="\Interior\interior_black_spec.dds" />
+	  <TEXTURE NAME="ALCANTARA" PATH="\Interior\alcantara_black.dds" />
+	  <TEXTURE NAME="WHEELDIFF" PATH="\Rims\black_diff.dds" />
+	  <TEXTURE NAME="WHEELSPEC" PATH="\Rims\black_spec.dds" />
+	  <TEXTURE NAME="WHEELBLURDIFF" PATH="\Rims\black_blur_diff.dds" />
+	  <TEXTURE NAME="WHEELBLURDIFF" PATH="\Rims\black_blur_spec.dds" />
+    </LIVERY_OVERRIDE>
+						
+						
+						TIREDIFF	- tire_diff - Tire branding texture
+                                    - 1024 x 1024
+                                    - DXT1 with MIPs
+									
+						TIRESPEC	- tire spec_diff - Tire branding texture
+                                    - 1024 x 1024
+                                    - DXT5 with MIPs
+									
+					TIREBLURDIFF	- tire_blur_diff - Tire branding texture
+                                    - 1024 x 1024
+                                    - DXT5 with MIPs
+									
+					TIREBLURSPEC	- tire_blur_spec - Tire branding texture
+                                    - 1024 x 1024
+                                    - DXT5 with MIPs
+									
+					TIRENORM		- tire_normal_map - Tire branding texture
+                                    - 1024 x 1024
+                                    - DXT5 with MIPs
+									
+		HELMETS
+        =======================
+
+        For each overriden livery a helmet override can be defined. The work similarly to liveries
+        in that they override a named base helmet with user defined textures. To assigne a helmet
+        to a livery use the same 'LIVERY' id as in the livery override
+
+        AVAILABLE BASE HELMETS
+        =======================
+
+				DEFAULT: default helmet used by all vehicles of the class
+                Available textures: 
+                        BODY        - the main exterior surface of the helmet
+                                    - 2048 x 2048
+                                    - DXT1 with MIPs
+                        						
+						VISOR     	- visor texture
+                                    - 2048 x 2048
+                                    - DXT5 with MIPs
+									
+		OUTFITS
+        =======================
+
+        As with helmets, they work similarly to liveries in that they override a named base part with user defined textures. To assigne a part
+        to a livery use the same 'LIVERY' id as in the livery override
+
+        AVAILABLE BASE OUTFITS
+        =======================
+
+				DEFAULT: default helmet used by all vehicles of the class
+                Available textures: 
+                        BODY_DIFF   - the main exterior surface of the helmet
+                                    - 2048 x 2048
+                                    - DXT1 with MIPs
+                        						
+						ARMS_DIFF 	- visor texture
+                                    - 2048 x 1024
+                                    - DXT1 with MIPs
+
+                        GLOVES_DIFF - the main exterior surface of the helmet
+                                    - 2048 x 2048
+                                    - DXT1 with MIPs
+                        						
+						LEGS_DIFF 	- visor texture
+                                    - 2048 x 1024
+                                    - DXT1 with MIPs
+
+                     SEATBELTS_DIFF - the main exterior surface of the helmet
+                                    - 2048 x 2048
+                                    - DXT1 with MIPs
+										
+
+    	EXAMPLES
+		================================= --> 
+
+	<!-- <HELMET_OVERRIDE LIVERY="59" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY" PATH="helmet.dds" />
+        <TEXTURE NAME="VISOR" PATH="visor.dds" />
+    </HELMET_OVERRIDE> -->
+	
+	<!-- <OUTFIT_OVERRIDE LIVERY="59" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="body1.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="arms1.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="gloves1.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="legs1.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="belts1.dds" />
+    </OUTFIT_OVERRIDE> -->
+
+    <!-- <LIVERY_OVERRIDE LIVERY="59" NAME="My Racing Team #12" BASELIVERY="Default">
+	  <PREVIEWIMAGE PATH="myracingteam\preview12.dds" />
+	  <TEXTURE NAME="BODY" PATH="myracingteam\body12.dds" />
+    </LIVERY_OVERRIDE> -->
+
+	<!-- <HELMET_OVERRIDE LIVERY="60" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY" PATH="helmet2.dds" />
+        <TEXTURE NAME="VISOR" PATH="visor2.dds" />
+    </HELMET_OVERRIDE> -->
+	
+	<!-- <OUTFIT_OVERRIDE LIVERY="60" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="body2.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="arms2.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="gloves2.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="legs2.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="belts2.dds" />
+    </OUTFIT_OVERRIDE> -->
+
+    <!-- <LIVERY_OVERRIDE LIVERY="60" NAME="My Racing Team #86" BASELIVERY="Default">
+	  <PREVIEWIMAGE PATH="myracingteam\preview86.dds" />
+	  <TEXTURE NAME="BODY" PATH="myracingteam\body86.dds" />
+	  <TEXTURE NAME="SPEC" PATH="MyTeam\body86_spec.dds" />
+	  <TEXTURE NAME="FRESNEL" PATH="MyTeam\body86_fresnel.dds" />
+    </LIVERY_OVERRIDE> -->
+	
+	<!-- <HELMET_OVERRIDE LIVERY="61" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY" PATH="helmet3.dds" />
+        <TEXTURE NAME="VISOR" PATH="visor3.dds" />
+    </HELMET_OVERRIDE> -->
+	
+	<!-- <OUTFIT_OVERRIDE LIVERY="61" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="body3.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="arms3.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="gloves3.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="legs3.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="belts3.dds" />
+    </OUTFIT_OVERRIDE> -->
+	
+    <!-- <LIVERY_OVERRIDE LIVERY="61" NAME="My Racing Team #37" BASELIVERY="Matte">
+	  <PREVIEWIMAGE PATH="myracingteam\preview86.dds" />
+	  <TEXTURE NAME="BODY" PATH="myracingteam\body86.dds" />
+    </LIVERY_OVERRIDE> -->
+
+</USER_OVERRIDES>

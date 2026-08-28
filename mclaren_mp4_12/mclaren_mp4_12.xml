@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+
+	<LIVERY_OVERRIDE LIVERY="51" NAME="McLaren MP4/12 9" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="TAMS2SP\McLaren_09P.dds" />
+        <TEXTURE NAME="BODY" PATH="TAMS2SP\McLaren_09.dds" />
+    </LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="51" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Helmets\hakkinen.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="Helmets\helmet_spec.dds" />
+		<TEXTURE NAME="VISOR_DIFF" PATH="Helmets\mclaren_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="51" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="Suits\97_Mclaren_body.dds" />
+		<TEXTURE NAME="ARMS_DIFF" PATH="Suits\97_Mclaren_arms.dds" />
+		<TEXTURE NAME="GLOVES_DIFF" PATH="Suits\97_Mclaren_gloves.dds" />
+		<TEXTURE NAME="LEGS_DIFF" PATH="Suits\97_Mclaren_legs.dds" />
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="Suits\black_safety_harness.dds" />
+	</OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="52" NAME="McLaren MP4/12 10" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="TAMS2SP\McLaren_10P.dds" />
+        <TEXTURE NAME="BODY" PATH="TAMS2SP\McLaren_10.dds" />
+    </LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="52" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Helmets\coulthard.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="Helmets\helmet_spec.dds" />
+		<TEXTURE NAME="VISOR_DIFF" PATH="Helmets\mclaren_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="52" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="Suits\97_Mclaren_body.dds" />
+		<TEXTURE NAME="ARMS_DIFF" PATH="Suits\97_Mclaren_arms.dds" />
+		<TEXTURE NAME="GLOVES_DIFF" PATH="Suits\97_Mclaren_gloves.dds" />
+		<TEXTURE NAME="LEGS_DIFF" PATH="Suits\97_Mclaren_legs.dds" />
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="Suits\black_safety_harness.dds" />
+	</OUTFIT_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="53" NAME="Mastercard 24" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="overrides\preview53.dds" />
+    <TEXTURE NAME="BODY" PATH="overrides\body53.dds" />
+    </LIVERY_OVERRIDE> -->
+	<HELMET_OVERRIDE LIVERY="53" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Helmets\sospiri.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="Helmets\helmet_spec.dds" />
+		<TEXTURE NAME="VISOR_DIFF" PATH="Helmets\sospiri_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="53" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="Suits\97_Lola_body.dds" />
+		<TEXTURE NAME="ARMS_DIFF" PATH="Suits\97_Lola_arms.dds" />
+		<TEXTURE NAME="GLOVES_DIFF" PATH="Suits\97_Lola_gloves.dds" />
+		<TEXTURE NAME="LEGS_DIFF" PATH="Suits\97_Lola_legs.dds" />
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="Suits\blue_safety_harness.dds" />
+	</OUTFIT_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="54" NAME="Mastercard 25" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="overrides\preview54.dds" />
+    <TEXTURE NAME="BODY" PATH="overrides\body54.dds" />
+    </LIVERY_OVERRIDE> -->
+	<HELMET_OVERRIDE LIVERY="54" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="Helmets\rosset.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="Helmets\helmet_spec.dds" />
+		<TEXTURE NAME="VISOR_DIFF" PATH="Helmets\rosset_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="54" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="Suits\97_Lola_body.dds" />
+		<TEXTURE NAME="ARMS_DIFF" PATH="Suits\97_Lola_arms.dds" />
+		<TEXTURE NAME="GLOVES_DIFF" PATH="Suits\97_Lola_gloves.dds" />
+		<TEXTURE NAME="LEGS_DIFF" PATH="Suits\97_Lola_legs.dds" />
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="Suits\blue_safety_harness.dds" />
+	</OUTFIT_OVERRIDE>
+
+</USER_OVERRIDES>

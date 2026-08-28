@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+
+	<LIVERY_OVERRIDE LIVERY="51" NAME="McLaren-Honda - A. Prost #11" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1988\preview11.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1988\McLaren11.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="51" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1988\Helmets\88_Prost_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1988\Helmets\88_helmet_spec.dds" />
+    	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1988\Helmets\88_Prost_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="51" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1988\Suits\mclaren1_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1988\Suits\mclaren_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1988\Suits\mclaren_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1988\Suits\mclaren_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1988\Suits\boss_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="52" NAME="McLaren-Honda - A. Senna #12" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_Season_1988\preview12.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_Season_1988\McLaren12.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="52" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1988\Helmets\88_Senna_helmet.dds" />
+	<TEXTURE NAME="BODY_SPEC" PATH="F1_Season_1988\Helmets\88_helmet_spec.dds" />
+    	<TEXTURE NAME="VISOR_DIFF" PATH="F1_Season_1988\Helmets\88_Senna_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="52" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1988\Suits\mclaren2_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1988\Suits\mclaren_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1988\Suits\mclaren_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1988\Suits\mclaren_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="F1_Season_1988\Suits\boss_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+</USER_OVERRIDES>

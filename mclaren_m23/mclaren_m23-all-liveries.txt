@@ -1,0 +1,79 @@
+ <?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+ 
+    <LIVERY_OVERRIDE LIVERY=" ## " NAME="Marlboro Team Texaco - E. Fittipaldi #5" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_1974\preview5.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_1974\body5.dds" />
+    </LIVERY_OVERRIDE>
+    <HELMET_OVERRIDE LIVERY=" ## " BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_1974\74_Fittipaldi_Helmet.dds" />
+        <TEXTURE NAME="BODY_SPEC" PATH="F1_1974\Common\74_helmet_spec.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="F1_1974\74_Fittipaldi_visor.dds" />
+        <TEXTURE NAME="VISOR_SPEC" PATH="F1_1974\74_Fittipaldi_visor_spec.dds" />
+    </HELMET_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY=" ## " NAME="Marlboro Team Texaco - D. Hulme #6" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_1974\preview6.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_1974\body6.dds" />
+    </LIVERY_OVERRIDE>
+    <HELMET_OVERRIDE LIVERY=" ## " BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_1974\74_Hulme_Helmet.dds" />
+        <TEXTURE NAME="BODY_SPEC" PATH="F1_1974\Common\74_helmet_spec.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="F1_1974\Common\74_visor.dds" />
+        <TEXTURE NAME="VISOR_SPEC" PATH="F1_1974\Common\74_visor_spec.dds" />
+    </HELMET_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY=" ## " NAME="Scuderia Scribante - D. Charlton #23" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_1974\preview23.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_1974\body23.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY=" ## " NAME="Yardley Mclaren - M. Hailwood #33" BASELIVERY="Default">      
+        <PREVIEWIMAGE PATH="F1_1974\preview33.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_1974\body33.dds" />
+    </LIVERY_OVERRIDE>
+    <HELMET_OVERRIDE LIVERY=" ## " BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_1974\74_Hailwood_Helmet.dds" />
+        <TEXTURE NAME="BODY_SPEC" PATH="F1_1974\Common\74_helmet_spec.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="F1_1974\Common\74_visor.dds" />
+        <TEXTURE NAME="VISOR_SPEC" PATH="F1_1974\Common\74_visor_spec.dds" />
+    </HELMET_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY=" ## " NAME="Yardley Mclaren - D. Hobbs #33" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_1974\preview33-hobbs.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_1974\body33-hobbs.dds" />
+    </LIVERY_OVERRIDE>
+    <HELMET_OVERRIDE LIVERY=" ## " BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_1974\74_Hobbs_Helmet.dds" />
+        <TEXTURE NAME="BODY_SPEC" PATH="F1_1974\Common\74_helmet_spec.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="F1_1974\Common\74_visor.dds" />
+        <TEXTURE NAME="VISOR_SPEC" PATH="F1_1974\Common\74_visor_spec.dds" />
+    </HELMET_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY=" ## " NAME="Yardley Mclaren - J. Mass #33" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_1974\preview33-mass.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_1974\body33-mass.dds" />
+    </LIVERY_OVERRIDE>
+    <HELMET_OVERRIDE LIVERY=" ## " BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_1974\74_Mass_helmet.dds" />
+        <TEXTURE NAME="BODY_SPEC" PATH="F1_1974\Common\74_helmet_spec.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="F1_1974\Common\74_visor.dds" />
+        <TEXTURE NAME="VISOR_SPEC" PATH="F1_1974\Common\74_visor_spec.dds" />
+    </HELMET_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY=" ## " NAME="Marlboro Team Texaco - D. Hulme #56" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="F1_1974\preview56.dds" />
+        <TEXTURE NAME="BODY" PATH="F1_1974\body56.dds" />
+    </LIVERY_OVERRIDE>
+    <HELMET_OVERRIDE LIVERY=" ## " BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="F1_1974\74_Hulme_Helmet.dds" />
+        <TEXTURE NAME="BODY_SPEC" PATH="F1_1974\Common\74_helmet_spec.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="F1_1974\Common\74_visor.dds" />
+        <TEXTURE NAME="VISOR_SPEC" PATH="F1_1974\Common\74_visor_spec.dds" />
+    </HELMET_OVERRIDE>
+
+</USER_OVERRIDES>
+
+
+
+
