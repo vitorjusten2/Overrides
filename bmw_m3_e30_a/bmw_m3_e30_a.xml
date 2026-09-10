@@ -190,23 +190,37 @@ AVAILABLE BASE LIVERIES
 
                 SEATBELTS_SPEC  - specular map
                                 - 2048 x 2048
-                                - DXT5 with MIPs
-										
+                                - DXT5 with MIPs EXAMPLES ================================= -->
 
-    	EXAMPLES
-		================================= --> 
-
-	<HELMET_OVERRIDE LIVERY="51" BASEHELMET="DEFAULT">
+    <HELMET_OVERRIDE LIVERY="51" BASEHELMET="DEFAULT">
         <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1995\Driver\SafetyHelmet.dds" />
     </HELMET_OVERRIDE>
-	
-	<OUTFIT_OVERRIDE LIVERY="51" BASEOUTFIT="DEFAULT">
+
+    <OUTFIT_OVERRIDE LIVERY="51" BASEOUTFIT="DEFAULT">
         <TEXTURE NAME="BODY_DIFF" PATH="F1_Season_1995\Driver\SafetyDriver.dds" />
         <TEXTURE NAME="ARMS_DIFF" PATH="F1_Season_1995\Driver\SafetyArms.dds" />
         <TEXTURE NAME="GLOVES_DIFF" PATH="F1_Season_1995\Driver\SafetyGloves.dds" />
         <TEXTURE NAME="LEGS_DIFF" PATH="F1_Season_1995\Driver\SafetyLegs.dds" />
     </OUTFIT_OVERRIDE>
-	<LIVERY_OVERRIDE LIVERY="51" NAME="1995 F1 Safety Car" BASELIVERY="Chrome">
+    <LIVERY_OVERRIDE LIVERY="51" NAME="1995 F1 Safety Car" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="F1_Season_1995\F1_logo.dds" />
         <TEXTURE NAME="BODY" PATH="F1_Season_1995\SafetyCar.dds" />
+    </LIVERY_OVERRIDE>
+
+    <HELMET_OVERRIDE LIVERY="52" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="..\1FTR\Equipments\Soares\soares-2000s-helmet.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="..\1FTR\Equipments\Soares\soares-2000s-visor.dds" />
+    </HELMET_OVERRIDE>
+
+    <OUTFIT_OVERRIDE LIVERY="52" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="ARMS_DIFF" PATH="..\1FTR\Equipments\Soares\soares-2000s-arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="..\1FTR\Equipments\Soares\soares-2000s-gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="..\1FTR\Equipments\Soares\soares-2000s-legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="..\1FTR\Equipments\Soares\soares-2000s-seatbelt.dds" />
+        <TEXTURE NAME="BODY_DIFF" PATH="..\1FTR\Equipments\Soares\soares-2000s-torso.dds" />
+    </OUTFIT_OVERRIDE>
+    <LIVERY_OVERRIDE LIVERY="52" NAME="Faster Team Racing #22 - Iuri Soares" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="..\1FTR\FTR-IMAGE-22.dds" />
+        <TEXTURE NAME="BODY" PATH="FTR\FTR-BMWDTMC.dds" />
     </LIVERY_OVERRIDE>
 </USER_OVERRIDES>
